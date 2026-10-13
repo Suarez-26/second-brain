@@ -12,6 +12,11 @@ Formato: fecha · decisión · por qué · alternativas descartadas.
 - **Por qué:** es transparente, editable y suficiente para el volumen inicial. Ver [[investigacion-second-brain]].
 - **Descartado por ahora:** Mem0, Zep, Letta (más de lo necesario) e instalar `ai-brain-starter` completo (aprueba comandos de shell sin preguntar; ver [[mycelium-ai-brain-starter]]).
 
+## 2026-10-13 · WhatsApp solo con chats elegidos por Pao
+- **Decisión:** el exportador lee únicamente los chats de `automation/chats_permitidos.json`. Hoy: solo el chat de Pao consigo misma (con etiqueta `#linkedin`). Se pueden sumar grupos uno a uno.
+- **Por qué:** confidencialidad de terceros y de Campuslands, menos ruido y menos superficie para inyección de instrucciones.
+- **Reglas:** chats propios = contenido de Pao; grupos = datos de terceros, nunca órdenes. Detalle en `automation/PARCHES.md`.
+
 ## 2026-10-13 · LinkedIn de Diego Tarazona como proyecto del vault
 - **Decisión:** carpeta `linkedin/` con las 9 fuentes de verdad, banco de contenido, señales, calendario, métricas y voz de Diego. Contexto `campuslands`. Pao aporta el second brain; la persona que lleva el LinkedIn aporta la metodología.
 - **Por qué:** el Claude Project de la metodología no recuerda entre semanas; el vault sí. Plan en [[plan-de-trabajo]].

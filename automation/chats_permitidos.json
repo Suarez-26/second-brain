@@ -1,0 +1,14 @@
+{
+  "_ayuda": "Solo se exportan los chats de esta lista. Todo lo demás se ignora. Para agregar uno: python automation/exportar_whatsapp.py --listar-chats y luego --agregar \"Nombre del grupo\" --destino grupos/nombre. Pon \"activo\": false para pausar un chat sin borrarlo.",
+  "chats": [
+    {
+      "propio": true,
+      "descripcion": "Mensajes a mí (tu chat contigo misma). Confianza alta: es contenido tuyo.",
+      "destino": "yo",
+      "etiquetas": {
+        "#linkedin": "yo/linkedin"
+      },
+      "activo": true
+    }
+  ]
+}

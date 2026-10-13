@@ -13,6 +13,12 @@ La carpeta `whatsapp-mcp/` está en `.gitignore`; este archivo documenta lo que 
 - `/api/send`: devuelve 403 siempre. El envío queda deshabilitado; el cerebro solo lee.
 - Sin cambios en `/api/download` (se necesita para bajar notas de voz).
 
+## Qué ve el cerebro (lista de chats permitidos)
+- El bridge guarda en `store/messages.db` los mensajes de **todos** los chats que recibe (límite de la herramienta).
+- `exportar_whatsapp.py` solo lee los chats de `chats_permitidos.json`. Lo demás **no se lee ni llega al vault**.
+- Comandos: `--listar-chats` (solo nombres), `--agregar "Nombre" --destino grupos/x`, `"activo": false` para pausar.
+- Mejora posible: parchear el bridge para que ni siquiera **guarde** los chats no permitidos.
+
 ## Riesgos que siguen
 - Es una API **no oficial** de WhatsApp: riesgo de restricción o bloqueo de la cuenta.
 - Cualquier programa local puede llamar a `127.0.0.1:8080/api/download`.
