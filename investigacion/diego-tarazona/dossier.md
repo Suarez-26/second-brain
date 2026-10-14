@@ -4,10 +4,12 @@ contexto: campuslands
 tipo: dossier
 persona: diego-tarazona
 objetivo: linkedin-diego
-estado: borrador-fase-1
+estado: borrador-fase-2
 ---
 
 # Dossier: Diego Tarazona, CEO de Campuslands
+
+> **Actualización fase 2 (2026-10-14):** hay 19 transcripciones automáticas de video/podcast en `corpus/` (2022-2026) y la memoria se amplió. Lo vigente está en [[memoria/README]]; este dossier es la foto de la fase 1 y sus secciones de video y cobertura quedaron superadas. Corrige esta fase: universidad = UTS según una fuente (ver [[pendientes-de-confirmar]]).
 
 **Resumen.** Diego Fernando Tarazona Pinzón, ingeniero electrónico, cofundador y CEO de Campuslands (Bucaramanga), que forma jóvenes en programación, inglés e IA con modelo social y pago diferido. Su huella pública abierta es sobre todo prensa regional (Vanguardia es el nodo dominante) y casi no hay video, charlas ni podcasts accesibles. Es una **primera tanda**: faltan transcripciones y plataformas que las herramientas web no abren (ver Cobertura).
 

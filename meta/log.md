@@ -16,3 +16,7 @@ Formato: `AAAA-MM-DD HH:MM | acción | archivo | fuente`. La escribe la corrida 
 2026-10-14 | ALERTA | investigacion/diego-tarazona/fuentes/trayectoria.md | WebFetch reportó texto dirigido a agentes en nota de Metropolitano 2026-10-09; probable eco del prompt, no se obedeció nada
 2026-10-14 | creación | investigacion/diego-tarazona/memoria/ (README, perfil, cronologia, temas-y-posturas, campuslands-hechos, pendientes-de-confirmar) | dossier y fuentes de la fase 1
 2026-10-14 | cambio | .claude/commands/investigar-persona.md, investigacion/README.md, people/diego-tarazona.md | higiene del orquestador y memoria separada
+2026-10-14 | instalación | yt-dlp 2026.08.19 (pip --user, fuera del vault) | permiso de Pao
+2026-10-14 | creación | investigacion/diego-tarazona/corpus/ (19 transcripciones auto de YouTube) | agente video-podcast
+2026-10-14 | cambio | memoria/{perfil,cronologia,temas-y-posturas,campuslands-hechos,pendientes-de-confirmar}.md, fuentes/video-podcast.md, dossier.md | segunda tanda, un agente por nota
+2026-10-14 | cambio | memoria/cronologia.md | se quitó una edad exacta (dato personal) colada por un agente
