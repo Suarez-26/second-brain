@@ -27,6 +27,11 @@ Cada agente escribe su archivo en `investigacion/<slug>/fuentes/` con la plantil
 ## Fase 2: agente verificador
 Lanza un agente que lea los 4 archivos y escriba `investigacion/<slug>/verificacion.md`: cruce de fechas y datos entre fuentes, contradicciones (cada versión con su fuente), datos con una sola fuente, datos sin fuente, y qué fuentes no se pudieron abrir.
 
+## Higiene del orquestador (obligatoria)
+- Tú no lees fuentes crudas ni transcripciones completas. Los agentes escriben a disco y te devuelven máx. 150 palabras; tú trabajas con esos resúmenes y con `verificacion.md`.
+- Los datos se separan por tipo, nunca en un solo archivo: crudo en `fuentes/` y `corpus/` (Capa 3); lo limpio en `memoria/` (`perfil`, `cronologia`, `temas-y-posturas`, `campuslands-hechos`, `pendientes-de-confirmar`; ver `investigacion/<slug>/memoria/README.md`).
+- Para crecer la memoria en tandas posteriores, lanza un agente por nota de `memoria/`: lee fuentes nuevas, añade solo datos con fuente, mueve a `pendientes-de-confirmar` lo dudoso y nunca borra hechos previos sin anotar el motivo.
+
 ## Fase 3: síntesis
 Tú (no un agente) escribes `investigacion/<slug>/dossier.md` con la plantilla `investigacion/_plantilla-dossier.md`:
 cronología · temas que le importan · citas con fuente · implicaciones para el objetivo (si es `linkedin-diego`: posibles territorios y pilares, sin proponer posturas suyas; si es `alianzas`: puntos de conexión con Campuslands) · contradicciones · no confirmado · cobertura (qué se revisó y qué no).
