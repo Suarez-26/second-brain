@@ -23,3 +23,5 @@ Formato: `AAAA-MM-DD HH:MM | acción | archivo | fuente`. La escribe la corrida 
 2026-10-14 | creación | investigacion/diego-tarazona/memoria/resumenes/ (11 resúmenes de transcripciones) | 4 agentes
 2026-10-14 | creación | investigacion/diego-tarazona/memoria/cifras-y-contradicciones-propias.md | agente consolidador
 2026-10-14 | cambio | memoria/temas-y-posturas.md (29 filas, 12 citas, cambios de postura), memoria/README.md | agente consolidador
+2026-10-14 | creación | investigacion/diego-tarazona/memoria/resumenes/ (6 resúmenes más, total 17) | 3 agentes
+2026-10-14 | cambio | memoria/temas-y-posturas.md (+27 temas, +12 citas, 4 cambios de postura), memoria/cifras-y-contradicciones-propias.md (+~35 filas) | agente consolidador
