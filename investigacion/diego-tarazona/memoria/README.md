@@ -16,6 +16,9 @@ Cada nota guarda **un solo tipo de dato**, siempre con fuente y confianza. Es lo
 | [[temas-y-posturas]] | Temas y citas cortas (no es su voz validada) |
 | [[campuslands-hechos]] | Modelo, hitos y cifras de la empresa |
 | [[pendientes-de-confirmar]] | Contradicciones y huecos |
+| [[cifras-y-contradicciones-propias]] | Cifras que Diego da en público y en qué difieren entre piezas |
+| `resumenes/` | Un resumen por transcripción (Capa 3): temas, citas, cifras, contradicciones y errores del subtítulo |
+| `corpus/` | Transcripciones crudas (subtítulo automático; Capa 3). No se releen enteras: se consultan los resúmenes |
 
 ## Dónde va cada cosa nueva
 - Dato verificado de la persona → `perfil`. Hecho fechado → `cronologia`.

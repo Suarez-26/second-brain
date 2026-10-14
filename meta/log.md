@@ -20,3 +20,6 @@ Formato: `AAAA-MM-DD HH:MM | acción | archivo | fuente`. La escribe la corrida 
 2026-10-14 | creación | investigacion/diego-tarazona/corpus/ (19 transcripciones auto de YouTube) | agente video-podcast
 2026-10-14 | cambio | memoria/{perfil,cronologia,temas-y-posturas,campuslands-hechos,pendientes-de-confirmar}.md, fuentes/video-podcast.md, dossier.md | segunda tanda, un agente por nota
 2026-10-14 | cambio | memoria/cronologia.md | se quitó una edad exacta (dato personal) colada por un agente
+2026-10-14 | creación | investigacion/diego-tarazona/memoria/resumenes/ (11 resúmenes de transcripciones) | 4 agentes
+2026-10-14 | creación | investigacion/diego-tarazona/memoria/cifras-y-contradicciones-propias.md | agente consolidador
+2026-10-14 | cambio | memoria/temas-y-posturas.md (29 filas, 12 citas, cambios de postura), memoria/README.md | agente consolidador
