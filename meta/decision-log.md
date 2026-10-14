@@ -1,5 +1,5 @@
 ---
-fecha: 2026-10-13
+fecha: 2026-10-14
 tipo: contexto-operativo
 ---
 
@@ -38,3 +38,26 @@ Formato: fecha · decisión · por qué · alternativas descartadas.
 ## 2026-10-13 · Adoptar ideas de Mycelium sin instalarlo
 - **Decisión:** copiar la arquitectura (capas, cierre de sesión, panel, reglas de honestidad), no el instalador.
 - **Por qué:** control de permisos y revisión previa del código.
+
+## 2026-10-14 · Investigación de personas separada de `linkedin/`
+- **Decisión:** comando `/investigar-persona` y carpeta `investigacion/<persona>/` (fuentes crudas, corpus, memoria, dossier). Lo derivado pasa a `linkedin/` solo si Pao lo aprueba.
+- **Por qué:** la evidencia externa no debe mezclarse con la voz validada de Diego (regla 1 de `linkedin/CLAUDE.md`). Ver [[investigacion/README]].
+- **Alternativas descartadas:** guardar todo dentro de `linkedin/`; un solo archivo por persona.
+
+## 2026-10-14 · Alcance ampliado: perfil completo de Diego, sin entrenar un modelo
+- **Decisión:** Pao pidió información universal (prensa, video, podcasts, conferencias), no solo para LinkedIn. Se construye un corpus consultable con memoria separada por tipo. No se entrena ni afina un modelo con Diego.
+- **Por qué:** un corpus citable sirve al second brain; imitar su voz chocaría con la regla de no inventarla y él no la ha validado.
+- **Pendiente:** el `objetivo` del dossier sigue como `linkedin-diego` (ver [[open-loops]]).
+
+## 2026-10-14 · Instalar `yt-dlp` con pip
+- **Decisión:** Pao autorizó instalarlo (usuario, fuera del vault) para bajar solo subtítulos y metadatos, sin video ni audio.
+- **Por qué:** sin transcripciones, video y podcast quedaban en descripciones. 
+- **Alternativas descartadas:** que Pao pegara los textos a mano.
+
+## 2026-10-14 · Orquestador sin leer fuentes crudas; memoria separada por tipo
+- **Decisión:** los agentes escriben a disco y devuelven resúmenes cortos; un agente por nota de memoria y un consolidador único por nota.
+- **Por qué:** Pao pidió mantener limpio al agente principal y datos separados; un dueño por archivo evita ediciones simultáneas. Ver [[memoria/README]].
+
+## 2026-10-14 · Citas con atribución segura y sin datos personales
+- **Decisión:** citas solo de lo que sin duda dice Diego, marcadas "verificar contra el audio"; se omitieron pasajes familiares y se quitó una edad exacta de la cronología.
+- **Por qué:** subtítulo automático sin turnos de habla; solo información profesional y pública (regla de la sesión).
