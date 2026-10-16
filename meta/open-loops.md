@@ -16,6 +16,8 @@ Formato: `- [ ] pendiente (origen: [[nota]], desde AAAA-MM-DD)`
 - [ ] Pedir a Diego sus enlaces oficiales (LinkedIn, Instagram, YouTube, X) (desde 2026-10-14)
 - [ ] Decidir si el objetivo del dossier pasa de `linkedin-diego` a `perfil-completo` (desde 2026-10-14)
 - [ ] Revisar a mano la alerta del agente sobre la nota de Metropolitano 2026-10-09 (probable falso positivo; desde 2026-10-14)
+- [ ] Que Campuslands valide la base de conocimiento de prospectos: costo y pago, admisión, cohortes, empleabilidad y canal oficial (ver [[prospectos/base-de-conocimiento]], desde 2026-10-16)
+- [ ] Decidir si se instalan las skills de Kapso en una carpeta aparte, fuera del vault (revisadas en solo lectura el 2026-10-16; no instaladas)
 - [ ] Llenar `start-here.md` con una entrevista (desde 2026-10-13)
 - [ ] Conectar Claude Desktop al vault con el MCP de filesystem (ver [[investigacion-second-brain]])
 - [ ] Revisar el código de ai-brain-starter antes de instalar nada (ver [[mycelium-ai-brain-starter]])

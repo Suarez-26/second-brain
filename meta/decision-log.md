@@ -61,3 +61,8 @@ Formato: fecha · decisión · por qué · alternativas descartadas.
 ## 2026-10-14 · Citas con atribución segura y sin datos personales
 - **Decisión:** citas solo de lo que sin duda dice Diego, marcadas "verificar contra el audio"; se omitieron pasajes familiares y se quitó una edad exacta de la cronología.
 - **Por qué:** subtítulo automático sin turnos de habla; solo información profesional y pública (regla de la sesión).
+
+## 2026-10-16 · Respuestas a prospectos asistidas, sin servicios externos
+- **Decisión:** Pao quiere que Claude y el vault respondan a los prospectos de Campuslands sin más procesos. Se creó `prospectos/` con base de conocimiento y el comando `/responder-prospecto`. Claude redacta borradores; Pao revisa y envía.
+- **Por qué:** la regla 7 exige confirmación para acciones salientes, y la base de datos de Diego tiene contradicciones (gratuito vs pago diferido) que un envío automático repetiría a prospectos reales. Ver [[prospectos/README]].
+- **Descartado:** instalar las skills de Kapso (agente con envío automático) en el vault; quedan revisadas pero no instaladas.
