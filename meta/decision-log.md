@@ -66,3 +66,9 @@ Formato: fecha · decisión · por qué · alternativas descartadas.
 - **Decisión:** Pao quiere que Claude y el vault respondan a los prospectos de Campuslands sin más procesos. Se creó `prospectos/` con base de conocimiento y el comando `/responder-prospecto`. Claude redacta borradores; Pao revisa y envía.
 - **Por qué:** la regla 7 exige confirmación para acciones salientes, y la base de datos de Diego tiene contradicciones (gratuito vs pago diferido) que un envío automático repetiría a prospectos reales. Ver [[prospectos/README]].
 - **Descartado:** instalar las skills de Kapso (agente con envío automático) en el vault; quedan revisadas pero no instaladas.
+
+## 2026-10-16 · Integración de fuentes oficiales de LinkedIn e higiene del vault
+- **Decisión:** se integraron los 9 archivos oficiales del proyecto "CEO | LinkedIn Thought Leadership" en `linkedin/`, archivando sus originales intactos en `sources/linkedin/` y eliminando la carpeta duplicada `Linkedln/`. Se blindó `.gitignore` con `*.exe` y temporales. Se formalizó la Capa 2 con notas en `areas/` (`campuslands.md` y `second-brain.md`) y se completó la base de `meta/start-here.md`.
+- **Por qué:** cumplía con la regla 1 de fuentes originales intactas y cerraba los pendientes de pilares y territorios de LinkedIn sin romper la arquitectura en 3 capas.
+- **Alternativas descartadas:** mantener los archivos con sufijo ` (1)` sin archivar o dejar las áreas de vida vacías.
+

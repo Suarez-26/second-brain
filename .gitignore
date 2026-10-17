@@ -2,4 +2,7 @@ ai-brain-starter/
 automation/whatsapp-mcp/
 automation/*/store/
 *.db
+*.exe
+*.tmp
+*.bak
 .env

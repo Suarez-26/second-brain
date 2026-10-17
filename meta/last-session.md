@@ -1,22 +1,24 @@
 ---
-fecha: 2026-10-14
+fecha: 2026-10-16
 tipo: contexto-operativo
 ---
 
-# Última sesión (2026-10-14)
+# Última sesión (2026-10-16)
 
 ## Qué se hizo
-- Se creó el comando `/investigar-persona` y la carpeta `investigacion/` (plantillas, índice), separada de `linkedin/`: [[investigacion/README]].
-- Se investigó la trayectoria pública de Diego Tarazona (CEO de Campuslands) con 4 agentes en paralelo (prensa, video y podcast, trayectoria, empresa) y un verificador: [[dossier]] y [[verificacion]].
-- Se instaló `yt-dlp` (con permiso de Pao) y una segunda tanda, con un agente por nota, dejó 19 transcripciones automáticas en `corpus/` y 19 resúmenes en `memoria/resumenes/`.
-- La memoria de Diego quedó separada por tipo en `investigacion/diego-tarazona/memoria/`: [[memoria/README]], con [[cifras-y-contradicciones-propias]] y [[temas-y-posturas]]. Ficha: [[diego-tarazona]].
-- Todo con commits locales.
+- **Consolidación de fuentes de verdad de LinkedIn:** Se archivaron los 9 archivos oficiales intactos en `sources/linkedin/` y se actualizaron las fuentes en `linkedin/` con frontmatter uniforme, eliminando la carpeta duplicada con error tipográfico `Linkedln/`.
+- **Higiene del repositorio y Git:** Se actualizó `.gitignore` con `*.exe` y temporales, aislando el binario pesado de WhatsApp bridge (`automation/whatsapp-bridge.exe`).
+- **Formalización de la Capa 2 (Áreas):** Se redactaron y enlazaron las notas de área `areas/campuslands.md` y `areas/second-brain.md`.
+- **Completitud de la Capa 1:** Se completó el contexto operativo y reglas en `meta/start-here.md` y se actualizaron las 4 prioridades vigentes en `meta/current-priorities.md`.
+- **Cierre de pendientes:** Se marcaron como cerrados en `meta/open-loops.md` la obtención de los 9 archivos oficiales y la definición de pilares/territorios/reglas de LinkedIn.
+- **Estructura complementaria:** Se documentó `presentaciones/README.md` y se inició el registro diario en `journal/2026-10-16.md`.
 
 ## Quedó a medias
-- Sin resolver: año de fundación, NIT, universidad, premio de El País (75 líderes) y Premios INGENIO 2025. RUES y directorios no se pudieron leer ([[pendientes-de-confirmar]]).
-- Las citas vienen de subtítulos automáticos y no están verificadas contra el audio.
-- El dossier sigue con `objetivo: linkedin-diego` aunque Pao pidió ampliar a perfil completo.
-- No se consultaron LinkedIn, Instagram, Spotify ni X de Diego (no accesibles).
+- Validación oficial con el equipo de Campuslands de la política de admisión y costos en `prospectos/base-de-conocimiento`.
+- Verificación manual externa de RUES, NIT y premios de Diego en `investigacion/diego-tarazona/memoria/pendientes-de-confirmar.md`.
+- Citas de audio pendientes de contraste auditivo directo en `temas-y-posturas.md`.
 
 ## Siguiente paso
-Preguntar a Diego (o a la persona de LinkedIn) por modelo gratuito vs pago diferido, año de origen y su postura sobre la IA, y consultar a mano el RUES y el listado de El País. Ver [[open-loops]].
+- Validar las condiciones de admisión de prospectos con el equipo.
+- Iniciar la generación de piezas en `linkedin/banco-de-contenido/` basadas en los pilares editoriales oficiales ahora integrados.
+- Mantener la bitácora con `/journal` y revisiones con `/weekly`.
