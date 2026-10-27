@@ -86,3 +86,11 @@ La revista institucional oficial documenta con nombre propio las historias de tr
 - **2022-11-05 (Caracol Radio):** Diego Fernando Tarazona, ingeniero electrónico y cofundador, lidera la creación de un campus 5.0 en la Zona Franca de Servicios de Santander enfocado en formar programadores en habilidades blandas y duras, buscando construir un nuevo estrato social digital para la población vulnerable.
 
 - **2025-10-30 (Portafolio):** Campuslands, la fábrica de talento tecnológico más grande de Colombia, inauguró su nueva sede en Campus Tec (Zona 4 de Ciudad de Guatemala) el pasado 29 de octubre de 2025. La primera cohorte iniciará su entrenamiento en noviembre de 2025 para impulsar competencias digitales y conectar el talento local con la demanda global.
+
+- **2025-10-31 (Vanguardia):** Campuslands inauguró su primer campus internacional en Guatemala el 29 de octubre de 2025. El modelo educativo intensivo de 10 meses incluye programación, inglés, inteligencia artificial y habilidades blandas, buscando expandirse posteriormente a México y Perú.
+
+- **2023-02-05 (Vanguardia):** Campus Programmers Land inauguró su sede principal en la Zona Franca Santander el 26 de enero de 2023, consolidándose como pionero en formación e inserción laboral para desarrolladores de software. Fundado por Diego Fernando Tarazona y Andrés Lizarazo, el proyecto capacita de forma gratuita a jóvenes de estratos 1, 2 y 3 en programación, habilidades blandas e inglés.
+
+- **2022-11-06 (Caracol Radio):** Diego Fernando Tarazona, ingeniero electrónico y emprendedor, impulsa la creación de un campus virtual 5.0 en la Zona Franca de Santander para formar programadores en habilidades duras (programación, inglés) y blandas (liderazgo). El proyecto busca construir un nuevo estrato social digital enfocado en la población vulnerable.
+
+- **2025-10-30 (Portafolio):** Campuslands, la fábrica de talento tecnológico más grande de Colombia, inauguró oficialmente su nueva sede en Campus Tec, Zona 4 de Ciudad de Guatemala, el pasado 29 de octubre de 2025. Su primera cohorte iniciará entrenamientos en noviembre de 2025 para impulsar competencias digitales y la empleabilidad local.
