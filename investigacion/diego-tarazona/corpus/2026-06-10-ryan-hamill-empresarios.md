@@ -91,3 +91,10 @@ Uso privado: material fuente, no se republica. Ver [[fuentes/video-podcast]] y [
 **[35:00]** semilla en su hogar, en su barrio, donde le van a demostrar que este es el camino de salir de pobres. Total, totalmente. Diego Tarazona, muchísimas gracias por el tiempo y el espacio acá en Campuslands. Eh, vamos a dejar también acá las redes sociales para que sigan. Eh, y si eres un joven y sientes que esto es algo que te suena, se pueden poner en contacto directamente con el equipo de campus, ahí a través de Instagram eh o incluso las líneas de WhatsApp. Y ese tema muy interesante de que habla Diego es como empresarios pensemos en la visión, pensemos en inyectar talento, economía, porque es que así es que que crecen las economías locales, ¿no? Si si los jóvenes se forman eh y salen al al digamos al mercado laboral y traen esos ingresos y generan esa riqueza, porque eso es lo que hacemos nosotros los empresarios, generamos riqueza e todo el mundo gana
 
 **[36:00]** incluso a nivel nacional. Entonces, Diego, muchísimas gracias por el tiempo y el espacio y acá un saludo desde Campuslands en Bucaramanga. Muchas gracias. M.
+
+---
+## 🔗 Conexiones del Segundo Cerebro
+- **Persona:** [[people/diego-tarazona|Diego Tarazona]]
+- **Entidad:** [[areas/campuslands|Campuslands]]
+- **Dossier de Investigación:** [[investigacion/diego-tarazona/dossier|Dossier Diego Tarazona]]
+- **MOC Integral:** [[diego_investigacion/README|MOC Diego Tarazona]]

@@ -1,0 +1,106 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  }, {
+    "mhModeHint": 2,
+    "juJustifCode": 0,
+    "sdScrollDir": 3
+  } ],
+  "wpWinPositions": [ {
+  
+  }, {
+    "apPoint": 6,
+    "ahHorPos": 20,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  } ],
+  "events": [ {
+    "tStartMs": 0,
+    "id": 1,
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 520,
+    "dDurationMs": 5640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Hola, mi nombre es Juan José Abril,\ntengo 18 años y en este momento estoy",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 4480,
+    "dDurationMs": 6440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "estudiando en Campulán gracias a\nCajasan. Eh, mi historia en el mundo de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 8960,
+    "dDurationMs": 6679,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "la programación es muy sencilla. Desde\nmuy chico me ha gustado el mundo de la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 13440,
+    "dDurationMs": 6839,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tecnología y siempre me ha gustado\naprender cada día más. Eh, cuando",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 18400,
+    "dDurationMs": 7440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "terminé de estudiar, yo dije, \"Quiero\nestudiar algo más.\" Y me encontré con",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 23240,
+    "dDurationMs": 7279,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Campuslans. En Campuslan nos enseñan\ntres cosas muy básicas. En la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 27800,
+    "dDurationMs": 6840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "programación, ¿qué es? que enseñan\nnormalmente el inglés, que es el idioma",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 32480,
+    "dDurationMs": 7360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "del mundo, y la clase del ser, que nos\nenseñan habilidades blandas y sociales",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 36920,
+    "dDurationMs": 6959,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "para nuestra vida y nuestra vida\nlaboral. Muchísimas gracias. M.",
+      "acAsrConf": 0
+    } ]
+  } ]
+}

@@ -1,0 +1,170 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  }, {
+    "mhModeHint": 2,
+    "juJustifCode": 0,
+    "sdScrollDir": 3
+  } ],
+  "wpWinPositions": [ {
+  
+  }, {
+    "apPoint": 6,
+    "ahHorPos": 20,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  } ],
+  "events": [ {
+    "tStartMs": 0,
+    "id": 1,
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1439,
+    "dDurationMs": 7160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Eh, bueno, me presento. Mi nombre es\nÁngel David Pinzón. Actualmente tengo 16",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 6040,
+    "dDurationMs": 6120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "años y vengo de un pueblo de Santander\nllamado Zapatoca. Actualmente vio en",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 10759,
+    "dDurationMs": 8721,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Girón debido\na a la ubicación de Campusland y desde",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 16359,
+    "dDurationMs": 7721,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pequeño siempre me he sido una persona\neh muy curiosa que siempre he tenido una",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 21519,
+    "dDurationMs": 6760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pasión por la tecnología y de cómo esta\npuede transformar nuestra vida a través",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 26119,
+    "dDurationMs": 5441,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de las herramientas que nos ofrece. Eh,\ntambién me encanta la resolución de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 29640,
+    "dDurationMs": 6520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "problemas y todo lo que está relacionado\ncon el pensamiento lógico y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 34000,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sistemático. Es por ello que ingres que\nhe decidido ingresar a Campus, un eh",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 38920,
+    "dDurationMs": 7000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "centro de formación que responde a todo\nlo que yo quiero y necesito para poder",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 42800,
+    "dDurationMs": 6960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "formarme como desarrollador de software,\ndonde cada día aprendo habilidades que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 48480,
+    "dDurationMs": 8239,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "me\nque eh me transforman como futuro",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 52480,
+    "dDurationMs": 9919,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "desarrollador, enfrentando retos que eh\nson muy aplicables al entorno laboral",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 58600,
+    "dDurationMs": 7280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "actual. Eh, para mí la programación va\nmucho más allá de solamente escribir",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 64000,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "líneas de código, ya que nos ayuda a\ncrear herramientas que impactan a las",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 68360,
+    "dDurationMs": 7000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "personas y generan cambi cambios\npositivos. Meta seguir creciendo,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 73040,
+    "dDurationMs": 7960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "aprendiendo los mejores y aportar con mi\ntalento en proyectos innoves. Muchas",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 78000,
+    "dDurationMs": 3000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "gracias. M.",
+      "acAsrConf": 0
+    } ]
+  } ]
+}

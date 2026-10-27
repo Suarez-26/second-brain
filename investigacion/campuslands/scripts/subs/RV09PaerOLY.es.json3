@@ -1,0 +1,5238 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  }, {
+    "mhModeHint": 2,
+    "juJustifCode": 0,
+    "sdScrollDir": 3
+  } ],
+  "wpWinPositions": [ {
+  
+  }, {
+    "apPoint": 6,
+    "ahHorPos": 20,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  } ],
+  "events": [ {
+    "tStartMs": 0,
+    "id": 1,
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 5000,
+    "dDurationMs": 6200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Y por supuesto, hoy es miércoles de\nEmprendetroy. Está con nosotros el",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 9120,
+    "dDurationMs": 5320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "profesor Gustavo Pachón, el profe\nPachón. Profe, muy buenos días.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 12719,
+    "dDurationMs": 5841,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Buenos días, Angelo. ¿Cómo me le ha ido?\nMuy buenos días a toda la teleaudiencia",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 16199,
+    "dDurationMs": 5920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "del Canal Tro del Café de la mañana. Muy\nbuenos días a todos los emprendedores y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 20199,
+    "dDurationMs": 5601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "gracias nuevamente por su invitación.\nLo vi ahí muy sonriente, muy feliz y muy",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 23880,
+    "dDurationMs": 6960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "orgulloso de todos estos muchachones que\nhicieron presencia allá en la feria. La",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 28240,
+    "dDurationMs": 7920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "verdad fue un éxito [música] esta feria,\n100 emprendedores de diferentes eh",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 34079,
+    "dDurationMs": 6201,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "líneas de mercado con diferentes\npropuestas, todos muy disciplinados",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 38680,
+    "dDurationMs": 5879,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tuvieron en cuenta porque hubo un\nproceso de selección, hubo un proceso",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 42879,
+    "dDurationMs": 5000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "como de acompañamiento, tuvieron en\ncuenta todos los procesos y estuvieron",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 45850,
+    "dDurationMs": 5750,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "[música]"
+    }, {
+      "utf8": " muy muy preparados. es nuestra\nquinta feria en las unidades",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 49079,
+    "dDurationMs": 6241,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tecnológicas de Santander y esta quinta\nferia ha presentado tanto para los",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 53800,
+    "dDurationMs": 5880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "emprendedores como para nosotros los\nmejores resultados posibles, muy buenos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 57480,
+    "dDurationMs": 7200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "niveles de ventas, niveles de ventas muy\nbuenos para los eh emprendedores y para",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 62199,
+    "dDurationMs": 5761,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "nosotros mucha satisfacción porque cada\nvez vemos emprendimientos más",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 66000,
+    "dDurationMs": 6920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "consolidados, mucho más sólidos, unas\npropuestas de valor eh más que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 70920,
+    "dDurationMs": 5600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "transmiten mucho más y que entregan más\na su cliente. Mira, y debido también al",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 75200,
+    "dDurationMs": 5080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "auge de tanto emprendimientos,\nobviamente en la ciudad y en la región,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 78360,
+    "dDurationMs": 5480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pues surgen estas ferias desde\ndiferentes iniciativas. Pero, ¿qué es",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 82280,
+    "dDurationMs": 4080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "una feria de emprendimiento?\nBueno, básicamente una feria de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 84880,
+    "dDurationMs": 5840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "emprendimiento es un lugar físico\nvirtual donde emprendedores o",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 88520,
+    "dDurationMs": 6959,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "empresarios que están iniciando en algún\nproceso o con algún proyecto pueden",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 93200,
+    "dDurationMs": 7959,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ofertar sus productos. Allí encuentran\nclientes, encuentran hay inversionistas,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 99079,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "encuentran pares que están también\nvendiendo y allí interactúan. Es un",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 103439,
+    "dDurationMs": 6601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "proceso muy positivo porque no solo se\ntrata de vender, sino además de vender,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 108119,
+    "dDurationMs": 5680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "conocer qué es lo que está sucediendo en\nel mercado. Es tan importante que en",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 112000,
+    "dDurationMs": 6200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "este momento Angelo y queridos\ntelevidentes, Fenalco ya se encuentra",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 115320,
+    "dDurationMs": 7200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "calculando cuáles son las ventas totales\nmás o menos en todas las ferias de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 120280,
+    "dDurationMs": 6280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "emprendimiento a nivel nacional. Todavía\nno tienen el cálculo exacto, pero",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 124360,
+    "dDurationMs": 5640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "créanme que es muchísimo dinero el que\nse está vendiendo, Angelo, [música] y es",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 128399,
+    "dDurationMs": 6601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mucho dinero el que está rotando en\nestas ferias de emprendimiento. Tanto",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 132040,
+    "dDurationMs": 6440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "así que ya a veces va la diana de estas\nferias de emprendimiento como a ver,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 136120,
+    "dDurationMs": 5759,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "venga, cuánto se está vendiendo aquí y\nla gente si está facturando o no está",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 140120,
+    "dDurationMs": 5320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "facturando. Está sucediendo este\nfenómeno, pero es importantísimo que los",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 144000,
+    "dDurationMs": 6200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "emprendedores lo tengan en cuenta y lo\nvean como una posibilidad si no tenemos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 147800,
+    "dDurationMs": 6200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "local para mostrar nuestros productos.\nMire, y también obviamente una ventaja",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 152080,
+    "dDurationMs": 5280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "para todas las personas o todos los\nclientes, ¿no?, que encuentran en estas",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 155360,
+    "dDurationMs": 5680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ferias porque al estar organizadas y\ndemás y hay diferentes líneas obviamente",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 159280,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que hay para el hogar, ahí veíamos\njardinería, también veíamos obviamente",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 163599,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "eh accesorios y demás y también los\nprecios para todos es mucho eh más",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 168480,
+    "dDurationMs": 5160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "factible, ¿no?\nSí. No solo eso, sino que la gente, y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 172120,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "esto, ojo, querido emprendedor, que\nasiste a ferias, mucha atención a esto.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 176280,
+    "dDurationMs": 6599,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "La gente no solo va a buscar productos,\nsino va a buscar historias, va a buscar",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 180200,
+    "dDurationMs": 7132,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "inspiración. Si se dieron cuenta, el\nchico de de Chachachá Jugos estaba",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 185239,
+    "dDurationMs": 7000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "contando de dónde nació la idea.\n[resoplido] Esta señorita de Wonder, eh,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 190360,
+    "dDurationMs": 6519,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "eh, la reina Wonder nos contó su\nhistoria de qué manera había crecido o",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 195040,
+    "dDurationMs": 5600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cómo había nacido su emprendimiento, qué\nmateriales tenía. Entonces es muy",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 198640,
+    "dDurationMs": 6080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "importante. Nuestros clientes allí no\nsolo van a buscar productos y el precio",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 202519,
+    "dDurationMs": 5961,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "es interesante lo que acabas de decir,\nsino van a buscar historias, pasar un",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 206440,
+    "dDurationMs": 5879,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tiempo agradable, motivación,\ninspiración, decirle a su hijo, \"Mire",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 210040,
+    "dDurationMs": 4279,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que sí se puede.\" Y entonces eso es bien\nimportante",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 212920,
+    "dDurationMs": 6120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "también. Obviamente hace uno como un\npaneito de cómo está el tema en temas de",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 216879,
+    "dDurationMs": 5601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "creatividad, eh [música] qué productos\nestán innovando, cuáles productos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 220959,
+    "dDurationMs": 4521,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "también son los que a la gente pues le\nllama más la atención en estas ferias y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 224439,
+    "dDurationMs": 4281,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "eso también, obviamente es una\ninvitación a que todos ustedes ahí desde",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 226879,
+    "dDurationMs": 5560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "casa cuando encuentren esta información\nacerca de las ferias de emprendimientos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 230200,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y demás, pues aceptar la invitación e ir\nen parchecito, obviamente y consumirle y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 234439,
+    "dDurationMs": 5681,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "comprarle a los emprendedores de la\nregión, porque eso también, obviamente,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 238159,
+    "dDurationMs": 8761,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "es una tarea que contribuye a que la\neconomía mejore. Pero, ¿qué hacen o qué",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 243799,
+    "dDurationMs": 7520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "debe hacer un emprendedor antes de la\nferia? ¿Cómo se prepara para afrontar",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 249439,
+    "dDurationMs": 5481,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "obviamente esta responsabilidad? Ya\nen ferias es muy importante tener un",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 253120,
+    "dDurationMs": 5160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "concepto que está por ahí en el mercado,\nen un producto, el famoso concepto",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 257199,
+    "dDurationMs": 4641,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "andude,\nqué hacer antes,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 259639,
+    "dDurationMs": 6361,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "qué hacer durante y qué hacer después de\nla feria. Y es muy importante porque es",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 264160,
+    "dDurationMs": 6039,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que, queridos emprendedores, no es solo\nuna feria, son muchas ferias en las",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 267919,
+    "dDurationMs": 5481,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cuales podemos participar y que ustedes\npodrían tener un circuito bien",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 271639,
+    "dDurationMs": 6120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "interesante. Y ya les voy contando la\nhistoria. Por ahora hablemos qué podría",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 275320,
+    "dDurationMs": 7400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "suceder antes. Primero, mi querido\nAngelo, definir el objetivo al por el",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 280280,
+    "dDurationMs": 6960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cual usted se presenta esa feria. Para\neste caso, solo voy a citar un caso. Le",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 285440,
+    "dDurationMs": 6520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "dijimos a uno de nuestros emprendedores\nde café, mira, hay una feria, puedes",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 289800,
+    "dDurationMs": 5239,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "participar. Y él dijo, \"Mire, profe,\nrealmente le agradezco mucho la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 293320,
+    "dDurationMs": 5480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "oportunidad, pero en este momento tengo\notros objetivos, que es más [música]",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 296199,
+    "dDurationMs": 6121,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "bien presencia de marca en unos mercados\na los cuales les estoy apuntando. Tú lo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 300919,
+    "dDurationMs": 5081,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "conoces, el man del bar.\"\nAh, okay. Lo aquí lo amamos.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 304080,
+    "dDurationMs": 7000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Sí, exactamente. Y entonces el man del\nbar dijo, \"Profe, en este momento la",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 308280,
+    "dDurationMs": 6280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "feria no me no aporta al desarrollo, a\nlos objetivos que tengo.\" Muy bien.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 313199,
+    "dDurationMs": 5560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Sebastián la tiene clara.\nExactamente. Y hay muchas personas que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 316880,
+    "dDurationMs": 6159,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "deben decir, \"¿Qué voy a vender? Quiero\nque me conozcan. Quiero rotar unos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 320919,
+    "dDurationMs": 5921,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "productos que hace rato no rotan, quiero\nvender la nueva colección, quiero",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 325319,
+    "dDurationMs": 5880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "solucionar un problema de dinero que\ntengo, que lo puede ser. Y basado en ese",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 329080,
+    "dDurationMs": 5880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "objetivo, vas a definir la estrategia.\nSi quiero rotar un producto que hace",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 332919,
+    "dDurationMs": 6801,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "rato no rota o que lo tengo ahí guardado\nen bodega, una feria de emprendimiento",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 337319,
+    "dDurationMs": 6961,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "podría ser, tengo inventario. Llévate\nese inventario, arréglo. Muy bien, crea",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 342319,
+    "dDurationMs": 6561,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "una historia alrededor de ese inventario\ny esa es la estrategia. Y terminada la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 346759,
+    "dDurationMs": 5761,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "feria, te aseguro, querido emprendedor,\nque habrás rotado ese inventario que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 350400,
+    "dDurationMs": 6079,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tenías ahí. Y tú dirás al final de la\nferia, \"Uy, el profe Pachón tenía razón",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 354479,
+    "dDurationMs": 6361,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y Angelo también porque salí de eso que\ntenía hace rato guardado.\"",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 357800,
+    "dDurationMs": 6200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Profe, hay hay muchos y obviamente eh\nlas ferias de emprendimiento y demás",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 362160,
+    "dDurationMs": 5240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pues han tomado mucha participación, no\nsolamente en la ciudad lado, pero a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 365840,
+    "dDurationMs": 5520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "veces también hay que detrás de las\norganizaciones y demás. Y yo considero",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 369440,
+    "dDurationMs": 6080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que no siempre lo que estás diciendo, no\nsiempre participar de una feria tiene",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 373199,
+    "dDurationMs": 6321,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que ser con el objetivo de vender. Hay\notra razón también puede ser la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 377039,
+    "dDurationMs": 5361,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "presencia de marca, darse a conocer,\npero ahí está también esa",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 380599,
+    "dDurationMs": 6961,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "responsabilidad de cuando se asume,\nobviamente tener quizás el material o",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 385479,
+    "dDurationMs": 5401,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "los insumos o los productos adecuados\npara impactar en esa primera",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 389199,
+    "dDurationMs": 5720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "presentación.\nMuy bien, ha llegado un tema muy",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 392400,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "importante, Angelo, y de veras que te lo\nagradezco mucho y es que el emprendedor",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 397039,
+    "dDurationMs": 5481,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "comprenda que la feria es una\ncorresponsabilidad.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 400400,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Se dedica solo a esperar que el\norganizador le tenga la mesa, le tenga",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 404520,
+    "dDurationMs": 7119,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "la música, le tenga la instalación\neléctrica. Pero ni siquiera preguntan",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 409280,
+    "dDurationMs": 6039,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "antes de iniciar, \"¿Hay mesa? ¿Hay\ntodo?\" No, simplemente a qué horas hay",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 413479,
+    "dDurationMs": 5361,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que estar allá. Entonces uno le dice,\n\"Sobre las 8 de la mañana llegan a las",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 417240,
+    "dDurationMs": 5160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "9.\"\nY cuando llegan a las 9 llegan a pelear,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 420520,
+    "dDurationMs": 6440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pero cómo así que no me tienen mesa. Su\nmerceno preguntó. Nosotros dijimos que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 424319,
+    "dDurationMs": 5121,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sin mesa enviamos un correo electrónico.\nNo se revisó.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 427800,
+    "dDurationMs": 4480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "No revisaron el correo electrónico.\nEntonces acabas de decir algo",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 430400,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "fundamental y eso está dentro de la\netapa de antes. Investiga el evento,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 434720,
+    "dDurationMs": 6840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pregunta todo lo que tienes que\npreguntar. Es decir, me tienen mesa, hay",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 439360,
+    "dDurationMs": 6959,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "punto de instalación eléctrica. ¿Qué\nvoltaje es el punto de instalación",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 444080,
+    "dDurationMs": 6799,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "eléctrica? conexión Wi-Fi, porque\nresulta que nos llegó y y hablo desde",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 448879,
+    "dDurationMs": 6561,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "nuestra propia experiencia, 5 años\nhaciendo feria de emprendimiento.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 452639,
+    "dDurationMs": 6120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Nosotros teníamos corriente a 110 V en\nla feria de emprendimiento, todos los",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 456960,
+    "dDurationMs": 4880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "locales muy bien instalados, con\ncorriente, muy bien cableados, pero",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 460599,
+    "dDurationMs": 5361,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "resulta que llegó una señora con una\nmáquina 220. Ah, pero cómo es posible",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 464520,
+    "dDurationMs": 5239,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que no avisaron, \"Señora, usted no nos\ndijo tampoco y nosotros dentro del",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 468280,
+    "dDurationMs": 5720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "correo electrónico dijimos que teníamos\ncorriente 110. La señora no pudo vender",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 472199,
+    "dDurationMs": 3881,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "esos frapés ese día.\"\nEntonces es una corresponsabilidad y por",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 475840,
+    "dDurationMs": 3400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "eso\ntamb una responsabilidad obviamente",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 477440,
+    "dDurationMs": 5520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "también de estar en contacto con la\norganización y demás pues para que mi",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 480800,
+    "dDurationMs": 5519,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "producto tenga los beneficios pero no\nsolamente porque hay participar todo se",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 484479,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "me va a entregar obviamente ahí no pues\ntambién tengo que dar un valor agregado,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 488319,
+    "dDurationMs": 5921,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "quizás decorar, quizás eh llegar más\ntemprano, a organizar, que mi punto sea",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 492400,
+    "dDurationMs": 3759,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "el más visible, bueno, en fin, ya es una\nresponsabilidad y amor por lo que uno",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 495440,
+    "dDurationMs": 4680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "está haciendo.\nY ahí tocas el tercer punto de qué hacer",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 498560,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "antes, preparar los materiales\nnecesarios. ¿Qué necesitamos nosotros",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 502240,
+    "dDurationMs": 7160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "para esa feria? Primero, revisar muy\nbien cuáles son las condiciones de la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 506319,
+    "dDurationMs": 6001,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "feria y esto quizás podrá sonar cruel,\npero muchas de estas ferias son gratis,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 510840,
+    "dDurationMs": 4720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "como por ejemplo, nuestros 100\nemprendedores en las unidades",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 513399,
+    "dDurationMs": 6721,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tecnológicas de Santander participaron\ncompletamente gratis, Angelo, de tal",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 517640,
+    "dDurationMs": 6040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "suerte que si algo es gratis,\nprobablemente es porque yo tengo que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 521919,
+    "dDurationMs": 5761,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "aportar algo también.\nEntonces, averigüen muy bien qué debo y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 525839,
+    "dDurationMs": 6881,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "preparen todo. Nosotros les exigimos a\nnuestros emprendedores un pendón, por",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 530200,
+    "dDurationMs": 5759,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "favor. QRS con redes sociales, por\nfavor, que la exhibición esté lista",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 534399,
+    "dDurationMs": 5921,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "antes de las 8 de la mañana, es decir,\ndeben llegar a las 7 de la mañana a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 537560,
+    "dDurationMs": 6279,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "preparar todo. Y entonces esa es la\npreparación.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 542040,
+    "dDurationMs": 7000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sencillo. Emprendedores que llegan sin\nsencillo a a vender a una feria de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 546279,
+    "dDurationMs": 7041,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "emprendimiento y justamente la ley de\nMurfía aplica cuando dentro de un plan",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 550800,
+    "dDurationMs": 6279,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "algo puede salir mal, sale mal\ny entonces le van a pagar el primer",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 555000,
+    "dDurationMs": 5399,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pedido con 100,000 pesos y o con un\nbillete de 100,000 o con un billete de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 558399,
+    "dDurationMs": 7201,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "50,000 y se perdió la primer venta\nporque ya el cliente se va insatisfecho",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 563079,
+    "dDurationMs": 6801,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y obviamente con con el recuerdo con el\nsabor agrio de que no tuvo esa venta o",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 567880,
+    "dDurationMs": 8079,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "esa relación amena pues con el\nemprendimiento. los QR para pagos eh con",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 574519,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "plataformas.\nEn este [música] momento, esa data sí la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 578160,
+    "dDurationMs": 5480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tengo. El 45%\nde las ventas en las ferias de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 582040,
+    "dDurationMs": 6760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "emprendimiento se están haciendo por\nplataformas digitales el pago. Entonces",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 587120,
+    "dDurationMs": 5959,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ahí es [música] importante que se tengan\nplataformas digitales para recibir el",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 590560,
+    "dDurationMs": 7480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "dinero y se tengan los QRs. Señor, mire,\nvamos a hacer una pausa para mensaje de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 595240,
+    "dDurationMs": 6800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "texto que llega 8:40 de la mañana. Hoy\nhablamos en emprendetró de estas ferias",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 600560,
+    "dDurationMs": 5320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de emprendimiento. Dice, \"Buenos días,\nAngel, profe Pachón. Me parece que la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 604120,
+    "dDurationMs": 5640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "feria es una excelente oportunidad para\nque los emprendedores den a conocer su",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 607800,
+    "dDurationMs": 6120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "trabajo y puedan hacer contactos que\nimpulsen sus negocios. Me gustaría dar a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 611640,
+    "dDurationMs": 4840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "conocer mi emprendimiento con su ayuda.\n¿Qué debo hacer?\"",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 615839,
+    "dDurationMs": 5481,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Nos escribió.\nContactarle. Perfecto. Primero que me",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 618440,
+    "dDurationMs": 6600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "contacten y segundo para empezar ya ya,\nquerido emprendedor, empezar a seguir en",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 623360,
+    "dDurationMs": 5039,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "redes sociales, pues al profe Pachón,\nempezar a seguir en redes sociales, las",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 627000,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "secretarías de desarrollo de las\nalcaldías, empezar a seguir en redes",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 630640,
+    "dDurationMs": 7480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sociales, la Cámara de Comercio, el\nCanal TR y en esas redes sociales, en",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 636000,
+    "dDurationMs": 7519,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "lugar de estar viendo quizás otro\ncontenido, ahí en esas redes sociales",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 640959,
+    "dDurationMs": 5120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "aparecen que tenemos la siguiente semana\nuna feria de emprendimiento en la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 644560,
+    "dDurationMs": 5079,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "alcaldía de Bucaramanga, en la alcaldía\nde Florida Blanca, a la alcaldía de Pie",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 647519,
+    "dDurationMs": 7201,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de Cuesta y te vas enterando de todo ese\ncircuito y vas preparando un circuito o",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 652639,
+    "dDurationMs": 5481,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "un cronograma de actividades. Mire,\npuedo participar en esta, puedo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 656120,
+    "dDurationMs": 5600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "participar en esta, puedo participar en\nesta. A veces me llegan a Café UTS",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 660279,
+    "dDurationMs": 5721,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "emprendedores, \"Profe, pero es que yo no\nsé, no han hecho ferias, es que cómo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 664320,
+    "dDurationMs": 5440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hace uno para saber las ferias.\" y le\ndigo, \"Venga, siéntese aquí a mi lado.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 667720,
+    "dDurationMs": 7200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Googleamos y nos aparecen de una vez\ntres ferias para el siguiente mes.\" Pero",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 672480,
+    "dDurationMs": 5159,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hay que estar muy bien dateado y seguir\na ese tipo de instituciones.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 676200,
+    "dDurationMs": 5040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Y no solamente para las ferias, también\npara todas las capacitaciones, cuando",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 679560,
+    "dDurationMs": 5079,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "fortalecen todo el sistema también de\ncómo manejar redes sociales. Ahí he",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 683240,
+    "dDurationMs": 4960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "visto también talleres gratuitos por\nparte de las diferentes eh",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 685880,
+    "dDurationMs": 6399,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "administraciones y demás de fotografía,\nhasta de expresión oral, atención al",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 689920,
+    "dDurationMs": 5159,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cliente y demás. Entonces, en todos\nestos, digamos, en todos estos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 693360,
+    "dDurationMs": 5919,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "circuitos, en todos estos eh\necosistemas, de alguna manera, pues",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 697079,
+    "dDurationMs": 4921,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "siempre hay una capacitación que está\nmuy bien y que debemos recibir muy bien,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 700839,
+    "dDurationMs": 5321,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "obviamente, para fortalecer nuestro\nemprendimiento.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 703480,
+    "dDurationMs": 5200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Para eso, justamente, acabas de tocar el\nsiguiente tema, crear el pitch. ¿Y qué",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 708160,
+    "dDurationMs": 4720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "es el pit? El\npitch.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 709560,
+    "dDurationMs": 6719,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Básicamente peach es en español tono.\n¿Cómo le vas a contar a la gente la",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 714519,
+    "dDurationMs": 7841,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "historia de tu emprendimiento? ¿Cómo le\nvas a decir? Esta planta salió de la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 719959,
+    "dDurationMs": 6680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "siguiente idea, es un producto natural\nque tiene las siguientes condiciones.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 724519,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Estas rocas que yo tengo acá son rocas\ntraídas de Y cuento una historia a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 728880,
+    "dDurationMs": 5519,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "través de esto y eso es el peitch porque\nrecuerdas que al inicio de esta sección",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 732959,
+    "dDurationMs": 6761,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "te dije que la gente no solo iba a\ncomprar productos, sino iba también a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 737720,
+    "dDurationMs": 4640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "escuchar historias, a inspirarse y el\npitch es importantísimo.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 740839,
+    "dDurationMs": 4721,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Claro. Y es que funciona, profe, perdón\nque te interrumpe. que quizás uno tenga",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 744240,
+    "dDurationMs": 5880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "un artículo en su casa de un\nemprendimiento que tenga historia y su",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 747320,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mó, oiga, Angelo, tan bonita esa esa\nmatera o esa mata. Pues, profe, si",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 751920,
+    "dDurationMs": 6200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "supiera que eso la vende una muchacha\nque es mamá de gemelos, la china entró",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 756079,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "en crisis, pero se creó la idea de\npintar las materas a mano junto con los",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 760240,
+    "dDurationMs": 4760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "chinitos y las venden. Ahí hay una\nhistoria y el otro quizás que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 763320,
+    "dDurationMs": 3160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Pásame el contacto de ella, Angelo, por\nfavor.",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 765839,
+    "dDurationMs": 4601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Así funciona.\nPásame el contacto de ella. Entonces,",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 768199,
+    "dDurationMs": 9481,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ese pitch poderoso hay que crearlo\nporque el cliente de feria no va",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 775040,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "decidido a qué comprar. Importantísimo,\nquerido emprendedor. El cliente de feria",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 779680,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "no llega diciendo con su lista, \"Voy a\ncomprar tres manillas, voy a comprar",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 783959,
+    "dDurationMs": 7521,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cuatro jabones y voy a comprar un pote\nde miel.\" No, el cliente de feria llega",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 788680,
+    "dDurationMs": 7120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a ver qué se antoja durante la feria y\nqué va a comprar. De tal suerte que el P",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 794040,
+    "dDurationMs": 6239,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "se vuelve importante para convencerlos\nen ese momento clave, en ese momento",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 798079,
+    "dDurationMs": 6601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "donde él está decidiendo entre la miel y\nlas pulseras, quizás la mejor historia",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 803120,
+    "dDurationMs": 6399,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "se va a quedar con esa plática del\ncliente, el mejor pitch. Entonces, hay",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 807240,
+    "dDurationMs": 4399,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que preparar ese argumento de venta\npoderosísimo.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 810040,
+    "dDurationMs": 5159,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Ahí está aprender. Y ustedes ya saben\nque siguiendo al profe Pachón, ustedes",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 813440,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "van a sus plataformas digitales y allan\na conocer todo desde cero para que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 817639,
+    "dDurationMs": 5601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ustedes puedan emprender. Pero, ¿qué\ndebemos hacer durante la feria? Ya",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 821600,
+    "dDurationMs": 5000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "asumimos el resto, sabemos que tenemos\nque ir preparados, preguntarle a la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 824720,
+    "dDurationMs": 4600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "organización absolutamente todos los\nrequerimientos que para mi",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 827720,
+    "dDurationMs": 7160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "emprendimiento son necesarios para poder\natender. Y aquí, obviamente, ya tenemos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 831600,
+    "dDurationMs": 8520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "crea un stand atractivo, ofrece valor,\ninteractúa y crea contactos y planifica",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 837800,
+    "dDurationMs": 5880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "actividades. Cuatro cosillas que hay que\ntener muy en cuenta.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 840839,
+    "dDurationMs": 7521,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Perfecto. Importantísimo el stand. En\nferias todas las ventas o la mayoría de",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 846120,
+    "dDurationMs": 6200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "las ventas entran por los ojos. Hay que\ntener un sentido estético sobre ese",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 850639,
+    "dDurationMs": 6241,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "proceso, no solo tener un muy buen\nproducto, sino tener un producto que se",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 853959,
+    "dDurationMs": 5081,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vea muy bien, jugar con los colores. Yo\nlos invito a ver un programa de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 857959,
+    "dDurationMs": 6161,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "televisión o cualquier programa de\ntelevisión. Es más, cuando viene aquí",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 860360,
+    "dDurationMs": 5000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "nuestra nuestra chef, la chef de y eh,\n¿cómo se llama?",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 864839,
+    "dDurationMs": 5281,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Elvis.\nElvis, nuestra chef. Y cuando ella",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 867279,
+    "dDurationMs": 6920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "emplata que cualquier plato que ella\nhace, la forma como lo pone en ese",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 872000,
+    "dDurationMs": 7519,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "plato, ella le aplica principios\nestéticos y una ensalada se convierte en",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 876920,
+    "dDurationMs": 6760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "una magia de colores porque ella supo\ncómo acomodó los colores. Claro. Y se",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 881560,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "come de mucha mejor manera y Elvis la\nvende mucho mejor. Ya.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 885360,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Además, profe, también tener en cuenta\nque en esta era digital el stand más",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 890120,
+    "dDurationMs": 4639,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "colorido, más chévere, más innovador,\npues va a ser donde uno se tome el",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 892680,
+    "dDurationMs": 5880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "selfie, etiquete en redes y se va a\nhacer más visible compartiendo,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 896800,
+    "dDurationMs": 5520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "obviamente un lugar que está bonito para\nfotografiar. Eso es muy importante. Y en",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 901120,
+    "dDurationMs": 3920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "esta ocasión de la Feria de\nemprendimiento de las unidades",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 903240,
+    "dDurationMs": 5680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tecnológicas de Santander nos dimos\ncuenta, ah, pues lo viste en la nota,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 906920,
+    "dDurationMs": 7640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que nuestros emprendedores han avanzado\nmuchísimo. Tuvieras la primera edición,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 911800,
+    "dDurationMs": 7760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "eso eran los objetos tirados ahí sobre\nla mesa y y a ver si se vendían, ¿no?",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 917320,
+    "dDurationMs": 7480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Ahorita la gente se esfuerza, trae\nexhibidores, manos, manos de sintéticas",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 922720,
+    "dDurationMs": 6479,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "para exhibir una pulsera o manos en\nsintético para exhibir anillos que ya es",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 927120,
+    "dDurationMs": 7199,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "diferente. la gente puede ver ese anillo\npuesto en una mano. Entonces, eso es lo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 931800,
+    "dDurationMs": 6800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que se lo que suele hacerse al stand. Y\nluego, pues obviamente dentro de ese",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 936319,
+    "dDurationMs": 5841,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "proceso, pues estás ofertando valor,\nestás ofertando una experiencia, estás",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 940639,
+    "dDurationMs": 5000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "contando una buena historia y estás\nvendiendo un producto de calidad. No te",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 944240,
+    "dDurationMs": 4680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "quedas ahí cerrado solo en haber\ndecorado el stand, sino estás ofendo.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 947600,
+    "dDurationMs": 4719,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Y ahí también, obviamente, hay que\nrecibir la asesoría pertinente de saber",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 950959,
+    "dDurationMs": 5761,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "el tema del precio, porque todos los que\nvamos a las ferias regateamos, los",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 954680,
+    "dDurationMs": 5360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "santanderianos regateamos y pedimos el\ndescuento, la ñapa y demás. Y eso",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 958519,
+    "dDurationMs": 4240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "también debe estar incluido, digamos,\ndentro de la oferta y ellos deben estar",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 961319,
+    "dDurationMs": 4640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "preparados para saber, ajá, le voy a\npedir tanto, pero sé que como ven",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 964440,
+    "dDurationMs": 5360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "santanderiano va a pedir descuento\ny tengo que tener mis límites. Establece",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 968079,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "los límites. Entonces, lo voy a poner a\n20,000 pes y lo voy a dejar en mínimo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 971880,
+    "dDurationMs": 7480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "17. todo lo que se logre vender en ese\nrango de precios juega a mi favor. Y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 977040,
+    "dDurationMs": 6120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "entonces eso es muy importante, eh,\nentender que el cliente ahorita está",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 981519,
+    "dDurationMs": 4601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "valorando muchísimo su dinero, está\ncuidando su dinero. De hecho, por eso",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 984839,
+    "dDurationMs": 5000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "fue a la feria, porque probablemente\ncree que encuentra productos más",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 987360,
+    "dDurationMs": 7000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "económicos allí que en los en los\nlocales tradicionales. Sí, es Yo, por",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 992519,
+    "dDurationMs": 5081,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ejemplo, aplico y mi imaginario da eso y\npor eso me gusta ir porque siempre",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 996279,
+    "dDurationMs": 6401,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "siento que voy a encontrar cosas más\nnovedosas y a mejor precio. Pero vamos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 999519,
+    "dDurationMs": 7440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "con otro mensaje. 8:47\nde la mañana. Por acá nos dicen, \"Creo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1004959,
+    "dDurationMs": 6521,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que este tipo de ferias motiva a muchas\npersonas a emprender y creer en sus",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1009240,
+    "dDurationMs": 5959,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ideas al ver que otros también están\ncreciendo. Excelente iniciativa\", nos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1013079,
+    "dDurationMs": 4721,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "dice Andrés Camilo.\nAndrés Camilo, sí, efectivamente,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1017226,
+    "dDurationMs": 4694,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "[música]"
+    }, {
+      "utf8": "\nmucha gente está motivándose y de hecho",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1019600,
+    "dDurationMs": 6239,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "conozco emprendedores que viven solo de\nlas ferias. [música] Ellos ya tienen el",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1023600,
+    "dDurationMs": 5880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "circuito muy bien organizado. Dicen, \"En\nenero vamos a asistir a esta. En febrero",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1027760,
+    "dDurationMs": 5840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "asistimos a esta, en marzo asistimos a\nesta.\" ¿Y qué hacen entre feria y feria?",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1032120,
+    "dDurationMs": 5079,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "eh crear los productos. Por ejemplo,\ntenemos un emprendedor que que lo vamos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1035039,
+    "dDurationMs": 5241,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a traer aquí, Las Cositas de Malu. Y Las\nCositas de Malu rota por 15 ferias al",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1039480,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "año. Wow.\nY entre feria y feria crea los productos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1043280,
+    "dDurationMs": 5159,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "o fabrica los productos en porcelanicrom\nde la siguiente feria",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1047199,
+    "dDurationMs": 5081,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y de la siguiente hay algunas feridas\nque cobra por participar y eso también",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 1050679,
+    "dDurationMs": 5081,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hay que tenerlo en cuenta.\nJustamente esa asesoría le hicimos a las",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1054120,
+    "dDurationMs": 5600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cositas de [música] Malú y entonces me\ndijo, \"Profe, pero es que no sabemos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1057080,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "porque esta feria vale 500,000 pesos el\nstand.\" Y yo les dije, \"Miro, ¿dónde",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1062160,
+    "dDurationMs": 5639,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "está ubicada?\" Entonces me dijo, \"Está\nubicada en el centro comercial X.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1065320,
+    "dDurationMs": 6239,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Perfecto, allá va rotar otro tipo de\npersonas. Vas a estar durante una",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1069559,
+    "dDurationMs": 7480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "semana. Entonces, ¿qué vamos a hacer,\neh, Malú? Vamos a subirle un poquitico a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1073799,
+    "dDurationMs": 8360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "los precios de venta en esa feria, que\nobviamente los el aumento en el precio",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1080159,
+    "dDurationMs": 6161,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "va a cubrir el costo del stand.\" Y\nentonces hicimos unos cálculos y solo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1084159,
+    "dDurationMs": 6961,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "era un incremento de menos del 5%,\nAngel. eran como 500 pesos por producto,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1089159,
+    "dDurationMs": 6201,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "1,000 pes por producto y cuando nos\ndimos cuenta, ay profe, sí, ahí están",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1092840,
+    "dDurationMs": 6520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "los 500,000 pes, dale, Malú, ve con\ntoda. Y agregó esa feria a su cronograma",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1098360,
+    "dDurationMs": 4319,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de ferias.\nusted. Ahí está. Y ahí van y van",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1101200,
+    "dDurationMs": 4800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "avanzando y van tomando también,\nobviamente, esa experiencia y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1103880,
+    "dDurationMs": 6080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "empoderándose también, obviamente, en la\nparticipación, que también la primera",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1107400,
+    "dDurationMs": 5560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vez puede que no sea como tan ágil,\ndigamos, pero después se va convirtiendo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1111240,
+    "dDurationMs": 6280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "en una habilidad. Y nos vamos con la\nsiguiente precisamente que es",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1115600,
+    "dDurationMs": 6360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "interactuar y crear contactos y\nplanificar eh actividades. Eso",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1119440,
+    "dDurationMs": 5560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "interactuar. No siempre todo el que es\npropietario de la idea o del",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1123320,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "emprendimiento tiene la habilidad de\nsocializar o vender. Hay que también",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1127600,
+    "dDurationMs": 5199,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tener la inteligencia emocional de poder\ndesignar quién sea quien atienda a la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1132159,
+    "dDurationMs": 5801,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "gente.\nEso es muy muy importante y entre otras",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1135280,
+    "dDurationMs": 7160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cosas, no solo para esa posibilidad,\nsino que dentro del proceso de la feria",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1140600,
+    "dDurationMs": 5663,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "muchas veces tú necesitas ir a hablar\ncon otros vendedores, necesitas ir a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1144720,
+    "dDurationMs": 5480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hablar con el gerente de la feria y\n[música] en el punto de venta debe",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1147520,
+    "dDurationMs": 7639,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "quedar alguien siempre. Entonces, la\nrecomendación siempre al asistir en",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1151919,
+    "dDurationMs": 7281,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ferias asistan mínimo dos personas.\nPrimero, la hora de más ventas dentro de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1157640,
+    "dDurationMs": 5240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "una feria. Por ejemplo, en el caso de la\nferia de las unidades tecnológicas de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1160480,
+    "dDurationMs": 6120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Santander, es la hora del almuerzo. ¿Y\nqué pasa si el emprendedor dice, \"No, me",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1164320,
+    "dDurationMs": 6680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "voy a almorzar y cierro mientras tanto.\"\nSe pierde la rotación más alta, que es",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1168600,
+    "dDurationMs": 6199,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "donde hay cambio de clase y llegan los\nestudiantes de la tarde y ahí es donde",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1173039,
+    "dDurationMs": 4481,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "están pasando por la feria y él se tuvo\nque ir, \"Me voy a almorzar, pero aquí",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1176240,
+    "dDurationMs": 5600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "queda alguien.\"\nY entonces queda alguien con habilidades",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1179240,
+    "dDurationMs": 6319,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "comerciales y además esa persona está\nhablando con otras personas que venden",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1183480,
+    "dDurationMs": 7160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "lo mismo, está preguntando dónde hay más\nferias, está haciendo esos contactos y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1188000,
+    "dDurationMs": 8720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "además está encontrando es con\ninversionistas. Y también me di cuenta",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1192679,
+    "dDurationMs": 8240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "en esta feria que además del QR de la\nplataforma de ventas, la gente tenía el",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1199240,
+    "dDurationMs": 6200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "QR de sus redes sociales, nuestros\nemprendedores. Entonces, segundo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1202919,
+    "dDurationMs": 7161,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "objetivo de las de las de las ferias de\nemprendimiento, vendo mis productos, me",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1208080,
+    "dDurationMs": 4599,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "doy a conocer y mis redes sociales\ncrecen",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1211080,
+    "dDurationMs": 3320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "en número de seguidores.\nY entonces de",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 1213320,
+    "dDurationMs": 5960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hay ganancia por todos lado.\nClaro. Por ejemplo, esta chica de la",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 1216600,
+    "dDurationMs": 5520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "reina Wonder decía, \"Bueno, ¿y me vas a\ncomprar algo?\" No, no, no. Ah, entonces",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1220640,
+    "dDurationMs": 6840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "por favor sígueme en redes sociales, si\nno sí, claro, con gusto. Y entonces ahí",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1225400,
+    "dDurationMs": 7680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ella va construyendo otro objetivo\npoderoso. Listo. Y finalizamos con la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1230400,
+    "dDurationMs": 6759,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "siguiente eh plantilla que es cómo o qué\nhacer después de la feria. Allí",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1234799,
+    "dDurationMs": 7961,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "encontramos tres eh recomendaciones\nimportantes. Da seguimiento a los",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1239240,
+    "dDurationMs": 8480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "contactos, analiza los resultados y\nprograma la nueva feria. Pero antes que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1245159,
+    "dDurationMs": 7121,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "el profe nos desarrolle todas ideas,\nmensaje de texto de nuestros",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1249880,
+    "dDurationMs": 8080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "televidentes. 8:51\nde la mañana, profe, por acá nos dicen,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1259600,
+    "dDurationMs": 6760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\"Estos espacios son fundamentales porque\nno solo se trata de vender, sino también",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1264000,
+    "dDurationMs": 6679,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de aprender, compartir experiencias y\nabrir puertas a nuevas alianzas. Gracias",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1268480,
+    "dDurationMs": 6799,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "al profe Farch por estos espacios. Mira,\nya están entendiendo ellos cómo es la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1272799,
+    "dDurationMs": 5240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "dinámica.\" No, no me gusta que no están\ninteractuando con el tema de las ventas,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1276679,
+    "dDurationMs": 5000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sino de las experiencias y darse a\nconocer, que yo creo que ser el la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1279720,
+    "dDurationMs": 4000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vital, digamos, inversión de tiempo y de\ntodo en una primera experiencia en una",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1283200,
+    "dDurationMs": 4120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "feria.\nLo estamos haciendo todo el tiempo y lo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1285760,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "importante es que el emprendedor lo está\ncomprendiendo. Es es fascinante lo que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1290480,
+    "dDurationMs": 5679,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "está sucediendo en en el tejido\nempresarial de Santander gracias a el",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1294679,
+    "dDurationMs": 4961,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "canal Tro, gracias a las unidades\ntecnológicas de Santander, porque cada",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1297960,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vez tenemos emprendedores más preparados\nque lo dejan a un nuevo que abiertos.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1301360,
+    "dDurationMs": 7360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Cada vez nos entregan planes de negocios\nmejor elaborados, cada vez estructuran",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1306200,
+    "dDurationMs": 6719,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mejor su negocio y uno dice, \"Están\nsucediendo cosas maravillosas.\" Es",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1310159,
+    "dDurationMs": 7801,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "decir, tanto habernos esforzado en\ncapacitaciones, procesos, formaciones,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1315880,
+    "dDurationMs": 6520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "están dando como resultado emprendedores\nexpertos que ya están listos para el",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1320240,
+    "dDurationMs": 5600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "siguiente paso y están fortaleciendo sus\nnegocios y cumpliendo con sus objetivos,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1324400,
+    "dDurationMs": 5279,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que es muy muy importante.\nY recuerden siempre estar al pendiente",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1328400,
+    "dDurationMs": 5279,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de las redes sociales para que ustedes\nconozcan las diferentes ferias que se",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1331400,
+    "dDurationMs": 7040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "desarrollan en el área metropolitana, en\nla región y en el país también que hay",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1336360,
+    "dDurationMs": 5400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "absolutamente muchas ofertas para que\nustedes puedan participar. Ahora sí,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1339799,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "desarrollemos qué hacer después de la\nferia, dar seguimiento a los contactos.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1344799,
+    "dDurationMs": 4401,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "¿Cómo funciona esto?\nDe nada sirve, Angelo, haber tomado el",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1347440,
+    "dDurationMs": 5239,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "teléfono de un compañero de la feria,\nhaber hablado de un inversionista, haber",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1350640,
+    "dDurationMs": 5279,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tomado esos teléfonos y luego dejarlos\nallí guardados. No, si hablamos con un",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1354279,
+    "dDurationMs": 6081,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "compañero de la feria que dijo, \"No,\nfíjate que hay una feria en Sangil s",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1357880,
+    "dDurationMs": 7279,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "super importante. Yo tengo el contacto y\nallí vendí casi 20 millones de pesos. Me",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1362720,
+    "dDurationMs": 6959,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "conocí y ahora estoy distribuyendo allá\nmis productos.\" Ent. Ay, listo para yo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1366919,
+    "dDurationMs": 7481,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "te llamo para que me Llámalo.\nSi tienes eso enfocado y tú lo tienes ya",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1372039,
+    "dDurationMs": 5481,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "previsto, llámalo. Encontraste una\npersona que dijo, \"Mira, es que quiero",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1375520,
+    "dDurationMs": 5360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "llevar mis productos a Fusagazugá. Me\ngustaría llevar tus productos. Por",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1378840,
+    "dDurationMs": 5199,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "favor, llámeme y hablemos la semana\nentrante para ver de qué manera puedo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1382520,
+    "dDurationMs": 6840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "llevar los productos a Fosagaso.\nLlámalo.\" Pero no toman datos, toman",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1387039,
+    "dDurationMs": 5561,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "información, toman teléfonos y luego esa\nagenda se queda por allá guardada. No,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1391600,
+    "dDurationMs": 2520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hay que darle seguimiento a los\nproductos. O",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1392760,
+    "dDurationMs": 6159,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pueden hacer alianzas, que también he\nvisto que después unen los productos,",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 1396240,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sacan paquetes, obviamente dan a conocer\nlas dos marcas como en una alianza super",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1401000,
+    "dDurationMs": 4840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "chévere que también funciona.\nHacen un proceso de cobranding que lo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1404039,
+    "dDurationMs": 6081,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hacen los grandes, los grandes\nempresarios del mundo hacen cobbranding.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1408120,
+    "dDurationMs": 6159,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Entonces, Coca-Cola se une con café Juan\nValdés para hacer Coca-Cola de café y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1412480,
+    "dDurationMs": 5280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "los grandes, dos megamarcas se unen\nporque yo no me puedo unir con algo que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1415960,
+    "dDurationMs": 5040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tenga coherencia. Entonces, un\nemprendedor que vende pulseras con un",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1419360,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "emprendedor que vende anillos y montan\nel kit completo.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1423120,
+    "dDurationMs": 7039,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Ahí está. Ahí lo que hay ideas. Vamos\ncon más televidentes que están ahí",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 1426919,
+    "dDurationMs": 8360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "conectados. 8\n54 de la mañana y ahorita un emprendedor",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1432600,
+    "dDurationMs": 7160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que tenga gafas sola. Me encanta que se\npromuevan eventos así, ya que ayudan a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1437960,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "visibilizar el talento local y\nfortalecen la economía regional. Los",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1442320,
+    "dDurationMs": 4520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "caballeros un participativo. Luis\nFelipe.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1444960,
+    "dDurationMs": 6440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Luis Felipe, muchísimas gracias por el\nmensaje y tienes toda la razón, pero",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 1448559,
+    "dDurationMs": 8401,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "aquí va un segundo, un segundo mensaje y\nes que los emprendedores están poniendo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1453520,
+    "dDurationMs": 8399,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de sí a los de todo de sí para ofrecer\nproductos y tener ferias de excelente",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1458760,
+    "dDurationMs": 7880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "calidad, pero necesitamos de ustedes.\nVisítenlos, vayan a esas ferias. Si",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1464640,
+    "dDurationMs": 7000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "están cerca a una feria, entren. Se van\na encontrar con algo maravilloso, te van",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1468799,
+    "dDurationMs": 6760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a sorprender. Ya no es la típica feria\ndonde tú encuentras los mismos productos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1473360,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de siempre. Cada vez hay productos más\ninnovadores, cada vez hay mejor diseño,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1478200,
+    "dDurationMs": 7800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cada vez hay mejores precios. Entonces,\nusted, querido comprador, consumidor,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1483559,
+    "dDurationMs": 7041,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "prefiera esas ferias a los mercados\ntradicionales. Apoyemos la economía",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1488240,
+    "dDurationMs": 7439,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "local, que el dinero circule aquí dentro\nde la ciudad y apoyemos a estos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1492840,
+    "dDurationMs": 6600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "emprendedores que pronto serás tú o\npodrás ser tú y querrás ese apoyo.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1497880,
+    "dDurationMs": 4279,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Sí, señor. Profi, finalicemos con\nprogramar la nueva feria. Yo he",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 1501159,
+    "dDurationMs": 4120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "escuchado, yo tenido la experiencia de\nhablar y dicen, \"No, es que a mí me fue",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1503240,
+    "dDurationMs": 4960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "muy mal. Yo no vuelvo a ferias porque es\nque a m me fue mal.\" No, hay que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1506520,
+    "dDurationMs": 5960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "intentarlo nuevamente, no siempre.\nObviamente la primera vez se obtiene los",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1510120,
+    "dDurationMs": 5559,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "resultados, pero está la experiencia.\n¿Por qué es importante agendarnos y ir",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1514320,
+    "dDurationMs": 5880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "organizándonos para más ferias?\nPrimero porque usted allí va a lograr lo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1518600,
+    "dDurationMs": 5520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que dices, una dinámica cada vez\nmejorando, una dinámica de mejora",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1521880,
+    "dDurationMs": 5720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "continua. Cada vez el siguiente stand te\nva a quedar mejor, la siguiente oferta",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1525640,
+    "dDurationMs": 5840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de valor te va a quedar mejor y vas\naprendiendo. Pero también importante",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1529919,
+    "dDurationMs": 6120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "porque allí puedes cumplir con tus\nobjetivos, crecer en redes sociales,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1534000,
+    "dDurationMs": 7799,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "rotar un producto que probablemente no\nme haya rotado de la de la del en el",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1538159,
+    "dDurationMs": 6120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mercado tradicional y además sí se gana\nplatica",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1542360,
+    "dDurationMs": 6199,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y el poder del vozvoz, ¿no? Es es\npoderoso también que la gente llegue",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 1546640,
+    "dDurationMs": 4960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "conozca y yo vi un emprendimiento. ¿Qué\npasa? Ya no le dicen, \"Es que vi un",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1550159,
+    "dDurationMs": 5281,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "emprendimiento, una chica que hace\nbolsos con las mascotas, pinta mi",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1553799,
+    "dDurationMs": 4161,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mascota.\" Y eso se pasa y se pasa y se\npasa y una compra sale de todo ese voz a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1557480,
+    "dDurationMs": 7600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "voz.\nSí, es importantísimo. Y eh también",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1562080,
+    "dDurationMs": 8479,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tener en cuenta que\ntodo proceso no es o todo emprendimiento",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1568320,
+    "dDurationMs": 6040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "no es valioso por sus resultados, sino\npor el proceso como tal. y las ferias",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1572720,
+    "dDurationMs": 6120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hacen parte de ese proceso. Después de\nahí, probablemente saltes a tu propio",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1576679,
+    "dDurationMs": 5720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "local, pero con ese conocimiento y con\ntodos los valores aprendidos o con todas",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1581039,
+    "dDurationMs": 4321,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "las experiencias aprendidas de una\nferia.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1582919,
+    "dDurationMs": 7000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Pues, profe, muchísimas gracias. Hoy en\nEmprendet hablamos de las ferias de",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 1587840,
+    "dDurationMs": 6199,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "emprendimiento que se viven obviamente\nen nuestra región y ese poder de alcance",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1592200,
+    "dDurationMs": 4719,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "también a todos esos objetivos que\nustedes como emprendedores se han",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1595559,
+    "dDurationMs": 4120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "planteado. Profe, recuérdenos las redes\nsociales.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1597399,
+    "dDurationMs": 6280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Las redes sociales en Instagram\n@elprofepachón me encuentran y también",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 1601919,
+    "dDurationMs": 5721,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "en @extensión\npiso encuentran información sobre",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1605960,
+    "dDurationMs": 4959,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ferias. Toda esta semana estamos\ncargados de actividades en las unidades",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1609200,
+    "dDurationMs": 5120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tecnológicas de Santander. Hoy,\njustamente hoy, hay una feria de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1612640,
+    "dDurationMs": 5759,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "empleabilidad.\nEntonces, si no tienes trabajo, estás",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1616399,
+    "dDurationMs": 5081,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "buscando trabajo, en este momento, hay\nmás de 70 empresas en este momento en la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1620320,
+    "dDurationMs": 5160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "plaza principal de las unidades\ntecnológicas de Santander haciendo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1623159,
+    "dDurationMs": 6481,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "procesos de selección, haciendo procesos\nde reclutamiento. Entonces, por favor,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1628000,
+    "dDurationMs": 6039,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "están a tiempo. Acabo de iniciar la\nferia, están a tiempo de ir a esta feria",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1631559,
+    "dDurationMs": 7161,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de empleabilidad y cerramos esta semana\ncon un mega concierto. El artista",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1636240,
+    "dDurationMs": 5960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "siempre es sorpresa, pero han traído muy\nmuy buenos artistas los últimos años.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1640760,
+    "dDurationMs": 4440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Entonces, el viernes en la noche en la\nplazoleta principal de las unidades",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1643600,
+    "dDurationMs": 5840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tecnológicas de Santander, un muy buen\nconcierto. Muchísimas gracias, Angelo.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1647679,
+    "dDurationMs": 5961,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Muchas gracias a todos los emprendedores\nque han aceptado también esta esta",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1651840,
+    "dDurationMs": 4760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sección y por supuesto el café de la\nmañana y aquí estaremos. Esperamos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1655760,
+    "dDurationMs": 4639,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "continuar con ustedes.\nEso nos encanta. Recuerden que tenemos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1657919,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "una próxima cita, una nueva asesoría\ntodos los miércoles con el profe Pachón",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1662279,
+    "dDurationMs": 7520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y Emprendetrop. Pausa comercial y ya\nregresamos con más en este café de la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1666720,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mañana. 9:3 de la mañana y regresamos a\nnuestra sala luego de esta pausa",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1671200,
+    "dDurationMs": 5160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "supercortica, haber aprendido de la\nferia de emprendimiento, pero ahora esta",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1674399,
+    "dDurationMs": 6961,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vez vamos a seguir aprendiendo, pero\ndesde la parte tecnológica, conociendo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1678440,
+    "dDurationMs": 7320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "un poco más de eso que deberíamos todos\ninteresarnos. Los chicos seguramente ya",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1683640,
+    "dDurationMs": 6200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vienen con ese chip ahí puestito, pero\nquienes ya estamos adultos y empieza",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1687880,
+    "dDurationMs": 6120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "toda la era de la inteligencia\nartificial, a veces nos atropella esa",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1692279,
+    "dDurationMs": 6441,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tecnología. Pero no se preocupen porque\nya hay muchas herramientas y todas a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1696399,
+    "dDurationMs": 7921,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "través de Campus Lands para que también\npodamos estar a la vanguardia. Aquí está",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1700840,
+    "dDurationMs": 3480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "este café con",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1705720,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y hoy está con nosotros Diego Tarazón,\nel CEO de Campus LS. Bienvenido, Diego,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1710679,
+    "dDurationMs": 3561,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "al café de la mañana.\nNo, muchísimas gracias a ustedes por",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1713440,
+    "dDurationMs": 5200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "invitarme.\nY bueno, hoy hablamos de Campus LS y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1716440,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "seguramente muchas muchas de nuestros\ntelevidentes se preguntan, ¿qué es",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1720919,
+    "dDurationMs": 6521,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Campus Land?\nBueno, eh Campus Lance eh de manera",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1725960,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "resumida es una fábrica talento, es una\nfábrica talento ti para un mundo que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1729640,
+    "dDurationMs": 8360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "apenas está iniciando. Es un proyecto\nque nace acá en Santander, nació acá en",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1734640,
+    "dDurationMs": 8800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "en Bucaramanga hace 5 años y hoy tenemos\nla oportunidad de formar jóvenes, que es",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1740559,
+    "dDurationMs": 7521,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "la nueva generación de Colombia, recién\nsalidos de colegio para que vengan a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1745880,
+    "dDurationMs": 5600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "nuestro centro de formación, se forme en\nprogramación, en inteligencia",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1749640,
+    "dDurationMs": 5279,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "artificial, en inglés y en habilidades\nblandas, pero lo más importante no es",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1753399,
+    "dDurationMs": 7081,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que se forme, es que al final del\nproceso todos salen con empleo.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1757000,
+    "dDurationMs": 8399,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Ay, me encanta. Creo que ese es e ese eh\ncerecita del pastel de que salgan ya con",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 1762840,
+    "dDurationMs": 6360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "la posibilidad de tener empleo. Eso ya\nes un 10 de 10. Pero, ¿cómo esce esta",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1767360,
+    "dDurationMs": 4799,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "idea? ¿De dónde le salió usted en la\ncabecita decir, \"Voy a crear un campus",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1770880,
+    "dDurationMs": 3720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de entrenamiento y que los jóvenes pues\ntengan esa posibilidad precisamente de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1773799,
+    "dDurationMs": 4240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "aprender.\"\nBueno, no, primero en un momento",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1776039,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "difícil, en medio de la pandemia, en el\n2020, eh cuando pues apenas estábamos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1780240,
+    "dDurationMs": 5520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "preparando y entendiendo lo que\nestábamos viviendo, eh el mundo también",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1784279,
+    "dDurationMs": 5280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "se empieza a transformar y empieza a\ndemandar un talento, talento digital,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1788399,
+    "dDurationMs": 4921,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "talento con conocimiento en\nprogramación, en inteligencia artificial",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1790919,
+    "dDurationMs": 6600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y en otras habilidades digitales. Y ahí\nvimos la necesidad de formar talento",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1795080,
+    "dDurationMs": 6959,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "para una de nuestras empresas. Y cuando\nle tocamos la puerta a más empresarios",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1799640,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "eh nacionales e internacionales se\nsumaron, quisieron venir a conocer",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1803480,
+    "dDurationMs": 5679,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Bucaramanga y se sumaron y dijeron,\n\"Este es el momento para formar el",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1807679,
+    "dDurationMs": 4360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "talento que el mundo está neitando y qué\nbueno que lo hagamos desde Colombia y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1810919,
+    "dDurationMs": 3640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que lo hagamos desde acá, desde\nSantander.\"",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1812880,
+    "dDurationMs": 5880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Maravilloso. Y mira, tú dijiste ahorita\nuna frase que me caló y que me que",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 1816720,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "quiero que de repente puedas explicarle\nun poco más, que es precisamente una",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1820080,
+    "dDurationMs": 7479,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "fábrica de talento y un cohete social.\nBueno, eh cuando hablamos de una fábrica",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1825919,
+    "dDurationMs": 6201,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de talento ti es porque en estos\nmomentos, digamos, los padres hoy",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1829480,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tenemos un gran reto y es ayudarle a\nnuestros hijos a tomar esa decisión que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1834159,
+    "dDurationMs": 7841,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "nuestros padres nos ayudaron 20 años\natrás, que estudiar y y hoy estamos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1839519,
+    "dDurationMs": 7561,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "frente a a ese gran reto, pero también\nfrente a un momento de transformación",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1843600,
+    "dDurationMs": 8079,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "del mundo y creo que eh esa decisión es\nbien difícil a los 17, 18 años. Algunos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1849679,
+    "dDurationMs": 5720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ya la tienen clara, pero hay muchos que\nno sabemos, o sea, que a esa edad no",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1853200,
+    "dDurationMs": 5920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "teníamos ni idea de qué estudiar.\nExactamente. Entonces, hoy el gran reto",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1857559,
+    "dDurationMs": 5401,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "como padre es guiarlos en esa toma de\ndecisión y hoy pues la guía debe ser",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1861240,
+    "dDurationMs": 5919,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hacia lo que el mundo está necesitando.\nSiempre ha sido así y hoy el mundo en",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1864880,
+    "dDurationMs": 7200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "esa transformación está neitando jóvenes\ntalentosos con 17, 18 años que tienen",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1870159,
+    "dDurationMs": 5480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "conocimientos y que tienen la capacidad\nde aprender muy fácil. Entonces creo que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1874200,
+    "dDurationMs": 4680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cuando hablamos de un cohete social es\nla oportunidad de transformar nuestra",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1876960,
+    "dDurationMs": 4360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vida en corto tiempo. En Capulan lo\nformamos en un solo año. En un solo año.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1880919,
+    "dDurationMs": 5360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Buenísimo.\nEs un solo año de formación. Son 10",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1883480,
+    "dDurationMs": 7640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "meses intensivos de formación. Son 10 a\n11 horas diarias de formación. O sea, no",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1889159,
+    "dDurationMs": 6161,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "es fácil, es más metódico, es más\nexigente, pero lo importante es que el",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1893399,
+    "dDurationMs": 5961,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "premio al final [música] de de estos 10\nmeses es tener un empleo a los 18 años",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1897480,
+    "dDurationMs": 4799,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de edad. Y yo entiendo por qué para los\njóvenes iba a decir, \"Venga, pero para",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1900760,
+    "dDurationMs": 4799,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "los adultos hay la posibilidad.\" Lo que\npasa es que los pelados obviamente a esa",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1903720,
+    "dDurationMs": 4720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "edad no tienen trabajo y tienen esa\nposibilidad de dedicarse exclusivamente",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1907600,
+    "dDurationMs": 6039,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a estudiar.\nBueno, no, mira, eh, no tenemos el único",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1910880,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "requisito ser mayor de 17 años o tener\n16 17 años con el objetivo que cuando",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1915639,
+    "dDurationMs": 5640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "terminen tengan los 18 y los puedan\ncontratar, pero no hay límite de edad.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1919080,
+    "dDurationMs": 7120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Hacia arriba tenemos muchos casos de\néxito de gente mayor. Acá la exigencia",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1924320,
+    "dDurationMs": 6959,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "es el tiempo, la dedicación y la\ndisciplina. Y y me gusta esto además",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1928799,
+    "dDurationMs": 7161,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "porque creo que con esto de la\ninteligencia artificial y que nacen 1000",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1933399,
+    "dDurationMs": 6321,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "aplicaciones y 1000 formas de uso desde\nla medicina hasta la parte recreativa y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1938200,
+    "dDurationMs": 5719,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "demás, yo creo que muchos nos hemos\nquedado con el uso del chat GPT, pero",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1941960,
+    "dDurationMs": 5640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hoy hay muchísimas herramientas\nincreíbles que no hemos aprendido a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1945960,
+    "dDurationMs": 4800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sacarle provecho y a través, obviamente,\nde Campus Lands vamos a tener esa",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1949120,
+    "dDurationMs": 7279,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "posibilidad también de poder explorar un\npoco más. Sí. Bueno, eh el la primera",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1953919,
+    "dDurationMs": 6681,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "gran oportunidad es para para aquellos\nque están buscando formarse en algo y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1957919,
+    "dDurationMs": 7120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tener su primer empleo. Y ese algo hoy\nes eh inteligencia artificial, es",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1962799,
+    "dDurationMs": 6360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "programación, es robótica, es todas\nestas tecnologías de la cuarta",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1966399,
+    "dDurationMs": 8601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "revolución que le garantizan un empleo\nseguro y un crecimiento acelerado porque",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1972159,
+    "dDurationMs": 6120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "están pagando muy bien. Y lo siguiente,\nel gran reto para nosotros es todos los",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1977159,
+    "dDurationMs": 5201,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "profesionales que ya estamos en el\nmercado, no solamente usar Word, Excel y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1980960,
+    "dDurationMs": 4959,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "PowerPoint, sino empezar a utilizar\ntodas estas herramientas que el mercado",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1984320,
+    "dDurationMs": 5040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "nos da. ¿Por qué? Porque nos hacen más\neficientes, nos permiten hacer mejor las",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1988720,
+    "dDurationMs": 3480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cosas.\nBueno, y antes de seguir hablando de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1990720,
+    "dDurationMs": 4040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Campus Line, todo lo que ofrece, pues\nvámonos con un mensaje de los",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1993440,
+    "dDurationMs": 5320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "televidentes que nos están llegando a\ntravés de nuestra línea de WhatsApp. Y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1997480,
+    "dDurationMs": 4919,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "por acá dice, \"Qué chévere que hayan\nlugares que le apuesten al desarrollo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2000320,
+    "dDurationMs": 4800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tecnológico. A mi hijo le gusta la\nprogramación y todo lo relacionado con",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2004000,
+    "dDurationMs": 4880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "los computadores. Me gustaría\ninscribirlo allí. Un saludo\", nos dice",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2006600,
+    "dDurationMs": 6079,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Cecilia Jaramillo. Pues adelantemos esa\npregunta y y ¿cómo hacer parte de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2010679,
+    "dDurationMs": 5401,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Campuslands y desde cuándo? O sea, ¿hay\nuna fecha específica para ingresar o",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2014480,
+    "dDurationMs": 4840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "todos los meses hay\nBueno, dos invitaciones especiales?",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2018000,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Primero, nos pueden seguir en las redes\nsociales @campulans",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2021559,
+    "dDurationMs": 8960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Campuslands con este al final. Eh, tanto\nen Instagram, en TikTok, en Facebook,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2027159,
+    "dDurationMs": 7321,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ahí hay un link de inscripción. Eh, dos,\nnosotros tenemos una novedad diferente,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2032679,
+    "dDurationMs": 6441,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "no tenemos un mes específico donde\nentramos, sino todos los meses tenemos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2036639,
+    "dDurationMs": 7160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "apertura y precisamente los tres meses\ndonde más ingresos hay es noviembre,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2041279,
+    "dDurationMs": 7161,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "diciembre y enero. Eh, estamos con cupos\nlimitados, estamos a full, pero hoy",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2046679,
+    "dDurationMs": 6041,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "digamos en en este café de la mañana\ntenemos un tema especial y que le vamos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2049879,
+    "dDurationMs": 8960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a dar unas becas a todos aquellos que\nescriban. eh en alianza eh con el canal.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2056399,
+    "dDurationMs": 7760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Queremos darle la posibilidad a jóvenes\npara que tengan becas eh del 40, 50, 60",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2062320,
+    "dDurationMs": 6759,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "e incluso el 100%. Dios mío, esto se\nmerece un aplauso. Sí, señores, porque",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2067280,
+    "dDurationMs": 6399,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vamos a tener esa posibilidad de allá en\ncasa, ojo, mamás, ojo, eh, televidentes",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2071560,
+    "dDurationMs": 7480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pendientes de poder inscribir ya a las\nredes sociales de Campus L para que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2075879,
+    "dDurationMs": 7000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "puedan hacer parte de este centro de\nentrenamiento, para que nuestros",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2081200,
+    "dDurationMs": 5159,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "chiquillos, nuestros jóvenes puedan\neducarse, pero además de eso, pues tener",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2084520,
+    "dDurationMs": 7040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "la posibilidad de seguir aprendiendo.\n¿Por qué apostarle a un tipo de de eh",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2090040,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "entrenamiento, digámoslo así, o de\ncapacitación como el de Campusland? y no",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2093960,
+    "dDurationMs": 4960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de repente seguirnos por ese modelo\ntradicional que no está mal al que le",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2097480,
+    "dDurationMs": 4160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "gusta claramente, pero digamos que\ncuáles son esas diferencias para que la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2100119,
+    "dDurationMs": 6521,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "gente lo pueda tener presente?\nSí, yo yo creo que antes de hablar de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2104560,
+    "dDurationMs": 5240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "las diferencias vamos a hablar en qué\nnos parecemos.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2107839,
+    "dDurationMs": 6321,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Lo primero es que nosotros al igual que\ntoda la educación tradicional creemos",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 2111800,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que la única forma de crecer, de salir\nadelante, de romper las barreras de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2115599,
+    "dDurationMs": 5801,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pobreza es educándonos, o sea, y ahí\ncompartimos ese mismo concepto. Lo que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2119920,
+    "dDurationMs": 6199,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "estamos cambiando hoy es la forma de\neducarnos. Entonces, en esa forma lo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2123599,
+    "dDurationMs": 7041,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "estamos haciendo 100% presencial. ¿Por\nqué 100% presencial? Porque no todo el",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2128640,
+    "dDurationMs": 5439,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mundo tiene acceso a un computador, al\ninternet y al entorno adecuado para",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2132160,
+    "dDurationMs": 6439,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "aprender desde casa. Segundo, lo estamos\nhaciendo intensivo, 10 a 11 horas",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2136520,
+    "dDurationMs": 5680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "diarias. ¿Por qué 10 a 11 horas diarias?\n[música] Porque queremos que la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2139480,
+    "dDurationMs": 7080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "formación no dure más de 10 meses para\nque esta persona en solo 10 meses tenga",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2143880,
+    "dDurationMs": 6680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "su empleo y eso ayuda a la exerción. Y\nla tercera gran diferencia es que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2148839,
+    "dDurationMs": 7641,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "nuestro objetivo no solo formarlos,\nnuestro nuestro objetivo termina cuando",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2154200,
+    "dDurationMs": 7440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "este joven que se sacrificó con su\nfamilia, que hizo un esfuerzo económico",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2158599,
+    "dDurationMs": 6081,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de venir y formarse durante 10 meses, eh\ncumpla su ciclo cuando tenga su primer",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2163400,
+    "dDurationMs": 6280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "empleo. Entonces, [música]\nlo tercero más importante de nosotros es",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2166480,
+    "dDurationMs": 8560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que buscamos garantizar el empleo 100%\nseguro a todos los jóvenes que terminen",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2173160,
+    "dDurationMs": 6120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "el proceso satisfactoriamente.\nBuenísimo. Me gusta muchísimo esto,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2176839,
+    "dDurationMs": 6561,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "además porque hay que decir que si bien\nla virtualidad le ayuda a muchas",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2180880,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "personas al poder eh capacitarse, de\nrepente aos quienes estamos trabajando y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2185079,
+    "dDurationMs": 6760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que dicen, \"Bueno, no tengo el tiempo\npara irme o para eh ir hasta x lugar, lo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2189599,
+    "dDurationMs": 6161,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hago desde la virtualidad.\" Pero no a\ntodo el mundo, eh, digamos que o no para",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2194400,
+    "dDurationMs": 8000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "todo el mundo es fácil el poder hacerlo\nvirtualmente porque hay mayor forma de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2199200,
+    "dDurationMs": 6360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "poder eh distraerme. Entonces, no es lo\nmismo que mientras estoy lavando los y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2203880,
+    "dDurationMs": 6920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "estoy escuchando a estar en el lugar de\nclase y estar 100% con mi atención a lo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2208920,
+    "dDurationMs": 5360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que estoy eh aprendiendo, a lo que me\nestán enseñando. Entonces, claramente",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2212599,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que hay una gran diferencia. Pero\nvámonos con otro mensajito, Diego, de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2216240,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "los televidentes. Aquí nos escriben y\nnosotros los leemos. Buen día. Quisiera",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2220640,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "saber qué tipo de formación ofrecen y\ncuánto tiempo dura. Ya ahí Diego pues",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2224880,
+    "dDurationMs": 5600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "les ha ido diciendo el tiempo de\nentrenamiento. Este año termino mi",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2229119,
+    "dDurationMs": 5081,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "bachiller y estoy interesado en estudiar\nalgo relacionado con la informática. Mi",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2232119,
+    "dDurationMs": 5401,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "nombre es Jaime García Rondón. ¿Qué\npodemos decirle a Jaime? ¿Qué tipo de de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2236040,
+    "dDurationMs": 6360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "entrenamientos podemos encontrar allí?\nBueno, mira Jaime y a todos los",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2238760,
+    "dDurationMs": 7400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "televidentes, hoy en Campulano ofrecemos\nuna de las formaciones que más está",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2243880,
+    "dDurationMs": 5959,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "demandando el mercado, programación,\ninteligencia artificial, inglés [música]",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2248440,
+    "dDurationMs": 6440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y el desarrollo de liderazgo y\nhabilidades blandas. Eh, y y para Jaime",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2252520,
+    "dDurationMs": 7799,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y para todos es una oportunidad a los 17\naños, a los 16 años venir y formarse de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2257240,
+    "dDurationMs": 7400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "manera rápida e intensiva, porque eh en\nun solo año va a empezar no solamente a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2262800,
+    "dDurationMs": 5400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tener un primer trabajo, sino que va a\ntrabajar en lo que se formó",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2266640,
+    "dDurationMs": 5600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y eso le va a permitir de manera\nacelerada crecer mucho más rápido que lo",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 2270480,
+    "dDurationMs": 6760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que nos tocó a nosotros cuando a los 23\n24 años estábamos apenas empezando a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2274359,
+    "dDurationMs": 8801,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pasar hojas de vida. Campuslan nació\naquí en Colombia, en Santander, pero",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2279599,
+    "dDurationMs": 7281,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ustedes ya están tocando eh otros\nlímites, otras fronteras. Hablemos de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2285520,
+    "dDurationMs": 4920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "dónde ya podemos encontrar a\nCampuslandes.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2287760,
+    "dDurationMs": 8120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Bueno, eh acá en Bucaramanga nacimos. Eh\nestamos acá, tenemos dos sedes, una en",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 2293400,
+    "dDurationMs": 7040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "la zona franca de Santander, eh sobre el\nanillo vial y cordialmente invitados.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2298359,
+    "dDurationMs": 5881,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Tenemos un open day la siguiente semana\npara todos aquellos que quieran conocer",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2302240,
+    "dDurationMs": 7400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Campus Ls. Tenemos una segunda sede en\nalianza con un con un gran aliado que es",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2307599,
+    "dDurationMs": 5321,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "la caja de compensación Cajassan.\nEstamos en la Puerta del Sol y tenemos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2311560,
+    "dDurationMs": 4920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "un proyecto hermoso con la caja de\ncompensación donde le está apostando a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2314920,
+    "dDurationMs": 8320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "la formación de los hijos de sus\nafiliados. Estamos en Cúcuta, estamos en",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2319440,
+    "dDurationMs": 7600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Bogotá y eh ahora estamos en Guatemala.\nEstamos en la ciudad de Guatemala.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2324520,
+    "dDurationMs": 7680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "abrimos nuestra nuestro primer campus\nfuera del país, un gran reto, eh, pero",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2329440,
+    "dDurationMs": 7879,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "es un mensaje también a a todos, a los\nempresarios, a los padres, a a los",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2334319,
+    "dDurationMs": 7520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "jóvenes, a todos aquellos que que están\npensando en formarse en estas nuevas",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2339240,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "habilidades que cuando una empresa o un\ngrupo de empresarios vienen de otro país",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2343560,
+    "dDurationMs": 6759,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a conocer el proyecto en Bucaramanga, en\nnuestra ciudad, en nuestro país, y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2347960,
+    "dDurationMs": 7480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "deciden apostarle a llevar este modelo\nde formación a su país, es porque eh que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2353960,
+    "dDurationMs": 5240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "definitivamente están haciendo las cosas\nmuy bien, pero no solo eso, sino que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2357319,
+    "dDurationMs": 6601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "este es el camino que que realmente hay\nque tomar. No solo somos nosotros los",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2361720,
+    "dDurationMs": 5639,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que estamos empujando esto, sino muchos\nmás empresarios están queriendo llevar",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2365200,
+    "dDurationMs": 6639,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "este modelo a sus ciudades y a sus\npaíses. Entonces, creo que es un mensaje",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2369520,
+    "dDurationMs": 5000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "para la ciudad que que este proyecto y\neste modelo de educación realmente",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2373400,
+    "dDurationMs": 5040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "transforma bebidas.\nMe están preguntando en master que si",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2375960,
+    "dDurationMs": 5440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "los jóvenes de 35 más pueden hacer parte\ndel campus.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2379200,
+    "dDurationMs": 6280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Sí, sí, sí, sí. Para todos. O sea, acá\nel único tema es el tiempo, es la",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 2383560,
+    "dDurationMs": 5160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "disponibilidad, pero tenemos casos de\néxito de personas de 40 años que han",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2387319,
+    "dDurationMs": 8241,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "venido, se han formado,\nhan aprendido, han aprendido y hoy están",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2391720,
+    "dDurationMs": 7920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cambiando eh su carrera. Eh, tenemos\nfinancieros, tenemos electrónicos,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2397960,
+    "dDurationMs": 5240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tenemos biólogos, tenemos ingenieros\nquímicos, o sea, esto es para todo el",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2402640,
+    "dDurationMs": 4560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mundo,\nes para todos, así que hay que saber",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2405280,
+    "dDurationMs": 5640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "aprovecharlo. Y recuerden que hay unas\nbecas parciales y de repente algunas",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2409520,
+    "dDurationMs": 4200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "totales que se puedan entregar esa a\nCampus Lan, pero tienen que hacer",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2412440,
+    "dDurationMs": 4679,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ustedes o lo que tienen que hacer es\nsimplemente empezar a escribir a través",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2415400,
+    "dDurationMs": 5360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de las redes sociales. Aquí aparece en\npantalla precisamente eh las redes",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2419359,
+    "dDurationMs": 4281,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sociales de Campusland para que puedan\nhacer parte de él. Pero vámonos con otro",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2422200,
+    "dDurationMs": 5320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mensaje de los televidentes que están\nahí. Escribiéndonos muy atentos a través",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2425520,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de nuestra línea de WhatsApp. Mi hijo\nllevó un año y medio sin estudiar. Me",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2429599,
+    "dDurationMs": 7841,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "interesa ingresarlo en Campus Ls. ¿Qué\nrequisito exigen? Dice Liliana Medina.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2434760,
+    "dDurationMs": 10640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Mire, eh, para todos el único requisito\nacá es tener 16, 17 años. El segundo",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 2441720,
+    "dDurationMs": 8399,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "requisito importante es una actitud\nlógica y disciplina. ¿Por qué? porque eh",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2448599,
+    "dDurationMs": 7401,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "el joven va a entrar a un proceso\nformativo diferente eh en un espacio",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2453400,
+    "dDurationMs": 9439,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "espectacular, un espacio diseñado para\npara que 10 11 horas diarias se pasen",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2459440,
+    "dDurationMs": 7720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "como si fueran dos. Entonces, eh acá\ntodo aquel que quiera aprender tiene la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2464880,
+    "dDurationMs": 6120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "capacidad y ya tenemos nosotros la\nexperiencia de decir todo aquel que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2469280,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "nunca ha programado, pero quiere\nsentarse y venir a dedicarle de manera",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2473599,
+    "dDurationMs": 7041,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "organizada y disciplinada esas 10 11\nhoras diarias, ese es seguro que que va",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2478280,
+    "dDurationMs": 5120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a cumplir su ciclo y va a tener un gran\nempleo.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2481359,
+    "dDurationMs": 5921,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Mirad, así que no se pierdan la\noportunidad y la posibilidad de conocer",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 2485440,
+    "dDurationMs": 5879,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "más de Campusland. tú hablabas de un\nopen day que va a ver precisamente la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2489079,
+    "dDurationMs": 5641,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "próxima semana, ¿cómo poder hacer parte\ntambién de este día?",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2492319,
+    "dDurationMs": 6441,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Sí, mira, el eh vamos a tener dos\neventos el día jueves y viernes de la",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 2496599,
+    "dDurationMs": 6961,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "siguiente semana. Eh específicamente\nvamos a tener eh puertas abiertas para",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2501079,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que conozcan nuestro campus. Eh, vamos a\ntener una charla adicional de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2504680,
+    "dDurationMs": 7800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "inteligencia artificial eh para estos\ndos días para que a todos aquellos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2509240,
+    "dDurationMs": 6920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "jóvenes, empresarios, padres, eh\npersonas que quieran ir a conocer, no",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2514160,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "solamente conozcan, sino tengan un\nespacio de aprendizaje de hacia dónde va",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2518480,
+    "dDurationMs": 7359,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "la inteligencia artificial. Entonces, eh\nva a ser un espacio supremamente",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2522680,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "agradable eh y que está diseñado no\nsolamente para que vengan y conozcan,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2527560,
+    "dDurationMs": 5519,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sino para que se lleven un conocimiento\nde inteligencia artificial y lo puedan",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2530960,
+    "dDurationMs": 7480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "aplicar en el día a día. Entonces, todos\nestán cordialmente invitados en la zona",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2535079,
+    "dDurationMs": 9081,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "franca, en el anillo vial y y estamos\n100% seguros que una vez vayan van a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2541160,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "quedar impactados con lo que van a ver y\ncon lo que van a encontrar en el campus.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2545960,
+    "dDurationMs": 5599,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Muy bien, pues ya saben, entonces, a\ncorrer, a inscribirse, a ser parte de",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 2550040,
+    "dDurationMs": 5559,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Campus Llan y pues Diego, ¿qué nos queda\nen el tintero?",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2552839,
+    "dDurationMs": 5841,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "No, el mensaje es\nhay que dar el paso, hay que tomar la",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 2557119,
+    "dDurationMs": 7401,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "decisión. Lo primero es entrar a\nnuestras redes sociales @campulans y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2561520,
+    "dDurationMs": 7480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "conocer, ver las historias de vida y las\nexperiencias. Son jóvenes desde los 17,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2566760,
+    "dDurationMs": 7160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "18 años trabajando para compañías en\nSantander, en Colombia y en siete países",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2571559,
+    "dDurationMs": 8000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que hoy están contratando. El segundo,\nllamar, ahí está nuestro número de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2575520,
+    "dDurationMs": 7240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "WhatsApp, llamar, escribir, eh, que con\nmucho gusto los vamos a atender. Y el",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2580839,
+    "dDurationMs": 6161,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tercero,\nsaquen un espacio y vayan a la zona",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2584720,
+    "dDurationMs": 6960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "franca. Los estamos esperando para\nrecibirlos y darles eh un buen tour, un",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2590400,
+    "dDurationMs": 4400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "buen tour que les va a cambiar la forma\nde pensar.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2592440,
+    "dDurationMs": 6639,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Pues allá nos veremos, estaremos todos\nmuy pendientes precisamente de este día",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 2596800,
+    "dDurationMs": 5759,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y de poder hacer parte de Campus\nFlansen. Cambiamos de tema, cerramos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2601000,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "aquí y nos vamos con nuestro tema del\ndía. Diego, ¿qué te hace sonreír?",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2605079,
+    "dDurationMs": 8000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Eh, no ver cada vez que un joven a los\n17 o 18 años está transformando su vida,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2610599,
+    "dDurationMs": 6760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "no solo la de él, sino la de su familia\ny la de la ciudad, la de nuestra ciudad,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2615400,
+    "dDurationMs": 5880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "la de nuestro departamento. Entonces,\neso definitivamente me hace muy feliz. Y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2619400,
+    "dDurationMs": 7320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "qué bueno, porque en mentes ocupadas no\nhay posibilidad de que puedan haber eh",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2624359,
+    "dDurationMs": 8281,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "momentos no difíciles porque sí van a\nestar, pero no vamos a darle campo a eh",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2630000,
+    "dDurationMs": 5400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "la drogadicción, a jóvenes que estén\nbuscando lo que no se les ha perdido en",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2634079,
+    "dDurationMs": 4881,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "la calle, sino que por el contrario se\nestán discapacitando a través de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2636920,
+    "dDurationMs": 5439,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "institutos que tienen un sello de\ngarantía como lo tiene Campus Dance.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2640920,
+    "dDurationMs": 5639,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Pero ahora pues lo voy a invitar a\nconocer una historia muy bonita de un",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2644200,
+    "dDurationMs": 2359,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "chef",
+      "acAsrConf": 0
+    } ]
+  } ]
+}

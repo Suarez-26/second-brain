@@ -1,0 +1,156 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  }, {
+    "mhModeHint": 2,
+    "juJustifCode": 0,
+    "sdScrollDir": 3
+  } ],
+  "wpWinPositions": [ {
+  
+  }, {
+    "apPoint": 6,
+    "ahHorPos": 20,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  } ],
+  "events": [ {
+    "tStartMs": 0,
+    "id": 1,
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 120,
+    "dDurationMs": 5080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "La Cámara de Comercio de Bucaramanga a\ntravés del Clúster TI realizó el primer",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3719,
+    "dDurationMs": 5161,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "encuentro de transformación digital\njunto a zona franca Santander y la ANDI",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 7200,
+    "dDurationMs": 4240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "con el fin de crear conexiones entre\nempresas, compartir ideas y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 10440,
+    "dDurationMs": 5359,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "conocimientos.\nRealmente es muy importante este tipo de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 13160,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "escenarios porque nos permite conectar\ncon los industriales de la región. Algo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 17760,
+    "dDurationMs": 4840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "muy importante para esto es la\ncomunidad, es conectarnos. Estas",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 21240,
+    "dDurationMs": 6279,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sinergias son importantes para\ntrascender y poder aumentar el alcance y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 25000,
+    "dDurationMs": 6119,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "el impacto que tenemos. Campus Land fue\nel escenario que congregó a empresas de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 29240,
+    "dDurationMs": 5800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "base tecnológica de la región con una\ncharla magistral, panel de expertos y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 33239,
+    "dDurationMs": 5640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "espacio de relacionamiento pensando en\nimpulsar la innovación, promover",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 36760,
+    "dDurationMs": 4840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "colaboraciones y posicionar el sector TI\nen Santander.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 39879,
+    "dDurationMs": 6641,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "El sueño más grande es que este clúster\nde TI de verdad nos incluya a todos y",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 44360,
+    "dDurationMs": 6280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "eso significa que estemos múltiples\nindustrias, múltiples escalas, múltiples",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 48719,
+    "dDurationMs": 6911,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "desafíos para de verdad darle al\ndepartamento una gran transformación.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 52559,
+    "dDurationMs": 8900,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Conozca más en www.camaradirecta.com.\n[Música]",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  } ]
+}

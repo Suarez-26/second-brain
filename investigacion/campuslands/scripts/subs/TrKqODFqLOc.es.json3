@@ -1,0 +1,170 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  }, {
+    "mhModeHint": 2,
+    "juJustifCode": 0,
+    "sdScrollDir": 3
+  } ],
+  "wpWinPositions": [ {
+  
+  }, {
+    "apPoint": 6,
+    "ahHorPos": 20,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  } ],
+  "events": [ {
+    "tStartMs": 0,
+    "id": 1,
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 80,
+    "dDurationMs": 5279,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Hola, mi nombre es Christopher Vitrago.\nAntes de Campus Land me dedicaba a lo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3120,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que vendría siendo la eh yo era\nrepartidor de comida por toda la zona",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 7600,
+    "dDurationMs": 6680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "metropolitana de Bucaramanga en zonas\ncomo El Porvenir, Provenza e inclusive",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 12400,
+    "dDurationMs": 6200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Florida Blanca. Tuve la oportunidad de\nconocer a Campus Ls en Neomundo, ya que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 16840,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "estaba naciendo en Aajcatón. eh me\ndieron la oportunidad de de realizar las",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 20439,
+    "dDurationMs": 8521,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pruebas de lógica matemática, una\nentrevista y afortunadamente una vez",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 26359,
+    "dDurationMs": 6281,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "dentro eh me sorprendió el ambiente.\nRealmente es muy colaborativo y muy",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 31039,
+    "dDurationMs": 6561,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cómodo. Después de 10 meses de estar\ndesarrollándome como programador y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 35760,
+    "dDurationMs": 5560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mejorando áreas como las egalidades\nblandas y el inglés y tuve la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 39640,
+    "dDurationMs": 5239,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "oportunidad Campuland me dio la\noportunidad de vincularme con una",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 42840,
+    "dDurationMs": 5600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "empresa que se llama Disfarma. Esta\nempresa confió en mis habilidades y me",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 46840,
+    "dDurationMs": 5800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "saco en lo que vendría siendo la\nautomatización del proceso de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 50320,
+    "dDurationMs": 5320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "legalización de facturas y de notas\ncrédito y de notas débitos de la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 53960,
+    "dDurationMs": 4439,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "empresa. Realmente agradezco mucho a\nCampulance por conferen sus mis",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 56800,
+    "dDurationMs": 6840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "habilidades, ya que gracias a ellos pues\ntengo mi primer empleo formal eh con",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 60559,
+    "dDurationMs": 9121,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "buena remuneración y se vendría siendo\nprácticamente el primer programador de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 65280,
+    "dDurationMs": 4400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mi familia. Muchas gracias, Campus.",
+      "acAsrConf": 0
+    } ]
+  } ]
+}

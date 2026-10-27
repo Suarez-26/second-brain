@@ -1,0 +1,1387 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  }, {
+    "mhModeHint": 2,
+    "juJustifCode": 0,
+    "sdScrollDir": 3
+  } ],
+  "wpWinPositions": [ {
+  
+  }, {
+    "apPoint": 6,
+    "ahHorPos": 20,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  } ],
+  "events": [ {
+    "tStartMs": 0,
+    "id": 1,
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 480,
+    "dDurationMs": 7200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Después de la pandemia, [música]\nCaroline enfrentó uno de los momentos"
+    } ]
+  }, {
+    "tStartMs": 4080,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "económicos más duros de su vida.\nFue camper, no se rindió."
+    } ]
+  }, {
+    "tStartMs": 9825,
+    "dDurationMs": 4815,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "[música]\nSe transformó.",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 12120,
+    "dDurationMs": 6360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Hoy hace parte del equipo Campuslands,\nayudando a otros a encontrar su"
+    } ]
+  }, {
+    "tStartMs": 16640,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "oportunidad. [música]\nPorque detrás del código"
+    } ]
+  }, {
+    "tStartMs": 20480,
+    "dDurationMs": 5360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "siempre hay una historia humana.\nBienvenidos a The Human Code."
+    } ]
+  }, {
+    "tStartMs": 24890,
+    "dDurationMs": 4990,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "[música]\nHola, bienvenidos a todos a este nuevo",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 27600,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "podcast llamado The Human Code. En el\nprimer capítulo de hoy tenemos una"
+    } ]
+  }, {
+    "tStartMs": 31520,
+    "dDurationMs": 7640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "invitada muy especial en el que\nenfatizaremos principalmente sobre el"
+    } ]
+  }, {
+    "tStartMs": 36000,
+    "dDurationMs": 7040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mundo tech desde el ámbito del ser.\nTenemos a Caroline Reyes, mucho gusto,"
+    } ]
+  }, {
+    "tStartMs": 41000,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "¿cómo estás? Hola, muchas gracias,\nmuchas gracias a todos por eh esta"
+    } ]
+  }, {
+    "tStartMs": 45040,
+    "dDurationMs": 5640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "iniciativa, me parece un muy buen\nproyecto el que están realizando y pues"
+    } ]
+  }, {
+    "tStartMs": 49200,
+    "dDurationMs": 6200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "por supuesto muchísimas gracias por la\ninvitación. Bueno, Caroline, queremos"
+    } ]
+  }, {
+    "tStartMs": 53560,
+    "dDurationMs": 5120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "como enfatizar las historias personales,\nel contexto del cómo llegaron a este"
+    } ]
+  }, {
+    "tStartMs": 57040,
+    "dDurationMs": 5960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mundo tecnológico.\n¿De dónde vienes? ¿Qué contexto tienes?"
+    } ]
+  }, {
+    "tStartMs": 60760,
+    "dDurationMs": 8480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "¿Por qué entraste a este mundo?\nBueno, yo conocí Campus hace 2 años"
+    } ]
+  }, {
+    "tStartMs": 67120,
+    "dDurationMs": 7080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cuando estaba en la universidad.\nYo estaba estudiando una carrera y por"
+    } ]
+  }, {
+    "tStartMs": 72120,
+    "dDurationMs": 7240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "motivos personales tuve que dejar esta\ncarrera como a la mitad porque bueno, yo"
+    } ]
+  }, {
+    "tStartMs": 77840,
+    "dDurationMs": 5280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pasé por una situación personal muy\ndifícil, por esa situación tuve que"
+    } ]
+  }, {
+    "tStartMs": 81360,
+    "dDurationMs": 6200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "entrar a trabajar\ny pues yo estaba en un trabajo que no no"
+    } ]
+  }, {
+    "tStartMs": 85480,
+    "dDurationMs": 6680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "me hacía sentir cómoda.\nEstaba dedicándole mucho tiempo a algo"
+    } ]
+  }, {
+    "tStartMs": 89560,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que yo no no no me no me veía ahí, no me\nsentía ahí."
+    } ]
+  }, {
+    "tStartMs": 93720,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Y pues mi sueño siempre fue como seguir\nestudiando y ir aprendiendo cosas"
+    } ]
+  }, {
+    "tStartMs": 97640,
+    "dDurationMs": 7640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "nuevas, entonces precisamente por eso no\nme sentía cómoda."
+    } ]
+  }, {
+    "tStartMs": 101640,
+    "dDurationMs": 6200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Y tomé la decisión de dejar atrás eh ese\ntrabajo que de pronto no me hacía sentir"
+    } ]
+  }, {
+    "tStartMs": 106760,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "bien\ny empecé a estudiar en Campus, me acordé"
+    } ]
+  }, {
+    "tStartMs": 110200,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de ese profesor en ese día que me lo\nmencionó, mencionó Campus"
+    } ]
+  }, {
+    "tStartMs": 114720,
+    "dDurationMs": 5880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y\ntomé la decisión de entrar y preguntar"
+    } ]
+  }, {
+    "tStartMs": 119080,
+    "dDurationMs": 6520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cómo cómo era el cuento, qué era lo que\nestaban haciendo. Yo te tengo como una"
+    } ]
+  }, {
+    "tStartMs": 122680,
+    "dDurationMs": 6760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "consulta. ¿Cómo llegaste, primero que\ntodo, qué carrera estás estudiando y"
+    } ]
+  }, {
+    "tStartMs": 126960,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cómo pudiste conectarla con Campus? ¿Has\nlogrado lo que has querido desde que"
+    } ]
+  }, {
+    "tStartMs": 130920,
+    "dDurationMs": 7240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "entraste? Sí, me siento muy contenta\njusto en este momento de mi vida porque,"
+    } ]
+  }, {
+    "tStartMs": 136320,
+    "dDurationMs": 5320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "bueno, antes de de entrar aquí estaba\nestudiando Negocios Internacionales."
+    } ]
+  }, {
+    "tStartMs": 140200,
+    "dDurationMs": 5160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Siempre en mi vida ha sido como muy\nenfocada al ámbito comercial."
+    } ]
+  }, {
+    "tStartMs": 144280,
+    "dDurationMs": 7200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Siempre he sido una persona que se ha\ndedicado mucho eh a ventas, de manera"
+    } ]
+  }, {
+    "tStartMs": 149240,
+    "dDurationMs": 5840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "informal. Siempre he sido como muy\ninquieta, a mí no me gusta quedarme"
+    } ]
+  }, {
+    "tStartMs": 152720,
+    "dDurationMs": 5800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "quieta. El hecho de poder conectar esto\ncon un ámbito tecnológico, con un"
+    } ]
+  }, {
+    "tStartMs": 156720,
+    "dDurationMs": 5520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "conocimiento tecnológico, me abrió una\npuerta muy grande en Campus. Porque hoy"
+    } ]
+  }, {
+    "tStartMs": 160680,
+    "dDurationMs": 8800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "en día estoy trabajando en el área de\nempleabilidad y a mí esto me ha dado un"
+    } ]
+  }, {
+    "tStartMs": 165360,
+    "dDurationMs": 8200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "un valor eh aumentado porque pues aparte\nde ser comercial también tengo"
+    } ]
+  }, {
+    "tStartMs": 170720,
+    "dDurationMs": 8000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "conocimiento técnico y este conocimiento\nme permite a mí hablar de manera"
+    } ]
+  }, {
+    "tStartMs": 175520,
+    "dDurationMs": 7640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "apropiada de lo que sé, de lo que hice y\npoder vender estos conocimientos a"
+    } ]
+  }, {
+    "tStartMs": 181400,
+    "dDurationMs": 8280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "empresas que de pronto están interesadas\nen Campus ha sido algo super. ¿Cómo fue"
+    } ]
+  }, {
+    "tStartMs": 186400,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ese ese problema principal que tuviste?\nEh no sé si me comentaste que te"
+    } ]
+  }, {
+    "tStartMs": 191560,
+    "dDurationMs": 5520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mudaste.\nQuiero llegar a saber cuál fue ese"
+    } ]
+  }, {
+    "tStartMs": 194760,
+    "dDurationMs": 7120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "problema principal que tuviste, cómo lo\npudiste solucionar."
+    } ]
+  }, {
+    "tStartMs": 199320,
+    "dDurationMs": 7560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Eh bueno, la situación que te comenté\nque tuve estaba pasando por una"
+    } ]
+  }, {
+    "tStartMs": 203720,
+    "dDurationMs": 7040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "situación económica difícil. Mi familia\nestaba pasando por una separación muy"
+    } ]
+  }, {
+    "tStartMs": 208480,
+    "dDurationMs": 7280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "fuerte, saliendo de pandemia, la\npandemia fue muy fuerte para nosotros."
+    } ]
+  }, {
+    "tStartMs": 213600,
+    "dDurationMs": 6919,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Pasamos momentos muy duros en los que\nrealmente a veces había días en los que"
+    } ]
+  }, {
+    "tStartMs": 218040,
+    "dDurationMs": 6840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "definitivamente no había para comer y\nfue una situación feita en ese momento."
+    } ]
+  }, {
+    "tStartMs": 223000,
+    "dDurationMs": 5720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Yo decidí, mi solución rápida en ese\nmomento fue dejar la universidad, en ese"
+    } ]
+  }, {
+    "tStartMs": 226920,
+    "dDurationMs": 7440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "momento también tenía una moto, vendí la\nmoto, dejé la universidad y empecé a"
+    } ]
+  }, {
+    "tStartMs": 231920,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "trabajar. Pero no era lo que no no\nquería quedarme y yo sabía que quería"
+    } ]
+  }, {
+    "tStartMs": 236000,
+    "dDurationMs": 7400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "seguir. ¿Cuál fue tu miedo más grande?\n¿El hecho de cambiar de carrera?"
+    } ]
+  }, {
+    "tStartMs": 240360,
+    "dDurationMs": 7880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Sí, claro, porque en ese momento yo me\nsentí muy"
+    } ]
+  }, {
+    "tStartMs": 245400,
+    "dDurationMs": 8000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "asustada. No sabía si la decisión que\nestaba tomando era correcta, porque"
+    } ]
+  }, {
+    "tStartMs": 250080,
+    "dDurationMs": 8320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "dejar una carrera no es fácil. Tú quedas\ncon la incertidumbre de \"Escucha, ¿será"
+    } ]
+  }, {
+    "tStartMs": 255720,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que voy a volver o no voy a volver?\" Yo\nen ese momento le puse stand by a la"
+    } ]
+  }, {
+    "tStartMs": 260079,
+    "dDurationMs": 5201,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "carrera y yo me prometí que en seis\nmeses iba a volver."
+    } ]
+  }, {
+    "tStartMs": 263560,
+    "dDurationMs": 3440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Y hoy han pasado dos años y no he\nvuelto."
+    } ]
+  }, {
+    "tStartMs": 265932,
+    "dDurationMs": 6508,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "[risas]\nPero no pasa nada. Definitivamente mi",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 269120,
+    "dDurationMs": 7400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vida dio un giro y estoy en un ámbito\nque me hace muy feliz. Yo en donde estoy"
+    } ]
+  }, {
+    "tStartMs": 274440,
+    "dDurationMs": 4280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "actualmente estoy muy contenta. ¿Te\narrepientes de algo?"
+    } ]
+  }, {
+    "tStartMs": 278378,
+    "dDurationMs": 4702,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "[resoplido]\nEn ese momento me arrepentí muchísimo,",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 280360,
+    "dDurationMs": 7520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pero las cosas se dieron tan bien que yo\ndigo, no, todo todo pasó como tenía que"
+    } ]
+  }, {
+    "tStartMs": 285919,
+    "dDurationMs": 6641,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pasar. ¿Tuviste algún apoyo en este\nproceso? Claro, mi mamá."
+    } ]
+  }, {
+    "tStartMs": 290040,
+    "dDurationMs": 7440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Mi mamá siempre fue eh\nElla apoyó o ella siempre ha sido ese"
+    } ]
+  }, {
+    "tStartMs": 295200,
+    "dDurationMs": 5200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "apoyo fuerte que ha estado conmigo.\nIncondicional."
+    } ]
+  }, {
+    "tStartMs": 299320,
+    "dDurationMs": 4280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Y [resoplido]\nella es una inspiración muy grande para",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 302200,
+    "dDurationMs": 5000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mí, porque ella es una mujer muy\nguerrera. Me comentaste que tu profesor"
+    } ]
+  }, {
+    "tStartMs": 305919,
+    "dDurationMs": 5601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de la universidad en negocios\ninternacionales te comentó acerca de"
+    } ]
+  }, {
+    "tStartMs": 309160,
+    "dDurationMs": 7280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "esta oportunidad de Campus. Quiero saber\ncómo fue cuando ingresaste, qué pasó,"
+    } ]
+  }, {
+    "tStartMs": 314520,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "qué cambio tuviste. Bueno, yo en ese\nmomento ya, o sea, cuando tomé la"
+    } ]
+  }, {
+    "tStartMs": 318840,
+    "dDurationMs": 7520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "decisión de decir voy a entrar\nfue cuando estaba trabajando."
+    } ]
+  }, {
+    "tStartMs": 323120,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Estaba trabajando, me cansé y dije, no,\nesto no es lo que yo quiero, yo quiero"
+    } ]
+  }, {
+    "tStartMs": 327840,
+    "dDurationMs": 5200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "seguir estudiando. Y me acordé de sus\npalabras en ese momento. Investigué"
+    } ]
+  }, {
+    "tStartMs": 331640,
+    "dDurationMs": 5840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Campus, me pareció una muy buena\noportunidad. Hice las pruebas para"
+    } ]
+  }, {
+    "tStartMs": 335520,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "entrar y pasé. El día que me llegó el\nmensaje de \"Felicitaciones, eh entraste,"
+    } ]
+  }, {
+    "tStartMs": 340640,
+    "dDurationMs": 7000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "fuiste seleccionada.\"\nEspectacular, ese fue un día para mí muy"
+    } ]
+  }, {
+    "tStartMs": 345520,
+    "dDurationMs": 7320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "alegre, yo me sentí muy contenta. Le le\na mi mamá, mi mamá también estaba"
+    } ]
+  }, {
+    "tStartMs": 349000,
+    "dDurationMs": 9440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "supercontenta. ¿Tú crees que en Campus\nel [resoplido] ámbito de las conexiones"
+    } ]
+  }, {
+    "tStartMs": 354560,
+    "dDurationMs": 8280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "con el pasar del tiempo ayuda a mejorar\npues las habilidades sociocomunicativas?"
+    } ]
+  }, {
+    "tStartMs": 360720,
+    "dDurationMs": 7920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Claro, claro que sí, aquí hay un\nambiente de tecnológico muy fuerte"
+    } ]
+  }, {
+    "tStartMs": 366640,
+    "dDurationMs": 7000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y un ambiente, una comunidad de apoyo\nmuy grande también, hay muchos chicos eh"
+    } ]
+  }, {
+    "tStartMs": 371360,
+    "dDurationMs": 5840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "programadores muy buenos que están\ndispuestos a enseñarle a otros chicos"
+    } ]
+  }, {
+    "tStartMs": 375560,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que también pues de pronto no tienen\nesos conocimientos tan fuertes y que"
+    } ]
+  }, {
+    "tStartMs": 379360,
+    "dDurationMs": 7120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tienen sus dudas, sus preguntas y\nencuentran en estos chicos que tienen"
+    } ]
+  }, {
+    "tStartMs": 383919,
+    "dDurationMs": 5000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mayor conocimiento un apoyo. Entonces,\neso es lo chévere de Campus, que aquí"
+    } ]
+  }, {
+    "tStartMs": 387760,
+    "dDurationMs": 5560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "todo el mundo se habla con todo el\nmundo, que si yo necesito ayuda en algo,"
+    } ]
+  }, {
+    "tStartMs": 391520,
+    "dDurationMs": 5800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sé que puedo alzar la mano y cualquiera\nme va a ayudar, entonces es eh la"
+    } ]
+  }, {
+    "tStartMs": 395120,
+    "dDurationMs": 7600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "comunidad que tiene Campus es muy buena,\nes muy chévere. ¿Tú crees que esa"
+    } ]
+  }, {
+    "tStartMs": 399840,
+    "dDurationMs": 6520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "comunidad hace que una persona común y\ncorriente que nunca haya programado le"
+    } ]
+  }, {
+    "tStartMs": 404440,
+    "dDurationMs": 6120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pierda el miedo a la tecnología? A mí me\npasó, porque yo cuando entré a Campus,"
+    } ]
+  }, {
+    "tStartMs": 408720,
+    "dDurationMs": 6120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "yo decía, bueno, ¿y si esto no es para\nmí? ¿Qué tal que pues yo estaba, yo"
+    } ]
+  }, {
+    "tStartMs": 413360,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "estaba estudiando algo completamente\ndiferente, estaba en una línea"
+    } ]
+  }, {
+    "tStartMs": 418040,
+    "dDurationMs": 7480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "completamente distinta y yo me metí a\nCampus buscando una oportunidad, pero mi"
+    } ]
+  }, {
+    "tStartMs": 423360,
+    "dDurationMs": 3800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "miedo inicial fue, pues pucha, ¿y si\nesto no es para mí?"
+    } ]
+  }, {
+    "tStartMs": 426409,
+    "dDurationMs": 5391,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "[risas]\nEntonces, en esa red, en ese emparcecito",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 429960,
+    "dDurationMs": 4959,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que tenía yo con mis amigos, encontré\nese apoyo que necesitaba para seguir"
+    } ]
+  }, {
+    "tStartMs": 433480,
+    "dDurationMs": 5880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "adelante, porque yo creo que los\nprimeros 15 días, que son los días de"
+    } ]
+  }, {
+    "tStartMs": 436720,
+    "dDurationMs": 6280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Sandbox, son los más duros. Bueno,\nCarolin, déjame"
+    } ]
+  }, {
+    "tStartMs": 441240,
+    "dDurationMs": 5880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pararte un segundito\npara nuestros nuevos oyentes en este"
+    } ]
+  }, {
+    "tStartMs": 444720,
+    "dDurationMs": 5800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "podcast, que recién comienza hoy nuestro\nprimer capítulo, queremos hacerles"
+    } ]
+  }, {
+    "tStartMs": 448960,
+    "dDurationMs": 5120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "entender qué es el Sandbox, como para\ndarles un contexto."
+    } ]
+  }, {
+    "tStartMs": 452040,
+    "dDurationMs": 8080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Sí, tienes razón, el Sandbox es una\netapa en Campus"
+    } ]
+  }, {
+    "tStartMs": 456680,
+    "dDurationMs": 8000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que tiene una duración de 15 días, dos\nsemanas"
+    } ]
+  }, {
+    "tStartMs": 461400,
+    "dDurationMs": 8240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y esta, esta etapa te te ayuda a ti a\ntomar como la decisión final, decidir"
+    } ]
+  }, {
+    "tStartMs": 467800,
+    "dDurationMs": 4960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "definitivamente si eso es para ti o no,\nexacto, sí."
+    } ]
+  }, {
+    "tStartMs": 470520,
+    "dDurationMs": 7320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ti. Esto es para ti o no es para ti.\nEntonces, yo me encontré en ese punto,",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 474760,
+    "dDurationMs": 7240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "en esa en esa pregunta, en esa etapa de\nesto sí será o no será para mí."
+    } ]
+  }, {
+    "tStartMs": 480160,
+    "dDurationMs": 5560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Y\npues precisamente esas amistades que"
+    } ]
+  }, {
+    "tStartMs": 484200,
+    "dDurationMs": 6200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "construí\nfueron las que me ayudaron de alguna"
+    } ]
+  }, {
+    "tStartMs": 487680,
+    "dDurationMs": 6200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "manera en decir sí, definitivamente sí,\ny aquí me quedo y pues que tenga que lo"
+    } ]
+  }, {
+    "tStartMs": 492280,
+    "dDurationMs": 7000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que tenga que pasar y yo le voy a meter\ntodas las ganas para estar aquí. ¿Alguna"
+    } ]
+  }, {
+    "tStartMs": 496760,
+    "dDurationMs": 6120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vez habías programado? Siento que mucha\ngente se va se echa para atrás por el"
+    } ]
+  }, {
+    "tStartMs": 501240,
+    "dDurationMs": 6040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hecho de no conocer un poquito de la\ntecnología, pero"
+    } ]
+  }, {
+    "tStartMs": 504760,
+    "dDurationMs": 6600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "he conocido casos en los que no saben\nnada de tecnología y de todas formas"
+    } ]
+  }, {
+    "tStartMs": 508800,
+    "dDurationMs": 5040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "brillan en este mundo. No, yo no sabía\nnada."
+    } ]
+  }, {
+    "tStartMs": 512200,
+    "dDurationMs": 5279,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "¿Nada, [risas] nada? No, mi vida era\ncompletamente diferente, yo estaba"
+    } ]
+  }, {
+    "tStartMs": 516000,
+    "dDurationMs": 7400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "haciendo algo completamente distinto\ncuando entré aquí a Campus"
+    } ]
+  }, {
+    "tStartMs": 520120,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y pues llegué sabiendo nada y salí\nsabiendo muchas cosas."
+    } ]
+  }, {
+    "tStartMs": 525040,
+    "dDurationMs": 7080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "¿Qué crees que fue como lo más difícil\nde aprender en ese Sandbox o"
+    } ]
+  }, {
+    "tStartMs": 529680,
+    "dDurationMs": 8320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "literal en la carrera completa?\nBueno, yo creo que más eh"
+    } ]
+  }, {
+    "tStartMs": 536600,
+    "dDurationMs": 5000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pues conocimientos técnicos tú los\naprendes, a final de cuentas de una"
+    } ]
+  }, {
+    "tStartMs": 539760,
+    "dDurationMs": 8079,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "manera u otra, practicando mucho tú\naprendes los conocimientos técnicos."
+    } ]
+  }, {
+    "tStartMs": 543760,
+    "dDurationMs": 7000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Lo difícil que puede lo lo lo que más\npuede llegar a ser difícil es la"
+    } ]
+  }, {
+    "tStartMs": 549320,
+    "dDurationMs": 6800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "constancia.\nTener constancia a pesar de que hayan"
+    } ]
+  }, {
+    "tStartMs": 553720,
+    "dDurationMs": 8480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "proyectos muy largos, a pesar de que\nhayan eh noches de desvelo, a pesar de"
+    } ]
+  }, {
+    "tStartMs": 559760,
+    "dDurationMs": 5040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que tú digas, \"Jue madre, ya no doy más\npara tantas actividades.\""
+    } ]
+  }, {
+    "tStartMs": 564616,
+    "dDurationMs": 5384,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "[resoplido]\nEh ¿tuviste risa, lloro, algo?",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 567160,
+    "dDurationMs": 7600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Claro, mi etapa en Campus es algo muy\nlindo, si tú dices la oportunidad de",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 571920,
+    "dDurationMs": 6120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "repetirlo De volverla a vivir.\nlo volvería a vivir."
+    } ]
+  }, {
+    "tStartMs": 576240,
+    "dDurationMs": 5920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "¿Tomarías la misma decisión que tomaste\ncuando estuviste en esa época? Sí, sí,"
+    } ]
+  }, {
+    "tStartMs": 580720,
+    "dDurationMs": 4480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sí, claro. Volvería a tomar la misma\ndecisión."
+    } ]
+  }, {
+    "tStartMs": 583360,
+    "dDurationMs": 6200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "En sí, Campus ¿cómo te transformó como\npersona? No en el ámbito laboral, sino"
+    } ]
+  }, {
+    "tStartMs": 587040,
+    "dDurationMs": 6840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "como persona, como ser humano.\nAquí aprendí muchas cosas a nivel"
+    } ]
+  }, {
+    "tStartMs": 592160,
+    "dDurationMs": 5920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "técnico, por supuesto que sí, pero\ntambién a nivel em"
+    } ]
+  }, {
+    "tStartMs": 596520,
+    "dDurationMs": 4720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "personal, a nivel de habilidades\nblandas, porque Campus te te brinda ese"
+    } ]
+  }, {
+    "tStartMs": 600040,
+    "dDurationMs": 7040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "espacio.\nTe brinda eh la comunidad"
+    } ]
+  }, {
+    "tStartMs": 604880,
+    "dDurationMs": 7640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "en la que tú puedes desarrollarte, en la\nque tú puedes expresar lo que sientes y"
+    } ]
+  }, {
+    "tStartMs": 610240,
+    "dDurationMs": 7640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "también te brinda apoyo profesional,\nporque están las profesoras del SET que"
+    } ]
+  }, {
+    "tStartMs": 614880,
+    "dDurationMs": 8160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "son psicólogas, que están especializadas\nen eso y tú puedes buscar en ellas esa"
+    } ]
+  }, {
+    "tStartMs": 620560,
+    "dDurationMs": 9120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ayuda, ese apoyo de \"Venga, me está\npasando esto, ¿qué puedo hacer?\" Y es es"
+    } ]
+  }, {
+    "tStartMs": 625960,
+    "dDurationMs": 7440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "muy chévere vivir como todo ese proceso\nde crecimiento. Yo puedo decir que la"
+    } ]
+  }, {
+    "tStartMs": 631440,
+    "dDurationMs": 6360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Caroline que soy\no que soy hoy, no es la misma que hace"
+    } ]
+  }, {
+    "tStartMs": 636240,
+    "dDurationMs": 4000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "10 meses o\n12 meses."
+    } ]
+  }, {
+    "tStartMs": 638960,
+    "dDurationMs": 5400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Caro, ahorita mismo que estamos\nconmemorando este mes tan importante"
+    } ]
+  }, {
+    "tStartMs": 643000,
+    "dDurationMs": 5440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a las mujeres\nquiero como saber"
+    } ]
+  }, {
+    "tStartMs": 646160,
+    "dDurationMs": 5400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "por qué en este mundo tech hay ese\nestereotipo."
+    } ]
+  }, {
+    "tStartMs": 649880,
+    "dDurationMs": 7080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "O sea, ¿cómo podemos quitarle ese miedo\na las mujeres de poder"
+    } ]
+  }, {
+    "tStartMs": 653839,
+    "dDurationMs": 7041,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "empezar a desarrollar sus capacidades\ntécnicas en este mundo de la tecnología"
+    } ]
+  }, {
+    "tStartMs": 659240,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y la inteligencia artificial? Sí, es\ncierto. Hay un estereotipo muy grande"
+    } ]
+  }, {
+    "tStartMs": 664120,
+    "dDurationMs": 6760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "em\nen el mundo del desarrollo de software."
+    } ]
+  }, {
+    "tStartMs": 667960,
+    "dDurationMs": 9680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Generalmente se cree que que este mundo\ntecnológico le pertenece a los hombres o"
+    } ]
+  }, {
+    "tStartMs": 673800,
+    "dDurationMs": 8880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que em solamente los hombres tienen como\nestas capacidades y de hecho, pues se"
+    } ]
+  }, {
+    "tStartMs": 680040,
+    "dDurationMs": 7799,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vive actualmente en Campus. Hay muchos\nchicos, el 80% de los salones están"
+    } ]
+  }, {
+    "tStartMs": 685160,
+    "dDurationMs": 8760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "llenos de chicos y el 20% lo conforman\nmujeres. Lo que invito yo eh es como a"
+    } ]
+  }, {
+    "tStartMs": 691280,
+    "dDurationMs": 6840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "romper este estereotipo, a romper esa\nesa creencia que se tiene de que las"
+    } ]
+  }, {
+    "tStartMs": 696040,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mujeres no podemos programar o que las\nmujeres de pronto no pertenecemos a este"
+    } ]
+  }, {
+    "tStartMs": 700080,
+    "dDurationMs": 8840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mundo, porque eso es completamente\nfalso. Hay chicas programadoras que son"
+    } ]
+  }, {
+    "tStartMs": 704960,
+    "dDurationMs": 9040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "muy buenas y de hecho la madre de la\nprogramación, Ada Lovelace, bueno, ella"
+    } ]
+  }, {
+    "tStartMs": 711960,
+    "dDurationMs": 8160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "es la madre de la programación y es una\nmujer. Podemos eh mirar esta figura como"
+    } ]
+  }, {
+    "tStartMs": 717640,
+    "dDurationMs": 7600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "como una inspiración, como modelo a\nseguir. Y de verdad, empoderarnos y"
+    } ]
+  }, {
+    "tStartMs": 723120,
+    "dDurationMs": 6200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tomar ese estereotipo y romperlo, porque\ndefinitivamente no existe. Las mujeres"
+    } ]
+  }, {
+    "tStartMs": 726920,
+    "dDurationMs": 7360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "también somos capaces de conformar este\nmundo y de hecho, pues, aquí mismo lo"
+    } ]
+  }, {
+    "tStartMs": 731680,
+    "dDurationMs": 7480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "podemos observar. Este set está lleno de\nmujeres, todas trabajadoras y muy muy"
+    } ]
+  }, {
+    "tStartMs": 736840,
+    "dDurationMs": 6280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "berracas y y echadas para adelante y y\npues, chicas, muchísimas gracias por la"
+    } ]
+  }, {
+    "tStartMs": 741120,
+    "dDurationMs": 8160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "invitación a este podcast. De verdad que\nme lo disfruté mucho y y muchísimas"
+    } ]
+  }, {
+    "tStartMs": 746280,
+    "dDurationMs": 7080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "gracias, de verdad. Caro, yo creo que tú\nen este podcast actualmente eres ese"
+    } ]
+  }, {
+    "tStartMs": 751440,
+    "dDurationMs": 4680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ejemplo vivo de que una mujer puede\nlograr lo que se le propone en el mundo"
+    } ]
+  }, {
+    "tStartMs": 754800,
+    "dDurationMs": 7800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de la tecnología y la inteligencia\nartificial. Gracias. ¿Tú crees que"
+    } ]
+  }, {
+    "tStartMs": 758400,
+    "dDurationMs": 8680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Campus es capaz de ofrecerle eso a\nlas demás personas, a las demás mujeres"
+    } ]
+  }, {
+    "tStartMs": 765000,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que quieren como llegar a\nempoderarse y tener ese perfil"
+    } ]
+  }, {
+    "tStartMs": 769680,
+    "dDurationMs": 7280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tecnológico que tanto merecen?\nQué chévere que lo mencionas y muchas"
+    } ]
+  }, {
+    "tStartMs": 773920,
+    "dDurationMs": 7720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "gracias también. Eh, pues, claro. Y yo\nquiero hacerles la invitación a las"
+    } ]
+  }, {
+    "tStartMs": 779560,
+    "dDurationMs": 7279,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mujeres que de pronto tienen este\nestereotipo o a las personas en general"
+    } ]
+  }, {
+    "tStartMs": 783880,
+    "dDurationMs": 8000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que tienen este estereotipo de que un\nprogramador o alguien con conocimientos"
+    } ]
+  }, {
+    "tStartMs": 789480,
+    "dDurationMs": 6760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "en tecnología es solamente un hombre con\ncapacidades para hacer esto, porque esto"
+    } ]
+  }, {
+    "tStartMs": 794040,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "es falso, esto es completamente falso.\nEh, la invitación completamente es para"
+    } ]
+  }, {
+    "tStartMs": 798960,
+    "dDurationMs": 5640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de pronto esas personas que tienen\ndudas, esas mujeres que no saben si"
+    } ]
+  }, {
+    "tStartMs": 803200,
+    "dDurationMs": 5280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "incursionar en este mundo de la\ntecnología porque de pronto van a"
+    } ]
+  }, {
+    "tStartMs": 806640,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "encontrarse con con barreras o con\nestereotipos."
+    } ]
+  }, {
+    "tStartMs": 809960,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Chicas, nada, eh esto es súper una\noportunidad muy grande, son"
+    } ]
+  }, {
+    "tStartMs": 813920,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "oportunidades, puertas que se abren muy\ngrandes en el mundo de la tecnología."
+    } ]
+  }, {
+    "tStartMs": 818920,
+    "dDurationMs": 5360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Y\nromper ese estereotipo. Y me alegra"
+    } ]
+  }, {
+    "tStartMs": 822480,
+    "dDurationMs": 6200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mucho pertenecer a este mundo y por\nsupuesto que me encantaría ver a más"
+    } ]
+  }, {
+    "tStartMs": 826080,
+    "dDurationMs": 8320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mujeres haciendo parte de esto, haciendo\nparte de Campus llenando esos salones de"
+    } ]
+  }, {
+    "tStartMs": 831200,
+    "dDurationMs": 7640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "más chicas, de de más girls en el salón.\nSería espectacular, la verdad."
+    } ]
+  }, {
+    "tStartMs": 836400,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Bueno, más que todo les agradezco mucho\na los oyentes por escuchar nuestro"
+    } ]
+  }, {
+    "tStartMs": 840760,
+    "dDurationMs": 9440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "primer capítulo de The Human Code.\nEsperamos que compartan, nos sigan y"
+    } ]
+  }, {
+    "tStartMs": 845360,
+    "dDurationMs": 4840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tenerlos otro día más. Muchas gracias."
+    } ]
+  } ]
+}

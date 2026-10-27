@@ -1,0 +1,130 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  }, {
+    "mhModeHint": 2,
+    "juJustifCode": 0,
+    "sdScrollDir": 3
+  } ],
+  "wpWinPositions": [ {
+  
+  }, {
+    "apPoint": 6,
+    "ahHorPos": 20,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  } ],
+  "events": [ {
+    "tStartMs": 0,
+    "id": 1,
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 280,
+    "dDurationMs": 7559,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Hola soy Diego tarazona uno de los\ncofundadores de campus l campus l es un",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 5640,
+    "dDurationMs": 5919,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "centro de entrenamiento para el futuro\ndonde buscamos desarrollar habilidades",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 9480,
+    "dDurationMs": 8320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "digitales como la programación en\njóvenes talentos desde los 16 años para",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 14480,
+    "dDurationMs": 9119,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que de manera intensiva en solo un año\npuedan asegurar un buen trabajo y un",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 20920,
+    "dDurationMs": 7519,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "buen salario Y esa forma en el corto\ntiempo 5 o 6 años sean los futuros",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 26480,
+    "dDurationMs": 7040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "emprendedores de nuestro país y en\ncampan estamos ados en la base de la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 31560,
+    "dDurationMs": 7760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pirámide el 80% de la población de\nnuestro país es estrato 1 2s y TR y solo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 36800,
+    "dDurationMs": 8040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tres jóvenes de 10 que se gradúan de su\ncolegio terminan la educación superior y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 42480,
+    "dDurationMs": 7880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "aquellos siete que no van a la educación\nsuperior Estamos dándole la posibilidad",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 47160,
+    "dDurationMs": 8120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "en nuestro Campus de formarse en\nhabilidades vitales como la programación",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 52440,
+    "dDurationMs": 10119,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "para que transformen su vida y en solo 3\naños puedan dar un salto social y puedan",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 58239,
+    "dDurationMs": 4320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "salir de la base de la pirámide al",
+      "acAsrConf": 0
+    } ]
+  } ]
+}

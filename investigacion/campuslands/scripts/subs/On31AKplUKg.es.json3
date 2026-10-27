@@ -1,0 +1,130 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  }, {
+    "mhModeHint": 2,
+    "juJustifCode": 0,
+    "sdScrollDir": 3
+  } ],
+  "wpWinPositions": [ {
+  
+  }, {
+    "apPoint": 6,
+    "ahHorPos": 20,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  } ],
+  "events": [ {
+    "tStartMs": 0,
+    "id": 1,
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 760,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Mucho gusto. Mi nombre es Alejandra\nMachuca Molina, tengo 18 años y nací en",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 6000,
+    "dDurationMs": 5840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "la ciudad de Cúcuta, donde he vivido\ntoda mi vida. Eh, me enteré del programa",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 9960,
+    "dDurationMs": 8000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de Campus al Tibú por medio de un\nfamiliar quien me motivó a presentar la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 14639,
+    "dDurationMs": 7761,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "prueba que inesperadamente pasé. Ah, en\nel año 2023 me gradué del colegio con",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 20480,
+    "dDurationMs": 6360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "una técnica en el área de recursos\nhumanos, así que nunca imaginé que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 24920,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "terminaría estudiando desarrollo de\nsoftware con un campus LS, quien me ha",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 29199,
+    "dDurationMs": 7040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ayudado a avanzar mucho tanto como\npersona como mis conocimientos, ya que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 33840,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cuando llegué aquí eh no tenía\nconocimiento alguno sobre la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 37640,
+    "dDurationMs": 7840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "programación y siento que hasta el día\nde hoy eh mi avance ha sido eh grande y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 43840,
+    "dDurationMs": 6399,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "significativo.\nQuiero continuar en este ámbito, ya que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 48199,
+    "dDurationMs": 7360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "siento que tiene un gran avance\ntecnológico",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 51760,
+    "dDurationMs": 3799,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y bueno, a futuro.",
+      "acAsrConf": 0
+    } ]
+  } ]
+}

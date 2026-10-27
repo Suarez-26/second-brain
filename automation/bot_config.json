@@ -1,0 +1,16 @@
+{
+  "_comentario": "Configuración del Bot Interactivo de Claude en WhatsApp",
+  "modo_prospectos": "copiloto",
+  "_modos_validos": [
+    "copiloto: cuando escribe un contacto/prospecto, Claude te envía el borrador a tu propio chat de WhatsApp y lo envía cuando respondes 'Enviar'",
+    "auto: Claude responde automáticamente a los contactos en chats individuales (o los listados en chats_prospectos) usando prospectos/base-de-conocimiento.md",
+    "off: solo responde cuando tú chateas con Claude en tu propio chat o usas @claude"
+  ],
+  "atender_todos_chats_individuales": true,
+  "chats_prospectos": [],
+  "chats_ignorados": [],
+  "prefijo_respuesta_bot": "🤖 *Claude:*",
+  "activar_en_chat_propio_sin_prefijo": true,
+  "prefijos_comando": ["@claude", "/claude", "claude:"],
+  "modelo_anthropic": "claude-sonnet-4-20250514"
+}

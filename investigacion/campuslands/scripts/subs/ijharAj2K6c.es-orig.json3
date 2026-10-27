@@ -1,0 +1,98 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  }, {
+    "mhModeHint": 2,
+    "juJustifCode": 0,
+    "sdScrollDir": 3
+  } ],
+  "wpWinPositions": [ {
+  
+  }, {
+    "apPoint": 6,
+    "ahHorPos": 20,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  } ],
+  "events": [ {
+    "tStartMs": 0,
+    "id": 1,
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1319,
+    "dDurationMs": 5881,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Hola, mi nombre es Valentina Molina.\nNací en el municipio de Ríegro en el",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 5080,
+    "dDurationMs": 8280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "departamento de Antioquia, municipio del\ncual mi familia decide desplazarse hacia",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 9679,
+    "dDurationMs": 7721,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Tibú eh en el Catatumbo. En este\nmunicipio he podido desarrollar mis",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 14879,
+    "dDurationMs": 8961,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "habilidades como líder y gracias a este\nproceso conocí al proyecto de Campulas",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 20000,
+    "dDurationMs": 8400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Tibú. En este en este proyecto entré sin\nningún conocimiento en programación o en",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 26080,
+    "dDurationMs": 7840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "alguna otra tecnología. Gracias a sus\nformadores, a sus coordinadores y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 30720,
+    "dDurationMs": 8920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "trainers, he podido mejorar muchísimo\nmás mis habilidades de desarrolladora de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 37160,
+    "dDurationMs": 5879,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "software. Gracias a esto, mi vida ha\ndado un rumbo muy diferente.",
+      "acAsrConf": 0
+    } ]
+  } ]
+}

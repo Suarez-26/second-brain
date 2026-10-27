@@ -1,0 +1,321 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  }, {
+    "mhModeHint": 2,
+    "juJustifCode": 0,
+    "sdScrollDir": 3
+  } ],
+  "wpWinPositions": [ {
+  
+  }, {
+    "apPoint": 6,
+    "ahHorPos": 20,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  } ],
+  "events": [ {
+    "tStartMs": 0,
+    "id": 1,
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1240,
+    "dDurationMs": 7320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Desde mediados del mes de abril, la\norganización Campus Land dio inicio en"
+    } ]
+  }, {
+    "tStartMs": 5920,
+    "dDurationMs": 8200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "San Gil de unas ofertas académicas para\njóvenes. Esto gracias a un convenio"
+    } ]
+  }, {
+    "tStartMs": 11240,
+    "dDurationMs": 8120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "entre esta institución y Cajasan.\nEstamos muy contentos. Eh, el modelo"
+    } ]
+  }, {
+    "tStartMs": 16800,
+    "dDurationMs": 7240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Campus Land es un modelo que lleva unos\naños en el área metropolitana de"
+    } ]
+  }, {
+    "tStartMs": 21080,
+    "dDurationMs": 7160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Bucaramanga, en la zona franca. Es el\nmodelo más exitoso de educación que ha"
+    } ]
+  }, {
+    "tStartMs": 25880,
+    "dDurationMs": 8440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "existido en los últimos años en la\nregión y en Colombia. Eh, en donde van"
+    } ]
+  }, {
+    "tStartMs": 30720,
+    "dDurationMs": 10520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "muchachos desde los 16 años, 17, 18 y 19\naños a estudiar lenguaje de programación"
+    } ]
+  }, {
+    "tStartMs": 37920,
+    "dDurationMs": 9320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "en un periodo de 10 a 12 meses\ny con una empleabilidad del 90%, es"
+    } ]
+  }, {
+    "tStartMs": 43960,
+    "dDurationMs": 7640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "decir, tenemos muchachos de estratos 1,\n2 y 3 que tienen una oportunidad para"
+    } ]
+  }, {
+    "tStartMs": 50160,
+    "dDurationMs": 5560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "estudiar\ny al año empezar a recibir ingresos"
+    } ]
+  }, {
+    "tStartMs": 53920,
+    "dDurationMs": 8200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "superiores a 2 millones, 2 millones\n500.000 pesos. Es un modelo que ha sido"
+    } ]
+  }, {
+    "tStartMs": 58920,
+    "dDurationMs": 7800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "eh felicitado por visitantes en todo el\nmundo. Es la vitrina de Bucaramanga en"
+    } ]
+  }, {
+    "tStartMs": 64440,
+    "dDurationMs": 5960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "estos momentos y nosotros como junta\ndirectiva y como empresarios acá en en"
+    } ]
+  }, {
+    "tStartMs": 69040,
+    "dDurationMs": 6040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "San Gil tuvimos la posibilidad de\nconocer este modelo hace un año"
+    } ]
+  }, {
+    "tStartMs": 72560,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "larguito. Estuvimos con el gestor, Diego\nTarazona y con todo este equipo allá en"
+    } ]
+  }, {
+    "tStartMs": 76760,
+    "dDurationMs": 7320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Bucaramanga y tuvimos un anhelo en\nnuestro corazón y con un propósito de"
+    } ]
+  }, {
+    "tStartMs": 81720,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "entregarle a la región conocimiento,\noportunidades laborales. Son muchachos"
+    } ]
+  }, {
+    "tStartMs": 86400,
+    "dDurationMs": 8480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que se emplean con organizaciones en\nEuropa, en Estados Unidos, en América"
+    } ]
+  }, {
+    "tStartMs": 90480,
+    "dDurationMs": 9480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Latina, en Colombia y decíamos, San Gil,\nla región merece poder traer este"
+    } ]
+  }, {
+    "tStartMs": 96840,
+    "dDurationMs": 7360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "modelo. Hoy estamos muy contentos porque\nel modelo se va a aperturar acá en San"
+    } ]
+  }, {
+    "tStartMs": 101880,
+    "dDurationMs": 6440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Gil gracias a esa alianza que se hace\ncon Cajasan, quienes primero tienen"
+    } ]
+  }, {
+    "tStartMs": 107040,
+    "dDurationMs": 5680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "estas instalaciones en el centro\ncomercial El Puente, segundo, han sido"
+    } ]
+  }, {
+    "tStartMs": 110600,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "aliados estratégicos de Campus Land por\nmuchos años en Bucaramanga con muchos"
+    } ]
+  }, {
+    "tStartMs": 115000,
+    "dDurationMs": 7280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "becados. Estas ofertas cuentan con\nalgunas becas para afiliados de caja San"
+    } ]
+  }, {
+    "tStartMs": 119880,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Gil en la región. Uno de los requisitos\nes ser afiliado a caja San"
+    } ]
+  }, {
+    "tStartMs": 124760,
+    "dDurationMs": 6120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Son los beneficiarios de esos\ntrabajadores que están en las empresas"
+    } ]
+  }, {
+    "tStartMs": 127960,
+    "dDurationMs": 10120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "afiliadas, son los hijos de ellos que\ntienen edades entre 17 años, 11 meses o"
+    } ]
+  }, {
+    "tStartMs": 134680,
+    "dDurationMs": 7200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "los cónyuges entre 18 años hasta 32\naños. Ellos son los que pueden"
+    } ]
+  }, {
+    "tStartMs": 139800,
+    "dDurationMs": 7120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "participar de estas becas 100%\nsubsidiadas acá en nuestras nuevas"
+    } ]
+  }, {
+    "tStartMs": 144400,
+    "dDurationMs": 7800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "instalaciones de caja San parque San Gil\nen este laboratorio de tecnología donde"
+    } ]
+  }, {
+    "tStartMs": 149080,
+    "dDurationMs": 8560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tenemos equipos bastante avanzados en\ntecnología para todos los requisitos que"
+    } ]
+  }, {
+    "tStartMs": 155000,
+    "dDurationMs": 7200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "se requieren para esta formación por\ncompetencias en desarrollo de software"
+    } ]
+  }, {
+    "tStartMs": 159400,
+    "dDurationMs": 6600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que acaba de llegar a San Gil. Eh\ntambién eh es son clases 100%"
+    } ]
+  }, {
+    "tStartMs": 164600,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "presenciales acá en nuestras\ninstalaciones. La idea es que vengan y"
+    } ]
+  }, {
+    "tStartMs": 168720,
+    "dDurationMs": 6920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "participen, se inscriban y se postulen.\nTambién dentro de la alianza, dentro del"
+    } ]
+  }, {
+    "tStartMs": 172480,
+    "dDurationMs": 9360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "objeto de de esta alianza es que Campus\nLand nos ayuda a a promocionar y a"
+    } ]
+  }, {
+    "tStartMs": 179080,
+    "dDurationMs": 8200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "convocar y a captar estos estudiantes\negresados de esta formación en otras"
+    } ]
+  }, {
+    "tStartMs": 184519,
+    "dDurationMs": 6121,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "empresas, en empresas pues que puedan ir\na aplicar todos los conocimientos que"
+    } ]
+  }, {
+    "tStartMs": 189040,
+    "dDurationMs": 5360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tienen y y pueden adquirir en este\nprograma. Entonces hace parte de la"
+    } ]
+  }, {
+    "tStartMs": 192160,
+    "dDurationMs": 8160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "captación y la retención laboral para\nque ellos puedan tener esa experiencia"
+    } ]
+  }, {
+    "tStartMs": 197760,
+    "dDurationMs": 6600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "en esas empresas y pues de esa manera se\ngenera mejor productividad laboral."
+    } ]
+  } ]
+}

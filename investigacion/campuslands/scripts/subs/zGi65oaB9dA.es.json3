@@ -1,0 +1,2222 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  }, {
+    "mhModeHint": 2,
+    "juJustifCode": 0,
+    "sdScrollDir": 3
+  } ],
+  "wpWinPositions": [ {
+  
+  }, {
+    "apPoint": 6,
+    "ahHorPos": 20,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  } ],
+  "events": [ {
+    "tStartMs": 0,
+    "id": 1,
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1480,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "[Música]"
+    }, {
+      "utf8": "\najusta el volumen Y prepárate para",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 5160,
+    "dDurationMs": 7280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "embarcarte en un viaje al universo\n[Música]",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 9599,
+    "dDurationMs": 9001,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "digital conversaciones tick un podcast\nde vanguardia en el que exploramos las",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 14559,
+    "dDurationMs": 4041,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tendencias y hablamos con expertos en",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 22119,
+    "dDurationMs": 8920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tecnología conectividad rural desarrollo\ndel agro a través de apli int dejarle el",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 28480,
+    "dDurationMs": 6520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "miedo a la tecnología para conectividad\nhay múltiples oportunidades hay que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 32520,
+    "dDurationMs": 9640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "buscar in la formación tecnológica para\ntodo tipo de personas no importa la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 37879,
+    "dDurationMs": 4281,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "edad vanguardia",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 43000,
+    "dDurationMs": 7399,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "podcast 10 expertos se dieron cita el\npasado Viernes 13 de octubre en el",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 48360,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "auditorio de Neo mundo el centro de\neventos y convenciones de bucaramanga",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 52399,
+    "dDurationMs": 7561,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "para hablar de conectividad Educación\ndigital habilidades y herramientas",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 57160,
+    "dDurationMs": 7279,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "digitales oportunidades laborales y ex\nestrategias tecnológicas del gobierno",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 62199,
+    "dDurationMs": 7001,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Nacional los invitados hicieron parte\ndel foro Cómo la tecnología potenciará a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 67000,
+    "dDurationMs": 5799,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "la economía popular y las pymes un\nevento del Ministerio de tecnologías de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 71040,
+    "dDurationMs": 7160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "la información y las comunicaciones\nmintic organizado por vanguardia en este",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 76159,
+    "dDurationMs": 7161,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "episodio me estuvo acompañando mi colega\nmarwin Tavera Bienvenido marwin a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 80799,
+    "dDurationMs": 6721,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "conversaciones tic Hola Fernanda Gracias\npor invitarme a tu podcast bueno para",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 85920,
+    "dDurationMs": 6159,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "nosotros es un placer tenerte acá para\nquienes nos escuchan para mí Gracias por",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 89320,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "acompañar en este podcast y precisamente\nquiero hablarte de ese evento en el que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 93720,
+    "dDurationMs": 6039,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tú estuviste y que fuiste encargado de\nacompañar a los invitados durante toda",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 97600,
+    "dDurationMs": 6040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "la jornada que tuvimos cuéntanos cómo\nles pareció el Foro qué te llamó la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 101399,
+    "dDurationMs": 7201,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "atención realmente Fer a mí me pareció\nun foro muy enriquecedor mostró Cómo la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 105960,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tecnología se está convirtiendo en ese\nmotor de desarrollo de las pequeñas y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 110680,
+    "dDurationMs": 5960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "medianas empresas y como también desde\nel Ministerio de las tic se están",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 114439,
+    "dDurationMs": 6081,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "generando las herramientas necesarias\npara esa transformación bueno y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 118680,
+    "dDurationMs": 6600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "precisamente todos estos apuntes que nos\nestás dando vamos a conocer algunas de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 122880,
+    "dDurationMs": 6760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "esas experiencias en este episodio Sí\nFer y precisamente Esa fue la pregunta",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 127240,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que le hice a cada uno de ellos así que\nen esta oportunidad escucharemos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 131280,
+    "dDurationMs": 7039,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "diferentes versiones desde cada una de\nsus perspectivas sobre las temáticas",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 135879,
+    "dDurationMs": 8321,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "charlados en este evento que construye\npaís bueno marwin sin más preámbulos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 140760,
+    "dDurationMs": 3440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Comencemos con nuestro primer",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 145319,
+    "dDurationMs": 8441,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "invitado bueno Soy Gabriel Jurado\nviceministro de conectividad Ministerio",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 150319,
+    "dDurationMs": 8840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de las tic muy complacido estar eh esta\nmañana en este importante foro con",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 156040,
+    "dDurationMs": 7360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vanguardia se han discutido puntos bien\ninteresantes pero absolutamente",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 160840,
+    "dDurationMs": 6920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "relevantes para pensar en que la\ntecnología que cambia las vidas no es",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 165280,
+    "dDurationMs": 6520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "solamente para los grandes conglomerados\nempresariales sino es para la gente del",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 169560,
+    "dDurationMs": 6959,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "común para las pymes para el ciudadano\nde a pie buenas tardes Mi nombre es Raúl",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 174200,
+    "dDurationMs": 9319,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Castellano soy director de economía\ndigital del Ministerio de las tic mi rol",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 180720,
+    "dDurationMs": 6040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "principal es implementar tecnología en\nlos procesos de distribución y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 185360,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "producción\nde del sector productivo estuviste",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 190239,
+    "dDurationMs": 5881,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "dictando un taller de hecho en el Foro\nqué te quedó de ese taller qué puedes",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 194000,
+    "dDurationMs": 7400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "decir bueno no el taller que estaba\ndictando Ahora son los componentes para",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 198360,
+    "dDurationMs": 7200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "una ruta de economía digital dentro de\nesos tres componentes definitivamente",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 203799,
+    "dDurationMs": 6360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pues es el desarrollo de las habilidades\ndigitales de los colombianos es la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 208120,
+    "dDurationMs": 5679,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "transformación de la economía popular y\nlas mipymes y sobre todo el",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 211720,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "fortalecimiento de la industria ti que\nla componen los videojuegos y todo el",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 215680,
+    "dDurationMs": 8639,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tema de desarrollo de programadores Hola\nSoy Diego tarazona y soy uno de los",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 220360,
+    "dDurationMs": 9000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cofundadores de campus l campus l es un\ncentro de entrenamiento donde buscamos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 226840,
+    "dDurationMs": 7800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "desarrollar habilidades digitales en los\njóvenes desde temprana edad Hoy estamos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 232200,
+    "dDurationMs": 5399,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "abiertos para jóvenes desde los 16 años\ndonde buscamos desarrollar es",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 235879,
+    "dDurationMs": 8401,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "habilidades tales como la programación\npero no solamente la programación en",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 239959,
+    "dDurationMs": 8560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "muchas otras y que en el corto tiempo en\nsolo un año puedan estar conectados",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 246000,
+    "dDurationMs": 6519,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "laboralmente Miguel Guillermo Sarmiento\nsecretario tic del departamento de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 250239,
+    "dDurationMs": 7840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Santander la secretaría tic del\ndepartamento de Santander tiene tres",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 255560,
+    "dDurationMs": 6280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "frentes de trabajo entre toda su\nmisionalidad una de ellas tiene que ver",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 260199,
+    "dDurationMs": 7201,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "con todo el tema de brecha digital de\nlas TIC en la sociedad otro tema tiene",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 265400,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que ver con lo que es ciencia tecnología\ne Innovación en el departamento y y otro",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 270400,
+    "dDurationMs": 6200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tema tiene que ver con lo que es\ngobierno digital para prestar mejores",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 274520,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "servicios ciudadanos Bueno mi nombre es\nHenry Fernández pinto yo soy",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 279080,
+    "dDurationMs": 7440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "investigador\nde de la Universidad de desarrollo e",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 283080,
+    "dDurationMs": 9640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "investigación laudi eh Y también soy\nempresario este evento estuvo muy",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 289560,
+    "dDurationMs": 8720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Dinámico hay una construcción social\nbastante interesante me gustó porque",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 295240,
+    "dDurationMs": 7519,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "desde múltiples perspectivas eh se\nconstruye con conocimiento socialmente y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 300800,
+    "dDurationMs": 8720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "eso es super relevante porque eso no\nocurre normalmente en la sociedad no soy",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 306800,
+    "dDurationMs": 7640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "José Murillo director general de la\nagencia de publicidad genoma la agencia",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 312280,
+    "dDurationMs": 6359,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "en bucaramanga con 21 años de\nexperiencia desarrollando marcas locales",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 317120,
+    "dDurationMs": 4519,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "regionales\nnacionales nuestro enfoque como agencia",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 320800,
+    "dDurationMs": 5239,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de\npublicidad se desarrolla con cinco",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 323720,
+    "dDurationMs": 8160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "unidades de negocio branding es todo el\ntema de marca marketing en estrategias",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 328960,
+    "dDurationMs": 7079,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "packaging con el desarrollo de identidad\nde producto tema de film con",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 334240,
+    "dDurationMs": 5440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "producciones ligeras para todo el\ncontenido digital y eh nuestra unidad",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 338560,
+    "dDurationMs": 5680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "interactiva que se encarga de\ndesarrollar todo el tema de formatos de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 341560,
+    "dDurationMs": 5440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "landing page páginas web Y por supuesto\nla administración de social media todos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 345919,
+    "dDurationMs": 7241,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "los canales digitales de nuestros\nanunciantes Hola Yo soy Luis Núñez soy",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 350400,
+    "dDurationMs": 7160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "profesor de de física de la escuela de\nfísica acá en la universidad industrial",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 354960,
+    "dDurationMs": 11320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de Santander durante muchos años muchos\naños son cerca de 15 a 20 años he",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 362520,
+    "dDurationMs": 8880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "dedicado bastante energía a construir\nredes al cableado a la a la razón",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 370039,
+    "dDurationMs": 7041,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "fundamental de este foro que es la\nconectividad soy Alejandro Rodríguez de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 374199,
+    "dDurationMs": 7400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "galápago agroconsultores eh nosotros\ntenemos la aplicación galap que busca",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 379440,
+    "dDurationMs": 7599,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "transformar el agro a partir de los de\nlos datos en este momento nuestros",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 384280,
+    "dDurationMs": 8520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "clientes son cooperativas federaciones y\ntambién eh empresas de agroinsumos eh",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 390280,
+    "dDurationMs": 7880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que tienen fuerza de venta en campo Hola\nsoy Verónica chahín Ortiz eh actualmente",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 395759,
+    "dDurationMs": 6961,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "me desempeño como jefe de planeación en\nla universidad Cooperativa de Colombia y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 400160,
+    "dDurationMs": 7240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a la vez laboro como asesora de\nproyectos de base tecnológica en la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 405080,
+    "dDurationMs": 7320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "estrategia ucc emprende en el marco de\nimpulsa Colombia eh soy ingeniera de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 409880,
+    "dDurationMs": 6120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sistemas de profesión eh magister en\ngestión aplicación y desarrollo de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 413720,
+    "dDurationMs": 5120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "software actualmente curso mi doctorado\nen ingeniería en la línea de informática",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 417800,
+    "dDurationMs": 3720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "en la Universidad Autónoma de\nbucaramanga",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 421759,
+    "dDurationMs": 9801,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "yo creo que una de las cosas que uno eh\nsiente en terreno cuando va a visitar",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 426840,
+    "dDurationMs": 10759,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "esa Colombia eh A veces olvidada eh y\nencuentra eh la conectividad por primera",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 434840,
+    "dDurationMs": 7000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vez es esa alegría de la gente del poder\nentrar a un aparato y poder entrar con",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 439759,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "una tablet un computador a una página de\ninternet eso produce una inmensa alegría",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 444440,
+    "dDurationMs": 5759,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "porque es Conectar a la gente yo creo\nque el reto más grande que tenemos hoy",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 448080,
+    "dDurationMs": 7000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "en el gobierno nacional es conectar al\nmás del 85 por de nuestra poción en",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 452960,
+    "dDurationMs": 5320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "conexiones de internet de banda ancha\nporque la verdad y lo hemos dicho y se",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 456639,
+    "dDurationMs": 6321,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pudo ver aquí en el foro hoy con todas\nestas discusiones que vimos es la única",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 460840,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "manera como vamos a cambiar la historia\nde pobreza de muchos colombianos y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 465159,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "colombianas que en zonas muy alejadas\nestán completamente aisladas porque",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 469520,
+    "dDurationMs": 5359,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "históricamente nunca han tenido la\nposibilidad de inclusión estamos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 472759,
+    "dDurationMs": 5601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "trabajando desde lo que es nuestro rol\nen la gobernación tanto con la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 476479,
+    "dDurationMs": 6680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "secretaría de competitividad con la\nsecretaría de educación la secretaría",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 480280,
+    "dDurationMs": 7080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tic estamos trabajando en potenciar esas\ncapacidades que hay en la región sobre",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 484960,
+    "dDurationMs": 6799,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "todo en la provincia en donde estamos\nllevando conectividad estamos llevando",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 489479,
+    "dDurationMs": 6881,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "equipos estamos llevando formación\nestamos llevando formación a docentes",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 493879,
+    "dDurationMs": 8401,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "estamos llevando recursos de última\ntecnología impresoras 3D equipos con",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 499599,
+    "dDurationMs": 6761,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "acceso a la nube de Google todo ese tipo\nde cosas son los recursos que los",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 504199,
+    "dDurationMs": 6041,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "docentes utilizan y que los niños están\naprovechando muy bien y lo que uno ve",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 508360,
+    "dDurationMs": 6840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "son cosas extraord\nque les ayudan a resolver problemas",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 512120,
+    "dDurationMs": 8599,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "reales de los niños y de su familia en\nel campo etcétera la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 517479,
+    "dDurationMs": 9081,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "conectividad es importante indispensable\nestá bien pero eso es lo más fácil sea",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 523880,
+    "dDurationMs": 9800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "con todas las dificultades técnicas que\neso involucra pero lo más difícil es que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 531120,
+    "dDurationMs": 7399,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "esas comunidades apropien la tecnología\nse apropien y la utilicen es decir",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 536920,
+    "dDurationMs": 6800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "después que tú le llegas con la señal de\ncelular no lo vamos a dejar viendo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 541279,
+    "dDurationMs": 7000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tiktok después que tú le llegas con la\nseñal de celular tiene que haber",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 545519,
+    "dDurationMs": 8241,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "emprendimiento tiene que\nenseñarle y y compartir con ellos que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 551640,
+    "dDurationMs": 6759,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "los productos que ellos tienen tienen\nuna oportunidad Cómo monto un portal",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 555880,
+    "dDurationMs": 7000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "para turismo Cómo atraigo es decir hay\nuna serie de otras actividades que hay",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 560959,
+    "dDurationMs": 9601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que desarrollarlas en paralelo es esa\ninterconexión en la que estamos ahora",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 567279,
+    "dDurationMs": 9161,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que de alguna manera nos hace\ne visibles a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 573160,
+    "dDurationMs": 8239,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "todos interconectados a todos\norganizaciones nosotros como seres",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 578519,
+    "dDurationMs": 9601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "humanos como sujetos Entonces digamos\nque esa interconexión que es muy",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 584560,
+    "dDurationMs": 7880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "valiosa puede ser eh utilizada para\ncrecer exponencialmente como sociedad",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 590320,
+    "dDurationMs": 7160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "importante todo lo que se plantea acerca\nde de cómo vamos a interconectar todas",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 594920,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "esas zonas Rurales importante todo el\ntema de cómo vamos a llevar educación",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 599440,
+    "dDurationMs": 7160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "digital a los colegios eh Y a las\nescuelas en la ruralidad porque",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 603800,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "definitivamente uno se da cuenta que que\nque muchos de estos niños están",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 608000,
+    "dDurationMs": 6959,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "excluidos de lo que los niños en en\náreas urbanas o en colegios dentro del",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 612720,
+    "dDurationMs": 8280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "del área metropolitana en el caso de\nbucaramanga se están perdiendo eh Son",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 618000,
+    "dDurationMs": 7640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "niños que por no tener conexión puede\nque estén digamos así Un paso atrás y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 623760,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "esa brecha digital que existe y esas\noportunidades que se abren para los",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 627640,
+    "dDurationMs": 6639,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "chicos de ciudad se están viendo un poco\nrestringidas para ellos Entonces muy",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 631560,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "importante este tema de de conectar\nestas zonas Rurales y llevar la conexión",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 636320,
+    "dDurationMs": 4720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a las escuelas a los colegios y demás\npero por el otro lado el ministro",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 639480,
+    "dDurationMs": 7120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hablaba de aumentar la cobertura para\ngarantizar que el Internet llegue a más",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 643079,
+    "dDurationMs": 8200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "personas y lo haga 724 que sea de manera\nfrecuente y además",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 648680,
+    "dDurationMs": 7279,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ininterrumpida yo pienso que ahí Ese es\nel el mensaje importante que me llevaría",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 653360,
+    "dDurationMs": 8960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de este foro que se está pensando que\ncon la llegada de la tecnología 5g y con",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 659480,
+    "dDurationMs": 7320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "la cobertura ampliada no solamente a las\náreas metropolitanas sino a los sectores",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 664079,
+    "dDurationMs": 8440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Rurales se pueda garantizar que la\nconectividad sea permanente para esa",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 668920,
+    "dDurationMs": 9359,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "economía popular conectividad es el\ncamino de la transformación de Vidas",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 674760,
+    "dDurationMs": 7519,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "conectividad es el reto de los\nsiguientes 20 años de nuestro",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 684160,
+    "dDurationMs": 8840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "país Yo creo que hay una una un mensaje\nque que que quiero dejarle a a la gente",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 689800,
+    "dDurationMs": 7159,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y es la conectividad transforma la vida\nla conectividad no es solamente para",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 694480,
+    "dDurationMs": 6760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "estar pegado al WhatsApp o al Face o al\ntiktok o al Instagram claro eso son",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 699120,
+    "dDurationMs": 5680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "redes sociales agradables entretenidas y\nla pasa uno bueno oyendo el chisme pero",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 703440,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "realmente la gran magia de la\nconectividad es que nos pueda enseñar Y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 707120,
+    "dDurationMs": 8120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que además de ese de ese aprender de ese\nconocimiento podamos emprender aprender",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 712720,
+    "dDurationMs": 8119,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "para emprender Y eso es básicamente lo\nque lleva a la gente a que realmente",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 718200,
+    "dDurationMs": 6680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pueda cambiar sus condiciones económicas\npor eso la invitación es a que cualquier",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 722920,
+    "dDurationMs": 8039,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "duda cualquier información consulte la\npágina del Ministerio de las tic",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 728360,
+    "dDurationMs": 7400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ww\nmintic.gov.co y Allí están todas las",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 733360,
+    "dDurationMs": 6680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ofertas institucionales este gobierno se\nha propuesto la meta de capacitar en",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 737320,
+    "dDurationMs": 7400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "habilidades digitales a más de un millón\nde personas completamente gratis y la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 742480,
+    "dDurationMs": 7000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "gente no tiene que saber absolutamente\nnada puede ser una persona como decimos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 747079,
+    "dDurationMs": 5801,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "en el en el medio analfabeta digital que\ntan solo sepa prender el computador y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 751000,
+    "dDurationMs": 5920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "entrar su correo y no más O puede que ni\nsiquiera lo sepa para todos Hay niveles",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 755199,
+    "dDurationMs": 5880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "como puede ser un muchacho que ya haya\nhecho varios de los cursos que se han",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 758639,
+    "dDurationMs": 7681,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ofrecido en programación en analítica de\ndatos en software en en códigos fuente",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 764079,
+    "dDurationMs": 7000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "códigos base pues ese muchacho como ya\nestá más avanzado puede seguir avanzando",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 768519,
+    "dDurationMs": 7081,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "es decir hay parrilla académica para\ntodas las capacidades de los colombianos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 774199,
+    "dDurationMs": 6121,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Y esa es la invitación para que de\nverdad con conectividad y con tecnología",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 777959,
+    "dDurationMs": 6680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "podamos transformar la vida tos me quedé\nmuy sorprendido con las preguntas que me",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 782240,
+    "dDurationMs": 5640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hizo el público público Vuelvo y repito\nmuy joven donde tienen unos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 786360,
+    "dDurationMs": 7080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "prendimientos donde entienden\nperfectamente Cuáles son las beneficios",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 790920,
+    "dDurationMs": 5440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "desde la tecnología y sobre todo pues\nque estén muy atentos y están muy",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 794959,
+    "dDurationMs": 5120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "interesados a todo lo que estemos\nhaciendo en el Ministerio porque eso nos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 797959,
+    "dDurationMs": 5761,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "da a entender de que el trabajo tiene\nque seguir siendo fuerte y tiene que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 801600,
+    "dDurationMs": 6120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "estar siendo muy alineado con las con\nlas regiones estamos en la cuarta",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 805720,
+    "dDurationMs": 7760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Revolución y esta Revolución apenas nace\nEntonces yo creería dos consejos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 809760,
+    "dDurationMs": 7680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "principales el primero es a los 17 años\ncuando uno está ingresando a la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 814920,
+    "dDurationMs": 8039,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "universidad muy difícilmente tiene claro\nqué quiere y y y es difícil tenerlo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 820440,
+    "dDurationMs": 8000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "claro de pronto uno tiene ideas pero\npero pero es difícil entonces primero es",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 825600,
+    "dDurationMs": 7720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "si no están seguros de lo que de lo que\nvan a estudiar piénsenlo bien porque lo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 831800,
+    "dDurationMs": 6360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que van a estudiar es de lo que van a\nvivir los siguientes 40 años y eso que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 835519,
+    "dDurationMs": 7320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "van a hacer les puede cambiar la vida\npero con pasión o sin pasión entonces",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 840199,
+    "dDurationMs": 8320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "piénselo bien y lo segundo es lo que\ndecían estudiar traten de llevarlo a a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 845720,
+    "dDurationMs": 8359,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "lo que el mundo va a necesitar y es la\nrevolución la cuarta Revolución",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 850440,
+    "dDurationMs": 9120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Industrial La industrias t Entonces yo\nlos aconsejo a es a que estudien lo que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 856880,
+    "dDurationMs": 7160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "el futuro va a necesitar la verdad cada\nfrente es un reto Pero tenemos unos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 862040,
+    "dDurationMs": 5599,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "proyectos en la gobernación de Santander\nmuy lindos uno de ellos tiene que ver",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 865839,
+    "dDurationMs": 6761,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "con el fomento a vocaciones en ciencia\ntecnología e Innovación que es un",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 869560,
+    "dDurationMs": 9000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "proyecto que estamos ejecutando llevamos\ncerca de 3 cu meses ya en ejecución",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 876680,
+    "dDurationMs": 9440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "estamos impactando una población de más\no menos 10,000 niños y estamos haciendo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 881519,
+    "dDurationMs": 8921,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "unos desarrollos relacionados con Cómo\nllevar un pensamiento lógico",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 888600,
+    "dDurationMs": 6440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "computacional en todos los niños del\ndepartamento para que ellos sean capaces",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 892600,
+    "dDurationMs": 6080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de enfrentar su vida más adelante con\nmejor calidad y con más oportunidades",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 897040,
+    "dDurationMs": 4680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que las que seguramente han tenido sus\npadres",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 899680,
+    "dDurationMs": 5719,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Este es un tema hermoso porque los\nresultados que uno ve cuando le lleva",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 903519,
+    "dDurationMs": 6361,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tecnología y le lleva recursos a los\nniños de la provincia sobre todo lo que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 907720,
+    "dDurationMs": 5960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "uno puede ver son capacidades inmensas\nque hay que seguir apoyando para que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 911920,
+    "dDurationMs": 8120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tengamos un mejor departamento y un\nmejor país bueno Eh Yo diría que ese",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 917320,
+    "dDurationMs": 8040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "wier person de genoma son todas las\npersonas que creen en que el contenido",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 923360,
+    "dDurationMs": 6839,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "creativo es el mejor Aliado para\ndesarrollar una marca un servicio o un",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 927040,
+    "dDurationMs": 6840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "producto que consideran que las ideas eh\nganadoras Por supuesto son las que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 932480,
+    "dDurationMs": 5799,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "permiten la diferenciación la\npersonalidad Y la empatía de una marca y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 936000,
+    "dDurationMs": 6120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "para eso está genoma para lograr eso y\nbueno el rol de La Academia nosotros",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 940319,
+    "dDurationMs": 5921,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "como universidad Cooperativa de Colombia\neh de la mano con los territorios",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 944440,
+    "dDurationMs": 7160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "solidarios empalmar con estas\niniciativas y hacer un acompañamiento y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 949199,
+    "dDurationMs": 8560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "un acercamiento con estas comunidades\nporque mucho de lo que necesitan no es a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 953920,
+    "dDurationMs": 10240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "veces eh el el medio sino Esa esa\napropiación del conoc en el manejo de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 959920,
+    "dDurationMs": 9240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "las tecnologías en el en el conocer eh\nalternativas que estén dispuestas para",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 966319,
+    "dDurationMs": 7880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que ellos puedan comunicar muy de manera\nmucho más fácil sus ideas de negocios",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 971319,
+    "dDurationMs": 9601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sus emprendimientos y demás desarrollar\nde manera simultánea y ojo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 977279,
+    "dDurationMs": 9201,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "independiente productos costumbres\ncultura es clave porque si no tú vas a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 984720,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "llegar después de mucho sudar con el\ncable y lo van a ver como como decía mi",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 989480,
+    "dDurationMs": 8000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "abuelo como gallina con que mira sal con\ndesprecio mira un cable y y se van a dar",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 994800,
+    "dDurationMs": 9200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cuenta un año después Para qué sirve ese\ncable y ese cable va a estar colgando",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1000240,
+    "dDurationMs": 9039,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ahí un año y pico que significa eh falta\nde aprovechamiento eh dilapidar recursos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1007519,
+    "dDurationMs": 6841,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y todo lo que le quieras poner entonces\ndesarrollar proyectos sociales que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1011680,
+    "dDurationMs": 9159,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "apunten a la\napropiación social que ahora se dice de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1017399,
+    "dDurationMs": 3440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "la tecnología es indispensable",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1022759,
+    "dDurationMs": 8040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "las conclusion y el balance general de\neste foro son muy positivos hemos sido",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1028160,
+    "dDurationMs": 8440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "testigos de unos grandes talentos de\npersonas a temprana edad bucaramanga",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1034640,
+    "dDurationMs": 6120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "siempre ha sido un Aliado estratégico y\nnatural para poder implementar todas",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1039000,
+    "dDurationMs": 5600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "estas estrategias de transformación\ndigital",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1041880,
+    "dDurationMs": 7520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "eh nos hemos inspirado mucho en modelos\nde negocio para hacer por ejemplo el",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1046679,
+    "dDurationMs": 7561,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tema de bootcamps que es esta formación\nintensiva en las regiones entendiendo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1051280,
+    "dDurationMs": 7240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "las necesidades de los sectores\nproductivos dándole siempre beneficio a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1056720,
+    "dDurationMs": 6440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "estas poblaciones vulnerables\nbucaramanga es un espacio que nos ha",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1060720,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "recibido para compartir todas sus\nexperiencias y sobre todo para generar",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1065559,
+    "dDurationMs": 5721,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "un espacio tan importante como es la\neconomía popular y comunitaria en",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1069720,
+    "dDurationMs": 6800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Colombia que ha sido un sector bastante\nolvidado lo único que puede permitirle",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1074280,
+    "dDurationMs": 5560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "al ser humano crecer y transformar su\nvida es la educación Pero en los",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1078320,
+    "dDurationMs": 4719,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "siguientes 20 años viene una\ntransformación en Cómo adquirimos ese",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1081440,
+    "dDurationMs": 6520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "conocimiento Entonces cuando se me viene\nla cabeza educación es el camino para",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1085440,
+    "dDurationMs": 7359,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "transformar nuestras vidas y adicional a\neso 20 años más de transformación de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1091000,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cómo adquirimos ese conocimiento y estas\nreflexiones que hemos visto hoy en el",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1094240,
+    "dDurationMs": 6200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "foro nos llevan a concluir que\ndefinitivamente Colombia tiene un",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1098240,
+    "dDurationMs": 7160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "potencial muy grande en las pymes en esa\neconomía Popular en ese emprendedor que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1103240,
+    "dDurationMs": 7799,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "desde su casa tiene una Innovación una\nidea de negocio y justamente lo que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1108159,
+    "dDurationMs": 7041,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vimos hoy es que son las tics el camino\npara lograr esa incursión en esos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1113280,
+    "dDurationMs": 6920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "emprendimientos en este mundo Cada vez\nmás digital esto es un camino y nosotros",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1117600,
+    "dDurationMs": 7800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "venimos y estamos continuando digamos\ncon iniciativas que se trazan desde el",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1122640,
+    "dDurationMs": 7600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "gobierno nacional eh las acogemos\nnosotros en el tema departamental Las",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1127919,
+    "dDurationMs": 6161,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "implementamos pero estamos sembrando\nsemillas semillas que más tarde van a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1132039,
+    "dDurationMs": 8561,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "florecer y van a dar fruto modernidad\nnos obliga necesariamente a digitalizar",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1138039,
+    "dDurationMs": 6520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "noos a digitalizarlos en materia\nbancaria digitalizarlos en materia",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1143440,
+    "dDurationMs": 8080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "contable\na el proceso de venta y de construcción",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1148760,
+    "dDurationMs": 8320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de valor y de comercialización la\ndigitalización es inminente Es decir no",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1154039,
+    "dDurationMs": 9281,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "podemos quedarnos fuera de de ese\nproceso que es eh que es Dinámico y que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1160080,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "es ya eh visibilizar el el marketing\ndigital y las agencias de publicidad",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1164960,
+    "dDurationMs": 7320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "como un actor importante Dentro de este\ndesarrollo pues es realmente interesante",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1168919,
+    "dDurationMs": 9081,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "para nosotros y segundo que creo que se\nestá visibilizando mucho más ese sector",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1175520,
+    "dDurationMs": 6080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de la economía que se mueve mucho del\ncual dependen miles o millones de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1179480,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "familias en nuestro país y al que se le\nestá dando la importancia que merece",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1183039,
+    "dDurationMs": 7161,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "realmente esas herramientas esa\nreflexión permanente de Para dónde va la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1187919,
+    "dDurationMs": 8120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tecnología y cómo incorporamos a la\ntecnología a la cotidianidad Y cómo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1192200,
+    "dDurationMs": 8040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "creamos eh comunidades es parte de lo\nque a mí me apasiona y sigo muy muy",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1198159,
+    "dDurationMs": 7880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pendiente el reto más grande que tiene\neh el país y no solo el país eso eso eso",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1204039,
+    "dDurationMs": 5120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "digamos el sector agro en general en el\nmundo sobre todo los pequeños",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1207360,
+    "dDurationMs": 5160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "productores es un reto muy grande de\napropiación de la tecnología hoy",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1210760,
+    "dDurationMs": 6279,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hablábamos de que estamos en en la era\nde los datos La era de la inteligencia",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1214320,
+    "dDurationMs": 8440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "donde todo Es inteligente el teléfono Es\ninteligente el televisor Es inteligente",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1220720,
+    "dDurationMs": 7000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "la lavadora Es inteligente todo Es\ninteligente y llevar esa inteligencia en",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1225240,
+    "dDurationMs": 8600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cierta manera a a al campo a la\nruralidad es algo que va a impactar de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1230200,
+    "dDurationMs": 7560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "forma muy positiva a nuestras\ncomunidades conectividad rural",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1236000,
+    "dDurationMs": 5520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "desarrollo del agro a través de\naplicaciones Inteligencia artificial",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1239600,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "dejarle el miedo a la tecnología para\ntener conectividad hay múltiples",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1243400,
+    "dDurationMs": 7840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "oportunidades hay que bus la formación\ntecnológica para todo tipo de personas",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1248039,
+    "dDurationMs": 6801,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "no importa la edad marwin la importancia\nde la conectividad como motor de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1252880,
+    "dDurationMs": 5799,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "desarrollo la educación para romper las\nbrechas digitales y los esfuerzos del",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1256480,
+    "dDurationMs": 6960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mintic para promover la transformación\ndigital fueron clave en este evento",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1261000,
+    "dDurationMs": 7760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "totalmente Fer el fortalecimiento de la\neconomía popular y las pymes los",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1265960,
+    "dDurationMs": 7760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "negocios la competitividad las nuevas\noportunidades o sea realmente sin duda",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1271440,
+    "dDurationMs": 6040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "todos estos temas son muy muy muy\nrelevantes y necesarios bueno marwin",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1276400,
+    "dDurationMs": 5440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Muchas gracias por estar en este\nepisodio de conversaciones tic espero",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1279159,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tenerte pronto por acá por aquí estaré a\nti que nos estás escuchando te invitamos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1283799,
+    "dDurationMs": 5081,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a indagar más sobre todos estos\nprogramas que está ofreciendo el",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1286880,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Ministerio de las tic para todo los\ncolombianos obvio no te puedes quedar",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1291000,
+    "dDurationMs": 6159,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "atrás y si quieres conocer más del tema\nen las notas de este episodio te dejaré",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1295159,
+    "dDurationMs": 6921,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "un enlace para que puedas ver el foro en\nYouTube o Facebook de vanguardia a todos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1299840,
+    "dDurationMs": 7560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a ti marwin Gracias por acompañarnos hoy\nnos escuchamos en un próximo programa",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1304950,
+    "dDurationMs": 6450,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "[Música]"
+    }, {
+      "utf8": "\nchao pod",
+      "acAsrConf": 0
+    } ]
+  } ]
+}

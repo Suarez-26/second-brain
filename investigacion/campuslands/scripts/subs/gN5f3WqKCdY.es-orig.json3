@@ -1,0 +1,1362 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  }, {
+    "mhModeHint": 2,
+    "juJustifCode": 0,
+    "sdScrollDir": 3
+  } ],
+  "wpWinPositions": [ {
+  
+  }, {
+    "apPoint": 6,
+    "ahHorPos": 20,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  } ],
+  "events": [ {
+    "tStartMs": 0,
+    "id": 1,
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 6359,
+    "dDurationMs": 11000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Hola, buen día.\nJair Mona, aspirante a la vacante del",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 13040,
+    "dDurationMs": 9079,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "docent en la empresa Camping Flight.\nContinuación voy a hacer la sustentación",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 19480,
+    "dDurationMs": 5840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "del ejercicio dos de la prueba técnica\nde campus.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 25640,
+    "dDurationMs": 7520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "En este segundo ejercicio implemento el\npatrón de diseño adapter.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 30960,
+    "dDurationMs": 7320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "El objetivo es permitir que distintos\ntipos de controles, incluyendo un",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 35640,
+    "dDurationMs": 9120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "smartphone, puedan manejar un televisor,\naunque tengan interfaces incompatibles.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 42399,
+    "dDurationMs": 7840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Con este ejercicio demuestro principios\nde diseño como abstracción,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 48079,
+    "dDurationMs": 7761,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "polimorfismo, delegación de\nresponsabilidades y el principio",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 52120,
+    "dDurationMs": 3720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "abiertos errores.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 56760,
+    "dDurationMs": 7200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Eh, ¿cómo es la organización del\nproyecto y paquete?",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 60800,
+    "dDurationMs": 8480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Este, como sabemos, utilizo estoy\nutilizando el ID entorno desarrollo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 69960,
+    "dDurationMs": 11560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y el ID Intel y ID. Sí,\nacá está mi árbol del proyecto,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 78159,
+    "dDurationMs": 7920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mi organización del proyecto.\nTodos los ejercicios está contenido",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 83119,
+    "dDurationMs": 7481,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "dentro del paquete control TV. Hice un\npaquete,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 88040,
+    "dDurationMs": 12480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "un package y le coloqué como el nombre\ncontrol T para tenerlo bien organizado.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 95320,
+    "dDurationMs": 5200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "El uso de paquete permite organizar,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 101520,
+    "dDurationMs": 9480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "permite agrupar clases relacionad.\nTodo este paquete está relacionado con",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 108399,
+    "dDurationMs": 8561,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "con el tema del\ndel app control TV.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 114719,
+    "dDurationMs": 8400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "evitar conflictos de nombres y mantener\nel proyecto organizado, especialmente",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 119159,
+    "dDurationMs": 3960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cuando el sistema crece.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 123960,
+    "dDurationMs": 10639,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Entonces, acá ya estamos mirando\ncómo tengo registrado mi proyecto. Todo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 129920,
+    "dDurationMs": 4679,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "organicé dentro del control.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 135560,
+    "dDurationMs": 10280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Eh,\ncomienzo definiendo la interfaz control",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 142800,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "TV. Control T\nes esta.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 147800,
+    "dDurationMs": 8799,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Esta\ninterfaza representa el contrato común",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 153120,
+    "dDurationMs": 7399,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que cualquier tipo de control debe\ncumplir para interactuar con un",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 158599,
+    "dDurationMs": 7000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "televisor.\nGracias a esta interfaz, el sistema no",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 163280,
+    "dDurationMs": 6520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "depende de una implementación concreta,\nsino de un comportamiento abstrato.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 168840,
+    "dDurationMs": 10720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Entonces, ¿cuáles son los\ncomportamientos de un control de T",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 173319,
+    "dDurationMs": 12640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "normal? son es encender, apagar,\neh subir el volumen, bajar el volumen y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 183360,
+    "dDurationMs": 11360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cambiar entrada.\nYa sabemos a qué referimos en cambiar",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 188720,
+    "dDurationMs": 12560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sea o sí es HMI1, HM2.\nEso eso es referencia.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 198519,
+    "dDurationMs": 9481,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Eso permite que el código\ncliente trabaje siempre con control TV",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 203640,
+    "dDurationMs": 9840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "PB, independientemente si el de si el\ncontrol es infrarrojo, físico o el",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 210480,
+    "dDurationMs": 3000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "smartphone.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 214439,
+    "dDurationMs": 4520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Vuelvo implemento la clase del televisor",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 220560,
+    "dDurationMs": 7959,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que representa el dispositivo real.\nEsta clase contiene la lógica de negocio",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 226319,
+    "dDurationMs": 7120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "del televisor\ncomo encender, apagar, cambiar volumen o",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 231519,
+    "dDurationMs": 6841,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "entrar.\nEl televisor no sabe quién lo controla,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 235760,
+    "dDurationMs": 8280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "simplemente ponen métodos para ejecutar\nopciones.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 240519,
+    "dDurationMs": 8841,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Entonces, acá estamos. Televisor es\nopción.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 246480,
+    "dDurationMs": 10439,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "public class televisor\nson el paquet control",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 252879,
+    "dDurationMs": 8121,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tiene sus atributos que son privil\naplicando al filar",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 259280,
+    "dDurationMs": 6840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de la programación orientado\ngestoamiento",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 262840,
+    "dDurationMs": 3280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "está privar",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 273600,
+    "dDurationMs": 3800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y están Hmm.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 279840,
+    "dDurationMs": 12600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Y acá estamos con los métodos de la\nclase que son encender, apagar,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 287039,
+    "dDurationMs": 12720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "subir volumen, bajar volumen y cambiar.\nEsto, esto",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 294639,
+    "dDurationMs": 5120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hace referencia un televisor de la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 304600,
+    "dDurationMs": 7159,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "eh\nsigue el principio de responsabilidad",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 309039,
+    "dDurationMs": 7561,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "única, ¿sí? Ya que el televisor solo se\nencarga de su propio confort también.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 317199,
+    "dDurationMs": 7241,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "La la clase. Ahora vamos a la clase\ncontrol infrarrojo.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 325360,
+    "dDurationMs": 7480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Sí.\nControl infrarrojo normal. El que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 333560,
+    "dDurationMs": 9359,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "eh la clase de control infrarrojo\nimplementa la interfaz control C. Acá lo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 339240,
+    "dDurationMs": 10120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "podemos ver. public class control ojo\nimplements como en el primer ejercicio",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 345840,
+    "dDurationMs": 8079,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "control Pierfaz\nControl P",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 351720,
+    "dDurationMs": 7680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "representa un control tradicional\ncompatible con el televisor.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 356479,
+    "dDurationMs": 9641,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Esta clase recibe un televisor por el\nconstructor",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 362360,
+    "dDurationMs": 6760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "televisor TV.\nEsta",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 369280,
+    "dDurationMs": 6319,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "clase reción televisor y por por el\nconstructor y delega todas las acciones",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 373479,
+    "dDurationMs": 6241,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "al televisor.\nSí.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 377199,
+    "dDurationMs": 8120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Entonces acá como podemos ver control\nimplementa el control televisor private",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 382080,
+    "dDurationMs": 6440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "televisor que es de la del televisor y\npor nombre.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 391000,
+    "dDurationMs": 6520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Entonces estamos colocando el\nconstructor, control infrarrojo,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 395759,
+    "dDurationMs": 4761,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "televisor\ny",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 401960,
+    "dDurationMs": 8320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "eso escribemos todos los métodos del\ntelevisor nuevamente",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 408280,
+    "dDurationMs": 7560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "es encender, apagar, subir volumen,\nbajar volumen y cambiar entrada. Como",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 413080,
+    "dDurationMs": 9799,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "podemos ver el el control TV si es\ncompatible con el televisor, ¿cierto?",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 419120,
+    "dDurationMs": 6759,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "porque tiene este tiene está tiene\nsusasiones.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 434599,
+    "dDurationMs": 5841,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Ahora proseguimos a la clase smartphone.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 443680,
+    "dDurationMs": 14359,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Ahora creo la clase smartphone. Acá está\ncontrol TV. Esta el paquete o la carpeta",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 453560,
+    "dDurationMs": 4479,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y public class smartphone",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 458160,
+    "dDurationMs": 3000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "con.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 462360,
+    "dDurationMs": 8480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Entonces, obviamente, los eh los métodos\nde un de un control por smart",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 468639,
+    "dDurationMs": 6520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "smartphone, o sea, que control del\ntelevisor,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 472680,
+    "dDurationMs": 8919,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "eso hace referencia a un control de\ntelevisor controlado por su smartphone o",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 478120,
+    "dDurationMs": 3479,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "teléfono inteligente.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 482639,
+    "dDurationMs": 9840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "como los hay hay en muchos regulares que\npueden controlar el televisor con su",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 488199,
+    "dDurationMs": 9680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "celular móvil y celular inteligente.\nEntonces, pero entonces acá las los",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 494960,
+    "dDurationMs": 10280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "métodos no son compatibles. Sí, porque\nestá abrir app, conectar WiFi, tocar",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 502000,
+    "dDurationMs": 8360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "encender, tocar apagar, subir volumen,\napp, bajar volumen app, seleccionar",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 507840,
+    "dDurationMs": 8840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "entrar.\nSí, no son iguales a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 513479,
+    "dDurationMs": 3201,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "al televisor",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 519200,
+    "dDurationMs": 7960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "esta clase representa un componente\nexterno o existente que no es compatible",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 523800,
+    "dDurationMs": 8080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "con interfaz control TN. Sus métodos\ntienen nombre y flujos.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 530040,
+    "dDurationMs": 7120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Ver\nesta es la interfaz del del control del",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 534240,
+    "dDurationMs": 9360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "televisor y se ve que ninguna es\ncompatible con la clase marat.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 542040,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Esos métodos tienen un nombre y flujos\ndistintos como abrir una app o",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 545920,
+    "dDurationMs": 9680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "conectarse a Wii, lo que impide usarla\ndirectamente como control.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 552160,
+    "dDurationMs": 9040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Este es un escenario realista donde no\npodemos modificar una clase existente o",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 558040,
+    "dDurationMs": 3160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de terceras.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 563279,
+    "dDurationMs": 9201,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Entonces, el problema de diseño, en este\npunto existe un problema. El sistema",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 568880,
+    "dDurationMs": 10120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "espera un control TV, pero el smartphone\nno cumple ese contrato. Sí, porque mire,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 576279,
+    "dDurationMs": 7921,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que todos los todos los métodos son muy\ndiferentes a la interfaz del control.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 586279,
+    "dDurationMs": 8761,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Modificar la clase smartphone no es una\nbuena práctica, ya que violaría el",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 590880,
+    "dDurationMs": 4160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "principio abierto cerrado.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 598079,
+    "dDurationMs": 8401,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Eh, ahora entonces hacemos una entonces\nque si no no podemos modificarla porque",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 604480,
+    "dDurationMs": 8680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "el smartphone tiene su propia clase,\n¿cierto? Ellos ya vienen programados de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 609880,
+    "dDurationMs": 9680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "fábrica con su propia con sus propios\nmétodos y algo que ya son este. Entonces",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 616920,
+    "dDurationMs": 8400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "no los podemos modificar, o sea,\npodríamos fácilmente hacerlo, pero eso",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 623079,
+    "dDurationMs": 6801,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "en la vida real no pasa colocar los\nmismos métodos de la interfaz acá en la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 628200,
+    "dDurationMs": 6199,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "clase de smartphone, pero eso en la vida\nreal no pasa.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 632240,
+    "dDurationMs": 7719,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Entonces, que lo que si pasa en la vida\nreal es hacerle unaorción",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 637320,
+    "dDurationMs": 8480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "para que sea compatible.\nEntonces, ¿qué es la solución a este",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 642000,
+    "dDurationMs": 9079,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "problema? Es para resolver este problema\nimplemento el patrón adapter mediante la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 648200,
+    "dDurationMs": 9120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "clase smartphone adapter.\nEntonces yo creé una clase smartphone",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 653839,
+    "dDurationMs": 9721,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "adapter y acá es donde vamos a hacer\nadaptar el smartphone a que sea",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 659519,
+    "dDurationMs": 10521,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "compatible confaz del control.\nPara resolver este problema implementa",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 665880,
+    "dDurationMs": 9320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "el patron adapter la clase smartphone.\nEsta clase implementa la interfaz",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 672160,
+    "dDurationMs": 8400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "control. Entonces acá podemos ver public\nsmartphone adapter",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 677560,
+    "dDurationMs": 3000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "control.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 680920,
+    "dDurationMs": 8479,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "es, pero internamente utiliza un objeto\nsmartphone.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 686240,
+    "dDurationMs": 7680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Cada método del control se traduce a una\no varias acciones del smartphone.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 692000,
+    "dDurationMs": 8959,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Entonces, acá lo podemos ver. Public\nsmartphone adapter",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 696120,
+    "dDurationMs": 7839,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y está implementado un un smartphone,\n¿cierto?",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 704519,
+    "dDurationMs": 3361,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "en el consultor.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 711600,
+    "dDurationMs": 8160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Aquí el adapter actúa como un traductor\nentre dos interfaces incompatibles.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 717160,
+    "dDurationMs": 8560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "No modifico la clase smartphone, sino\nque la adapto cumpliendo el principio",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 722200,
+    "dDurationMs": 3520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "abierto cerrar.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 726240,
+    "dDurationMs": 10640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Entonces, ahora ya dice la el adaptador.\nSí. Ahora vamos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 732279,
+    "dDurationMs": 4601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "al control TV.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 740839,
+    "dDurationMs": 11240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Es en la clase principal control TV\nreguas del sistema.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 747639,
+    "dDurationMs": 4440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Esta es la clase principal. Mire",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 752399,
+    "dDurationMs": 6041,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "out. Y acá vamos a probar nuestro.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 761160,
+    "dDurationMs": 9320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Creo un televisor y luego utilizo dos\ncontroles distintos, un control infrar",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 765839,
+    "dDurationMs": 11081,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "rojo y un y un smartphone adaptado.\nAmbos se manejan como control TV, lo que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 773240,
+    "dDurationMs": 3680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "demuestra polimorf.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 779240,
+    "dDurationMs": 8399,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Entonces acá, acá lo tenemos.\nHacemos un objeto de televisor que llama",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 785000,
+    "dDurationMs": 7399,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "TV\nNew Televisor. Sí.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 790000,
+    "dDurationMs": 7199,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Entonces ahí hacemos los dos controles,\ncontrol TV, control 1, que es el intro",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 795040,
+    "dDurationMs": 8640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "rojo, y el control dos que es el\nsmartphone.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 799279,
+    "dDurationMs": 4401,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "El control smartphone adaptado.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 804600,
+    "dDurationMs": 8919,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Y acá hacemos con el control infrar rojo\nhacemos nuestra prueba, ver si funciona",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 810720,
+    "dDurationMs": 7200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y hacemos nuestra nuestra prueba con el\nsmartphone.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 815600,
+    "dDurationMs": 7200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "¿Qué hace esto? que primero lo que hago\nes encenderlo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 819800,
+    "dDurationMs": 8080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "con el infier rojo, control\ndespués subir volumen, después cambiar",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 825399,
+    "dDurationMs": 9161,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "la entrada HMI2\ny después lo aparto. Y lo mismo hacemos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 831480,
+    "dDurationMs": 9120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "con el control de smartphone.\nLo encendemos ahí, lo estamos haciendo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 836560,
+    "dDurationMs": 9760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "al mismo televisor que este, ¿cierto?\nEstamos lo estamos haciendo. Entonces,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 843199,
+    "dDurationMs": 8080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "lo que hacemos es control\neh el mismo TV, el mismo televisor",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 849160,
+    "dDurationMs": 6280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "estamos utilizando el control rojo y\ncontrol smartphone. Entonces, con el",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 853600,
+    "dDurationMs": 9359,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "smartphone estamos haciendo un sender\ntambién, subir volumen,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 858680,
+    "dDurationMs": 8640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cambiar entrada a Netflix y control dos\nque es apagar con el smartphone.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 870560,
+    "dDurationMs": 5639,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Y ahora le damos\nrun",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 879160,
+    "dDurationMs": 5400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y nos menciona nuestro adaptado.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 884920,
+    "dDurationMs": 13839,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Como podemos ver, control infrarrojo.\nSí, televisor encendido. Volumen subido",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 892240,
+    "dDurationMs": 13519,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "11. sabe que el volumen es + 1 es\nsubir volumen subido más 1",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 903360,
+    "dDurationMs": 10880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "11\neh televisor cambiando entra HN 2 como",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 911800,
+    "dDurationMs": 7120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "lo definimos acá arriba y televisor\napagado.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 915800,
+    "dDurationMs": 8959,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Y como podemos ver, el adaptador\nfunciona correctamente, ya que control",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 921160,
+    "dDurationMs": 10760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de smartphone abriendo la PC del control\nremoto, anentando el TV por Wi-Fi,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 928319,
+    "dDurationMs": 9080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "enciendo TV desde Smartf, subiendo, ya\nempieza subiendo el volumen desde la app",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 935279,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "seleccionando entrada Netflix desde\nappriendo approxando",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 942040,
+    "dDurationMs": 4840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "el T por Wi-Fi, apagando el PV",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 947880,
+    "dDurationMs": 8120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y listo.\nEste ejercicio cumple no requerido en",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 953920,
+    "dDurationMs": 5640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ejercicio.\nEntonces, con este ejercicio demuestro",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 957759,
+    "dDurationMs": 9000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "la implementación\nconecta conecta del patrón adapter,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 964000,
+    "dDurationMs": 8360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "aplicando interfaces, delegación,\npolimorfismo y principio sólid para",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 969360,
+    "dDurationMs": 7640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "integrar componente incompatible y\nmodificar su código original, ya que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 974959,
+    "dDurationMs": 8041,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "nosotros no\nno",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 979160,
+    "dDurationMs": 3840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cambiamos ningún código,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 983199,
+    "dDurationMs": 3681,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "solamente creamos una clase",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 987360,
+    "dDurationMs": 9039,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Adapter, que es la que\nes la que va a manejar, es la que va a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 992759,
+    "dDurationMs": 9640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "traducir todas las funciones\nque vienen del control A smartphone. Lo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1000040,
+    "dDurationMs": 5880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "traduce para que lo pueda leer el\ncontrol T.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1008120,
+    "dDurationMs": 3920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Muchas gracias por Ok.",
+      "acAsrConf": 0
+    } ]
+  } ]
+}

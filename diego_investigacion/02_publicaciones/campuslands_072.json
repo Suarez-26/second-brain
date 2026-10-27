@@ -1,0 +1,18 @@
+{
+  "ckey": "update-card-focusvY1TRon3eZp8nWs8G0d6oVbZlJTJZVtvDMRpfVkLN4YFeedType_COMPANY_FEED_RELEVANCE",
+  "fullText": "Publicación en el feed\n\nCampuslands\n\n6 meses\n\nGuía rápida para entender la diferencia entre prompts, workflows y agentes y para qué sirven.\n\nUno de los errores más comunes hoy es llamar \"agente\" a cualquier cosa que tenga IA.\n\nY esa confusión no es menor. Cuando mezclas conceptos, también mezclas expectativas, decisiones y prioridades.\n\nNo toda tarea necesita un agente. No todo problema se resuelve con un prompt. Y no todo proceso merece ser automatizado todavía.\n\nPrimero: un prompt no es un workflow\n\nUn prompt sirve para resolver una necesidad puntual. Le das una instrucción, un contexto y esperas un resultado: resumir un documento, reescribir un correo, ordenar notas de una reunión.\n\nEs útil, rápido y muchas veces suficiente.\n\nUn workflow aparece cuando la tarea deja de ser una petición aislada y se convierte en una secuencia repetible: recibir información → sintetizarla → identificar vacíos → proponer una versión → revisar con criterios → entregar en formato final.\n\nAquí ya no importa solo el resultado sino el orden del trabajo.\n\n¿Y entonces qué es un agente?\n\nUn agente tiene sentido cuando necesitas que la IA ejecute varios pasos con cierto grado de autonomía, use herramientas, recupere contexto y avance hacia un objetivo dentro de límites definidos.\n\nNo es independencia total. No reemplaza criterio humano. Pero si te permite delegación operativa con supervisión.\n\nPor eso hablar de agentes demasiado pronto suele ser una mala idea. Si todavía no entiendes bien la tarea, el flujo y los criterios de calidad, no estás listo para delegar más autonomía.\n\nUn marco simple para decidir\n\nAntes de elegir entre prompt, workflow o agente, hazte tres preguntas:\n\n1. ¿La tarea es puntual o repetible? Si es puntual, probablemente basta con un prompt. Si ocurre una y otra vez, empieza a pensar en workflow.\n\n2. ¿La tarea requiere secuencia o coordinación? Si el valor depende de seguir pasos consistentes, necesitas un flujo, no solo una instrucción.\n\n3. ¿La IA debe actuar o solo ayudarte a pensar? Si debe apoyar análisis o síntesis, no necesitas un agente. Si debe ejecutar acciones con herramientas y devolver algo más completo, ahí sí puede tener sentido.\n\nEl orden correcto importa\n\nLa progresión más sana no es empezar por lo más sofisticado:\n\n→ Primero, resolver bien tareas puntuales\n→ Después, documentar lo que se repite\n→ Luego, convertirlo en workflow\n→ Y solo entonces evaluar qué parte conviene delegar a un agente\n\nEse orden reduce ruido y mejora adopción.\nUna idea práctica para equipos no técnicos\n\nSi tu equipo no es técnico, eso no es una desventaja. En realidad, obliga a hacer algo mejor: simplificar.\n\nNo necesitas empezar hablando de arquitectura compleja. Necesitas nombrar bien las tareas, ordenar el contexto, definir criterios y documentar qué funciona.\n\nEso ya cambia más que perseguir cualquier tendencia del momento.\nLa conversación madura sobre IA no empieza preguntando \"¿cómo hago un agente?\". Empieza preguntando qué tipo de problema estás resolviendo y cuál es el nivel correcto de delegación.\n\n7\n1\n1\n​",
+  "imgs": [
+    "https://media.licdn.com/dms/image/v2/D4E22AQEZrc8yxjqNDg/feedshare-shrink_800/B4EZ2RjwOaJMAc-/0/1776263562424?e=1793836800&v=beta&t=L2jXWc8ITt0-e-Be0VPbM-dIa85w8NO1U_njkowVyWw"
+  ],
+  "hasVideo": false,
+  "videoMp4s": [],
+  "hasDocument": false,
+  "iframes": [],
+  "links": [],
+  "saved_images": [
+    "campuslands_072_img_01.jpg"
+  ],
+  "saved_video": null,
+  "fecha_relativa": "6 meses",
+  "tipo": "Texto + Imagen"
+}

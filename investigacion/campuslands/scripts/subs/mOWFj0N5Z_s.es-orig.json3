@@ -1,0 +1,225 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  }, {
+    "mhModeHint": 2,
+    "juJustifCode": 0,
+    "sdScrollDir": 3
+  } ],
+  "wpWinPositions": [ {
+  
+  }, {
+    "apPoint": 6,
+    "ahHorPos": 20,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  } ],
+  "events": [ {
+    "tStartMs": 0,
+    "id": 1,
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 5770,
+    "dDurationMs": 3070,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "[Música]"
+    } ]
+  }, {
+    "tStartMs": 13320,
+    "dDurationMs": 9199,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "soy Diego un hijo un padre un esposo y\nun emprendedor y que día a día combino",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 20560,
+    "dDurationMs": 6559,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "estas cuatro facetas con uno de los\nprincipios más importantes que nos mu Y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 24840,
+    "dDurationMs": 7640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "es que los que nos conocen saben que no\nse puede es un lenguaje de otro universo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 29960,
+    "dDurationMs": 6680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "no del nuestro campus l es un modelo\ndisruptivo y único en Colombia y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 34760,
+    "dDurationMs": 6639,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "latinoamérica que desarrollamos\ninclusión social a la educación superior",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 38879,
+    "dDurationMs": 7121,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y Somos únicos en tres aspectos el\nprimero es que en un solo año de manera",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 43440,
+    "dDurationMs": 7880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "intensiva formamos en programación en\ninglés y en habilidades",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 47960,
+    "dDurationMs": 8399,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "blandas el segundo es que esta formación\ngarantiza que el 80% de nuestros",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 54039,
+    "dDurationMs": 6721,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "egresados consigan su primer empleo en\nel sector",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 57559,
+    "dDurationMs": 8121,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ti y el tercero es que esta forma\nnuestros egresados tengan el retorno de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 62640,
+    "dDurationMs": 9839,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "inversión más rápido a la educación\nsuperior en capul estamos desarrollando",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 69600,
+    "dDurationMs": 7760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "la nueva generación de talento emergente\nen el sector ti y con este talento ti",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 75479,
+    "dDurationMs": 6801,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "estamos garantizando el desarrollo\neconómico y social de nuestro",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 79600,
+    "dDurationMs": 6630,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "departamento garantizando empleos de\ncalidad y garantizando la transformación",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 85000,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "digital de nuestra\n[Música]",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 88079,
+    "dDurationMs": 6841,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "región la caja sensación ha sido una\ngran Aliado por varios aspectos el",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 93280,
+    "dDurationMs": 5360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "primero de ellos y creo que es el más\nimportante es porque ha decidido",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 96320,
+    "dDurationMs": 8320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "apostarlo a este proyecto desde el día\nun desde su nacimiento el segundo es",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 101680,
+    "dDurationMs": 7399,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "porque decidió apostarle a la educación\ntecnológica de sus afiliados y de sus",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 106920,
+    "dDurationMs": 7280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "beneficiarios y el tercero que también\nes muy importante es que su gran aporte",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 111840,
+    "dDurationMs": 6810,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ha sido desde el conocimiento desde la\nexperiencia desde la estrategia la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 116119,
+    "dDurationMs": 9521,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "calidez humana\n[Música]",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 121000,
+    "dDurationMs": 4640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cajasan la caja de los santandereanos",
+      "acAsrConf": 0
+    } ]
+  } ]
+}

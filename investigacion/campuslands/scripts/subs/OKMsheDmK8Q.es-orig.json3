@@ -1,0 +1,268 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  }, {
+    "mhModeHint": 2,
+    "juJustifCode": 0,
+    "sdScrollDir": 3
+  } ],
+  "wpWinPositions": [ {
+  
+  }, {
+    "apPoint": 6,
+    "ahHorPos": 20,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  } ],
+  "events": [ {
+    "tStartMs": 0,
+    "id": 1,
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 40,
+    "dDurationMs": 7239,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "campus l lo definiría como una\noportunidad para el futuro desde hace 8",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 4759,
+    "dDurationMs": 6241,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "meses llegó a Florida Blanca campus l\nuna fuerza motriz pionera a nivel",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 9160,
+    "dDurationMs": 6080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "nacional en Establecer un centro de\nformación gratuito para desarrolladores",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 13040,
+    "dDurationMs": 5200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de software y programación es un Aliado\nmuy importante campus Land para Florida",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 17080,
+    "dDurationMs": 4359,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "blanca como ciudad pero también para\ntoda el área metropolitana y vienen",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 19880,
+    "dDurationMs": 5840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "expandiéndose a nivel nacional para\nformar completamente gratis a todos esos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 24000,
+    "dDurationMs": 4199,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "jóvenes que serán el día de mañana esa\nfuerza laboral en materia de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 26800,
+    "dDurationMs": 5520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "programación este centro de\nentrenamiento innovador brinda unidad a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 30400,
+    "dDurationMs": 5800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "jóvenes talentosos Inquietos por el\nmundo de la tecnología y la creatividad",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 34480,
+    "dDurationMs": 7680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "quienes persiguen sus sueños con\nesfuerzo y compromiso yo soy duan Fabián",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 39399,
+    "dDurationMs": 7800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Rodríguez soy estudiante de campus L y\nvivo en la Vereda altos de mantilla yo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 44440,
+    "dDurationMs": 6360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "me levanto alrededor de las 4:30 de la\nmañana yo me transporto en una",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 48960,
+    "dDurationMs": 7880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "motocicleta y me demoro alrededor de\nunos 40 minutos de llegar desde aquí la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 53480,
+    "dDurationMs": 7320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Vereda hasta campus duban Fabián divide\nsu tiempo entre la comunidad Campers y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 58800,
+    "dDurationMs": 9400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "las labores propias de de la finca acá\nen la Vereda yo hago labores en la finca",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 64920,
+    "dDurationMs": 7600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ayudo en la cereza del café y en el\nproceso de secado del café todos los",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 70400,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "días duban debe hacer un largo recorrido\npara bajar desde la Vereda hasta el",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 74200,
+    "dDurationMs": 7440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "campus Y ante la necesidad de acercar el\nconocimiento a más jóvenes florideñas el",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 79159,
+    "dDurationMs": 6041,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "alcalde Miguel Moreno adelanta gestiones\npara descentralizar este modelo estamos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 83960,
+    "dDurationMs": 4280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "trabajando para que en algunos sectores\nse pueda hacer este ejercicio no",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 86720,
+    "dDurationMs": 5039,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "solamente aquí desde zona franca sino\ndescentralizado en los barrios de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 89960,
+    "dDurationMs": 5040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "nuestra ciudad y Esperamos que este\ntrabajo pueda ayudarle a muchos jóvenes",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 93680,
+    "dDurationMs": 4840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a conseguir una excelente oportunidad\nlaboral la gestión de la alcaldía Yo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 96640,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pienso que es importante para que más\njóvenes conozcan lo que es campus l la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 101200,
+    "dDurationMs": 6440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "meta de campus Land es entrenar en\ndesarrollo de software a 1000 jóvenes",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 105240,
+    "dDurationMs": 7879,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "por año en noviembre se graduarán los\nprimeros 140 Campers y en próximos meses",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 110640,
+    "dDurationMs": 6280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hará lo propio duban Fabián en el área\nde lenguaje net cor",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 118840,
+    "dDurationMs": 3000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Microsoft",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 124020,
+    "dDurationMs": 5540,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "[Música]"
+    }, {
+      "utf8": "\ny",
+      "acAsrConf": 0
+    } ]
+  } ]
+}

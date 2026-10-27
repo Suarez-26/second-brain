@@ -9,8 +9,13 @@ Edita, agrega y borra libremente: el panel debe tener sentido en tu vida.
 - Regla fija: sin complacencia. Cada voz debe señalar lo que no estás viendo.
 - Los perfiles son perspectivas resumidas, no citas textuales de personas reales.
 
+## Voces y Asesores Disponibles
+- [[advisors/abogado-del-diablo|Abogado del Diablo]]
+- [[advisors/estratega-velocidad|Estratega de Velocidad]]
+- [[advisors/voz-bienestar|Voz de Bienestar]]
+
 ## Formato de un asesor
-Ver `_plantilla.md`. Campos: nombre, enfoque, qué prioriza, qué cuestionaría, cuándo consultarlo.
+Ver [[advisors/_plantilla|_plantilla.md]]. Campos: nombre, enfoque, qué prioriza, qué cuestionaría, cuándo consultarlo.
 
 ## Arranque
 Los perfiles de ejemplo son arquetipos. Reemplázalos por personas, autores o enfoques que tú elijas.

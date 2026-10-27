@@ -77,3 +77,10 @@ Uso privado: material fuente, no se republica. Ver [[fuentes/video-podcast]] y [
 **[28:01]** una persona Estados Unidos que vino que hoy en su compañía Tiene mil programadores y está esperando que que está que que esta nueva digamos generación salga y se vaya a trabajar con su compañía porque o sea es muy difícil estar a se invirtieron hacia que nunca habían venido y ahí está también a Manuel Francis Hurtado ahí a todas las personas que han invertido en la ciudad y en nosotros por supuesto Diego Muchísimas gracias por estar acá que le cambie la vida y que tengan también una oportunidad para poder ejercerse en ejercer en otro en otro trabajo diferente lo que se está manejando Diego Muchísimas gracias por estar acá y a usted que acaba de llegar que llegó hasta acá de este momento esta transmisión recuerden nos vamos a encontrar conversaciones este es podcast y ahora video podcast de vanguardia yo soy Alejandro Guzmán periodista y subgerente de innovación de vanguardia y nos vemos en la web recuerde estamos también por Spotify para que nos escuche y nos comparta Hasta luego expertos en tecnología Innovación empresarios y sus historias de
 
 **[29:00]** emprendimiento con las tic esto es conversación [Música] expertos en tecnología Innovación empresarios y sus historias de emprendimiento con las tic esto es conversación Stick [Música] vanguardia video podcast [Música] vanguardia video podcast
+
+---
+## 🔗 Conexiones del Segundo Cerebro
+- **Persona:** [[people/diego-tarazona|Diego Tarazona]]
+- **Entidad:** [[areas/campuslands|Campuslands]]
+- **Dossier de Investigación:** [[investigacion/diego-tarazona/dossier|Dossier Diego Tarazona]]
+- **MOC Integral:** [[diego_investigacion/README|MOC Diego Tarazona]]

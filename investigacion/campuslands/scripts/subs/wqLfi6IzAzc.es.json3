@@ -1,0 +1,5425 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  }, {
+    "mhModeHint": 2,
+    "juJustifCode": 0,
+    "sdScrollDir": 3
+  } ],
+  "wpWinPositions": [ {
+  
+  }, {
+    "apPoint": 6,
+    "ahHorPos": 20,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  } ],
+  "events": [ {
+    "tStartMs": 0,
+    "id": 1,
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 240,
+    "dDurationMs": 7840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "El tema de hoy que nos compete son los\nGPT projects, que ya veníamos hablando",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 5000,
+    "dDurationMs": 9920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de los GPT projects hace dos semanas en\nla clase de asistentes que tuvimos. En",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 11280,
+    "dDurationMs": 8640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "esa clase decíamos que\nun proyecto vendría siendo como un",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 17359,
+    "dDurationMs": 8121,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "asistente. ¿Por qué? Recordemos que al\nproyecto yo le cargo unas instrucciones,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 23240,
+    "dDurationMs": 7680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "un conocimiento y eso hace que mi\nproyecto se convierta ya no en una guía",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 28240,
+    "dDurationMs": 8680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "general, sino en una guía específica\npara lo que yo hago. ¿Listo? Entonces",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 34160,
+    "dDurationMs": 7680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hoy eh bueno, en esa sesión tuvimos más\nexplicación sobre qué eran los projects,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 38840,
+    "dDurationMs": 6840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sobre tal, entonces como que no vamos a\nindagar tantísimo, sino vamos a ir más a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 43760,
+    "dDurationMs": 5400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "la práctica. Vamos a ir más a la\npráctica de lo que es pues eso, la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 47760,
+    "dDurationMs": 8680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "creación de projects para que ustedes\nhagan uno o tengan el la guía de cómo de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 54680,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cómo hacerlo para que puedan empezar a\nhacerlo ustedes. ¿Listo?",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 59039,
+    "dDurationMs": 7321,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Entonces,\npara ir iniciando,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 64000,
+    "dDurationMs": 7280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "primero que todo,\neh, bueno, primero que todo, esta clase",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 68560,
+    "dDurationMs": 6239,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sí se va a publicar en YouTube, eh,\nporque, bueno, hemos estado trabajando",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 72759,
+    "dDurationMs": 5881,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "en mejorar la calidad de estas clases y\nmejorar también pues el hecho de como",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 76840,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "estamos grabando todo internamente para\nque pues sea un mejor material ahora a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 81159,
+    "dDurationMs": 5920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "la hora de subirlo a YouTube. Entonces,\nesta clase les aseguro 100% que la van a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 85520,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "encontrar en YouTube porque va a ser muy\ninteresante y porque pues va a estar",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 88880,
+    "dDurationMs": 7960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cargada de mucha información. ¿Listo?\nEntonces,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 93840,
+    "dDurationMs": 7480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "listo. Les voy a compartir pantalla para\nque podamos entrar en contexto. ¿Listo?",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 99520,
+    "dDurationMs": 7720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Entonces, ¿de qué les estoy hablando el\ndía de hoy? de lo que les estoy hablando",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 104000,
+    "dDurationMs": 7799,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "es de los GPT Projects, una\nfuncionalidad que tenemos disponible en",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 109759,
+    "dDurationMs": 7000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "nuestras cuentas gratuitas y en nuestras\ncuentas plus, que nos permite pues hacer",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 115000,
+    "dDurationMs": 7719,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que la inteligencia artificial deje de\nser una genérica y empiece a tener un",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 120240,
+    "dDurationMs": 7000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "contexto sobre ti o sobre tu negocio,\nunas instrucciones precisas de lo que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 124960,
+    "dDurationMs": 7359,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "debe hacer, de cómo debe comportarse, de\ncómo debe hablarme, de qué procesos debe",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 129360,
+    "dDurationMs": 8519,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "seguir. una base de conocimiento propia,\nque son esta cantidad de archivos que yo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 134640,
+    "dDurationMs": 9640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "le cargo a al asistente para que pues él\ntenga conocimiento de dónde sacar y pues",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 141280,
+    "dDurationMs": 7319,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tiene un tono de voz o bueno, un tono y\nun estilo según tu marca, según lo que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 146879,
+    "dDurationMs": 8080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tú quieres, porque vaya, eso está pues\nhecho a a medida de cada uno de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 151720,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "nosotros. ¿Listo? Entonces,\nde ahora en adelante quiero que todas",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 156360,
+    "dDurationMs": 7480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "las personas que están acá cuando\nescuchen que yo les diga project o un",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 160319,
+    "dDurationMs": 7920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "proyecto de chat GPT, piensen en\nasistentes de inteligencia artificial.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 165959,
+    "dDurationMs": 7241,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Los proyectos son asistentes de\ninteligencia artificial porque tienen un",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 170920,
+    "dDurationMs": 8440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "contexto, tienen unas instrucciones,\ntienen un conocimiento. ¿Cómo se ve eso",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 175599,
+    "dDurationMs": 10841,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "en la práctica, Santiago? Aquí eh sí se\nve bien. Espero que se vea bien. Em",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 183440,
+    "dDurationMs": 7439,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tenemos, por ejemplo, mi chat GPT,\n¿cierto? Este es el chat GPT de IA",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 188400,
+    "dDurationMs": 8919,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Academy. En este caso, nosotros tenemos\nun proyecto que es específicamente para",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 194519,
+    "dDurationMs": 7841,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "la creación de propuestas de propuestas\ncomerciales. Entonces, en este caso,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 199799,
+    "dDurationMs": 7321,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "este proyecto, ¿qué tiene? Este proyecto\ntiene unas fuentes que es que el",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 205040,
+    "dDurationMs": 7080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "conocimiento del que estamos hablando,\n¿cierto? Si vamos en la parte superior a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 210120,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "la derecha es donde encontramos la\nconfiguración del proyecto.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 215120,
+    "dDurationMs": 5839,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Estoy compartiendo pantalla. Sí, estoy\ncompartiendo pantalla. Entonces,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 219200,
+    "dDurationMs": 5280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "verifique que esté viendo mi pantalla,\ncaballero.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 222519,
+    "dDurationMs": 6201,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Entonces,\ncomo les comentaba,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 226519,
+    "dDurationMs": 5360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "e\ninstrucciones, tenemos unas",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 230159,
+    "dDurationMs": 6681,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "instrucciones que hacen que la\ninteligencia artificial, en este caso",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 233959,
+    "dDurationMs": 8560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "chat GPT, que funciona en mi proyecto,\nya no sea genérica, ya no sea una IA",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 239079,
+    "dDurationMs": 7360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "generalista, sino sea una IA que tiene\nun cerebro en específico. a un cerebro.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 244680,
+    "dDurationMs": 8520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Yo le llamo con el hecho de que tenga\ninstrucciones. Voy a dejar de compartir",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 248760,
+    "dDurationMs": 9319,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y voy a volver a compartir para que\npodamos ver bien nuevamente.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 273160,
+    "dDurationMs": 6280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Listo, ahí inicié a compartir de nuevo.\nVerifiquen por favor que puedan ver.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 278199,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Aquí ya me están confirmando que se\npuede ver. Entonces eh bueno, no no sé",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 282880,
+    "dDurationMs": 6039,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cómo funcione en celular o bueno, desde\nel dispositivo que ingresen,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 287039,
+    "dDurationMs": 6440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pero asegúrense porque ya estamos\ncompartiendo. ¿Listo? Entonces acá",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 291039,
+    "dDurationMs": 7401,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "precisamente les estoy mostrando el\nproyecto de propuestas que tenemos. O",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 295240,
+    "dDurationMs": 8720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sea, esto es un asistente\nque está entrenado para crear las",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 301320,
+    "dDurationMs": 9000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "propuestas de nosotros. Sí, tiene unos\nconocimientos, tiene unas instrucciones,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 307800,
+    "dDurationMs": 7600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "¿cierto? Entonces, de esos dos pilares\nson los que partimos yo cada vez que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 312919,
+    "dDurationMs": 7560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "quiero crear un nuevo asistente para\ndecir listo. Entonces, si me quiero",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 317919,
+    "dDurationMs": 6041,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "crear un asistente, por ejemplo, haz de\ncuenta que te quieres crear un asistente",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 321960,
+    "dDurationMs": 7560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "para\neh para tu negocio o para lo que tú",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 326840,
+    "dDurationMs": 7000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "trabajas. Ah, que yo trabajo en la\nsecretaría de tal cosa, ah, que yo soy",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 331440,
+    "dDurationMs": 7400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "contador, ah, que yo soy auxiliar, ah,\nque yo hago tal cosa. Entonces, créate",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 336160,
+    "dDurationMs": 7240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "un asistente para tu trabajo y le vas a\ndecir, \"Mira, tú vas a ser mi asistente",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 340800,
+    "dDurationMs": 8959,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "personal en todas las cosas que yo hago,\ntrabajando en donde tú trabajas y le vas",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 346680,
+    "dDurationMs": 7720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a cargar información sobre tu empresa,\nsobre cuáles son esas tareas que tú",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 351880,
+    "dDurationMs": 8560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "haces normalmente. Eso es lo que hacen\nmuchas clientes. es cuando yo les enseño",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 358600,
+    "dDurationMs": 6760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "todo el tema de los proyectos. Recuerden\nque esto es muy muy eh",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 363720,
+    "dDurationMs": 5039,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "esto es muy valioso porque esto\nnormalmente lo enseñamos pues en",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 366759,
+    "dDurationMs": 5201,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "nuestras clases completas de\ninteligencia artificial. Entonces,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 370160,
+    "dDurationMs": 5080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "recuerden que aquí no tengo todo el\ntiempo del mundo que tengo en estas",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 373280,
+    "dDurationMs": 5800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "formaciones más especializadas de\nenseñarle a ustedes cada uno cómo se",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 377280,
+    "dDurationMs": 5039,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hacen este tipo de cosas, sino que se\nhacen de manera más general. Si usted",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 380919,
+    "dDurationMs": 6081,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "está interesado a que nosotros le\nayudemos a hacerlo de una manera más",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 384400,
+    "dDurationMs": 7239,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "específica, aplicado a lo que usted hace\nen su día a día, pues contáctese con",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 389800,
+    "dDurationMs": 5640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Anita y ella le va a ofrecer los\ndiferentes programas que nosotros",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 393560,
+    "dDurationMs": 7759,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tenemos. Entonces, ya momento\ncomerciales terminó, pero eh por eso es",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 399680,
+    "dDurationMs": 6680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que en este caso pues yo hago el ejemplo\ncon lo que nosotros utilizamos, que es",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 403360,
+    "dDurationMs": 8239,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "un agente, un asistente para propuestas,\npero",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 408160,
+    "dDurationMs": 8520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "también pues esto se puede llevar al\ncontexto personal. Aquí cambié a otra",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 414479,
+    "dDurationMs": 8720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cuenta. Si se fijan, estoy en este caso\nen mi cuenta personal de chat GPT, donde",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 421240,
+    "dDurationMs": 8280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tengo pues todos mis proyectos. Por\nejemplo, uno de los proyectos que tengo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 426080,
+    "dDurationMs": 9839,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "es este que tenemos por acá.\nVamos a ingresar ahí a él. Este proyecto",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 432639,
+    "dDurationMs": 7921,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "es mi asistente personal. Mi asistente\npersonal. Ojo a lo que yo llamo mi",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 438360,
+    "dDurationMs": 9119,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "asistente personal para que tú lo puedas\nextrapolar a lo que tú haces. ¿Listo?",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 444479,
+    "dDurationMs": 9560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Nodo es el nombre de mi asistente. Él\nsabe quién soy yo, en qué trabajo, eh",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 451400,
+    "dDurationMs": 7799,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "qué cosas hago en mi día a día, sabe que\ntrabajo en Campusland, sabe que hago",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 455720,
+    "dDurationMs": 8919,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "clases y sabe muchas cosas de de mí.\nEntonces, siempre que yo necesito hacer",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 461360,
+    "dDurationMs": 7839,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "algo, lo hago en nodo porque él tiene\nmucho contexto sobre mí y hay muchas",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 466680,
+    "dDurationMs": 7120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tareas que pues yo hago en el día a día\nque son diferentes pero que son de mi",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 471120,
+    "dDurationMs": 8359,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "trabajo. Entonces, todas las hago ahí.\nEntonces, ¿cuál qué es lo que diferencia",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 476840,
+    "dDurationMs": 8079,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a un proyecto de GPT normal? Volviendo\nde nuevo, número uno, arriba a la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 482080,
+    "dDurationMs": 8799,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "derecha van a encontrar tres punticos\ndonde está la configuración del",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 486879,
+    "dDurationMs": 10401,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "proyecto. Ahí van a ustedes encontrar\nel apartado de las instrucciones. Sí,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 494039,
+    "dDurationMs": 6840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "estas instrucciones son el cerebro de su\nasistente.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 498879,
+    "dDurationMs": 7081,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Estas instrucciones son lo que le dice\nal asistente, quién es, cómo se",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 503759,
+    "dDurationMs": 7361,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "comporta, de dónde debe sacar su\nconocimiento, qué paso a paso debe",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 508120,
+    "dDurationMs": 8839,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "seguir, todo es el cerebro del\nasistente. Entonces estas instrucciones,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 514080,
+    "dDurationMs": 9600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "por ejemplo, lean acá, dice rol y\nmisión. Eres nodo, nodo es el nombre,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 520719,
+    "dDurationMs": 7841,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "eres nodo, el asistente de de liderazgo\noperativo y criterio estratégico del",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 525519,
+    "dDurationMs": 9880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "usuario dentro de este project.\nTu misión es ayudarle a pensar mejor,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 532360,
+    "dDurationMs": 8440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "priorizar con criterio, aterrizar ideas,\norganizar trabajo, reducir fricción",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 538000,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mental, sostener continuidad. Entonces,\nesas son las cosas para las que yo lo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 542160,
+    "dDurationMs": 7320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "utilizo. Cada vez que yo tengo alguna\nidea o tengo alguna situación o algo que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 547320,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tengo que aterrizar, yo le digo a él,\nmira, tengo esta idea, ta ta ta ta, y él",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 551160,
+    "dDurationMs": 5840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "me ayuda a estructurarlo. ¿Por qué me\npuede ayudar a estructurarlo? porque",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 554839,
+    "dDurationMs": 8081,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sabe quién soy yo, porque sabe en qué\ntrabajo, ahí es donde empieza a importar",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 560360,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "el contexto. Y es que para que un AI,\npara que un modelo de inteligencia",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 564040,
+    "dDurationMs": 7840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "artificial trabaje mejor, mientras más\ncontexto tuyo tenga, muchísimo mejor. Y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 569399,
+    "dDurationMs": 9560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ese es el poder de los asistentes aquí\nen los proyectos, que tú los puedes",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 574360,
+    "dDurationMs": 11000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "enriquecer de información tuya, ¿sí? y\nlo puedes volver literal tu compañero de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 583360,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "trabajo. Entonces,\ntiene unas instrucciones que es el pilar",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 587920,
+    "dDurationMs": 8159,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "número uno, ya lo vimos. Y aparte de las\ninstrucciones tiene el conocimiento.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 593640,
+    "dDurationMs": 7080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Entonces, ¿qué hay en ese conocimiento?\nFijámonos en los títulos de los",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 597440,
+    "dDurationMs": 8560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "archivos. Protocolo de consulta, guía\ndel sistema, líneas de trabajo, perfil",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 603360,
+    "dDurationMs": 7800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "estratégico del usuario, estilo de\nliderazgo, reglas operativas, es toda la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 609240,
+    "dDurationMs": 6839,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "información que él necesita para\nexistir, para operar. ¿Cómo cómo es el",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 614079,
+    "dDurationMs": 5921,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "protocolo de consulta cuando necesita ir\na mirar en internet? ¿Cuáles son las",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 618519,
+    "dDurationMs": 7081,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "líneas de trabajo y proyectos\nrecurrentes míos? ¿Cuál es el perfil",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 622600,
+    "dDurationMs": 7479,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "estratégico mío? O sea, información mía,\neh, estilo de liderazgo y toma",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 627519,
+    "dDurationMs": 8241,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "decisiones, o sea, cómo debe apoyarme a\nmí a tomar decisiones. Entonces, este",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 633320,
+    "dDurationMs": 7440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "conocimiento que él tiene, él cada vez\nque yo hablo con él, él tiene acceso a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 637959,
+    "dDurationMs": 6761,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "él. Entonces, así es como tú tienes que\nenriquecer a tu asistente de ese",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 643160,
+    "dDurationMs": 7000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "conocimiento\nque aplica a lo que tú haces. ¿Listo?",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 647800,
+    "dDurationMs": 7080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Entonces, esto espero que todos lo\nhayamos entendido. Un asistente es un",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 653000,
+    "dDurationMs": 5680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "modelo de inteligencia artificial, en\neste caso es chat GPT, pero le damos el",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 657519,
+    "dDurationMs": 6201,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "plus de que le ponemos unas\ninstrucciones y le ponemos un",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 660600,
+    "dDurationMs": 9080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "conocimiento para que se vuelva\nmuchísimo más específico a lo que yo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 665760,
+    "dDurationMs": 7079,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "necesito. Esos son los projects y eso es\nla forma en la que tú tienes que empezar",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 671160,
+    "dDurationMs": 6119,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a trabajar con chat GPT de hoy en\nadelante con proyectos para cada una de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 675240,
+    "dDurationMs": 10120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "las cosas que haces en tu día a día.\n¿Listo? Entonces,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 680519,
+    "dDurationMs": 9801,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "si se fijan, yo anodo lo utilizo mucho y\nya tiene todas estas conversaciones,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 688440,
+    "dDurationMs": 5320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "¿ves?\nTodas estas son conversaciones que yo he",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 692519,
+    "dDurationMs": 5281,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hablado con él. O sea, cada vez que yo\nhe entrado y le he escrito una cosa",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 695120,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "nueva y pues ha quedado ha quedado ahí\nguardado.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 699560,
+    "dDurationMs": 6360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "El otro punto de los proyectos, hay\ngente que ya sabrá esto, es que los",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 704279,
+    "dDurationMs": 7761,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "proyectos tienen la capacidad de\nrecordar lo que has hablado con ellos. O",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 708720,
+    "dDurationMs": 9080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sea, por ejemplo, Nodo. Aquí recuerda,\npor ejemplo, mira mi cursor",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 714800,
+    "dDurationMs": 8200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "nodo. Si yo le pregunto hoy, miércoles\n27 de mayo, le pregunto cuáles fueron",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 720639,
+    "dDurationMs": 7041,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "los planes que me dio para ese domingo\nen Ciudad de México. Sí, yo le pedí",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 726160,
+    "dDurationMs": 5600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "planes a la IA para ver qué iba a hacer\nen Ciudad de México a mi asistente",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 729839,
+    "dDurationMs": 7281,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "personal.\nEso fue el 17 de mayo, hace 10 días. Si",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 734800,
+    "dDurationMs": 7440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "yo le pregunto, él se va a acordar por\nqué él tiene los recuerdos de mis",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 739399,
+    "dDurationMs": 10401,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "conversaciones. Ahora, eso es un ejemplo\na mí, pero imagínate que Chat GPT te",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 744959,
+    "dDurationMs": 9320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "empiece a conocer al punto de recordar\nqué es lo que haces recurrentemente,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 752120,
+    "dDurationMs": 6800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cómo es que tal persona hace las\nfacturas siempre, cómo es que tú",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 756360,
+    "dDurationMs": 7640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "necesitas el la tabla del rendimiento\ntodos los viernes, el reporte semanal,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 762000,
+    "dDurationMs": 7000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "lo que sea que usted haga, crédese un\nasistente para hacer eso y se va a dar",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 766000,
+    "dDurationMs": 7720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cuenta que se va a volver más eficiente\nPorque mi asistente, digamos que tú lo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 771880,
+    "dDurationMs": 5680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "creas hoy, no va a ser igual de bueno\nhoy a cuando lleves un mes usándolo.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 775839,
+    "dDurationMs": 7000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "¿Por qué? Porque se le van a acumular\ntodas esas memorias y pues va a tener",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 780320,
+    "dDurationMs": 7360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "más contexto sobre ti. Y recuerda que a\nmás contexto sobre la vida real, mi",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 785800,
+    "dDurationMs": 7599,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "asistente se va a volver mucho mejor.\n¿Listo? Esto es la forma correcta de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 790600,
+    "dDurationMs": 8359,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "utilizar chat GPT projects, o sea, los\nproyectos. Ojo, hay mucha gente que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 795880,
+    "dDurationMs": 8319,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "utiliza proyectos, simplemente crea un\nproyecto. Por ejemplo, acá hay un",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 800760,
+    "dDurationMs": 8519,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "proyecto que se llama\nconciliación bancaria.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 806800,
+    "dDurationMs": 7000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Entonces, aquí la gente lo que hace es\ncrear el proyecto, digamos, ah, bueno,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 811560,
+    "dDurationMs": 8279,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "voy a hacer conciliaciones bancarias.\nCreas el proyecto y empiezas a trabajar",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 816560,
+    "dDurationMs": 10440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "en él y ya. Pero, ¿qué falta? Falta\nconfigurarle unas fuentes, está vacío y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 823560,
+    "dDurationMs": 8560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "falta venir arriba a la derecha y\nconfigar configurar unas instrucciones.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 829839,
+    "dDurationMs": 7440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Si tú creas un proyecto y no le\nconfiguras las instrucciones ni le subes",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 834240,
+    "dDurationMs": 9120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "conocimiento, estás usando chat GPT\nexactamente igual que si vinieras acá y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 840639,
+    "dDurationMs": 8241,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "crearas un nuevo chat.\nEs exactamente lo mismo. Lo que hace el",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 846079,
+    "dDurationMs": 8041,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "diferenciador en cómo funciona chat GPT\nson las instrucciones y el conocimiento.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 851720,
+    "dDurationMs": 6679,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Eso es lo que tú tienes que crear.\nEntonces, tu pregunta siempre tiene que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 855920,
+    "dDurationMs": 9120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ser, listo, me voy a crear un asistente\nnuevo. ¿Cómo hago para crear ese",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 861000,
+    "dDurationMs": 8160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "conocimiento? Y cómo hago para crear esa\ninstrucción que necesito para lograr lo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 867240,
+    "dDurationMs": 6599,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que quiero aplicado a lo que sea, sea\nque necesitas hacer diapositivas, sea",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 871160,
+    "dDurationMs": 7479,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que necesitas tener un asesor jurídico,\nsea que necesitas tener un asesor que te",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 876399,
+    "dDurationMs": 7761,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ayude a hacer las conciliaciones\nbancarias o a hacer propuestas o hacer",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 881880,
+    "dDurationMs": 7079,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cualquier cosa, siempre tu pregunta\ntiene que ser, listo, me quiero crear un",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 885720,
+    "dDurationMs": 7720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "asistente para x cosa, ¿cómo hago para\ncrear las instrucciones? ¿Y cómo hago",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 891040,
+    "dDurationMs": 6760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "para crear el conocimiento? Son esas dos\ncosas, son esos dos conceptos que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 895240,
+    "dDurationMs": 8080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "siempre tienes que tener en mente. Ahí\nes donde entra el GPT, asesor de GPTs,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 901639,
+    "dDurationMs": 6801,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que es un agente de inteligencia\nartificial que yo lo creé y que está",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 906519,
+    "dDurationMs": 9161,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "creado para entregarte unas\ninstrucciones y un conocimiento",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 911959,
+    "dDurationMs": 9161,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "contextualizado a lo que tú le pides a\nél. Entonces, vamos a hacer el ejercicio",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 919079,
+    "dDurationMs": 9601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y se los voy a compartir para que cada\nuno desde su cuenta de chat GPT lo haga.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 924199,
+    "dDurationMs": 9481,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Ojo, todo el mundo puede eh usar esto\nasí pagues o no pagues chat GPT. ¿Por",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 931839,
+    "dDurationMs": 6761,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "qué? Yo te voy a compartir un agente el\ncual tú solo lo vas a usar y a ese",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 936759,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "agente le vas a empezar a contar. Ya\nvamos a hacer el ejercicio. Él, ese",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 940600,
+    "dDurationMs": 6440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "agente te va a entregar unas\ninstrucciones y te va a entregar un",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 944800,
+    "dDurationMs": 7880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "conocimiento listo para que tú te crees\ntu project.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 948880,
+    "dDurationMs": 8720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Tu único deber es contarle bien a este\nagente qué es lo que necesitas para que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 955240,
+    "dDurationMs": 7519,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "esas instrucciones y ese conocimiento\nque te entregue te sirvan de verdad.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 960480,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "¿Listo? Ese es el único punto a tener en\ncuenta. Sí, él se va a encargar de hacer",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 965319,
+    "dDurationMs": 8161,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "todo el trabajo. Tú te tienes que\nencargar de decirle a él qué es lo que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 970000,
+    "dDurationMs": 8399,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "necesitamos. ¿Sí? Entonces,\nles voy a compartir este link.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 976079,
+    "dDurationMs": 7481,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Dme un segundito.\nY cada uno va a ingresar. También todo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 981600,
+    "dDurationMs": 6200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "el mundo puede crear proyectos. Así\npagues o no pagues, así pagues o no",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 985720,
+    "dDurationMs": 5840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pagues, créate, empieza, empiézate a\ncrear proyectos y te vas a dar cuenta",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 989880,
+    "dDurationMs": 7199,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que en un momento vas a querer empezar a\npagar. Eso es una realidad.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 994920,
+    "dDurationMs": 6520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Y después cuando pagues chat GPT y le\ndes la oportunidad, si es que aún no",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 999240,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pagas,\nno vas a poder dejar de pagar y vas a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1003199,
+    "dDurationMs": 7080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "decir, \"Uf, no, es que no puedo, o sea,\nno puedo, no puedo dejar de pagarlo.\"",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1010600,
+    "dDurationMs": 7200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Entonces, un segundito que voy a\ncompartirles el link para que todos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1014600,
+    "dDurationMs": 8520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tengan acceso a él\ny de paso, bueno, les puedo mostrar cómo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1020600,
+    "dDurationMs": 6520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "se ve por detrás este asistente creado.\nY si ustedes se fijan, es exactamente lo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1025319,
+    "dDurationMs": 12240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mismo que les estoy les estoy\nexplicando. ¿Listo? Ojo acá muy atentos.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1031640,
+    "dDurationMs": 10679,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Esto es eh el agente creador de agentes,\no sea, ese asesor que les va a ayudar a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1039919,
+    "dDurationMs": 6681,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ustedes a crear las instrucciones y el\nconocimiento",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1044000,
+    "dDurationMs": 8440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "en internamente. ¿Cómo funciona? Si me\nhas puesto cuidado, me responderás que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1049880,
+    "dDurationMs": 7400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "funciona con unas instrucciones y con un\n¿qué? con un conocimiento. Entonces,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1054679,
+    "dDurationMs": 9081,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vamos a verlo. Las instrucciones de este\nasesor aquí las tenemos. Mira cómo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1059880,
+    "dDurationMs": 9640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "empiezan. Vamos a leerlas rápidamente.\nAsesor experto en instrucciones para",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1066240,
+    "dDurationMs": 8080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "projects y custom GPTs.\nGuías de forma humana y progresiva y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1072000,
+    "dDurationMs": 8679,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "colaborativa para entregar instrucciones\npegables y knowledge, conocimiento",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1078080,
+    "dDurationMs": 7240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "construido activamente cuando el caso lo\nrequiere.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1082480,
+    "dDurationMs": 8160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "¿Qué le dice después? Las instrucciones\nle dicen en qué orden tiene que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1087679,
+    "dDurationMs": 10000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "consultar su conocimiento.\nSi se fijan, él tiene cargado en su",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1094799,
+    "dDurationMs": 9681,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "conocimiento siete archivos. Ahí está en\nnumerado, si se fijan. Y aquí le estamos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1100200,
+    "dDurationMs": 9760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "diciendo para qué sirve cada archivo y\nen qué orden debe consultarlos. O sea,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1107799,
+    "dDurationMs": 7401,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "en mis instrucciones\nyo le estoy diciendo a mi asistente cómo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1112760,
+    "dDurationMs": 7039,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "debe usar el conocimiento que tiene.\nRecuerda que las instrucciones son el",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1116919,
+    "dDurationMs": 8161,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cerebro y si el cerebro no le indica que\ndebe consultar las las conocimientos,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1122960,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pues el rendimiento no va a ser el\nmismo. Recuerda que las instrucciones",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1127080,
+    "dDurationMs": 8640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "son el cerebro. Lo que está en las\ninstrucciones es lo que la prioriza. Por",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1132360,
+    "dDurationMs": 8360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "eso es que esto está así. Y precisamente\neste asistente",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1137679,
+    "dDurationMs": 8000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tiene todo el conocimiento necesario\npara entregarte a ti el conocimiento y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1143880,
+    "dDurationMs": 7240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "las instrucciones listas para que tú no\ntengas que hacer nada. Pero eso, ¿cómo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1147760,
+    "dDurationMs": 9799,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "se logra? Precisamente yo tuve que\ncrearlo desde cero investigando",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1154679,
+    "dDurationMs": 7601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cómo se crean los agentes. ¿Por qué?\nRecuerda que para volver experto a una",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1160320,
+    "dDurationMs": 7760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "en algo tienes que cargar la información\nsobre eso. Por ejemplo, si tú quieres",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1165840,
+    "dDurationMs": 6760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "crear\neh quieres un asistente para tener",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1170200,
+    "dDurationMs": 6800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "conciliaciones bancarias, para generar\nconciliaciones bancarias, ¿qué le",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1174400,
+    "dDurationMs": 6960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tendrías que cargar como conocimiento?\n¿Cómo se hace una conciliación bancaria",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1178919,
+    "dDurationMs": 8841,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "o cómo lo haces tú? ¿Cierto? ¿Qué\nsignifica una conciliación bancaria bien",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1183840,
+    "dDurationMs": 8040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hecha? ¿Cierto? un ejemplo, o por otro\nlado más contexto sobre para qué es la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1190200,
+    "dDurationMs": 6200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "conciliación bancaria, qué hace tu\nempresa, qué compran normalmente, cuál",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1193760,
+    "dDurationMs": 8520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "es la cuenta, información sobre lo que\nlo quieres poner a hacer. En este caso",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1199559,
+    "dDurationMs": 7081,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tiene la información sobre cómo se crean\nlos agentes, ¿listo?",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1204960,
+    "dDurationMs": 5320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Pero ya lo vamos a ver en la práctica.\nEntonces,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1208200,
+    "dDurationMs": 6760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "en mi caso tiene ese montón de\nconocimiento. Así es como se ve este",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1213000,
+    "dDurationMs": 7320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "asistente que les voy a compartir por\ndetrás. ¿Listo?",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1217840,
+    "dDurationMs": 7199,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Es decir, se cargan ejemplos, ¿sí?\nEjemplos de tu vida real, ejemplos de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1223159,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "qué es lo que tú quieres lograr,\nejemplos de cómo se ve pues el",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1227520,
+    "dDurationMs": 9159,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "entregable que tú quieres que él aprenda\na hacer. ¿Listo? Por el chat de la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1232720,
+    "dDurationMs": 10160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "conversa de la de la llamada.\nLes pasé el link a la gente creador de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1240120,
+    "dDurationMs": 7439,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "asistentes. ¿Listo? Entonces, todas las\npersonas que quieran hacer el ejercicio,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1244960,
+    "dDurationMs": 8280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "lo que van a hacer es a darle clic y los\nva a llevar a esta página donde yo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1249440,
+    "dDurationMs": 9520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "estoy, que es el GPT, asesor de GPTs.\n¿Qué vamos a hacer acá?",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1255840,
+    "dDurationMs": 9319,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cada vez que tú quieras crear un nuevo\nasistente,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1260679,
+    "dDurationMs": 8961,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "¿okay? Listo, memorízate esto. Cada vez\nque tú quieras crear un nuevo asistente,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1267720,
+    "dDurationMs": 5240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "¿qué es un asistente Santiago? Un\nproyecto, ¿cierto? Entonces, cada vez",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1271880,
+    "dDurationMs": 7159,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que tú quieras crearte un nuevo\nasistente, tú vas a recurrir a este",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1275919,
+    "dDurationMs": 6921,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "asesor y le vas a empezar a contar como\nsi fuera Santiago, como si tuviesas a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1280799,
+    "dDurationMs": 5041,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Santiago al lado y le dices, \"Mira,\nSantiago, yo me quiero hacer una gente",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1284159,
+    "dDurationMs": 4760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "para que me haga esto y esto y esto.\"\nEso es lo que siempre me dice la gente.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1287520,
+    "dDurationMs": 5840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\"Venga, yo me quiero hacer una guía para\nque me haga esto y esto y esto. Eso se",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1290440,
+    "dDurationMs": 8359,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "puede.\" Entonces, haga de cuenta que\nusted me tiene ahí al lado y usted va a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1296520,
+    "dDurationMs": 8480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "empezar a contarle a mi asistente qué es\nlo que usted quiere. ¿Listo?",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1301400,
+    "dDurationMs": 11360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Entonces, en este caso, yo me voy a\ncrear un asistente para mi trabajo, que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1309440,
+    "dDurationMs": 9599,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pues es en este caso lo que yo hago es\ntrainer de inteligencia artificial en IA",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1315480,
+    "dDurationMs": 8360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Academy. ¿Listo? Entonces\nvoy a hacerlo a mi ejemplo y tú lo vas a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1321640,
+    "dDurationMs": 7000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "extrapolar a pues lo que sea que tú\nhagas en tu día a día. ¿Listo?",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1327080,
+    "dDurationMs": 6479,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Yo no voy a escribir porque nos vamos a\ndemorar mucho escribiendo. Tú decides si",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1330640,
+    "dDurationMs": 7440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "escribes o no. Yo lo voy a hacer con el\nmicrófono, o sea, voy a promtear",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1335880,
+    "dDurationMs": 5200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hablándole literal y él va a empezar a\ntranscribir.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1342799,
+    "dDurationMs": 10401,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Perdón que me llegó un mensaje. Perdón.\nListo. Entonces",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1349559,
+    "dDurationMs": 12761,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "voy a empezar a decirle.\n¿Me permite el micrófono? Ti ti ti ti.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1357120,
+    "dDurationMs": 5200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Permitir esta vez. Sí. Hola. Hola. Sí,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1364080,
+    "dDurationMs": 8680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "quiero crearme un asistente para mi\ntrabajo. Soy trainer de inteligencia",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1368960,
+    "dDurationMs": 11800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "artificial en Campus Lands AI Academy.\nTe voy a cargar unos documentos sobre la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1377360,
+    "dDurationMs": 8400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "misión y visión de Campuslands, sobre la\noferta de servicios de formaciones que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1382919,
+    "dDurationMs": 7681,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "nosotros hacemos. Y quiero tener un\nasistente que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1387919,
+    "dDurationMs": 6921,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "e siempre que yo tenga una duda de\nalguna inteligencia artificial o quiera",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1393120,
+    "dDurationMs": 7320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ayudarme\neh en la creación de una clase, este",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1397640,
+    "dDurationMs": 7639,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "asistente sea experto en buscar en las\núltimas tendencias de inteligencia",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1402039,
+    "dDurationMs": 9361,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "artificial, que tenga la capacidad de\nayudarme a aterrizar ideas de clase y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1408080,
+    "dDurationMs": 9280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que me ayude a crear planeaciones de\nclases sobre inteligencia artificial con",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1414039,
+    "dDurationMs": 9401,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "investigaciones en sitios como Reddit,\neh casos de uso recientes, GitHub y qué",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1421600,
+    "dDurationMs": 5840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "opina la comunidad de las últimas\nfuncionalidades de inteligencia",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1424679,
+    "dDurationMs": 7041,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "artificial. Tiene que ser mi copiloto de\ncreación de clases de inteligencia",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1429320,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "artificial.\nEntonces, además de esto, te voy a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1433360,
+    "dDurationMs": 7840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cargar unos documentos, debes\nanalizarlos y lo que quiero es crear un",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1438720,
+    "dDurationMs": 7160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "proyecto\npara para este asistente.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1446320,
+    "dDurationMs": 3680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Esto, vamos a ver si",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1453840,
+    "dDurationMs": 7680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Listo, acabamos de escribir el prom con\nvoz. Es una cosa que les recomiendo que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1459320,
+    "dDurationMs": 6959,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hagan. Es muy interesante. Hoy en día\nfunciona muy bien. Si se fijan, todo lo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1463760,
+    "dDurationMs": 8360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que dije quedó super bien y me ahorro\nescribir. Entonces, para muchas personas",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1469320,
+    "dDurationMs": 8680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "es más fácil decirlo que escribirlo.\nEntonces, como tip, si te interesa",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1474799,
+    "dDurationMs": 6801,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "empezar a promtearle ahí con voz, es muy\ninteresante. Entonces, ahí te quedó.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1480200,
+    "dDurationMs": 6719,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Quiero crearme un asistente para mi\ntrabajo. Esto es un prom muy como el que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1484520,
+    "dDurationMs": 7399,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tú tienes que hacer. O sea, literalmente\nlo hice de la forma más humana posible.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1489760,
+    "dDurationMs": 7080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "No es nada técnico, no lo dije de\nninguna forma específico. Cuéntale a la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1495120,
+    "dDurationMs": 5240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ven, quiero quiero crearme un estente\npara esto. Entonces, mira lo que le",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1499120,
+    "dDurationMs": 5960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "dije. Quiero crearme un estente para mi\ntrabajo. Soy trainer. Ta ta ta. ¿Qué le",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1502960,
+    "dDurationMs": 8839,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "voy a cargar?\n¿Qué le voy a cargar? Es mi pregunta.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1507960,
+    "dDurationMs": 8839,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Voy a buscar una\nun documento que tengo por acá. Denme un",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1513640,
+    "dDurationMs": 7480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "minuto y lo encuentro. Lo tengo en\ncloud. A ver si se me abre el cloud.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1521360,
+    "dDurationMs": 9160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Denme un segundo, denme un segundo.\nEh,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1528320,
+    "dDurationMs": 6280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "entonces sí, espero que la persona que\nquiera hacerlo, eso es lo que tiene que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1532320,
+    "dDurationMs": 7880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hacer, tiene que\ncentrarse en contarle muchos detalles",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1537640,
+    "dDurationMs": 11360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sobre qué que en qué es eso que quiere\nser ayudado. Sí. o qué detalles sobre tu",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1545279,
+    "dDurationMs": 9481,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "trabajo y este asistente asesor de GPTS\nes el que te va a ayudar precisamente a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1552840,
+    "dDurationMs": 7760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "llegar a las instrucciones y al\nconocimiento. A ver, eh, este aquí lo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1558559,
+    "dDurationMs": 5641,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tengo.\nUn minuto, un minuto y ya estoy",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1562720,
+    "dDurationMs": 7400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "consiguiendo el archivo que lo voy a\ncargar, que es un archivo que tiene",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1565880,
+    "dDurationMs": 4240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "información sobre lo que yo hago.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1575000,
+    "dDurationMs": 7200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Descargar. Aquí está. Ahí ya lo\ndescargué.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1579919,
+    "dDurationMs": 6841,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Ahí ya lo están viendo ustedes. El\narchivo número uno es la oferta general",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1584799,
+    "dDurationMs": 4600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de servicios de Iacademy. ¿Qué es lo que\nnosotros hacemos? las diferentes",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1587919,
+    "dDurationMs": 7360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "formaciones, se lo va a cargar como\ncontexto y la misión y visión y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1592840,
+    "dDurationMs": 8040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "propuesta valor de nosotros. Se lo esos\nson dos documentos que yo le voy a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1596600,
+    "dDurationMs": 10679,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cargar a el agente asesor para que él\ntenga más contexto sobre qué es lo que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1602399,
+    "dDurationMs": 10961,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "yo hago y ese asistente sea\nmás, ya hay que cambiarla,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1610200,
+    "dDurationMs": 5920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sea más contextualizado.\nEntonces, lo voy a descargar los dos.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1614760,
+    "dDurationMs": 7840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Pues este, en este caso lo que tienes\nque hacer es ir y buscar información",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1618679,
+    "dDurationMs": 7081,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sobre tu trabajo, sobre la empresa o en\ncaso de que tú lo que hagas sea un",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1623960,
+    "dDurationMs": 6040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "proceso específico, pues le compartes\nese archivo o si tú lo que necesitas es",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1628320,
+    "dDurationMs": 5000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "llevar un control en un Excel, también\nse lo pasas. Van a hacer un cambio ahí",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1631960,
+    "dDurationMs": 4360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "rápido en la cámara y ya vuelve mi\ncámara.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1637120,
+    "dDurationMs": 8000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Un segundo, un segundo, chicos.\nSí, se tiene, se ve como no signal, pero",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1642240,
+    "dDurationMs": 7520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "en unos segundos vuelve.\nEntonces, ¿qué voy a hacer? Le voy a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1646440,
+    "dDurationMs": 9119,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cargar aquí los dos documentos.\nLos cargamos y voy a enviar mi mensaje.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1653080,
+    "dDurationMs": 7280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Mi mensaje, recordemos que promteado con\nvos.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1657159,
+    "dDurationMs": 10161,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Muy sencillo. Enviamos el mensaje y\nesperamos a la respuesta.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1663279,
+    "dDurationMs": 7841,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Si ustedes se fijan, cuando tú entiendes\nqué es,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1669200,
+    "dDurationMs": 6599,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cuando tú cuando tú empiezas a entender\ncómo es que funciona, volvimos.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1674159,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Cuando tú empiezas a entender cómo es\nque funciona, el proceso se vuelve muy",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1678279,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sencillo, porque tú simplemente te\ntienes que enfocar es en entregarle a mi",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1682200,
+    "dDurationMs": 5400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "asistente qué es lo que tú quieres y él\nte va a empezar a dar. Entonces, mira lo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1686159,
+    "dDurationMs": 5681,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que me respondió. Analicemos mi\nrespuesta y es listo. Entiendo que el",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1690000,
+    "dDurationMs": 7559,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "asistente será un copiloto de creación\nde clases de IA para tu trabajo. Bien.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1695640,
+    "dDurationMs": 5919,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Eh, IA Academy es la línea de formación\nde de IA de Campuslands. Eso es",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1699559,
+    "dDurationMs": 7000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "correcto. La oferta formativa incluye\nrutas como tatatá. Listo. La mejor ruta",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1704399,
+    "dDurationMs": 5321,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "es crear un project. En este caso me\nestá recomendando que efectivamente",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1708279,
+    "dDurationMs": 7880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tenemos que crear un project. O sea,\nvamos por Buen Camino. Eh, entonces,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1713279,
+    "dDurationMs": 8481,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "nombre del project, Copiloto y Academy.\nMe está aquí proponiendo cuál es ese",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1718720,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "conocimiento que tengo que cargar.\nEntonces, ahí ya se responde la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1723279,
+    "dDurationMs": 4961,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pregunta. Para los que ahorita se\npreguntaban, \"Listo, Santiago, entonces,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1726720,
+    "dDurationMs": 7480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "¿cómo creo las instrucciones y el\nconocimiento? él me lo está proponiendo,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1731640,
+    "dDurationMs": 8440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "qué conocimiento da, pero qué es muy\nimportante que yo en ese prompt inicial",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1737519,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "lo llene de mucha información, o sea, en\neste primer prompt que yo te di, o sea,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1742240,
+    "dDurationMs": 6080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "bueno, que yo hice el ejemplo, tú lo\ntienes que hacer y mientras más",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1745919,
+    "dDurationMs": 7640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "información cargues aquí al inicio, tu\nasistente va a ser mucho mejor, ¿sí?",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1750919,
+    "dDurationMs": 7081,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Porque va a tener más contexto sobre ti\ny estos archivos de conocimiento van a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1755640,
+    "dDurationMs": 7279,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "estar más aterrizados a lo que tú haces.\nBien, entonces él te va a empezar a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1760240,
+    "dDurationMs": 5919,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hacer preguntas y te dice, \"Listo,\n¿quieres que la planeación de la clase",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1764399,
+    "dDurationMs": 9441,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "salga principalmente como tabla de\nbloques, como tabla por bloques de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1769360,
+    "dDurationMs": 9120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tiempo o como guion? En este caso me\nestá haciendo una pregunta sobre cómo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1775519,
+    "dDurationMs": 7841,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "quiere, como sobre cómo yo quiero que él\nme entregue las clases planeadas.\" Sí,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1781320,
+    "dDurationMs": 8479,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "yo aquí podría decirle que lo haga como\nquiera o yo aquí podría decirle como una",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1787399,
+    "dDurationMs": 5841,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "estructura específica que yo quiero.\nNormalmente tú en tu trabajo tienes",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1791679,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cosas que tú ya haces de una forma\nespecífica. Entonces tú le pasas un",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1795760,
+    "dDurationMs": 8519,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ejemplo a mi asesor, moví todo, a mi\nasesor para que él él lo haga. Entonces",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1802440,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "nosotros ya tenemos una forma de cómo se\nplanean las clases. Entonces le voy a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1806679,
+    "dDurationMs": 6681,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pasar un ejemplo para que él lo pueda\nanalizar. Voy a buscarlo acá rápido.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1813559,
+    "dDurationMs": 7641,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Eh, descargas, yo creo, una propuesta\nrápida.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1817960,
+    "dDurationMs": 9160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Ay, ay, ay, ay, ay.\nMira esta una propuesta.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1824600,
+    "dDurationMs": 6520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Listo. Entonces, le cargamos un ejemplo.\nEntonces, yo en este caso le voy a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1828519,
+    "dDurationMs": 7601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "responder la pregunta y le voy a decir,\nlo voy a dictar porque qué pereza",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1832559,
+    "dDurationMs": 3561,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "escribir la verdad.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1836919,
+    "dDurationMs": 8721,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Te compartí una propuesta de formación.\nEn este archivo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1843080,
+    "dDurationMs": 10680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "puedes encontrar la estructura que\nnosotros usamos para planear las clases.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1849559,
+    "dDurationMs": 10921,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Analiza el archivo y añade esto en el\nconocimiento para que el asistente que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1856720,
+    "dDurationMs": 8720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "estamos creando sepa en qué formato me\ntiene que entregar las clases. Siempre",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1862840,
+    "dDurationMs": 6679,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "se tiene que mantener el formato que\nencuentras en ese documento.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1870480,
+    "dDurationMs": 8600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Listo. Enviamos el prompt. Muy sencillo.\nBueno, creo que ahí me sigue escuchando.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1877440,
+    "dDurationMs": 8199,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Entonces,\naceptar nuevamente. Está como lentico,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1881880,
+    "dDurationMs": 3759,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pero vamos a darle tiempo.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1886159,
+    "dDurationMs": 7081,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Listo. Te partido una propuesta de\nformación. Ay, no, no quedó bien,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1891559,
+    "dDurationMs": 5240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "no quedó bien. Entonces, mira, listo. Va\na empezar desde ahí.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1897720,
+    "dDurationMs": 8679,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Te compartí una propuesta de formación.\nEn este archivo puedes encontrar la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1902559,
+    "dDurationMs": 11201,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "estructura de cómo se planean las\nclases. analízalo y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1910159,
+    "dDurationMs": 9880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "e incluye en las instrucciones\ny en el conocimiento de la gente que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1916480,
+    "dDurationMs": 7240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "siempre respete esta estructura como el\ndocumento que te estoy compartiendo.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1945720,
+    "dDurationMs": 3000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Ya.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1949159,
+    "dDurationMs": 6081,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Ay, no me va a tocar escribir\neh",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1955799,
+    "dDurationMs": 4681,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "analiza. No sé por qué no está\nfuncionando bien.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1961440,
+    "dDurationMs": 3000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Añade",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1965399,
+    "dDurationMs": 10520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "en los conocimientos\npara que mi asistente",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1971200,
+    "dDurationMs": 13640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "siempre respete esta estructura.\neh para entregarme la planeación",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1981080,
+    "dDurationMs": 7439,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de las clases. ¿Listo?\nEntonces, volvemos. Después de esa",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1986480,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tropezada,\n¿qué le estoy dando yo? Él me está",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1990200,
+    "dDurationMs": 5920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "preguntando que cómo quiero recibir las\nclases. En este caso es un asistente",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1994200,
+    "dDurationMs": 5280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "para crear mis clases. Puede ser en tu\ncontexto un asistente para lo que tú",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1997440,
+    "dDurationMs": 6199,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "quieras.\nYo le estoy pasando un ejemplo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2001440,
+    "dDurationMs": 6800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "precisamente de que le responde a él la\npregunta de que cómo quiere que me que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2006480,
+    "dDurationMs": 6319,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que ese asistente me entregue a mí las\ncosas. Entonces, se lo comparto como",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2011159,
+    "dDurationMs": 5841,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ejemplo.\nBien, entonces ahí esperamos que nos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2014519,
+    "dDurationMs": 8880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "responda. Recuerda que a mí se me demora\nrespondiéndome porque estoy utilizando",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2019279,
+    "dDurationMs": 9801,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "GPT 5.5 Thinking, que es el modelo que\nhay que utilizar en nuestro día a día",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2026559,
+    "dDurationMs": 7761,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "para las cosas que hagamos. Ojo, si no\npagas, no tienes acceso a este modelo.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2031039,
+    "dDurationMs": 9120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Si pagas asegúrate. Uy, voy a\nreintentar.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2036440,
+    "dDurationMs": 11600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Si pagas, asegúrate de que tu GPT\nsiempre esté en thinking, en GPT 5.5",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2045760,
+    "dDurationMs": 7599,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "thinking. Listo. Si pagas. Vamos a\nesperar que no responda",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2050399,
+    "dDurationMs": 7921,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y pues bueno, para terminar, para ir\nterminando. No sé qué está pasando con",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2055480,
+    "dDurationMs": 6639,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "GPT que está como superlento. Estoy\nintentando no dañarlo porque está",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2060399,
+    "dDurationMs": 6161,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "funcionándome lento, pero funciona.\nEntonces tengo miedo.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2064720,
+    "dDurationMs": 7040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Voy a de hecho a copiar el prom. Nunca\nse sabe. Para no tener que volver a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2068919,
+    "dDurationMs": 12801,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "escribirlo.\nVoy a recargar la página a cerrar esto.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2077560,
+    "dDurationMs": 4160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Voy a cerrar esto también.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2085639,
+    "dDurationMs": 5720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Yo creo que no se envió mi prom, pero\nvamos a confirmar. A ver,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2089720,
+    "dDurationMs": 6800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "discúlpenme que esté un poquito lento,\npero entenderán. Estamos transmitiendo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2093320,
+    "dDurationMs": 10360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "todo el tema. Entonces,\nah, bueno, ahí ya me está respondiendo.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2098480,
+    "dDurationMs": 9760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Excelente. Ah, no, mentira. Ah, no, sí.\nEntonces me dice, \"Analicé la propuesta",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2106160,
+    "dDurationMs": 5439,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y sí, ese archivo debe convertirse en\nuna plantilla de estructura",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2109280,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "obligatoria.\" Entonces, él iba a crear\nuna plantilla de estructura según el",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2113400,
+    "dDurationMs": 10080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "archivo que yo le compartí. Excelente.\nEntonces, conclusión final.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2118240,
+    "dDurationMs": 9520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Eh, ah, bueno, mira, me crea esto. Eh,\nesto es al asistente,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2126119,
+    "dDurationMs": 6201,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "¿no? Esa respuesta está muy rara,\nentonces la voy a regenerar. ¿Cómo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2129920,
+    "dDurationMs": 7560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "regenero una respuesta? Le doy al\nlapicito y la vuelvo a enviar. Eso es",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2135359,
+    "dDurationMs": 6321,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "otro tipcito ahí. Entonces, ahí él va a\nempezar a regenerar su respuesta.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2143800,
+    "dDurationMs": 7720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Entonces ahí vamos a esperar la\nrespuesta que ahí ya está funcionando",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2148240,
+    "dDurationMs": 6359,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "como mejor para ir terminando. Me dice,\n\"Listo, ya identifiqué este archivo, no",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2153480,
+    "dDurationMs": 5000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "es solo una propuesta comercial,\nfunciona como plantilla estructural de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2156520,
+    "dDurationMs": 7760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "malla curricular. Precisamente lo que yo\nquiero, precisamente eso, que siempre se",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2162200,
+    "dDurationMs": 8480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "respete esa estructura. Entonces, a tu\ncaso de uso, si siempre quieres que se",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2166319,
+    "dDurationMs": 8841,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "respete algo o si crees que algo\nes valioso para que esta gente lo sepa,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2172560,
+    "dDurationMs": 7320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "se lo cargas. Es muy importante, muy\nimportante ser muy detallado, cargar el",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2177160,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "máximo contexto posible siempre, o sea,\ncomo que darle toda la información",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2181200,
+    "dDurationMs": 7520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "posible para que pues él esté lo más\ncontextualizado posible a ti. Si tú le",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2186079,
+    "dDurationMs": 7401,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "das poquita información no no te va a\nservir tanto. Sí,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2191880,
+    "dDurationMs": 5479,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vamos a esperar la estructura base, que\nes fijar título de la formación,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2194920,
+    "dDurationMs": 8840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "subtítulo, objetivo general. Esa es la\nestructura base más o menos del de mi",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2199319,
+    "dDurationMs": 9040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "archivo. Sigue trabajando.\nVamos a esperarlo. Démosle tiempito.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2211720,
+    "dDurationMs": 3800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Ahí ya me empezó a responder.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2217599,
+    "dDurationMs": 7361,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Listo.\nEh,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2221880,
+    "dDurationMs": 10520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "bueno, bien. Entonces,\nentonces",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2226560,
+    "dDurationMs": 16680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "eh ya entrégame el conocimiento final\ndel asistente y las instrucciones.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2237920,
+    "dDurationMs": 9679,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Entrégame todo listo para descargar.\nListo. Entonces, él ya tiene todo lo que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2245160,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "necesita. Ya ahí le di la instrucción\nfinal. ¿Cuál es la instrucción final? En",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2249720,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "caso de que no te lo haga automático,\nporque de pronto no lo hace automático,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2254680,
+    "dDurationMs": 5360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "eh, tú le dices como que listo, ya\nentrégame el conocimiento final y las",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2258040,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "instrucciones. Pues en este caso, pues\nahí él ya me había",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2262680,
+    "dDurationMs": 5439,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ya me había dicho que como que listo,\neso era lo que necesitaba.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2269760,
+    "dDurationMs": 7480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Me dice, \"Voy a empacatarte un kit\ncompleto para el project.\" me va a dar",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2274800,
+    "dDurationMs": 7240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "instrucciones pegables, me va a dar\narchivos de conocimiento listos y una",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2279640,
+    "dDurationMs": 6120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "guía breve de instalación. También te va\na dar una guía de cómo debes hacerlo.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2284079,
+    "dDurationMs": 4481,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Entonces, no hay excusa. Yo siento que\nno hay excusa para que todas las",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2287119,
+    "dDurationMs": 7000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "personas que participaron el día de hoy\nacá empiecen a crear sus proyectos como",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2292040,
+    "dDurationMs": 7400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "asistentes para cada una de las cosas\nque hagan en su día a día.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2297880,
+    "dDurationMs": 6120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Dice, \"Además las instrucciones del\nproject, voy a incluir conocimiento",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2301359,
+    "dDurationMs": 5601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "separado por responsabilidad. Entonces,\nél se encarga de crearte el",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2305200,
+    "dDurationMs": 7680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "conocimiento. Es que no hay excusa. O\nsea, literal.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2309760,
+    "dDurationMs": 3120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "A esperar.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2313280,
+    "dDurationMs": 8280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Voy a ver qué es lo que está haciendo.\nAh, mira, ahí está escribiendo, está",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2318520,
+    "dDurationMs": 6200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "usando Python internamente para escribir\nel archivo.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2324760,
+    "dDurationMs": 3280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Vamos a esperarlo.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2328240,
+    "dDurationMs": 7000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Mientras tanto, no sé si alguien tenga\npreguntas que me quiera de pronto hacer",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2332680,
+    "dDurationMs": 6159,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "dudas de lo que estamos haciendo. Pues\nya para ir terminando, como les dije,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2337280,
+    "dDurationMs": 5280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "esta clase sí va a estar subida en\nYouTube porque es una clase muy",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2340079,
+    "dDurationMs": 6801,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "importante que pues le da a ustedes\ntodo. Dice, \"Listo, te dejé el kit",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2344800,
+    "dDurationMs": 6960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "completo del project empaquetado y\nlisto.\" Me dice, \"Descargar el kit",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2349200,
+    "dDurationMs": 6879,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "completo.\" Me dice, \"Este paquete\nincluye.\" Vamos a ver qué incluye. ¿Qué",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2353440,
+    "dDurationMs": 7360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "es lo que me entregó? Entregó\ninstrucciones listas para pegar en chat",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2358119,
+    "dDurationMs": 5841,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "GPT. Me entregó\nknowledge, que es conocimiento,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2362280,
+    "dDurationMs": 10079,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "conocimiento de identidad, conocimiento\nde tatatá. la estructura obligatoria.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2367280,
+    "dDurationMs": 5079,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Listo. Entonces voy a descargarlo.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2374359,
+    "dDurationMs": 6361,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Ahí me dio el botoncito para\ndescargarlo.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2377359,
+    "dDurationMs": 9480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Eh, no, ahí era el zip. Kit completo.\nZip.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2383000,
+    "dDurationMs": 10599,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Listo. Ahí ya lo descargué.\nVamos a abrirlo acá en descargas.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2391319,
+    "dDurationMs": 7401,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Esto lo vas a tener que descomprimir\nprobablemente. Entonces,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2396119,
+    "dDurationMs": 11561,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ojo ahí.\nVoy a hacer esto acá y ya te muestro.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2404680,
+    "dDurationMs": 3000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "H",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2419640,
+    "dDurationMs": 3000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "extraer.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2423240,
+    "dDurationMs": 8640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Tienes que extraerlo porque es un es un\nes un zip, ¿no? Entonces le das clic",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2429280,
+    "dDurationMs": 9240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "derecho, extraer. Ya te muestro. Dame un\nsegundo. Eh, no sé que se me está",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2434280,
+    "dDurationMs": 4240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "abriendo acá. Dios.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2441680,
+    "dDurationMs": 9480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Listo. Esto fue esto es la carpetica que\nme descargué. Si se fijan ahí ya eh la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2447640,
+    "dDurationMs": 8240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "puse. Aquí lo tenemos. Vamos a analizar\nqué fue lo que me entregó. me entregó",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2455920,
+    "dDurationMs": 6960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "archivos del uno al cinco que son el\nconocimiento.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2460240,
+    "dDurationMs": 7079,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Me entregó las instrucciones y me\nentregó otro archivo que dice kit",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2464520,
+    "dDurationMs": 5960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "completo. Entonces, vamos a ver qué es\nlo que tengo que hacer. Si no sabes qué",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2469359,
+    "dDurationMs": 11281,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "es lo que tienes que hacer, le vas a\ndecir, \"Entrégame el paso",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2476160,
+    "dDurationMs": 10919,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "paso a paso de qué debo hacer con estos\narchivos.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2483040,
+    "dDurationMs": 7799,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "para crear mi project.\nSi en caso de que quieras hacerlo, lo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2488960,
+    "dDurationMs": 7040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "puedes hacer de esta manera. ¿Listo?\nEntonces, bien, porque él te va a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2493920,
+    "dDurationMs": 6520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "explicar qué es lo que tienes que hacer.\nEntonces, descarga y descomprime. Ya lo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2497800,
+    "dDurationMs": 9120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hicimos. Crea un nuevo project en chat\nGPT. Vamos a hacerlo. Voy a abrir aquí",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2504440,
+    "dDurationMs": 7960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "uno nuevo. Voy a cerrar estas cosas que\nme están consumiendo.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2510319,
+    "dDurationMs": 7641,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Listo.\nEntonces,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2514560,
+    "dDurationMs": 3400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "aquí lo tengo.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2519720,
+    "dDurationMs": 6920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Y esto pues ya es el proceso final,\n¿vale? O sea, esto ya es el final.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2524200,
+    "dDurationMs": 6520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Vienes aquí, le pones el nombre, ya te\natiendo, dame un segundo.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2529240,
+    "dDurationMs": 7599,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Crea un nuevo proyecto. Aquí me da\ninclusive el nombre. Vengo y pego, le",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2534240,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "doy en crear proyecto\ny ya me va a aparecer mi proyecto en",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2539280,
+    "dDurationMs": 5079,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "blanco.\n¿Listo? ¿Cómo configuro las",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2542760,
+    "dDurationMs": 7960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "instrucciones?\nArriba a la derecha, configuración del",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2547520,
+    "dDurationMs": 7520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "proyecto en instrucciones. Listo.\nEntonces,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2552480,
+    "dDurationMs": 7040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "eh pega las instrucciones del proyecto.\nEntonces, me dice que abra el archivo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2557720,
+    "dDurationMs": 7639,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Project Instructions, que fue el que me\nenvió. Vamos a ver. Project",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2562720,
+    "dDurationMs": 7119,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "instructions. Lo abrimos con doble clic.\nSe nos va a abrir. Es un es un texto.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2570079,
+    "dDurationMs": 3480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Aquí se me abrió.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2579000,
+    "dDurationMs": 8800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Aquí lo tengo. ¿Qué voy a hacer con\nesto? Lo copio todo.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2583920,
+    "dDurationMs": 3880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Uy, Dios mío, ¿qué pasó?",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2588200,
+    "dDurationMs": 4919,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Control.\nNo,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2595839,
+    "dDurationMs": 7921,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "control A. Ya lo copio todo. Simplemente\nes darle control C para copiar. Y ah,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2602319,
+    "dDurationMs": 8321,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "bueno, se me cerró, pero vienes aquí,\nconfiguración, pegas las instrucciones,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2608160,
+    "dDurationMs": 9679,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ya te aseguras de que queden pegadas,\nasí te tiene que quedar",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2613720,
+    "dDurationMs": 4119,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y le das en guardar.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2619119,
+    "dDurationMs": 5681,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Una vez ya guardas, ya van a quedar\nguardadas las instrucciones. ¿Qué es lo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2622680,
+    "dDurationMs": 6040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "otro que tienes que hacer? venir y\ncargar el conocimiento. Entonces voy a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2626680,
+    "dDurationMs": 6360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "volver a ver el que me dice. Me dice,\n\"Listo, sube los archivos del",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2630960,
+    "dDurationMs": 6840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "conocimiento.\" Entonces me dice que suba\ndel uno al cco",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2636480,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y me dice que también suba los\ndocumentos originales.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2640480,
+    "dDurationMs": 7639,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "¿Listo? Entonces vamos a subírselos.\nAñadir fuentes.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2645319,
+    "dDurationMs": 7681,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Le damos en cargar fuentes y aquí es\ndonde pues bueno, buscas en tu PC dónde",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2650640,
+    "dDurationMs": 6520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "es que está.\nEntonces,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2654520,
+    "dDurationMs": 7680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "aquí lo tengo yo en descargas. Voy a del uno al cinco, como me lo dijo.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2660079,
+    "dDurationMs": 7921,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Le damos en abrir y a ella se te van a\ncargar. Bueno, mientras se cargan.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2665920,
+    "dDurationMs": 7199,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Tania, eh, me estabas alzando la manos.\n¿Me vas a decir algo o vas a comentar?",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2670119,
+    "dDurationMs": 3000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Cuéntame.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2676440,
+    "dDurationMs": 3840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "No. Bueno,\nhola, buenas tardes. ¿Cómo estás? Un",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2678720,
+    "dDurationMs": 6440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "gusto saludarte.\nSí, mira, es que pues sí tenía tenía",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2683319,
+    "dDurationMs": 6520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "muchas preguntas. Esto es muy similar a\nlo que nos hablaba el señor del",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2686359,
+    "dDurationMs": 6760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "asistente en puntual\nel otro día que estuvimos ahí en",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2691160,
+    "dDurationMs": 5640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Fenalcu.\nCorrecto. Sí, probablemente. No tengo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2696480,
+    "dDurationMs": 5680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "contex.\nSolo que él ya creó, digámoslo así, el",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2699319,
+    "dDurationMs": 7961,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "código para que pueda ingresar y la\ncontestación automática y se enlace con",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2704160,
+    "dDurationMs": 8080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "los demás eh herramientas como el\nWhatsApp Business. Es correcto.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2709640,
+    "dDurationMs": 5880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Esto es esto es otro tipo de asistente.\nEsto es un asistente para tu",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 2713599,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "productividad dentro de lo que hagas en\nchat GPT. Eso de conectarse con",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2718040,
+    "dDurationMs": 8200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "WhatsApp, ese tipo de cosas, es otro\nnivel más avanzado.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2721760,
+    "dDurationMs": 7839,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Sí, esto es dentro de chat GPT.\nY contigo podemos hacer el siguiente",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 2728160,
+    "dDurationMs": 5600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "nivel más avanzado.\nSí, nosotros tenemos formaciones desde",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2731280,
+    "dDurationMs": 6839,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "lo más básico hasta lo más técnico. Si\ntú quieres aprender a hacerlo, claro,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2735920,
+    "dDurationMs": 7679,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "comunícate con Ana. Ana Valentina que\nestá por ahí en el chat, ella te",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2739599,
+    "dDurationMs": 7881,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "comparte el número y te podemos asesorar\nde cer a 100. Claro que sí.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2745480,
+    "dDurationMs": 4800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "¿Cuánto puede cuánto puede demorar uno\npara poder aprender bien las",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 2748720,
+    "dDurationMs": 6680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "herramientas como debe ser? como\ncorresponde con el proceso,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2753440,
+    "dDurationMs": 10560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "haciendo bien todo a proceso.\nSí, si no tienes conocimientos técnicos,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2759160,
+    "dDurationMs": 10240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "eh, yo te diría que en una ruta de unas\n60 horas, 70 horas en total para que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2766720,
+    "dDurationMs": 7080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "aprendas todo. Si quieres solo aprender\nel primer nivel son unas 12 horas, ya",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2772119,
+    "dDurationMs": 6841,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "luego el siguiente nivel de agentes\navanzados que son 18 horas, el siguiente",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2777160,
+    "dDurationMs": 8199,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "nivel que son automatizaciones que son\n32 horas y ya el siguiente nivel que ya",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2781599,
+    "dDurationMs": 9841,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "es eh ya el tema de bueno, código y tema\nmás técnico, que ya son las últimas casi",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2787920,
+    "dDurationMs": 8120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que las últimas 20 horas de formación,\npero nosotros tenemos forma desde lo más",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2793319,
+    "dDurationMs": 7040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "básico hasta lo más técnico\ny ustedes también no certifican a uno",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2798079,
+    "dDurationMs": 5601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "con todo el proceso así como una\nuniversidad, digámoslo así, como si",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2801640,
+    "dDurationMs": 5320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "fuera una carrera profesional.\nAh, genial. Me interesa.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2805160,
+    "dDurationMs": 5199,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Es como una carrera profesional, es como\nun curso y se te certifican las horas de",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 2809200,
+    "dDurationMs": 6399,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "formación. ¿Qué haces en las\ncompetencias que que adquieras? No es un",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2813920,
+    "dDurationMs": 7040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "título universitario, evidentemente,\npero",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2818599,
+    "dDurationMs": 8960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pero sí si es válido como un estudio.\nSí, sí es válido. Nosotros estamos",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 2823440,
+    "dDurationMs": 7480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "avalados con la Secretaría de Educación.\nAh, perfecto, me interesa. Entonces,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2829720,
+    "dDurationMs": 4960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "muchísimas gracias, Andreo.\nClaro que sí. Cualquier cosa con Ana",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2832520,
+    "dDurationMs": 6559,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Valentina te puedes comunicar o bueno, a\nnuestro WhatsApp o por Instagram, por",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2836520,
+    "dDurationMs": 5559,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cualquier sitio y se comunican contigo.\nListo.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2842280,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Continúo con las otras preguntas antes\nde que de pronto se vayan. Eh, para",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2845760,
+    "dDurationMs": 7480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "creación de asistentes de escritura para\ncopi, ¿es mejor crearlos como GPT o como",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2850480,
+    "dDurationMs": 7960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "proyecto? como proyecto para que tenga\nla posibilidad de recordar, como ya lo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2856000,
+    "dDurationMs": 8920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "dijimos, las conversaciones anteriores.\n¿Listo? Es decir, ¿cuál debería ser el",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2860760,
+    "dDurationMs": 10640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "orden correcto? El GPT no recuerda. Por\neso es que yo les les entrego a ustedes",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2867319,
+    "dDurationMs": 8240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "un GPT para que no esté recordando si\nuna persona por allá creó una cosa y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2873240,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "otra cosa. No necesito que recuerde los\nproyectos. es para que recuerde. Por eso",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2877359,
+    "dDurationMs": 8321,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "yo siempre le recomiendo a todo el mundo\nque creen proyectos. Proyectos. No se",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2882119,
+    "dDurationMs": 7480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pongan a pensar en GPTs y eso, no.\nEh, es decir, GPT solo ayuda como el",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2887920,
+    "dDurationMs": 6280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "motor para crear el conocimiento.\nExacto. GPT es el que te va a ayudar a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2892839,
+    "dDurationMs": 5000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "crear el conocimiento y las\ninstrucciones para que tú hagas lo que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2895760,
+    "dDurationMs": 7680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "acabo de hacer, que es venir subir las\nfuentes y pegar las instrucciones.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2900520,
+    "dDurationMs": 6839,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Entonces, le va a decir, \"Hola, cuéntame\nquién eres.\"",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2905280,
+    "dDurationMs": 7760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Vamos a ver quién es él.\nYa habiéndole cargado las instrucciones",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2909680,
+    "dDurationMs": 3360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y el conocimiento.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2913960,
+    "dDurationMs": 7920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Es muy interesante prepararnos de manera\nintensiva. Sí, es es estas clases no te",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2920280,
+    "dDurationMs": 6039,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "alcanzan a dar todo el conocimiento que\nte da una formación específica porque",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2923960,
+    "dDurationMs": 7280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tenemos una hora, o sea, no no es mucho,\npero lo que intentamos enseñar acá es",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2928920,
+    "dDurationMs": 7320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "eso, esas metodologías que les puedan\ndar a ustedes resultados rápidos. Esto",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2934359,
+    "dDurationMs": 6081,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sin necesidad de tú entender cómo es que\nfunciona y demás, puedes empezar a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2938880,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "aplicarlo y vas a empezar a ver\nresultados muy buenos. Y si ya quieres",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2943760,
+    "dDurationMs": 5280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "formarte, quieres entender cómo\nfunciona, entender más a fondo todo eso,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2947520,
+    "dDurationMs": 6120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pues ya para eso están las demás\nformaciones. Entonces, mira, me dice,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2951160,
+    "dDurationMs": 7240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\"Hola, Santi, soy tu copiloto de\ncreación de clases para IA Academy. Mi",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2956799,
+    "dDurationMs": 5800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "función principal es ayudarte a\ninvestigar, consultar ideas, diseñar",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2960799,
+    "dDurationMs": 5040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "planeaciones,\ntrabajo bajo el enfoque de Academy,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2964400,
+    "dDurationMs": 6679,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "formación práctica, herramientas\nactuales, casos reales.\" Claro que sí.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2969520,
+    "dDurationMs": 8799,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Cuando me pidas una planeación, debo\nrespetar la estructura. Entonces, vaya,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2974119,
+    "dDurationMs": 15521,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "aquí es donde yo puedo empezar. Necesito\neh planear una clase de AI para eh niños",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2985280,
+    "dDurationMs": 9680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de 14 a 16 años.\nEh, entonces ahí yo empezaría a planear",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2993160,
+    "dDurationMs": 8199,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mis clases y ya tengo un asistente que\nme va a mí a apoyar. Así es que tú debes",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2998760,
+    "dDurationMs": 6280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "empezar a crear tus asistentes dándole\nmucha información sobre tu negocio,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3003119,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sobre lo que tú haces, sobre cómo es que\ntú creas eso que tú creas, si es un",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3007640,
+    "dDurationMs": 6760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "informe, si es una investigación, qué\nparámetros tú usas. Nadie más que tú",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3011640,
+    "dDurationMs": 7760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "conoce cómo haces tu trabajo día a día.\nEntonces, tu tarea",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3017240,
+    "dDurationMs": 7440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "contarle con el nivel de detalle\nnecesario a la IA, qué es lo que tú",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3021720,
+    "dDurationMs": 7879,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "haces para poderte crear asistentes\nespecializados. Mira que con un prom",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3026920,
+    "dDurationMs": 5720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sencillo él ya tiene el conocimiento\nnecesario para poder empezarme a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3031160,
+    "dDurationMs": 5159,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "entregar cosas. Entonces mira, dice\nsesión uno, inteligencia artificial para",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3034119,
+    "dDurationMs": 7240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "crear, aprender y pensar mejor. me da\nahí una propuesta de cómo sería la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3038079,
+    "dDurationMs": 5720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "clase, qué podría hacer y ya ahí yo\npuedo empezar a decirle, \"No, mira,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3042520,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "quiero esto, quiero esto, quiero tal\ncosa.\" Ahí es donde nace la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3046599,
+    "dDurationMs": 5960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "productividad, porque yo ya no empiezo\nde cero, sino empiezo con un copiloto",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3050680,
+    "dDurationMs": 5240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que es muy inteligente, que es muy capaz\ny que me puede ayudar a mí a lograr",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3054400,
+    "dDurationMs": 6800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cosas,\nmuchas cosas muy rápido. Entonces, mira,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3058799,
+    "dDurationMs": 5681,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "yo la cantidad de proyectos que tengo\ncreados. Yo tengo un montón de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3062599,
+    "dDurationMs": 5041,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "proyectos, la mayoría tienen\ninstrucciones, hay otros que por ahí que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3066040,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "no,\npero esa es la idea, que siempre que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3070160,
+    "dDurationMs": 7600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pienses en crear un proyecto, pienses,\nlisto, me voy a crear un asistente,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3075079,
+    "dDurationMs": 8000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "¿para qué lo quiero? ¿Qué información\ntengo que darle? ¿Cómo voy a crear esas",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3080680,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "instrucciones? ¿Y cómo voy a crear ese\nconocimiento? te di una herramienta que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3085079,
+    "dDurationMs": 8520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "te va a facilitar mucho ese proceso, que\nes el agente asesor de GPTS, al cual tú,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3091599,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "¿qué tienes que hacer? Tú le empiezas a\ncontar, mira como yo lo hice. Lo hice",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3095720,
+    "dDurationMs": 4960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hablando con un prom hablado, le empecé\na contar que era lo que yo quería.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3099559,
+    "dDurationMs": 6321,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "empieza a contarle qué es lo que tú\nquieres, carga la información, llénalo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3103880,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de contexto y él se va a encargar de\nentregarte instrucciones y conocimiento",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3108720,
+    "dDurationMs": 7440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "listo para que tú empieces a utilizar\nlos proyectos para como estaban",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3113040,
+    "dDurationMs": 8319,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pensados. La gente utiliza los proyectos\nmuchas veces solo para organizar los",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3117880,
+    "dDurationMs": 7560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "chats o para, no sé, pero no los\nutilizan para lo que están pensados, que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3123599,
+    "dDurationMs": 5281,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "es para crear este tipo de asistentes,\nque tengan su conocimiento y que tengan",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3127079,
+    "dDurationMs": 7601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sus instrucciones\neh y su bueno, para desempeñar una",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3131720,
+    "dDurationMs": 9839,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tarea. ¿Listo? Entonces,\nesto es la clase de hoy. Les recuerdo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3137680,
+    "dDurationMs": 9399,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que van a encontrar esta clase cargada,\nbueno, subida en nuestro canal de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3142920,
+    "dDurationMs": 4159,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "YouTube, youtube.com/ai.campuslands.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3148400,
+    "dDurationMs": 7399,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Igual que en Instagram, ai.campuslands,\nvan a encontrar todo lo referente a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3153920,
+    "dDurationMs": 7600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "formación en inteligencia artificial.\nComo les comentaba, estas estos espacios",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3158960,
+    "dDurationMs": 7200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "están pensados para dar conocimiento\naccionable y rápido. Si usted está",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3163640,
+    "dDurationMs": 6919,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "buscando algo más específico para su\nempresa, para lo que usted quiere",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3167720,
+    "dDurationMs": 8520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "lograr, ahí es donde entran nuestras\nformaciones más especializadas, más VIP,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3173079,
+    "dDurationMs": 7040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "más personalizadas para pues cada una de\nlas personas, sea por independiente, sea",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3178280,
+    "dDurationMs": 7880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "por empresa, sea que tú quieres formarte\na ti tu equipo o unos amigos, en fin.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3183520,
+    "dDurationMs": 8640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Entonces nosotros armamos estas rutas de\nconocimiento específicas para las",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3188520,
+    "dDurationMs": 9680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "personas que bueno, para las necesidades\nde cada una de las personas. Dime,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3195400,
+    "dDurationMs": 4959,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "¿estás alzando la mano?\nCuéntame.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3198839,
+    "dDurationMs": 4601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Sí, qué pena. Es que se me pasó\npreguntarte algo muy muy pues de",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 3202520,
+    "dDurationMs": 5360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "interés.\nDos cosas. Una eh yo dentro del",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3205880,
+    "dDurationMs": 7880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ejercicio de usar en el día a día mi\nchat GPT ya me aparece como una franjita",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3211400,
+    "dDurationMs": 6679,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "naranja alrededor del espacio de de\ningreso a información que me dice modo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3215760,
+    "dDurationMs": 6960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "desarrollador. Eso, ¿qué significa? Y y\nen qué momento se colocó, o sea, ¿por",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3219720,
+    "dDurationMs": 6800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "qué ahora me aparece así?\nmodo desarrollador.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3226079,
+    "dDurationMs": 5961,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Eh,\nsí, no sé qué significa eso.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3229839,
+    "dDurationMs": 9280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Eh, existe un apartado de chat GPT que\nes Codex, que es chat GPT para código",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 3236680,
+    "dDurationMs": 5800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "para desarrolladores. No sé en\nespecífico dónde están metida de chat",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3241160,
+    "dDurationMs": 6040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "GPT, pero seguramente es algo\nrelacionado. Vete a nuevo chat,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3245520,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "¿no? Ahora cada vez que lo abro en el\nGoogle o en el o en el computador o en",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 3249640,
+    "dDurationMs": 9159,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "el celular, como ya estaba registrado\nbajo mi correo y mi celular, ahora ya me",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3255480,
+    "dDurationMs": 9760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "aparece siempre esa ventanita en ese de\nesa manera como modo desarrollador.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3263280,
+    "dDurationMs": 5319,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Okay. Bueno, no sé a qué te refieres. Si\npuedes pasarme una captura sería",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 3266680,
+    "dDurationMs": 4639,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "espectacular porque no no sé a qué te\nrefieres.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3269599,
+    "dDurationMs": 5401,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Ay, yo te escribo. Tú ahorita te escribo\ny te la paso. Sí. Y por otro lado,",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 3273359,
+    "dDurationMs": 5041,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "dentro de lo que tú dices de crear los\nasistentes,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3276359,
+    "dDurationMs": 7240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "lo dentro de lo que tú dices que de\ncrear lo de los asistentes, hm, tengo",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 3281520,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "una duda, eh, pues precisamente cuando\nuno cuando uno ingresa chatt para poder",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3286839,
+    "dDurationMs": 5280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hacerlo más personalizado, uno lo\ningresa desde el correo de uno o desde",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3290160,
+    "dDurationMs": 6080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "el número del celular de uno. Sí, como\nregistro, digámoslo así.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3293520,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Sí. Eh, y ya queda pues si yo lo abro de\npronto en otro computador de otra",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 3298160,
+    "dDurationMs": 6199,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "persona o en mi celular o donde sea,\ncomo siempre lo voy a hacer a través de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3301799,
+    "dDurationMs": 8241,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mi correo o de mi celular, pues siempre\nva a tener como esa línea de proceso de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3306440,
+    "dDurationMs": 8240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "esa conversación conmigo. Sí. Eh, esto\nque tú dices de crear los asistentes, yo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3312480,
+    "dDurationMs": 7440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "lo creo en ese perfil, pero si yo\nnecesitara para otras cosas, dentro de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3317000,
+    "dDurationMs": 7119,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "un mismo dentro de un mismo correo, yo\npuedo crear diferentes perfiles de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3321640,
+    "dDurationMs": 5600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "asistentes y tenerlos ahí como a mano o\nalgo.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3324359,
+    "dDurationMs": 7081,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Tú puedes crear asistentes cuantos\nquieras. Mira la cantidad que yo tengo,",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 3329599,
+    "dDurationMs": 5240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "un montón\ndentro de tu misma cuenta van a quedar.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3333440,
+    "dDurationMs": 4320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Entonces, siempre que tú inicies sesión\ncon tu cuenta, vas a encontrar tus",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3336240,
+    "dDurationMs": 7640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "asistentes, sea en el computador que\nsea. Asegúrate siempre de cerrar sesión",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3340160,
+    "dDurationMs": 3720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cuando no sea tu computador.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3344440,
+    "dDurationMs": 6359,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Pero eso estás a la izquierda, ¿cierto?\nDe de la pantalla cuando uno ingresa.",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 3348920,
+    "dDurationMs": 6879,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Exacto. En la barra de navegación\nizquierda vas a encontrar los proyectos.",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 3353000,
+    "dDurationMs": 6559,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Dice Laura, \"Yo tenía un GPT para\nasistente de prompt y me quedó en mi",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3357880,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "appador.\n¿Cómo hago para que este GPT también me",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3361440,
+    "dDurationMs": 7639,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "quede guardado en la app?\nEs indiferente si lo haces en la app, si",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3366000,
+    "dDurationMs": 7200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "en la web, tienes que es que estés en la\nmisma cuenta. Siempre que estés en la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3370720,
+    "dDurationMs": 6399,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "misma cuenta, todo se va a ver igual en\ntodo. Da igual si estás en celular, si",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3375640,
+    "dDurationMs": 6679,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vas a encontrar tus mismos asistentes,\ntus mismos proyectos, pero asegúrate de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3379240,
+    "dDurationMs": 8720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que estás en la misma cuenta. ¿Listo?\nEsa es la única, no hay pierde.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3385359,
+    "dDurationMs": 6841,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "¿Vale? Bueno, nuevamente muchísimas\ngracias a todos las personas que están",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3389760,
+    "dDurationMs": 7120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "interesadas con Anita. Eh, muchas\ngracias de verdad por sacar su tiempo y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3394520,
+    "dDurationMs": 7880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "entrar a estos espacios. Espero que la\ninformación que les compartimos el día",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3398160,
+    "dDurationMs": 7639,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de hoy les sea de eh de ayuda para que\nempiecen a utilizarlo en su día a día,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3404440,
+    "dDurationMs": 5320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "para que empiecen a crear esos\nproyectos. Recuerden que esta clase la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3407960,
+    "dDurationMs": 5960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "van a encontrar en YouTube para que\nvuelvan a ver este proceso y tal vez",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3411480,
+    "dDurationMs": 6879,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cuando lo hagan puedan ver como yo lo\nhice y puedan guiarse a la hora de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3415960,
+    "dDurationMs": 8119,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "empezar a crear sus propios proyectos.\n¿Listo? nuevamente, muchas gracias.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3421480,
+    "dDurationMs": 7920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Quedamos eh ahí en contacto por el\ngrupo, las personas que están en el",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3426039,
+    "dDurationMs": 6881,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "grupo, eh si tienen alguna sugerencia de\nalgo que quieran aprender en estas",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3430839,
+    "dDurationMs": 6081,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "masterclasses de los miércoles\nsuperabiertos, escuchar de pronto sus",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3434760,
+    "dDurationMs": 7359,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "comentarios, ¿no? Mira, Santiago, me\ngustaría que aprendiéramos a hacer tal",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3439119,
+    "dDurationMs": 7281,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cosa con chat GPT, no sé, por ejemplo,\nahí pueden pasarnos sus sugerencias por",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3443920,
+    "dDurationMs": 6040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "el grupo y estaremos implementándolas en\nsiguientes clases. De nuevo, muchas",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3448039,
+    "dDurationMs": 5161,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "gracias. Mi nombre es Santiago y que\ntengan todos una excelente tarde.",
+      "acAsrConf": 0
+    } ]
+  } ]
+}

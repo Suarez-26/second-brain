@@ -1,0 +1,69 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  }, {
+    "mhModeHint": 2,
+    "juJustifCode": 0,
+    "sdScrollDir": 3
+  } ],
+  "wpWinPositions": [ {
+  
+  }, {
+    "apPoint": 6,
+    "ahHorPos": 20,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  } ],
+  "events": [ {
+    "tStartMs": 0,
+    "id": 1,
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 0,
+    "dDurationMs": 4960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "No pueden hacer dos cosas al tiempo,\n[música] porque si usted le van a tocar"
+    } ]
+  }, {
+    "tStartMs": 3320,
+    "dDurationMs": 4880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "la puerta a alguien\nde que le apoye, de que le apueste y"
+    } ]
+  }, {
+    "tStartMs": 7120,
+    "dDurationMs": 4280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "usted [música] no está dedicado a tiempo\ncompleto, pues uno dice, pues si él no"
+    } ]
+  }, {
+    "tStartMs": 9560,
+    "dDurationMs": 7280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "le cree, menos le voy a creer yo. Un\nlíder se debe preocupar es por armar el"
+    } ]
+  }, {
+    "tStartMs": 14000,
+    "dDurationMs": 2840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mejor equipo."
+    } ]
+  } ]
+}

@@ -1,0 +1,162 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  }, {
+    "mhModeHint": 2,
+    "juJustifCode": 0,
+    "sdScrollDir": 3
+  } ],
+  "wpWinPositions": [ {
+  
+  }, {
+    "apPoint": 6,
+    "ahHorPos": 20,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  } ],
+  "events": [ {
+    "tStartMs": 0,
+    "id": 1,
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1319,
+    "dDurationMs": 7441,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Hola, mi nombre es María Juliana\nSaavedra, tengo 17 años y soy una de las",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 5520,
+    "dDurationMs": 7039,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "décadas al 100% por Cajasana. Mi\nhistoria comienza con mi papá siendo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 10800,
+    "dDurationMs": 6479,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ingeniero de sistemas y yo queriendo\nseguir sus pasos. Desde muy pequeña me",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 15280,
+    "dDurationMs": 8239,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ha encantado el mundo de la tecnología,\nsobre todo el mundo de la programación.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 20119,
+    "dDurationMs": 7400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Conocí a Cuslans, gracias a un profesor\nmío del",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 24560,
+    "dDurationMs": 8960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "colegio. Vine y la verdad que enamorada\ncon el programa y actualmente que estoy",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 30640,
+    "dDurationMs": 7919,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "realizando el programa siento que es lo\nmejor que hay en este mundo. Aprendes",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 35440,
+    "dDurationMs": 7439,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mucho en muy poco tiempo y lo aprendes\ntan bien que siento que queda en tu",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 40200,
+    "dDurationMs": 6999,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "memoria para el resto de tu vida.\nEh, uno de mis mayores sueños es llegar",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 45360,
+    "dDurationMs": 6960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a ser una de las mejores ingenieras a\nnivel mundial y poder servir como",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 49320,
+    "dDurationMs": 7000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ejemplo a las demás mujeres para saber\nque sí puedes llegar a hacer todo lo que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 54680,
+    "dDurationMs": 6600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "quieras hacer.\nEh, puedo decir también que Campus",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 58480,
+    "dDurationMs": 7720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Lance, más que solo enseñarte a ti a\nprogramar, te enseña también a ser",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 63800,
+    "dDurationMs": 7560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "persona, te enseña inglés y siento que\nesos son las bases para poder llegar a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 68080,
+    "dDurationMs": 7200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ser realmente grande en este campo. Yo\ntengo dos certificaciones en inglés y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 73880,
+    "dDurationMs": 4960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "espero poder llegar a ser la mejor\ncamper de este programa. M.",
+      "acAsrConf": 0
+    } ]
+  } ]
+}

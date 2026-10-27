@@ -47,3 +47,10 @@ Diego es un placer siempre me llena de orgullo hablar de campus Y por qué no no
 **[~57:30]** no sesg a a al que quiera llegar es simplemente ser mayor de 16 años pero hoy eh la estadística que tenemos es principalmente más del 80% son estrato 1 2 3 Okay Eh el 95 vienen de colegios públicos y eh el promedio más o menos Hoy está en 22 23 años de iniciamos siendo urbano en el sentido
 
 **[58:01]** que arrancamos en bucaramanga viene gente lebrija que hay algo Hay algo rural hay unos temas Rurales pero hoy no más del 20% es rural con lo que vamos a extendernos Sí vamos a llegar a la ruralidad del siguiente año 
+
+---
+## 🔗 Conexiones del Segundo Cerebro
+- **Persona:** [[people/diego-tarazona|Diego Tarazona]]
+- **Entidad:** [[areas/campuslands|Campuslands]]
+- **Dossier de Investigación:** [[investigacion/diego-tarazona/dossier|Dossier Diego Tarazona]]
+- **MOC Integral:** [[diego_investigacion/README|MOC Diego Tarazona]]

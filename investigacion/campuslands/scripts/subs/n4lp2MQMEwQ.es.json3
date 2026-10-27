@@ -1,0 +1,2026 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  }, {
+    "mhModeHint": 2,
+    "juJustifCode": 0,
+    "sdScrollDir": 3
+  } ],
+  "wpWinPositions": [ {
+  
+  }, {
+    "apPoint": 6,
+    "ahHorPos": 20,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  } ],
+  "events": [ {
+    "tStartMs": 0,
+    "id": 1,
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 40,
+    "dDurationMs": 5520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Pienso que en la vida hay que tomar\nriesgos. Digamos que uno de los grandes",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3320,
+    "dDurationMs": 7480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "riesgos es estar rodeado de hombres,\npero más que por el temor a la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 7879,
+    "dDurationMs": 7201,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "intimidación es por el sentido de no ser\ncapaces. Pero si nos ponemos a pensar a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 13120,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "lo largo de la historia han existido\nmuchas mujeres que han marcado la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 16840,
+    "dDurationMs": 7759,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "evolución del mundo. Incluso hoy en día\nen Google hay mujeres que son directoras",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 22680,
+    "dDurationMs": 6679,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "en el área de inteligencia artificial.\nIncluso yo tengo el privilegio de poder",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 27119,
+    "dDurationMs": 6401,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "decir que muchas mujeres que pasaron por\nmi salón hoy en día están trabajando en",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 31400,
+    "dDurationMs": 7400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Bogotá, están trabajando empresas, una\nempresa que se llama Amaris y están",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 35800,
+    "dDurationMs": 8200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "superfelices. El Kile me lo gané porque\naniquilé grupo, un grupo completo se de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 41559,
+    "dDurationMs": 6761,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cantos. Lo que pasa pues llegaron a un\nentorno donde creían que eran",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 46039,
+    "dDurationMs": 6601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vacaciones, era campamento de verano y\nno. Welcome to the podcast, the human",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 51160,
+    "dDurationMs": 6039,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "code.\nBienvenidos a un nuevo episodio de The",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 54840,
+    "dDurationMs": 8440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Human Code. El día de hoy tenemos a un\ninvitado de la casa, el profesor Jolber",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 60239,
+    "dDurationMs": 7520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "José Pardo García, quien lleva 20 años\nenseñando a desarrolladores alrededor",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 65400,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "del país. Bienvenido, Jolger. Para\nempezar, ¿por qué no nos cuentas cómo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 69479,
+    "dDurationMs": 9521,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "iniciaste en la programación?\nBueno, el el inicio en la programación",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 74920,
+    "dDurationMs": 8960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "no fue sencillo porque desde muy joven\nquería ser médico.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 81720,
+    "dDurationMs": 6079,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "En ese fines pues me encantaba la\nmedicina, me encantaba todo el área de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 86119,
+    "dDurationMs": 7640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "la ginecología,\nme fascinaba. Entonces, a partir de ese",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 90079,
+    "dDurationMs": 9841,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "momento, pues quería ser médico, pero\nuno de los grandes temores que tenía al",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 96320,
+    "dDurationMs": 8119,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ejercer la medicina era perder la vida.\nEntonces, perder la vida de un paciente",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 101640,
+    "dDurationMs": 8000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "es una responsabilidad muy baja. Y eso\nfue cuando tomé la decisión de estudiar",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 106880,
+    "dDurationMs": 10519,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "la carrera de ingeniería, pero realmente\ncomo programador era muy malo.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 112799,
+    "dDurationMs": 9280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Y claro, eh son eh más de dos décadas\neso enseñando eh a los futuros",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 120600,
+    "dDurationMs": 5879,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "programadores.\nEste caso hemos sabido que ha enseñado a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 124479,
+    "dDurationMs": 5881,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "lo que son algunos padres de algunos\ncampers que están estudiando en este",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 128000,
+    "dDurationMs": 7280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "momento en Campusland. Desde esa\nperspectiva, eh, Jolber, cuéntanos cómo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 133400,
+    "dDurationMs": 6600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ha sido el cambio en el que los\nestudiantes",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 136840,
+    "dDurationMs": 8759,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "eh aprenden o han estudiado o han venido\nllevando ese proceso de la tecnología",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 142680,
+    "dDurationMs": 8839,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hasta el día de hoy. Bueno, digamos que\na nivel generacional, si estamos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 147440,
+    "dDurationMs": 10840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hablando de de padres y de antecesores\nde ustedes, la programación ha cambiado",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 154720,
+    "dDurationMs": 7120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "en un 200%, ya que pues hoy en día\nustedes pueden contar con diferentes",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 160040,
+    "dDurationMs": 6680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "herramientas tecnológicas que les\nfacilitan la vida como desarrolladores.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 164959,
+    "dDurationMs": 6200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Anteriormente la única posibilidad que\nteníamos nosotros como programadores y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 169080,
+    "dDurationMs": 6519,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "como aprender a programar eran los\nlibros. Nosotros nos enfocábamos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 173239,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "netamente en los libros, no salíamos de\nlos libros, incluso nuestra cultura a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 178319,
+    "dDurationMs": 6881,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "nivel de desarrollo, a nivel de\nuniversidad, era siempre tener nuestra",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 182159,
+    "dDurationMs": 7881,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "propia biblioteca. Y basado en eso, los\nestudiantes tenían que pensar mucho,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 187159,
+    "dDurationMs": 8000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "evolucionar muy rápido, porque incluso\nel internet todavía no estaba como en",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 192080,
+    "dDurationMs": 7280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ese furor de lo que tenemos hoy en día.\nNo teníamos ni YouTube, no teníamos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 197480,
+    "dDurationMs": 7080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Google, no teníamos ninguna herramienta\nalterna. Entonces, el esfuerzo que se",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 201159,
+    "dDurationMs": 9280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hacía era bastante fuerte y digamos el\npensar lo que hoy en día pues",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 207480,
+    "dDurationMs": 7560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "lastimosamente no se trata es que los\nestudiantes no les gusta analizar y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 212439,
+    "dDurationMs": 6041,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pensar y eso hace mucho más difícil que\nlos estudiantes hoy en día, incluso los",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 217080,
+    "dDurationMs": 6960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "profesionales, sean muy buenos\ndesarrolladores de software.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 221760,
+    "dDurationMs": 7920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Yo sí, yo tengo una pregunta. Eh, lo\nparticular, ¿usted prefiere la medicina",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 227200,
+    "dDurationMs": 5959,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "o programación? O se extraña en algún\nmomento usted ha dicho, \"La verdad",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 231400,
+    "dDurationMs": 4800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "preferiría estar en medicina en estos\nmomentos que está estudiando",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 235040,
+    "dDurationMs": 6039,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "programación.\"\nPues yo te lo respondo de una manera.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 238640,
+    "dDurationMs": 6799,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Eso es con cuando usted se casa,\n¿cierto? Cuando usted se casa, ya",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 242519,
+    "dDurationMs": 7681,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "definitivamente le tocó quedarse con su\nesposa por fidelidad, por lo que ella le",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 248360,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ha dado a usted en toda su vida. La\nprogramación es así. En ocasiones la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 252439,
+    "dDurationMs": 7480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "programación es muy desagradecida\nporque no siempre nosotros estamos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 257040,
+    "dDurationMs": 7879,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pensando qué nos va a ayudar, sino vamos\na pensar es cómo nos vamos a enriquecer",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 262720,
+    "dDurationMs": 7120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "con la programación. Digamos que esa es\nuna de las grandes mentalidades que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 267160,
+    "dDurationMs": 6960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "debemos cambiar y mejorar, porque si\npensamos que la programación no está",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 271440,
+    "dDurationMs": 7039,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hecha para enriquecernos,\nestamos en el lugar equivocado. Nosotros",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 276520,
+    "dDurationMs": 6519,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "con la programación podemos desarrollar\nhabilidades y destrezas que podemos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 281000,
+    "dDurationMs": 7880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "solucionar problemas, sí podemos\nsoportarle al mundo.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 286039,
+    "dDurationMs": 7880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Claro, Yolver y digamos con todo lo que\nhas dicho y tanto tiempo que llevas",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 291560,
+    "dDurationMs": 7479,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sobornando lo que vienen siendo los\ningenieros,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 295639,
+    "dDurationMs": 7441,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "¿cuál es de pronto el código o el\nlenguaje que más llegues a compartir con",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 300919,
+    "dDurationMs": 6921,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "los estudiantes?\nMás que código, me gusta compartir",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 304919,
+    "dDurationMs": 8120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "experiencias de vida porque digamos que\ncódigo existe mucho, lenguajes, existen",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 310600,
+    "dDurationMs": 7480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "variados lenguajes, me fascina mucho en\nlenguajes de programación.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 315160,
+    "dDurationMs": 7120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Eh, mi enfoque principal es la\ntecnología.net,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 319759,
+    "dDurationMs": 7681,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pero no porque la impartamos aquí en en\ncambios, básicamente porque, digamos,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 325240,
+    "dDurationMs": 6760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "con esta herramienta yo pude lograr\nmuchísimos muchísimos logros. Dentro de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 330440,
+    "dDurationMs": 8120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "esos logros entra al mundo del\ndesarrollo de juegos, donde básicamente",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 334960,
+    "dDurationMs": 7440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "el core para desarrollar juegos es Shat,\nustedes bien lo conocen.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 340720,
+    "dDurationMs": 6319,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Evolucioné tanto con ese tema del\ndesarrollo de juegos que incluso me",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 344639,
+    "dDurationMs": 7280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "alcancé a certificar como developer en\nUnity, incluso alcancé a trabajar un",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 349560,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tiempo con Unity en algunas en\ndesarrollo de algunas cercanías.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 354440,
+    "dDurationMs": 7879,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Yo tengo una pregunta, ¿qué juegos ha\nllegado a a programar y cómo crees que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 359600,
+    "dDurationMs": 7719,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "es la trayectoria en interprogramación y\nempezar a programar juegos?",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 364720,
+    "dDurationMs": 8440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Digamos que el desarrollo de juegos se\nsale de todo contexto de la programación",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 370639,
+    "dDurationMs": 6881,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tradicional. Digamos que la programación\ntradicional se puede considerar como un",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 375440,
+    "dDurationMs": 5640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "juego de lunes a comparación del\ndesarrollo de videojuegos, porque el",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 379440,
+    "dDurationMs": 6199,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "desarrollo, la industria del desarrollo\nde juegos es bastante compleja. ya que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 384039,
+    "dDurationMs": 7280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "usted como ingeniero, como\ndesarrollador, debe comprender las",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 387400,
+    "dDurationMs": 9160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "diferentes áreas de eh digamos de la\nproducción a nivel de digital.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 394039,
+    "dDurationMs": 9081,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Por mi parte, yo quisiera saber en qué\nempresa es que usted ha tenido su mayor",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 399759,
+    "dDurationMs": 6961,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "desarrollo en cuanto a la programación.\nBueno, cuando mis inicios como",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 404639,
+    "dDurationMs": 6280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "profesional tuve la oportunidad de estar\nvinculado a la Fundación Santanderana de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 408880,
+    "dDurationMs": 6680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Educación.\nLa fundación pertenecía a un médico",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 412800,
+    "dDurationMs": 8320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "amigo desde la infancia\ny él estaba en el proceso de crear una",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 418319,
+    "dDurationMs": 8560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "clínica que ayudara a los pacientes que\nsufrían de diabetes menetos tipo 2. En",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 424759,
+    "dDurationMs": 7560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "esa época yo era el encargado de\ndesarrollar el software a nivel general",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 429520,
+    "dDurationMs": 6959,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de historias clínicas. Incluso se\ndesarrollaron varias herramientas que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 434000,
+    "dDurationMs": 8120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ayudaban al entrenamiento de los médicos\npara la prevención de amputación de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 439440,
+    "dDurationMs": 9800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "miembros inferiores. Entonces, digamos\nque eso impactó de manera positiva en mi",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 445599,
+    "dDurationMs": 9241,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "aporte a nivel general con la sociedad y\ncon los pacientes en ayudarles a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 452520,
+    "dDurationMs": 6040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "prevenir la amputación. Hoy en día\ndigamos que es una enfermedad bastante",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 456319,
+    "dDurationMs": 9600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "compleja porque la mayoría de\nprofesionales toman la decisión amputar.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 462560,
+    "dDurationMs": 7199,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "En esa época el el médico, el doctor con\nel que yo trabajaba, pues tenía una",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 467400,
+    "dDurationMs": 8799,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "filosofía bastante interesante y el\nobjetivo de él era salvar y obviamente",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 473360,
+    "dDurationMs": 10200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "se alcanzaron a lograr salvar varias\nvarias vidas con incluso una vez llegó",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 479639,
+    "dDurationMs": 9520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "un señor con un caso muy muy complejo\nque aunque ustedes no lo pueden llegar a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 485000,
+    "dDurationMs": 7479,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "creer, tenía necrosis,\no sea, eso fue una situación bastante",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 491039,
+    "dDurationMs": 7961,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "impactante. Sí.\nDonde el médico abordó la situación y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 496639,
+    "dDurationMs": 6921,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pudo salvar.\nMe alegro por ese",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 501560,
+    "dDurationMs": 6359,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "totalmente de acuerdo porque igual se\nlogró salvaguardar la vida y la",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 505759,
+    "dDurationMs": 6361,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "integridad del paciente.\nHay algo que que sí me llegó como",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 510120,
+    "dDurationMs": 5880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "picando desde un principio, ya que usted\nha tenido tanto relación en cuanto a la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 514399,
+    "dDurationMs": 6361,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "medicina y todo, ¿cómo fue el proceso\npara llegar a amputar dedos y todo? ¿Qué",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 518519,
+    "dDurationMs": 6601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "es lo que llegó a tener?\ndigamos que el proceso fue bastante",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 523120,
+    "dDurationMs": 8120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "interesante. A mí me interesaba bastante\nel tema de la medicina y tuve un proceso",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 528440,
+    "dDurationMs": 8519,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de acompañamiento en algunas situaciones\ny tuve la oportunidad de hacer unas",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 533720,
+    "dDurationMs": 6840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pequeñas amputaciones de miembros no\npues tan relevantes, pero sí, por",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 538880,
+    "dDurationMs": 7000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ejemplo, en un dedo, porque igual el\ntejido de un paciente necrosado",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 542160,
+    "dDurationMs": 3720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "prácticamente está",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 548320,
+    "dDurationMs": 5720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "bueno.\nCon todo esto pues se nos abre un nuevo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 552079,
+    "dDurationMs": 6241,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "panorama que de pronto no conocieron\nalgunos estudiantes mucha gente sobre",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 555959,
+    "dDurationMs": 7880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Jolber. Podemos ver que no todo es\ncódigo, también eso hay mucho de humanas",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 561240,
+    "dDurationMs": 8000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "en este caso. Eh, Jolbert, has cambiado\nla vida de muchos desarrolladores en el",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 566560,
+    "dDurationMs": 7680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "trayecto que llevas. ¿Ha habido alguno\nque te haya marcado o haya cambiado en",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 572680,
+    "dDurationMs": 7480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "algo en tu vida?\nPues digamos que yo creo que a nivel",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 577839,
+    "dDurationMs": 6680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "profesional, en mi desempeño como\ndocente,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 581760,
+    "dDurationMs": 8280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mi responsabilidad es dejar huella en\ncada uno de mis estudiantes.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 587519,
+    "dDurationMs": 8201,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Pero a nivel de universidad, una vez\ntuvo un estudiante que pertenecía a las",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 593000,
+    "dDurationMs": 9079,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "fuerzas militares y el muchacho había\nsido amputado por un enemigo y y digamos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 599079,
+    "dDurationMs": 8921,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que eso fue un reto para él.\nObviamente pues venía de una situación",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 604399,
+    "dDurationMs": 10321,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "bastante compleja, pero esa situación\neh demostró todo lo que puede hacer una",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 610800,
+    "dDurationMs": 9360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "persona con un impedimento físico más no\nmental. Entonces, si una persona que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 618279,
+    "dDurationMs": 6281,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tiene un nivel de superación bastante\nalto lo hace, ¿por qué todos no lo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 622920,
+    "dDurationMs": 7640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pueden hacer?\nAhí recae la importancia de que cada uno",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 627519,
+    "dDurationMs": 6481,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de nosotros tengamos ese ímpleto de\nseguir adelante y sacar nuestros",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 632440,
+    "dDurationMs": 6959,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "nuestros objetivos.\nClaro. Gran fuerza de voluntad.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 636680,
+    "dDurationMs": 6839,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Sí. Y a mí lo particular que yo he\nllegado a tener clase con ustedes y he",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 641279,
+    "dDurationMs": 7521,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tenido clase con varios profesores,\nalgunos cambian y demás. Eh, ¿usted qué",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 646600,
+    "dDurationMs": 7039,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cree que sería la mejor forma de\nenseñar? ¿O qué cree que hay veces como",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 650959,
+    "dDurationMs": 6521,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que hm esto es como muy práctico,\nsiempre lo mismo, me gustaría que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 655320,
+    "dDurationMs": 8240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cambiara esto o yo explico de esta\nmanera que en mi parecer es mejor? ¿Cómo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 660200,
+    "dDurationMs": 8520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "es su visión en cuanto a la educación?\nPero digamos que hoy en día la educación",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 665160,
+    "dDurationMs": 8000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ha cambiado bastante, sobre todo porque\nhoy en día los estudiantes, no hablo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 670519,
+    "dDurationMs": 6120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "solamente de Campus Ls, sino en\nuniversidad se han vuelto",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 674720,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "irrependientes.\n¿En qué sentido? De que los estudiantes",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 679600,
+    "dDurationMs": 6239,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hoy en día no quieren pensar y\nsolucionar los problemas, sino quiere",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 683600,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que la inteligencia artificial solucione\nlos problemas para ellos. Yo siempre he",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 688040,
+    "dDurationMs": 9039,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "dicho que se han vuelto muy dependientes\nde la IA y no está mal",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 693959,
+    "dDurationMs": 7721,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tener IA, está mal es que la IA piense\npor nosotros porque hasta qué punto",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 699399,
+    "dDurationMs": 7201,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "nosotros podemos llegar a pensar, ¿será\nque la IA va a evolucionar tanto que se",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 704320,
+    "dDurationMs": 8680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "va a encargar de aniquilar a la razo\nhumano? No sé, es una posibilidad que se",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 709399,
+    "dDurationMs": 8961,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "puede dar. Entonces, la evolución es\nbuena. Lo que pasa es que el ser humano",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 716240,
+    "dDurationMs": 6760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "no se adapta bien a la evolución y lo\nque hace es llevarlo de una forma",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 720360,
+    "dDurationMs": 8240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "inadecuada. Entonces, esos cambios son\ncomplejos. Y en cuanto a metodología, yo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 726440,
+    "dDurationMs": 7480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pienso que la exigencia, incluso mis\nestudiantes, cuando yo inicio siempre",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 731519,
+    "dDurationMs": 7721,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "los acostumbr a trabajar sobre papel.\nPrimero me tienen que programar sobre",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 735519,
+    "dDurationMs": 8320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "papel, nada de computadora, o sea, y me\ntienen que entregar todo sobre papel.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 741839,
+    "dDurationMs": 7841,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Sería Bobi, pero qué dinosaurio el\nprofesor. No, no es el dinosaurio, es",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 747079,
+    "dDurationMs": 8120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "poderles a ustedes dar a entender que no\nsiempre tener un computador a la mano es",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 752440,
+    "dDurationMs": 7040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "bueno. Visual Studio C, sí, tenemos\nherramientas, tenemos un montón de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 756440,
+    "dDurationMs": 8040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cosas, pero todos siempre esperamos\nautocomplete. Ah, listo, gracias. y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 762120,
+    "dDurationMs": 8320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "nosotros completa y eso también nos\ngenera un retraso mental en lo que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 766480,
+    "dDurationMs": 9039,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "nosotros hacemos porque al final ponemos\nun bloc de notas digo, amén, me",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 772519,
+    "dDurationMs": 3000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "documentamos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 777160,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de una desbloqueada. Entonces, por eso\nes importante tomar también esas",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 780399,
+    "dDurationMs": 9240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "estrategias para que los estudiantes\nescriban. Incluso yo pongo planes cuando",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 788279,
+    "dDurationMs": 6721,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mis estudiantes no estudian, yo les\npongo planes a que me hagan planes de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 791279,
+    "dDurationMs": 10281,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "código y no puedo trabajar examen. Me\ndicen, \"Profe, cuando estemos puesto las",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 798000,
+    "dDurationMs": 7720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "planas pensaba que por eso tan,\npero ahora me doy cuenta que aprendí con",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 803079,
+    "dDurationMs": 8521,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "esas todo lo que hace su trabajo.\n¿Qué tipo de planas se qué hacía?\" En",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 809560,
+    "dDurationMs": 5399,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "este caso, cuando yo les hacía preguntas\nsobre codificación y no me dan las",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 813199,
+    "dDurationMs": 6161,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "respuestas correctas sobre las funciones\no algo, les hacía planas sobre las",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 816680,
+    "dDurationMs": 9040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "funciones y se ofendían las funciones,\nmás o menos alcanzaban a lograr escribir",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 821680,
+    "dDurationMs": 8760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "como unas 400 líneas a mano, pero muchos\nestudiantes eh recuerdan todavía mucho a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 828760,
+    "dDurationMs": 8280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Jolbert que todavía no están aquí. De\nhecho, entre la mayoría de estudiantes",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 832800,
+    "dDurationMs": 11800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "eh se recorre un apodo eh de killer.\nEh este apodo sabe de pronto cómo tuvo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 839920,
+    "dDurationMs": 9520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "el inicio o lo que llevó a llevar ese\nmétodo como de exigencia para llevar una",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 847120,
+    "dDurationMs": 7120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "excelencia como tal.\nBueno, si nos remontamos hace unos tr",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 851480,
+    "dDurationMs": 7719,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "años cuando inició Campos, pues Campus\ntenía una estrategia fundamental y era",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 856240,
+    "dDurationMs": 8480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que los estudiantes estudaban gratis,\n¿cierto?",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 860399,
+    "dDurationMs": 9800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y la exigencia era bastante alta.\nEl kile me lo gané porque aniquilé el",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 868000,
+    "dDurationMs": 6920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "grupo,\nun grupo completo se tuvo de Cancros, 30",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 873320,
+    "dDurationMs": 8480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "estudiantes,\npero no es porque el profesor fuera muy",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 878560,
+    "dDurationMs": 8360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cuchilla, era muy accidente. Lo que pasa\npues llegaron a un entorno donde creían",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 884360,
+    "dDurationMs": 8880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que eran vacaciones, era campamento de\nverano y no resulta que eston bastante",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 890360,
+    "dDurationMs": 8919,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "exigente, así como tuve tuve estudiantes\nmuy buenos, excelentes estudiantes,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 896399,
+    "dDurationMs": 7641,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "incluso yo tengo el privilegio de poder\ndecir que muchas mujeres que pasaron por",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 902040,
+    "dDurationMs": 6440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mi salón hoy en día están trabajando en\nBogotá, están trabajando empresas, una",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 906160,
+    "dDurationMs": 8000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "empresa que se llama Amaris y están\nsuperfelices y a veces no creene.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 911759,
+    "dDurationMs": 7041,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "China, ¿qué hace? No, profe, ¿qué tal?\nEs que tengo tal problema como yo digo,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 915839,
+    "dDurationMs": 6201,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "son 100,000 pesos porque digo, no me\nresponde, ¿qué es lo que pasa? y uno les",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 920680,
+    "dDurationMs": 5560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "puede ayudar de vez en cuando. Yo\nahorita ya he perdido contacto con ellos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 924560,
+    "dDurationMs": 5199,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "porque pues me imagino que ya han subido\nsu líder que ya no necesitamos preguntar",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 928759,
+    "dDurationMs": 8801,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "todo apareció una inteligencia\nartificial pero digamos que eso marca",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 933040,
+    "dDurationMs": 10359,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "bastante sobre todo yo protejo mucho a\nla mujer en el salón porque son muy",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 941079,
+    "dDurationMs": 9000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vulnerables y digamos que en ese sentido\nellas tienden como a sentirse menos que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 945600,
+    "dDurationMs": 9719,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "lo y al final con esa protección ellas\nse dan cuenta que son mejores",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 952560,
+    "dDurationMs": 9519,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Y así se ha logrado y muchas muchas y\nmuchas han estado ya trabajando y me las",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 959160,
+    "dDurationMs": 10000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "encuentro, me saludan, me abrazan y yo,\nwow, yo creo que esa es la sat que yo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 966160,
+    "dDurationMs": 7440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "recibí durante estos 26 años. Vale, a mí\nme gustaría preguntar porque creo que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 970759,
+    "dDurationMs": 6721,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hemos tocado eh un tema bastante\nimportante eh ya que como es bien",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 975480,
+    "dDurationMs": 8400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sabido, en este tipo de carreras, por lo\ngeneral en un salón hay 20 hombres, 22",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 980519,
+    "dDurationMs": 7961,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hombres y hay dos o tres mujeres. En eso\ncaso, por lo menos Yolvet, ¿qué consejo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 986839,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "les daría a las mujeres que tengan como\nese miedo, esos nervios de pronto de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 990839,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "querer iniciar este tipo de carreras?\nYo pienso que en la vida hay que tomar",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 995000,
+    "dDurationMs": 10240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "riesgos y digamos que uno de los grandes\nriesgos es estar rodillado de hombres,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1002519,
+    "dDurationMs": 8841,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pero más que por el temor a la\nintimidación es por el sentido de no ser",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1008199,
+    "dDurationMs": 8721,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "capaces. Pero si nos ponemos a pensar a\nlo largo de la historia, han existido",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1013800,
+    "dDurationMs": 9320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "muchas mujeres que han marcado terreno y\nhan marcado la revolución del mundo.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1019480,
+    "dDurationMs": 8719,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Incluso hoy en día en Google hay mujeres\nque son directoras en el área de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1025280,
+    "dDurationMs": 7240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "inteligencia artificial. Entonces, ¿por\nqué si ellas pueden el resto de mujeres",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1030919,
+    "dDurationMs": 7601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "no? Entonces, yo creo que la\nprogramación es de todos y para todos y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1035600,
+    "dDurationMs": 7719,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "la mujer hoy en día puede marcar una\ngran diferencia. Entonces, y creería que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1041600,
+    "dDurationMs": 6120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "el desarrollo\nel desarrollo de software en manos de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1044880,
+    "dDurationMs": 7080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hombres estaría en gran riesgo porque\nlas mujeres son mucho más detallitas y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1049640,
+    "dDurationMs": 8840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pulidas, entonces deberían tomar el\nriesgos. Eh, mi hija hoy en día ya es",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1056120,
+    "dDurationMs": 5880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "una profesional, está radicada en\nCanadá.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1060200,
+    "dDurationMs": 5920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Mi hijo estudia en Bogotá, estudia\ningeniería de sistema en ciencias",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1063440,
+    "dDurationMs": 7400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "computacionales y incluso tuvo una\nexperiencia muy bella y mi hijo fue al",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1069080,
+    "dDurationMs": 8079,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mío aquí en Campos.\nOkay.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1073160,
+    "dDurationMs": 7680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Y a usted le hace sentir que, o sea, más\ncompleto que sus hijos hayan decidido",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 1078880,
+    "dDurationMs": 6679,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "también optar por la misma carrera que\nusted está haciendo o usted le hubiera",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1082280,
+    "dDurationMs": 8560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "dado igual si escogía esta o medicina o\nalguna otra carrera.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1088120,
+    "dDurationMs": 9280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "A ver, lo lo hablo por mi hijo porque mi\nhija sí tenía su camino trazado.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1094840,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Mi hijo inicialmente\ncuando pequeño quería ser desarrollador",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1099720,
+    "dDurationMs": 8560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de juegos. Es claro, veía al papá\ndesarrollándole juegos, la emoción.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1104640,
+    "dDurationMs": 10120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Luego fue madurando en su cabeza y\nquería estudar física pura.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1111559,
+    "dDurationMs": 8681,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Eh, después de que se habló del colegio\nme dijo, \"Papá, me queré ir para acá.\"",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1116960,
+    "dDurationMs": 7360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pues a ver qué es lo que usted hace. Y\ntuve la oportunidad de tenerlo aquí 6",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1121960,
+    "dDurationMs": 6520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "meses y cuando se fue para la\nuniversidad dijo, \"Me voy a estudiar",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1125919,
+    "dDurationMs": 7521,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ingeniería y voy y qué pago con la\nfísica.\" Yo le dije, \"No, es que me di",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1131360,
+    "dDurationMs": 8080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cuenta que en esta área puedo hacer\nmucho y está estudiando ingeniería de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1136400,
+    "dDurationMs": 6600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sistemas incluso tomó el poder de\nestudiar doble carrera. Está siendo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1141600,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ingeniera de sistema, ingeniería\nelectrónica. Ahorita, ahorita tuve la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1145640,
+    "dDurationMs": 7680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "electrónica porque le estaba quedando\nmuy pesado para la carrera profesional,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1149840,
+    "dDurationMs": 8280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "para la ingeniería. Eh, bueno, en estos\ncasos, eh, ¿qué consejo les daría o qué",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1156400,
+    "dDurationMs": 6080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "les diría a las personas que, por\nejemplo, están eh mirando varias",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1160159,
+    "dDurationMs": 7361,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "carreras o no tienen de pronto tanto\ninterés o un interés mínimo para poder",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1164840,
+    "dDurationMs": 6719,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ingresar a lo que sería de pronto el\ncampus? Eh, ya que les puede llamar",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1169960,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mucho la atención, como el caso de tu\nhijo,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1173360,
+    "dDurationMs": 8080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "yo pensaría que más que escogieran una\ninstitución, más que escogieran una",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 1178720,
+    "dDurationMs": 8360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "línea, yo creía que la fortaleza de cada\nser humano es ayudar a cambiar el mundo.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1184559,
+    "dDurationMs": 7801,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Y yo creo que todas las carreras nos\nofrecen esa posibilidad, una más que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1189159,
+    "dDurationMs": 7801,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "otras. Eh, el desarrollo de software\ncontribuye en gran medida en esa",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1194280,
+    "dDurationMs": 7399,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "evolución del ser humano. ¿Por qué?\nPorque hoy en día existen restos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1198880,
+    "dDurationMs": 7560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mecánicos. Eh, hace un tiempo salió una\nnoticia que hubo la primer cirugía a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1203400,
+    "dDurationMs": 7600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "larga distancia hecha aquí por la por el\nhospital de de Piepu Cuesta, que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1209159,
+    "dDurationMs": 6241,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hicieron una operación bariátrica un\nseñor que estaba en Asia. Fíjense que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1213120,
+    "dDurationMs": 5840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "todo eso lo pueden hacer con\nprogramación, todo eso lo pueden hacer",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1217080,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "con desarrollo dejo. Entonces, todo eso\ncambia el mundo y que mejor manera que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1221440,
+    "dDurationMs": 6719,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cambiar la vida de la persona con lo que\nuno puede hacer.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1226080,
+    "dDurationMs": 7800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Para finalizar quisiera agradecer a\nnuestro invitado, el profesor Jorber,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1230919,
+    "dDurationMs": 8161,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "por disponerles el tiempo y contarnos\nsobre todo su historia y trayecto, todo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1236840,
+    "dDurationMs": 7000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "lo que lo ha llevado a estar aquí en\neste momento. Y gracias a ustedes",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1241520,
+    "dDurationMs": 7399,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "espectadores por ver este episodio de de\nHuman Cover. Espero nos vean en el",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1245799,
+    "dDurationMs": 3120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "próximo episodio.",
+      "acAsrConf": 0
+    } ]
+  } ]
+}

@@ -1,0 +1,354 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  }, {
+    "mhModeHint": 2,
+    "juJustifCode": 0,
+    "sdScrollDir": 3
+  } ],
+  "wpWinPositions": [ {
+  
+  }, {
+    "apPoint": 6,
+    "ahHorPos": 20,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  } ],
+  "events": [ {
+    "tStartMs": 0,
+    "id": 1,
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 0,
+    "dDurationMs": 7640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ento Mi nombre es Juan Pablo Montoya soy\nintegrante del grupo 3 y estoy a cargo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 4759,
+    "dDurationMs": 8601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de exponerles o brindarles un poco de\nuna guía de cómo funciona la aplicación",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 10280,
+    "dDurationMs": 8720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "del chatbot básicamente realizamos un\nasistente virtual para responder dudas",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 15719,
+    "dDurationMs": 7201,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "con respecto a la dian más que todo\ncentrada lo que es el pago de facturas y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 21640,
+    "dDurationMs": 5280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "también que tiene unas ciertas\nimplementaciones como lo es el poder",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 25480,
+    "dDurationMs": 6520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "buscar\ndocumentos y el poder cargar nuos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 29960,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "documentos para que el modelo tenga\nmayor información de D responder",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 34320,
+    "dDurationMs": 7559,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Entonces primero vamos a probar lo que\nes el chatbot vamos a hacer una pregunta",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 38920,
+    "dDurationMs": 9279,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sencilla\npuedes decirme Qué es",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 45000,
+    "dDurationMs": 7120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "l Entonces esto para comentarles la\ninterfaz gráfica está desarrollada",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 49760,
+    "dDurationMs": 2360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "usando",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 52320,
+    "dDurationMs": 8280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "streamlit decimos usar esa librería\nbásicamente por un lado es muy fácil el",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 58079,
+    "dDurationMs": 7321,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "desarrollo conill muy intuitivo\ny aparte con muy poco",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 62399,
+    "dDurationMs": 9040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "código se pueden esto lograr grandes\nresultados que listo ahora como vemos ya",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 68960,
+    "dDurationMs": 7760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "saca ya nuestro modo de una\nrespuesta como podrán darse cuenta es",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 74159,
+    "dDurationMs": 7320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "una respuesta bastante convincente y\nestá relacionado con con estos los",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 80000,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "documentos que le cargamos Entonces\nvamos a probar eso Aquí vemos que se men",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 84360,
+    "dDurationMs": 5799,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "con un sistema de factura electrónica\nllamado",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 87159,
+    "dDurationMs": 9000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sf vamos a precisamente buscar algo no\ncon eso busquemos de un tema eh que sea",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 94079,
+    "dDurationMs": 7841,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "la y por ejemplo\neh Y aquí está nos habla de un sistema",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 99119,
+    "dDurationMs": 6801,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de facturación Electrónica lo que lo que\nsignica que hay coherencia o similitud",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 103720,
+    "dDurationMs": 6719,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "entre lo que responde el modelo y los\ndocumentos que hay cargados cabe",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 108240,
+    "dDurationMs": 9040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mencionar que los documentos una vez\ncargados lo que básicamente hace la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 114119,
+    "dDurationMs": 6360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "aplicaciones separarlos en ch de tal\nmodo que para el modelo es mucho más",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 118759,
+    "dDurationMs": 5720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "fácil leer\nlisto Entonces ahora una vez que ya",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 122000,
+    "dDurationMs": 7599,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cargamos nuestro nuevo documento vamos a\npreguntarle algo relacionado con el",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 126600,
+    "dDurationMs": 10160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "documento y como vemos Ya\nnuestro nuestro modelo respondió que es",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 132720,
+    "dDurationMs": 9159,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "un que es un sensor con esto relacionado\ncon el documento recién cargado nos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 139200,
+    "dDurationMs": 8080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Menciona algunas aplicaciones de lo que\nes el sensor y algunos tipos de sensores",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 144519,
+    "dDurationMs": 8000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "lo cual es bastante correcto cercano a\nlo que dice el documento Entonces como",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 149959,
+    "dDurationMs": 6401,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vemos básicamente la aplicación permite\nresponder dudas ya viene con datos queas",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 154760,
+    "dDurationMs": 4920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "para responder esto preguntas\nrelacionados con el tema de la Diana en",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 157920,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Colombia pero también tiene la\nposibilidad de ser un chat para",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 161920,
+    "dDurationMs": 8080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "responder esto más preguntas\nevidentemente en base a un",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 166720,
+    "dDurationMs": 7560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "documento y ahora como vemos a\npreguntarle algo que no hay ningún",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 171680,
+    "dDurationMs": 6960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "documento cargado ni nada relacionado\ncon lo que le hemos proporcionado los",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 176360,
+    "dDurationMs": 6280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "documentos directamente el modo no\nresponde que no que no que no tiene",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 181159,
+    "dDurationMs": 6360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "información sobre lo que son las\nunidades tericas de Santander Entonces",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 185680,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "como vemos el chat pues tiene sus\nlimitaciones hay que tener eso en cuenta",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 189440,
+    "dDurationMs": 7439,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y pues no siendo más me despido y muchas\ngracias por ver este video Hasta luego",
+      "acAsrConf": 0
+    } ]
+  } ]
+}

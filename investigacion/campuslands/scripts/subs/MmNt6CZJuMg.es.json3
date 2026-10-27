@@ -1,0 +1,2982 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  }, {
+    "mhModeHint": 2,
+    "juJustifCode": 0,
+    "sdScrollDir": 3
+  } ],
+  "wpWinPositions": [ {
+  
+  }, {
+    "apPoint": 6,
+    "ahHorPos": 20,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  } ],
+  "events": [ {
+    "tStartMs": 0,
+    "id": 1,
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 960,
+    "dDurationMs": 7260,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Hola buenos días a todos Mi nombre es\nCamila Maya y el día de hoy Les voy a",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 5759,
+    "dDurationMs": 6901,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "enseñar mi solución a la siguiente\nactividad el reto era el siguiente la",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 11160,
+    "dDurationMs": 4920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "empresa de alquiler de material de\nconstrucción alquilar tenis necesita",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 14280,
+    "dDurationMs": 6600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "construir un sistema sencillo de\ncotizaciones desde cero",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 18260,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "este sistema era el alquiler de\nproductos de construcción para sus",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 22859,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "constructoras clientes teníamos el\nrequisito de que cada cotización era",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 27060,
+    "dDurationMs": 6179,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "generado por un empleado que tenía un\nusuario un password en el sistema y que",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 30779,
+    "dDurationMs": 6120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "la cotización debía tener dos partes un\nencabezado con los datos de la",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 34800,
+    "dDurationMs": 6620,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "constructora cliente a quien se alquila\ny el empleado además de la fecha y demás",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 40440,
+    "dDurationMs": 5580,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "detalles\ngenerales y un detalle de cotización en",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 44520,
+    "dDurationMs": 6900,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "la cual se deben registrar los productos\nque se alquilan fecha hora y bueno más",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 48719,
+    "dDurationMs": 10980,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "detalles para resolver este reto\nTeníamos dos maneras de hacerlo una era",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 56160,
+    "dDurationMs": 9860,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "usando un apicult en php y consumiendo\ndicho servicio desde la Api otra forma",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 62940,
+    "dDurationMs": 8880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de hacerlo era sin Api con un patrón mbc\nenviando solicitudes desde el propio",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 68159,
+    "dDurationMs": 7881,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "modelo hacia la base de datos yo decidí\nresolver esta actividad de la segunda",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 74100,
+    "dDurationMs": 7640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "manera directamente\nhaciendo solicitudes desde el modelo Así",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 79439,
+    "dDurationMs": 9781,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que les voy a enseñar\ndigamos mi trabajo tenemos la entidad",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 86299,
+    "dDurationMs": 8320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "empleados clientes productos categorías\ny cotizaciones y dentro de la base de",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 91439,
+    "dDurationMs": 9360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "datos alquilar tenis tenemos seis tablas\nen este momento cinco entidades y seis",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 97020,
+    "dDurationMs": 9360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tablas luego les hago como más en\nprofundidad de que va digamos las tablas",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 104759,
+    "dDurationMs": 7581,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "más interesantes\nahora yendo al código tenemos una",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 109320,
+    "dDurationMs": 9240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "carpeta backend y una carpeta frankends\ndentro de la carpeta backing tenemos un",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 115259,
+    "dDurationMs": 12000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "archivo de database sql donde tengo\nanotado pues cada tabla y sus atributos",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 122280,
+    "dDurationMs": 8940,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sus columnas y pues qué valores son los\nque se guardan dentro de esas columnas",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 128700,
+    "dDurationMs": 6840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "también dentro de la carpeta de backing\ntengo una carpeta de configuración donde",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 133200,
+    "dDurationMs": 9980,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tengo la conexión a la base de datos\nesto ya se había visto en clases pasadas",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 139099,
+    "dDurationMs": 9761,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "este archivo se conecta a este otro de\ndv.php donde tenemos estas variables",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 145819,
+    "dDurationMs": 8021,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "estas variables simplemente son el tipo\nde base de datos el nombre de la base de",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 151560,
+    "dDurationMs": 7440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "datos el usuario y la contraseña y\nsimplemente las inyectamos dentro de",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 156360,
+    "dDurationMs": 7220,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "nuestra clase abstracta conectar la cual\npues nuestra conexión a la base de datos",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 161180,
+    "dDurationMs": 7600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "es este atributo debe conexión\nutilizando",
+      "acAsrConf": 242
+    }, {
+      "utf8": " vídeo",
+      "acAsrConf": 240
+    } ]
+  }, {
+    "tStartMs": 166379,
+    "dDurationMs": 6661,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "esta línea ya sea explicado en clases\nanteriores pero pues simplemente estamos",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 170280,
+    "dDurationMs": 8760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "diciéndole a cuál base de datos nos\nvamos a conectar Y además que nos",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 175200,
+    "dDurationMs": 9960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "devuelva por defecto a raíz asociativos\nahora yendo más hacia la carpeta del",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 182040,
+    "dDurationMs": 7380,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "frontend tenemos varios módulos que se\nparecen bastante",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 186920,
+    "dDurationMs": 8980,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a módulos que hemos hecho en clases\nanteriores entonces voy a tratar de",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 191459,
+    "dDurationMs": 9301,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "profundizar A lo mejor en soluciones o\nen detalles que todavía nos han",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 197519,
+    "dDurationMs": 7381,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "explicado digamos hay módulos que son\nbastante parecidos por ejemplo",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 201900,
+    "dDurationMs": 7699,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "categorías clientes empleados y\nproductos voy a poner de ejemplo",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 206819,
+    "dDurationMs": 8881,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "clientes tenemos nuestra vista clientes\nque después nuestro documento html al",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 213120,
+    "dDurationMs": 7039,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cual le insertamos datos utilizando php\nde manera ya renderizado se vería de la",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 219239,
+    "dDurationMs": 7261,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "siguiente manera\ncon nuestro modal con nuestro formulario",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 222959,
+    "dDurationMs": 9420,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que pues envía los los datos a el\nsiguiente archivo agregar punto php",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 228599,
+    "dDurationMs": 11000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mediante el método post tenemos nuestro\nmodelo cliente el cual tiene que empezar",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 235860,
+    "dDurationMs": 3739,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de sus atributos sus seres",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 239720,
+    "dDurationMs": 9400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Y tenemos Asimismo tres archivos de\nagregar borrar y editar eso ya lo hemos",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 246959,
+    "dDurationMs": 8881,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "visto en clases anteriores Entonces no\nvoy a ahondar demasiado en esto lo que",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 252360,
+    "dDurationMs": 7800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sí es nuevo que decidí añadirle es al\nmódulo de categorías y es lo siguiente y",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 258479,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "se los quiero mostrar que por ejemplo en\ncategorías",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 261199,
+    "dDurationMs": 9780,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que añadirle imágenes sin embargo\nsolamente había logrado hacerlo mediante",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 266880,
+    "dDurationMs": 8340,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "una URL pero no es eso no es tampoco tan\nintuitivo para la persona que lo va a",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 273479,
+    "dDurationMs": 8341,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "usar sobre todo si es una persona que no\nsabe Mucho de tecnología así que pues",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 278720,
+    "dDurationMs": 9220,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "voy",
+      "acAsrConf": 234
+    }, {
+      "utf8": " a hacer un ejemplo como para para\nque ustedes puedan ver entonces por",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 284759,
+    "dDurationMs": 8160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ejemplo acá no sé alguna descripción y\nlo que hice fue que tú puedas",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 290160,
+    "dDurationMs": 8039,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "seleccionar archivos directamente desde\ntu explorador de archivos entonces tengo",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 295440,
+    "dDurationMs": 6380,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "esta imagen ladrillos punto png la\nguardo",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 299240,
+    "dDurationMs": 9060,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y se me va a guardar\nmi nuevo mi nueva categoría incluyendo",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 305280,
+    "dDurationMs": 8280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "la imagen y esta imagen se va a guardar\nautomáticamente",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 309919,
+    "dDurationMs": 9461,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "en esta carpeta de categoría imágenes\nEntonces miren Aquí está ladrillos png",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 317280,
+    "dDurationMs": 9859,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que es la imagen que acabamos de\ninsertar en nuestra categoría ladrillos",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 323180,
+    "dDurationMs": 11380,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "también podemos Pues editar\nnuestra nuestro registro y no pasa nada",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 331940,
+    "dDurationMs": 9360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "podemos borrarlo también si queremos\ntampoco pasa nada y Bueno les voy a",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 337080,
+    "dDurationMs": 4220,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mostrar Cómo fue que hice esto",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 341940,
+    "dDurationMs": 11000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "venimos aquí al código y en categorías",
+      "acAsrConf": 242
+    }, {
+      "utf8": "\nmás",
+      "acAsrConf": 223
+    }, {
+      "utf8": " nos vamos a nuestro a nuestra",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 353639,
+    "dDurationMs": 3000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "este",
+      "acAsrConf": 229
+    } ]
+  }, {
+    "tStartMs": 358680,
+    "dDurationMs": 3230,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "[Música]"
+    } ]
+  }, {
+    "tStartMs": 363860,
+    "dDurationMs": 8619,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "listo ahora Estamos aquí en categorías\nnos vamos a ir a nuestra vista",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 369600,
+    "dDurationMs": 8220,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "categorías que es nuestro documento html\nal cual insertamos datos con php en",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 375600,
+    "dDurationMs": 8879,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "nuestro modal donde está el formulario\npor el cual yo envío datos mediante post",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 381479,
+    "dDurationMs": 11220,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a el archivo de agregar punto php tengo\nque añadirle el siguiente atributo que",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 388199,
+    "dDurationMs": 9440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "es end type multipart form deira esto lo\nque hace es que el formulario pueda",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 394680,
+    "dDurationMs": 9000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "recibir archivos que son imágenes\nentonces necesitamos Poner este atributo",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 401280,
+    "dDurationMs": 8460,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "dentro del atributo del formulario\nporque si no esto no va a funcionar",
+      "acAsrConf": 242
+    }, {
+      "utf8": " Así",
+      "acAsrConf": 237
+    } ]
+  }, {
+    "tStartMs": 406620,
+    "dDurationMs": 8460,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mismo",
+      "acAsrConf": 237
+    }, {
+      "utf8": " nuestro input es de tipo file para\nque nos permita abrir el explorador de",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 412380,
+    "dDurationMs": 9659,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "archivos y que la persona pueda subir su\nimagen luego venimos aquí",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 418340,
+    "dDurationMs": 9040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a agregar punto php y acá está lo\ninteresante tenemos Pues nosotros nos",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 424680,
+    "dDurationMs": 8400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "conectamos a nuestro modelo de\ncategorías creamos una nueva categoría",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 429840,
+    "dDurationMs": 8820,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cuando la persona presione el botón para\nregistrar una nueva categoría Le ponemos",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 436020,
+    "dDurationMs": 6140,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "el nombre con el dato que se haya\nllenado dentro del input y así mismo con",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 440460,
+    "dDurationMs": 8940,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "la descripción pero\nacá viene lo interesante quiero que vean",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 445080,
+    "dDurationMs": 8580,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Incluso si hacemos un by down de lo que\nes",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 450440,
+    "dDurationMs": 9819,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "la variable global files así como\ncompost pero files Esto es para poder",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 457400,
+    "dDurationMs": 9519,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "visualizar o bueno para poder enviar\narchivos Entonces esto es para que vean",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 464280,
+    "dDurationMs": 8759,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que",
+      "acAsrConf": 184
+    }, {
+      "utf8": " recibo yo con esta variable global\nEntonces si por ejemplo vengo acá a un",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 470099,
+    "dDurationMs": 8220,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "nuevo registro no sé cualquier cualquier\ncosa",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 474139,
+    "dDurationMs": 9761,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "le doy guardar me va a aparecer",
+      "acAsrConf": 242
+    }, {
+      "utf8": " una",
+      "acAsrConf": 196
+    }, {
+      "utf8": " con\nlo que he recibido recibo un array que",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 481860,
+    "dDurationMs": 9480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tiene solamente un elemento llamado\nimagen y ese elemento tiene a su vez una",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 487800,
+    "dDurationMs": 10200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "raíz con seis elementos uno con el\nnombre de mi imagen que si recuerdan es",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 494759,
+    "dDurationMs": 7380,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ladrillos punto png y además otros otros\ntipos de datos como el otros datos como",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 500400,
+    "dDurationMs": 11840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "por ejemplo el tipo que es una imagen\npng y lo que nos interesa en este",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 506280,
+    "dDurationMs": 14699,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "momento Es sobre todo el name y el tempo\nporque el tmp es la ruta en la cual",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 518419,
+    "dDurationMs": 7721,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "se guarda la imagen pero de manera\ntemporal es una ruta temporal donde se",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 524339,
+    "dDurationMs": 6421,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "guarda la imagen pero si la persona\ncierra el navegador Esa esa imagen se va",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 528660,
+    "dDurationMs": 6540,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "no No se va no se guarda en ningún lado\nEntonces se borra lo que nosotros",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 532800,
+    "dDurationMs": 7080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tenemos que hacer es agarrar esta ruta\nTemporal y pasar el archivo",
+      "acAsrConf": 242
+    }, {
+      "utf8": " desde",
+      "acAsrConf": 211
+    }, {
+      "utf8": " de",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 538320,
+    "dDurationMs": 8459,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "esta ruta a la ruta que nosotros\nqueremos que a donde nosotros queremos",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 542399,
+    "dDurationMs": 12620,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "guardar nuestras imágenes Entonces ya\nque vimos pues lo que recibimos con esta",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 550080,
+    "dDurationMs": 11040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "variable files lo que se hace es pues\nguardar primero lo que hice fue guardar",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 557760,
+    "dDurationMs": 8759,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "primero en una variable de el basement\nde la imagen el nombre el nombre de mi",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 564300,
+    "dDurationMs": 9960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "imagen que en este caso es ladrillos\npunto png y además también guardé la URL",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 570660,
+    "dDurationMs": 9540,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "temporal es con files entrando a imagen\ny",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 575480,
+    "dDurationMs": 13120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "admp que es la ruta temporal la ruta a\nla cual yo quiero subir mis imágenes es",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 583279,
+    "dDurationMs": 10921,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ctg de categórico images Slash el nombre\nde mi imagen entonces le estoy diciendo",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 591240,
+    "dDurationMs": 9120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mire en esta carpeta de acá que yo creé\nusted me va a guardar esa",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 597540,
+    "dDurationMs": 11340,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de imagen va a pasármela está esta\nfunción de move uploader file es la cual",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 604279,
+    "dDurationMs": 9521,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "me ayuda a pasar la imagen desde la URL\ntemporal a la ruta a la cual yo quiero",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 611580,
+    "dDurationMs": 7800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "subir mi imagen Qué es esta de acá\nentonces",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 615800,
+    "dDurationMs": 9159,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "simplemente es una función propia de php\nentonces hacemos uso de esa función le",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 621660,
+    "dDurationMs": 11160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "decimos páseme mi imagen desde esta URL\na esta carpeta y simplemente ponemos a",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 628980,
+    "dDurationMs": 9539,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "nuestra instancia de categoría el set\nimg la ruta a subir la ruta que tiene",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 635339,
+    "dDurationMs": 9000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que seguir para encontrar esa imagen le\ndamos insertada Entonces es algo nuevo",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 642000,
+    "dDurationMs": 8519,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que quería probar es la manera en la que\npues podemos guardar y Mostrar imágenes",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 647899,
+    "dDurationMs": 7961,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Por así decirlo guardar\nde manera más intuitiva para el usuario",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 653760,
+    "dDurationMs": 9300,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "entonces me pareció algo muy interesante\nque que a lo mejor podría ser Útil para",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 658940,
+    "dDurationMs": 10480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "otras personas otra cosa que quiero\nmostrarles es el módulo de cotizaciones",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 667100,
+    "dDurationMs": 7780,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "nos estaban diciendo que cotizaciones\ndebía tener un empleado que es empleado",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 672540,
+    "dDurationMs": 7859,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Pues el empleado que Atendió la\ncotización y la empresa a la cual le",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 678420,
+    "dDurationMs": 7400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vamos a realizar la cotización además\ncomo otros datos como la hora la fecha",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 683060,
+    "dDurationMs": 8800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "etcétera entonces\nyo quise utilizar los acordeones de",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 688920,
+    "dDurationMs": 8520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "bootstrap y cada acordeón es una\ncotización diferente por ejemplo le voy",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 694019,
+    "dDurationMs": 8880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a dar clic Y este tiene el ID de la\ncotización la empresa a la cual se le",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 700620,
+    "dDurationMs": 7920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "realiza esta cotización y el empleado\nque estuvo atendiendo al cliente la",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 705839,
+    "dDurationMs": 8641,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "fecha en la cual se realizó la hora y el\ndía del alquiler",
+      "acAsrConf": 242
+    }, {
+      "utf8": " Así mismo",
+      "acAsrConf": 234
+    }, {
+      "utf8": " como",
+      "acAsrConf": 242
+    }, {
+      "utf8": " su",
+      "acAsrConf": 240
+    } ]
+  }, {
+    "tStartMs": 711140,
+    "dDurationMs": 9879,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ahorita también les quiero mostrar este\nbotoncito de generar PDF porque es algo",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 717660,
+    "dDurationMs": 8340,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que estuve probando y pues eso no es un\npoco más",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 722839,
+    "dDurationMs": 10541,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "no es algo que hayamos visto en clases\nanteriores pero pues quiero repasarlo o",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 729440,
+    "dDurationMs": 8100,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "echarle como Una miradita así para que\nvean más o menos también lo que se puede",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 735000,
+    "dDurationMs": 8279,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hacer así mismo podemos\ninsertar lo que son productos dentro de",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 741180,
+    "dDurationMs": 6420,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "nuestra cotización y ya les voy a\nexplicar Cómo podemos hacer esto",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 744779,
+    "dDurationMs": 8901,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "nosotros insertamos los productos y nos\nsuma los precios para recibir un total",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 750200,
+    "dDurationMs": 10800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Entonces eso es lo que hace esta página\ncómo se cómo cómo cómo se pudo hacer eso",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 756779,
+    "dDurationMs": 10381,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pues acá lo normal un formulario\nmétodo post y simplemente pues acá",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 764279,
+    "dDurationMs": 9541,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "añadimos los datos normales de una\ncotización",
+      "acAsrConf": 242
+    }, {
+      "utf8": " acá",
+      "acAsrConf": 163
+    }, {
+      "utf8": " están los clientes acá",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 770399,
+    "dDurationMs": 9361,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "empleados Esto es lo que ya hemos venido\nviendo desde antes sin embargo quiero",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 776820,
+    "dDurationMs": 9660,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mostrarles esta tabla de productos por\ncotizaciones es una tabla pivote es la",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 782880,
+    "dDurationMs": 9060,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tabla la cual me permite poder añadirle\nproductos a mi cotización Entonces yo",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 789600,
+    "dDurationMs": 7859,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "genero una nueva cotización y mediante\nmi tabla pivote de productos con",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 794700,
+    "dDurationMs": 9360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cotizaciones lo que hago es asignarle\nproductos a una cotización en específico",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 800339,
+    "dDurationMs": 11161,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Entonces si podemos Si vemos aquí en php\nMy admin lo único que tengo es el id",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 807360,
+    "dDurationMs": 9060,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "único el identificador único el ID del\nproducto y el ID del detalle simplemente",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 814079,
+    "dDurationMs": 8940,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "entonces acá le estoy diciendo el\nproducto con el ID número uno",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 819139,
+    "dDurationMs": 9581,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "añádamelo al detalle o bueno si al\ndetalle de cotización con el ID número",
+      "acAsrConf": 242
+    }, {
+      "utf8": " 3",
+      "acAsrConf": 240
+    } ]
+  }, {
+    "tStartMs": 825720,
+    "dDurationMs": 7500,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "entonces de esta manera podemos\nnormalizar",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 830399,
+    "dDurationMs": 11161,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "una relación que es de muchos a muchos\npara que pase de ser de uno a muchos así",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 837300,
+    "dDurationMs": 10260,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que pues viéndolo más en detalle a nivel\nde código vamos a",
+      "acAsrConf": 242
+    }, {
+      "utf8": " ver",
+      "acAsrConf": 173
+    }, {
+      "utf8": " aquí en",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 845940,
+    "dDurationMs": 9360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cotizaciones\ntenemos lo mismo de siempre nuestro",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 850820,
+    "dDurationMs": 12600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "nuestra vista que eso ya",
+      "acAsrConf": 242
+    }, {
+      "utf8": " hace",
+      "acAsrConf": 198
+    }, {
+      "utf8": " ya",
+      "acAsrConf": 242
+    }, {
+      "utf8": " pasa",
+      "acAsrConf": 241
+    }, {
+      "utf8": " a\nser",
+      "acAsrConf": 242
+    }, {
+      "utf8": " un",
+      "acAsrConf": 234
+    }, {
+      "utf8": " poco",
+      "acAsrConf": 198
+    }, {
+      "utf8": " más",
+      "acAsrConf": 241
+    }, {
+      "utf8": " complejo pero bueno voy",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 859139,
+    "dDurationMs": 4281,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a tratar de explicarlo paso por paso",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 863579,
+    "dDurationMs": 10681,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Bueno aquí en cotizaciones tenemos\nlo importante son estas instancias de",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 870959,
+    "dDurationMs": 11341,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "aquí primero hacemos una instancia de mi\nclase de cotización que es esta clase de",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 877139,
+    "dDurationMs": 10081,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "acá que pues es un modelo normal con su\nconstructor sus atributos sin embargo lo",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 885180,
+    "dDurationMs": 8279,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que quiero que le pongamos atención Es\nsobre todo a estos dos a estos dos",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 890519,
+    "dDurationMs": 9721,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "métodos Pero más adelante vamos a ellos\nEntonces tengo dos instancias bueno o",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 897240,
+    "dDurationMs": 7620,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "dos dos variables claves que de una es\nold cotizaciones que tiene la",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 902160,
+    "dDurationMs": 9900,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "información de mis cotizaciones pero con\nel método de obstain all con universale",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 908100,
+    "dDurationMs": 10260,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Qué es esta de aquí es pues Exactamente\nlo mismo A lo que veníamos viendo",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 914699,
+    "dDurationMs": 8820,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "solamente que con un Inner join y porque\nun Inner join porque yo en mi tabla",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 920339,
+    "dDurationMs": 7921,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cotizaciones yo no tengo\nrealmente el nombre de la constructora a",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 927060,
+    "dDurationMs": 5820,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "la cual le voy a vender los materiales\nni el nombre del empleado que atendió a",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 931680,
+    "dDurationMs": 5459,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "la constructora yo lo que tengo es\nlucidez Pero a mí no me sirven los",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 935399,
+    "dDurationMs": 7141,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ideales yo necesito Mostrar los nombres\ncorrespondientes a esos ideas y por eso",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 939720,
+    "dDurationMs": 6660,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "utilizo el Inner entonces a la que acá\nlo que estoy diciendo es que me",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 943740,
+    "dDurationMs": 6779,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "seleccione de la tabla cotizaciones el\nID de cotización de la tabla empleados",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 948360,
+    "dDurationMs": 6839,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "el nombre del empleado en la tabla\nconstructoras el nombre de la",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 952560,
+    "dDurationMs": 8839,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "constructora y así con varios datos\ntengo varios datos ahí que me seleccione",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 958800,
+    "dDurationMs": 10380,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "todos estos datos desde cotizaciones\ntambién me haga un Inner join de",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 965339,
+    "dDurationMs": 8641,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "empleados donde cotizaciones en la tabla\ncotizaciones el ID del empleado sea al",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 972420,
+    "dDurationMs": 6419,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "líder empleado que está dentro de la\ntabla",
+      "acAsrConf": 242
+    }, {
+      "utf8": " empleados",
+      "acAsrConf": 231
+    } ]
+  }, {
+    "tStartMs": 975260,
+    "dDurationMs": 8019,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "suena un poco enredado pero no es tan\ndifícil simplemente estamos",
+      "acAsrConf": 242
+    }, {
+      "utf8": " diciéndole",
+      "acAsrConf": 238
+    } ]
+  }, {
+    "tStartMs": 980699,
+    "dDurationMs": 9961,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que lo que haga es que me agarre la\ntabla constructoras y donde esta tabla",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 986240,
+    "dDurationMs": 10500,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "coincida en esta columna y esta otra\ncolumna entonces que me junte esas dos",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 994560,
+    "dDurationMs": 9060,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tablas que me las combine De cierto modo\ndonde en mi tabla cotizaciones coincida",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1000980,
+    "dDurationMs": 7680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "el ID de la constructora con el ide de\nla constructora en la tabla",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1004639,
+    "dDurationMs": 10041,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "constructoras simplemente Espero que que\nse entienda más o menos como como es la",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1012740,
+    "dDurationMs": 6719,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vuelta pues\nno sí simplemente que coincidan y que",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1017480,
+    "dDurationMs": 7020,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ahí me una",
+      "acAsrConf": 242
+    }, {
+      "utf8": " de esas",
+      "acAsrConf": 233
+    }, {
+      "utf8": " dos tablas Por así\ndecirlo entonces ahí lo que hago es",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1022399,
+    "dDurationMs": 6481,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "obtener todos los datos que yo necesito\nde mi cotización y luego obtener",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1027380,
+    "dDurationMs": 6419,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "productos\ncon este obtener productos Pues luego",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1031760,
+    "dDurationMs": 6900,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "más adelante utilizaré este método que\nya más adelante lo voy a explicar porque",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1035419,
+    "dDurationMs": 12301,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "es un poco más complejo Bueno lo que me\ninteresa en este momento es este fritch",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1043699,
+    "dDurationMs": 12121,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "con este todo este fritch Por qué Porque\neste fritch es mi acordeón cada digamos",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1051919,
+    "dDurationMs": 9241,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "estoy pidiéndole que me recorra todas\nmis cotizaciones y que por cada",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1058100,
+    "dDurationMs": 6900,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cotización me genere un nuevo acordeón\nSí",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1062500,
+    "dDurationMs": 7059,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "para así",
+      "acAsrConf": 189
+    }, {
+      "utf8": " decirlo de manera fácil\nentonces",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1066980,
+    "dDurationMs": 9180,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "primero le estoy pidiendo que me cree\npues mi vida acordeón y estoy insertando",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1072940,
+    "dDurationMs": 8859,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "la fecha la hora el día bueno lo que ya\nhemos visto con mis etiquetas de php",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1079179,
+    "dDurationMs": 7740,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "insertando los datos de la base de datos\nnormal eso hasta ahora pues no no es",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1085760,
+    "dDurationMs": 5880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "nada nuevo\nmás adelante vemos esto por ahora",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1089240,
+    "dDurationMs": 6840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ignórelo luego más adelante pues lo\nexplicaré que es para crear PDF a partir",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1094160,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de la cotización pero no vamos a\nadelantarnos ahí todavía bueno esta",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1098419,
+    "dDurationMs": 7441,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "instancia que yo había declarado en la\nparte superior del documento de obtener",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1102380,
+    "dDurationMs": 8179,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "productos le voy a Añadir Bueno más bien\nle voy a aceptar el ID del ID de la",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1109700,
+    "dDurationMs": 7020,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cotización\nque se está creando en este Bridge Por",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1113840,
+    "dDurationMs": 10500,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "así decirlo le voy a poner ese ID para\nmediante esta instancia Llamar a mí a mi",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1121340,
+    "dDurationMs": 9060,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "método",
+      "acAsrConf": 242
+    }, {
+      "utf8": " productos",
+      "acAsrConf": 188
+    }, {
+      "utf8": " para qué Para obtener\nlos productos que corresponden la",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1127760,
+    "dDurationMs": 8000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cotización que yo estoy imprimiendo en\nmi documento sí Entonces ahora sí vamos",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1132799,
+    "dDurationMs": 8181,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a revisar que tiene nuestra función de\noptim productos es lo mismo de siempre",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1138919,
+    "dDurationMs": 8101,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "solamente que\nutilizamos",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1142840,
+    "dDurationMs": 9880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "alias pero no es nada complicado es Cómo\nhacer un Select dentro de un Select",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1150400,
+    "dDurationMs": 7720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "le estamos pidiendo vamos a leer Primero\neste este paréntesis No necesitamos que",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1155960,
+    "dDurationMs": 7740,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pidiendo que me seleccione de mi tabla\npivote productos por cotizaciones el",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1161360,
+    "dDurationMs": 7920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "líder del producto y el ide del detalle\nAdemás del nombre del producto y el",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1166160,
+    "dDurationMs": 8340,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "precio que me lo seleccione y me haga un\nInner",
+      "acAsrConf": 242
+    }, {
+      "utf8": " joint",
+      "acAsrConf": 223
+    }, {
+      "utf8": " para poder traerme el nombre",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1171440,
+    "dDurationMs": 6920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "del producto donde donde coincida con el\nID",
+      "acAsrConf": 242
+    }, {
+      "utf8": " del producto",
+      "acAsrConf": 238
+    }, {
+      "utf8": " no es más",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1176840,
+    "dDurationMs": 7860,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "además\ndeslizamos diciendo tráigame todos esos",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1181700,
+    "dDurationMs": 9599,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Pero qué pasa no me sirve únicamente eso\nPorque entonces me va a traer la tabla",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1188140,
+    "dDurationMs": 7260,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de productos por cotizaciones completa\ncon con todos los registros de todas las",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1193820,
+    "dDurationMs": 9140,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cotizaciones a mí me interesa solamente\ntraerme los productos que están añadidos",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1199299,
+    "dDurationMs": 10240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a mi cotización\nespecífica Entonces digamos le estoy",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1207080,
+    "dDurationMs": 7860,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "diciendo tráigame toda esta tabla y\npóngale el alias resultado toda esta",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1212539,
+    "dDurationMs": 10201,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tabla póngale por ahora nombre de\nresultado ahora seleccione de resultado",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1218980,
+    "dDurationMs": 10600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "donde el ide de detalle sea igual al\nparámetro que yo le voy a mandar que va",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1225080,
+    "dDurationMs": 11839,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a ser este ID es un poco confuso Espero\nque se haya entendido más o menos",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1232039,
+    "dDurationMs": 11520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Pero simplemente es hacer un seleccionar\nvarias columnas hacer un innerjol y de",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1240620,
+    "dDurationMs": 8700,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ese resultado de ese Inner join digamos\nhacer un filtrado para solamente obtener",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1245900,
+    "dDurationMs": 11040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "los productos de la cotización que yo\nquiero obtener Espero que se haya",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1252679,
+    "dDurationMs": 9661,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "entendido entonces pues gracias a este\nmétodo yo qué hago es obtener todos los",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1260120,
+    "dDurationMs": 5820,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "productos de una sola cotización que es\nla cotización que estoy imprimiendo acá",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1263900,
+    "dDurationMs": 8120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Entonces esto simplemente es el cuerpo\ndel acordeón y si tengo un forich dentro",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1269900,
+    "dDurationMs": 7080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de un forich\ntal vez es un poco confuso pero pues un",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1274880,
+    "dDurationMs": 7100,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "foriche",
+      "acAsrConf": 242
+    }, {
+      "utf8": " es para",
+      "acAsrConf": 184
+    }, {
+      "utf8": " crear el acordeón y el\notro forich es para crear nuestra tabla",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1279580,
+    "dDurationMs": 8740,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "productos entonces simplemente\nrecorremos el array que nos devuelve mi",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1285080,
+    "dDurationMs": 9120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "método para que por cada producto me\ngenere una fila de la tabla Entonces",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1291020,
+    "dDurationMs": 9960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "digamos",
+      "acAsrConf": 203
+    }, {
+      "utf8": " genera una variable que se llama\nsuma Total que es igual a cero y por",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1297799,
+    "dDurationMs": 7221,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cada producto yo le voy sumando a esa\nsuma total el precio del producto esto",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1303440,
+    "dDurationMs": 7200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "para qué Para poder\nimprimir el total el precio total de",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1307940,
+    "dDurationMs": 8880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "todos mis productos que vienen en la\ncotización entonces pues simplemente",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1313480,
+    "dDurationMs": 9120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "imprimo el ID del producto el nombre del\nproducto y el precio por día de mi",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1320299,
+    "dDurationMs": 8880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "producto entonces simplemente también\nimprimo en mi total y la suma Total que",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1327380,
+    "dDurationMs": 9419,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "es la suma de todos los precios de mis\nproductos eso es como lo más interesante",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1333679,
+    "dDurationMs": 7801,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "digamos de la cotización Espero no haya\nsido muy enredado yo creo que tal vez lo",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1338780,
+    "dDurationMs": 9300,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "más enredado fue esta parte Pero bueno\nespero que se haya se haya entendido Y",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1345159,
+    "dDurationMs": 10121,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sí",
+      "acAsrConf": 227
+    }, {
+      "utf8": " pues",
+      "acAsrConf": 241
+    }, {
+      "utf8": " me parece que se ve bastante",
+      "acAsrConf": 242
+    }, {
+      "utf8": "\nchévere",
+      "acAsrConf": 233
+    }, {
+      "utf8": " otra cosa que quería Mostrar es",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1351679,
+    "dDurationMs": 10141,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "lo estuve experimentando un poco con\ncomposer composer es un gestionador de",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1359299,
+    "dDurationMs": 9841,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "paquetes algo así como npm para\njavascript así lo es composer para php",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1365740,
+    "dDurationMs": 9960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "entonces encontré un paquete en composer\nllamado mpdf y gracias a esta a esta",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1372799,
+    "dDurationMs": 9601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "librería se pueden generar\npdfes entonces yo dije estaría súper",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1378740,
+    "dDurationMs": 9620,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "genial poder generar un PDF a raíz de\nuna cotización Así que si yo le doy clic",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1385520,
+    "dDurationMs": 8279,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "en generar PDF me genera Efectivamente\nmi cotización esto es una plantilla que",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1391039,
+    "dDurationMs": 7921,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "yo hice pero le estoy insertando tanto\nel nombre del empleado como el ide de la",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1396440,
+    "dDurationMs": 7800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cotización como el nombre de la\nconstructora cliente como el nit de la",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1401360,
+    "dDurationMs": 8640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "constructora cliente y como de los\nproductos así que voy a tratar de",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1406940,
+    "dDurationMs": 7619,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "explicar Pues de una manera sencilla\npero a la vez que se entienda Cómo",
+      "acAsrConf": 242
+    }, {
+      "utf8": " fue",
+      "acAsrConf": 236
+    } ]
+  }, {
+    "tStartMs": 1412400,
+    "dDurationMs": 9440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "este proceso\nlisto ahora para poder continuar con la",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1418700,
+    "dDurationMs": 9500,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "parte de composer Y mpf\nestos son los archivos que",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1425200,
+    "dDurationMs": 10540,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "digamos son necesarios para poder\ngenerar estos",
+      "acAsrConf": 242
+    }, {
+      "utf8": " pdfs",
+      "acAsrConf": 228
+    }, {
+      "utf8": " primero que nada",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1431539,
+    "dDurationMs": 7921,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "debemos tener instalado con Bowser en mi\ncaso pues",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1437020,
+    "dDurationMs": 9820,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ahí pueden ver que yo tengo la versión\n2.5 y pues debemos correr el siguiente",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1443600,
+    "dDurationMs": 9480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Comando",
+      "acAsrConf": 214
+    }, {
+      "utf8": " Bueno de hecho podemos buscarlo\naquí mismo en",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1449059,
+    "dDurationMs": 9360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "en la web Ah bueno php unit es otro otra\nlibrería pero por ejemplo en esta página",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1455299,
+    "dDurationMs": 10941,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de packagist podemos Buscar muchos\npaquetes que están incluidos en composer",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1461780,
+    "dDurationMs": 10860,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "entonces si yo busco mpf me sale\nla librería que yo utilicé para generar",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1469580,
+    "dDurationMs": 7760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mis pdfs lo que tenemos que correr en la\nlínea de comandos es pues este Comando",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1475280,
+    "dDurationMs": 9240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de acá con power\nmpflash mpf y después de eso tenemos que",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1481960,
+    "dDurationMs": 7860,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pues no lo voy a hacer ahorita porque yo\nya lo tengo hecho pero al correr eso se",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1487460,
+    "dDurationMs": 7079,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "nos va a crear estos dos archivos de\ncomposer.reation y con powser.log este",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1493100,
+    "dDurationMs": 6300,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "composer punto lo que es muy importante\nYa que usualmente se suele ignorar",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1496720,
+    "dDurationMs": 6300,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ignorar la carpeta vendor que es una\ncarpeta que también se crea de manera",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1500659,
+    "dDurationMs": 6361,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "automática con todos los\ntodas las de",
+      "acAsrConf": 242
+    }, {
+      "utf8": " las",
+      "acAsrConf": 234
+    }, {
+      "utf8": " dependencias",
+      "acAsrConf": 228
+    }, {
+      "utf8": " de la",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1506179,
+    "dDurationMs": 7500,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "librería",
+      "acAsrConf": 235
+    }, {
+      "utf8": "\nesta carpeta es muy pesada y digamos",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1509419,
+    "dDurationMs": 8760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "para subirla a gits a github pues se\nsuele se suele ignorar esta carpeta por",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1515780,
+    "dDurationMs": 7259,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "lo tanto el compost el punto lock es\ndonde están todas las instrucciones",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1520100,
+    "dDurationMs": 7199,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "todas las dependencias instaladas y\nsimplemente es un archivo en el cual",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1525320,
+    "dDurationMs": 6839,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "están todos los detalles de Cuál es la\nversión exacta que necesita instalar y",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1530419,
+    "dDurationMs": 6421,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "traer de la web en caso de que\ntrabajemos con alguien más o en caso de",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1534260,
+    "dDurationMs": 6659,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que cambiemos de computador bueno estos\ndos archivos son muy importantes el",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1539419,
+    "dDurationMs": 8841,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "compostera punto Jason me está diciendo\nque yo estoy utilizando mpdf en la",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1543740,
+    "dDurationMs": 4520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "versión 8.1 sin más",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1548440,
+    "dDurationMs": 9400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "después de haber\ncorrido El Comando de composer required",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1555679,
+    "dDurationMs": 9421,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tenemos que correr el comando de\ncomposer install",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1561159,
+    "dDurationMs": 6661,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y",
+      "acAsrConf": 238
+    }, {
+      "utf8": " ya con eso debería comenzar a\nfuncionar",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1566299,
+    "dDurationMs": 5721,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Ahora\nles voy a mostrar yo tengo pues una",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1570740,
+    "dDurationMs": 8400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "carpeta con\nmi mis archivos de mpdf y el más Sí",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1577220,
+    "dDurationMs": 7800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Prácticamente el que funciona es este\nEsta es la la plantilla que yo utilicé",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1581840,
+    "dDurationMs": 9180,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que yo creé para poder pues generar el\nPDF ya que esta librería lo que me",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1586880,
+    "dDurationMs": 11360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "permite es crear pdfs a partir de pues\nhtml así que esto funciona de una manera",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1594559,
+    "dDurationMs": 8641,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pues muy simple simplemente Ah bueno\nalgo importantísimo que se me estaba",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1600980,
+    "dDurationMs": 9059,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "olvidando Pues yo puedo imprimir un PDF\npero necesito traerme los datos de la",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1606440,
+    "dDurationMs": 9599,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cotización en específico que pues de la\ncual quiero imprimir la cotización Sí",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1611900,
+    "dDurationMs": 11759,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "así que esos datos pues me pareció más\nfácil hacerlo tipo get digamos mediante",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1619940,
+    "dDurationMs": 9119,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "la URL con el botón que yo les mostré\nque había por acá",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1625880,
+    "dDurationMs": 9840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "con este botón de generar PDF lo que\nhago es mandar mediante la URL todos mis",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1632779,
+    "dDurationMs": 8121,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "datos Eso sí queda una URL larguísima\npero",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1637059,
+    "dDurationMs": 7561,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "funciona pues bastante bien\nmi botón está por acá",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1645640,
+    "dDurationMs": 10180,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "nada más bueno Tengo este es el botón\ndonde yo mando todo todos todos mis",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1652760,
+    "dDurationMs": 7860,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "archivos simplemente es un botón que me\nredirecciona a mi archivo cotización",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1658159,
+    "dDurationMs": 7020,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "punto php este archivo de acá de mi\ncarpeta mpf y le estoy mandando todos",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1663380,
+    "dDurationMs": 5220,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mis archivos le estoy mandando el",
+      "acAsrConf": 242
+    }, {
+      "utf8": " ide",
+      "acAsrConf": 217
+    }, {
+      "utf8": " de\nla cotización el nombre del",
+      "acAsrConf": 242
+    }, {
+      "utf8": " empleado",
+      "acAsrConf": 239
+    }, {
+      "utf8": " el",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1667039,
+    "dDurationMs": 8760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "nombre de la constructora bueno todo eso\nfácil lo que más me pareció complicado",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1670880,
+    "dDurationMs": 8000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "es poder enviarle los productos porque\ntú como",
+      "acAsrConf": 242
+    }, {
+      "utf8": " mandas",
+      "acAsrConf": 221
+    } ]
+  }, {
+    "tStartMs": 1679600,
+    "dDurationMs": 6459,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "unos productos que ni siquiera sabes Qué\ncantidad de productos son puede ser un",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1684500,
+    "dDurationMs": 9240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "producto pueden ser dos pueden ser cinco\npueden ser 10 y pues lo más lo que más",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1691360,
+    "dDurationMs": 9460,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sentido le vi fue a lo mejor poder\nmandar directamente el array Cómo puedes",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1698059,
+    "dDurationMs": 8881,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mandar un array por URL bueno resulta\nque sí se puede mandar un array por URL",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1703400,
+    "dDurationMs": 12200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de hecho es este esta variable de acá de\nenviar productos Ese es mi manera de",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1711260,
+    "dDurationMs": 10620,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "enviar una raíz mediante la URL Entonces\nahora sí venimos a estas líneas que",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1718520,
+    "dDurationMs": 9420,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "habíamos ignorado antes Y pues\nsimplemente",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1723820,
+    "dDurationMs": 10359,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "recordemos registro PDF es la variable\nen la cual yo guardo todos los productos",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1730520,
+    "dDurationMs": 10800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de mi cotización entonces utilizo en los\nsiguientes métodos primero",
+      "acAsrConf": 242
+    }, {
+      "utf8": " sería Liz",
+      "acAsrConf": 230
+    }, {
+      "utf8": " y",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1737799,
+    "dDurationMs": 9661,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "en code entonces lo que hace él sería\nLive es que representa un objeto en un",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1744200,
+    "dDurationMs": 10339,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "String y URL en code pues lo que hace es\nconvertirlo para poder enviarlo mediante",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1749720,
+    "dDurationMs": 9020,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "una URL simplemente Entonces eso queda\nuna cadena de texto enorme larguísima",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1757700,
+    "dDurationMs": 7020,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pero\ndigamos que es una manera en la que se",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1761360,
+    "dDurationMs": 8819,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "puede hacer así que pues yo mandé todos\nlos datos por URL incluyendo mi array",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1767779,
+    "dDurationMs": 9780,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "con mis productos luego aquí en\ncotización lo que hago es recibir mi",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1773779,
+    "dDurationMs": 12301,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "array Entonces yo recibo mi array\nmediante el método get de productos y le",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1781880,
+    "dDurationMs": 9120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "aplicó",
+      "acAsrConf": 211
+    }, {
+      "utf8": " estos tres estos tres métodos\npara poder",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1787779,
+    "dDurationMs": 8201,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "volverlo Y pasarlo de nuevo a una raíz\nde hecho si deshacemos esto si",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1793880,
+    "dDurationMs": 8760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "descomentamos estas líneas de código\npodemos ver que",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1798580,
+    "dDurationMs": 9880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "me genera me vuelve a pasar mi array el\narray que yo había enviado desde mi otro",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1805100,
+    "dDurationMs": 7559,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "archivo Así que eso es bastante\ninteresante y es algo que no sabía hasta",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1810919,
+    "dDurationMs": 8360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "haber realizado esta actividad es\nbastante chévere entonces pues lo que",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1817279,
+    "dDurationMs": 7441,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hice fue guardar en variables\ntodos los",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1821440,
+    "dDurationMs": 10180,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cuero y parámetros que pues me mandé\nmediante la URL las guarde en variables",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1827240,
+    "dDurationMs": 8640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y simplemente las imprimí aquí en mi",
+      "acAsrConf": 242
+    }, {
+      "utf8": " en\nmi",
+      "acAsrConf": 241
+    }, {
+      "utf8": " html",
+      "acAsrConf": 240
+    }, {
+      "utf8": " eso",
+      "acAsrConf": 237
+    } ]
+  }, {
+    "tStartMs": 1833960,
+    "dDurationMs": 7920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "no tiene digamos\ngrave pero lo que sí es de nuevo es la",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1839120,
+    "dDurationMs": 8340,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tabla la tabla de productos que se\ngenera al yo crear mi PDF esta tabla de",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1845299,
+    "dDurationMs": 7500,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "acá porque lo mismo yo no sé cuántos\nproductos me van a enviar yo no sé o sea",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1851179,
+    "dDurationMs": 7141,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tiene que ser funcional para cualquier\ncantidad de productos por lo tanto lo",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1855200,
+    "dDurationMs": 8599,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que decidí hacer fue crear una variable\nTable que sea un String vacío y un",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1862340,
+    "dDurationMs": 8400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "forich\nque me recorra mi array de matriz",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1867620,
+    "dDurationMs": 8880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "productos que es de nuevo mi array con\ntodos los productos de mi cotización y",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1873440,
+    "dDurationMs": 8820,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que me lo recorra y por cada producto me\ngenere una línea una una fila de mi",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1879980,
+    "dDurationMs": 8939,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tabla simplemente lo que hago es\nconcatenarle",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1884960,
+    "dDurationMs": 11900,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "estas etiquetas Entonces le concateno un\nTR de apertura le concateno el té de que",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1892580,
+    "dDurationMs": 9479,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tiene el ide del producto le\nconcatena un TD que tiene el nombre del",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1899240,
+    "dDurationMs": 7799,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "producto y así mismo Pues todos los\ndatos de mi producto y eso que me lo",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1904340,
+    "dDurationMs": 9839,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "repita por cada producto que necesito\nimprimir simplemente por cada producto",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1909500,
+    "dDurationMs": 9899,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "me genera una fila y ya eso es en\nsíntesis Y pues lo mismo que en el",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1917240,
+    "dDurationMs": 9419,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "archivo pasado tengo una variable de\nprecio total a la cual se le van sumando",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1922960,
+    "dDurationMs": 7439,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "el precio por día y para darme el total\nel precio total y",
+      "acAsrConf": 242
+    }, {
+      "utf8": " ya",
+      "acAsrConf": 235
+    } ]
+  }, {
+    "tStartMs": 1929299,
+    "dDurationMs": 10641,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "simplemente\ncogí la variable Table y la imprimí aquí",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1934760,
+    "dDurationMs": 11220,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "donde en medio de las",
+      "acAsrConf": 242
+    }, {
+      "utf8": " etiquetas",
+      "acAsrConf": 233
+    }, {
+      "utf8": " de\ny ya simplemente pues utilizamos el",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1943460,
+    "dDurationMs": 10439,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "método propio de la librería mpdf para\nescribir el html y para pues generar",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1950179,
+    "dDurationMs": 11401,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "nuestro PDF Así que con ayuda de\ncomposer se pudo generar un PDF con los",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1957320,
+    "dDurationMs": 10020,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "datos exactos de mi cotización Bueno eso\nes en síntesis es todo lo que quería",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1964580,
+    "dDurationMs": 8900,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Mostrar espero realmente que se haya\nentendido bien pues trate de mostrar lo",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1971360,
+    "dDurationMs": 6600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que no se había podido\nA lo mejor",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1975279,
+    "dDurationMs": 7000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mostrar en clases anteriores las cosas\nnuevas con las que me puse a",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1980299,
+    "dDurationMs": 7441,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "experimentar que pueden A lo mejor ser\nútiles para alguien más y eso es todo",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1985520,
+    "dDurationMs": 6500,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "compañeros Espero que les haya gustado y\nmuchas gracias por",
+      "acAsrConf": 242
+    }, {
+      "utf8": " por",
+      "acAsrConf": 180
+    }, {
+      "utf8": " escuchar",
+      "acAsrConf": 223
+    }, {
+      "utf8": " y por su",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1989899,
+    "dDurationMs": 2121,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tiempo",
+      "acAsrConf": 242
+    } ]
+  } ]
+}

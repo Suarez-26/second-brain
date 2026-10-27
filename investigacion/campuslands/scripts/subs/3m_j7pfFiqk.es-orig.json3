@@ -1,0 +1,275 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  }, {
+    "mhModeHint": 2,
+    "juJustifCode": 0,
+    "sdScrollDir": 3
+  } ],
+  "wpWinPositions": [ {
+  
+  }, {
+    "apPoint": 6,
+    "ahHorPos": 20,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  } ],
+  "events": [ {
+    "tStartMs": 0,
+    "id": 1,
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1680,
+    "dDurationMs": 5520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "campus es una empresa creada por\nsantandereanos que vieron la necesidad",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 5339,
+    "dDurationMs": 6541,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de capacitar a los jóvenes para suplir\nla demanda de programadores de sistemas",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 8820,
+    "dDurationMs": 7440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "campus es el primer y más grande centro\nentrenamiento de programadores para",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 14219,
+    "dDurationMs": 7021,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "jóvenes entre los 17 y 25 años de\nColombia invitaciones a aquellos jóvenes",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 19080,
+    "dDurationMs": 6840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "desde los 17 años que quieran\ndesarrollar habilidades que el mundo",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 23400,
+    "dDurationMs": 5940,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "viene edita en el mundo digital para que\nse formen con nosotros el objetivo",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 27119,
+    "dDurationMs": 6241,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "nosotros es formar a los 17 años en\nhabilidades que el mundo paga muy bien",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 31619,
+    "dDurationMs": 5221,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "para que a los 18 tengan un empleo de\ncalidad y a los 25 estos jóvenes sean",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 35640,
+    "dDurationMs": 4800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "los futuros emprendedores de nuestro\npaís a la fecha y cuatrocientos jóvenes",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 38640,
+    "dDurationMs": 5520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "preparándose para asumir el reto de\nconvertirse en programadores Gracias al",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 42480,
+    "dDurationMs": 5640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "apoyo de empresarios internacionales se\notorgarán cien becas más sin ningún",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 45840,
+    "dDurationMs": 4980,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "costo campus va a ser en en una zona\nfranca más importante y más grande del",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 49559,
+    "dDurationMs": 5941,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "país que es la zona franca de\nbucaramanga la zona franca Santander",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 52820,
+    "dDurationMs": 5320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "para eso tenemos unas Rutas para ayudar\na los jóvenes los jóvenes que están",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 56879,
+    "dDurationMs": 5160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "interesados Tienen que entrar a nuestra\npágina Tienen que entrar a nuestro a",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 59579,
+    "dDurationMs": 7141,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "nuestro link",
+      "acAsrConf": 242
+    }, {
+      "utf8": " Campos",
+      "acAsrConf": 227
+    }, {
+      "utf8": " developers",
+      "acAsrConf": 241
+    }, {
+      "utf8": " Y\ninscribirse ahí empieza un proceso donde",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 64379,
+    "dDurationMs": 8401,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "van a estar quince días en un proceso de\ningreso Y si una vez terminan este",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 69900,
+    "dDurationMs": 7560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ingreso van a pasar a la al centro de\nentrenamiento convocatoria está dirigida",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 74520,
+    "dDurationMs": 7800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "para aquellos jóvenes después de que\ntermine su su secundaria y es Claro que",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 80820,
+    "dDurationMs": 4799,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "no se consiguen programar y por eso\nQueremos formar hoy en Latinoamérica se",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 84420,
+    "dDurationMs": 6239,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "requiere más de tres millones de\nprogramadores y que estamos buscando con",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 87119,
+    "dDurationMs": 7621,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "esto queremos Con este campus formar y\ncrear un nuevo estrato social digital en",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 92400,
+    "dDurationMs": 7079,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "la ciudad y que ese estrato social tenga\ningresos mensuales superiores a los dos",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 97020,
+    "dDurationMs": 6599,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mil dólares y que este ingreso imparte\nprincipalmente en un 80% a la base de la",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 101939,
+    "dDurationMs": 5341,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pirámide poblacional estratos uno dos y\ntres y",
+      "acAsrConf": 242
+    }, {
+      "utf8": " de esta",
+      "acAsrConf": 215
+    }, {
+      "utf8": " forma garantizar que en",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 105960,
+    "dDurationMs": 5400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tan solo cinco años le podamos cambiar\nla vida a Esta generación según el alto",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 109680,
+    "dDurationMs": 4619,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ejecutivo de campus la inversión en la\nciudad será más de un billón de dólares",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 112560,
+    "dDurationMs": 5780,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mensuales lo que significa una\nreactivación en muchos campos de la",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 116159,
+    "dDurationMs": 2181,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "economía",
+      "acAsrConf": 242
+    } ]
+  } ]
+}

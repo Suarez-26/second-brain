@@ -1,0 +1,2721 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  }, {
+    "mhModeHint": 2,
+    "juJustifCode": 0,
+    "sdScrollDir": 3
+  } ],
+  "wpWinPositions": [ {
+  
+  }, {
+    "apPoint": 6,
+    "ahHorPos": 20,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  } ],
+  "events": [ {
+    "tStartMs": 0,
+    "id": 1,
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 80,
+    "dDurationMs": 9160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Y siento que las mujeres cuando estamos\nmuy bien respaldadas damos un 200% de lo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 5560,
+    "dDurationMs": 3680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que podemos dar realmente.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 11400,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Hola, bienvenidos al podcast de Human\nCode, un podcast el cual lo abarcamos",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 15960,
+    "dDurationMs": 6440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "desde la parte del ser, desde el có\ndetrás de metas profesionales hay una",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 19920,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "historia humana y una vida personal. Mi\nnombre es Wendy y es un placer para mí",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 24119,
+    "dDurationMs": 5281,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ser su presentadora del día de hoy. El\ndía de hoy tenemos a una invitada muy",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 27960,
+    "dDurationMs": 6360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "especial, la cual se llama María\nMargarita Moda, CEO y líder de la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 31880,
+    "dDurationMs": 5960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "empresa Verer Media, que es encargada de\nliderar contenidos digitales para",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 36079,
+    "dDurationMs": 5601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "empresas de gran impacto en el mundo\ndigital.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 39559,
+    "dDurationMs": 6561,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Muchas gracias por aceptar la invitación\ny por estar en el podcast el día de hoy",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 44320,
+    "dDurationMs": 5079,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "para presentarnos un poquito de tu\nhistoria detrás de qué es lo que hay de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 48199,
+    "dDurationMs": 5360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "María Margarita Mor.\nNo, gracias a ti, a todos ustedes por la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 51440,
+    "dDurationMs": 6520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "invitación. Para mí es un gran honor\nestar en este podcast de Human Code y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 55320,
+    "dDurationMs": 8799,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "espero pues tener la oportunidad de ver\ntodo el contenido super optimizado.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 61320,
+    "dDurationMs": 7600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Margarita, eh pues empecemos un poquito\ndesde la parte de atrás, dejando un lado",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 66080,
+    "dDurationMs": 8719,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "las métricas y todo lo profesional.\nEh, sé que tú estuviste en como que tu",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 73040,
+    "dDurationMs": 9439,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "universidad y tu vida profesional\nsiempre ha sido liderada por grandes,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 79200,
+    "dDurationMs": 7360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pues grandes empresas y demás, como lo\nes que estudiaste en Harvard y en la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 84159,
+    "dDurationMs": 7920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Universidad de California. Para ti,\n¿cómo has logrado sobrellevar esa parte",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 88759,
+    "dDurationMs": 8761,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de también tratar como personas a tu\nequipo de trabajo y no tanto como",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 94600,
+    "dDurationMs": 7559,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "números y toda esa parte más\nprofesional?",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 99040,
+    "dDurationMs": 8679,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Bueno, yo creo que eh realmente mi vida\nsiempre ha sido eh rodeada de Mi mamá",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 105719,
+    "dDurationMs": 7000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "era una gran líder, también es una gran\nlíder eh y es muy empática. Entonces, yo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 110360,
+    "dDurationMs": 7960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "creo que pues los números sin conexión\nno generan nada. Creo que yo siempre he",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 115200,
+    "dDurationMs": 7640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sido eh partidaria de conectar tanto los\nnúmeros y datos con la conexión humana y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 121200,
+    "dDurationMs": 5080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "creo que eso es lo que me ha llevado al\néxito pues que hemos tenido en la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 124719,
+    "dDurationMs": 6561,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "empresa.\nEn este proceso es claro de que tú pues",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 128440,
+    "dDurationMs": 9640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "llegando a ser una gran líder, como que\neste tema de el ego profesional y demás,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 135800,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pues sí es algo que logra como impactar\nen tu vida o ha logrado impactar en tu",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 139879,
+    "dDurationMs": 7841,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vida en algún momento. ¿Cómo lograste\ncomo sobrellevar eso?",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 144319,
+    "dDurationMs": 7721,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y decir, \"No, pues yo también soy una\npersona, yo también he estado en la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 149640,
+    "dDurationMs": 4879,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "posición de ellos y ellos son mi equipo\nde trabajo. ¿Cómo han logrado llevar esa",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 153760,
+    "dDurationMs": 5280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "liderazg?\"\nBueno, yo creo que a mí realmente el ego",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 156000,
+    "dDurationMs": 10159,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "me lo alimenta la gente. Eh, yo no me\ncreo eh que se sea la persona que más",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 162720,
+    "dDurationMs": 10519,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sabe casi nunca en en una habitación.\nEh, considero que ese autoconocimiento",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 170720,
+    "dDurationMs": 7960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "eh me ha dado la oportunidad de de\nliderar desde no desde el que más sabes,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 175959,
+    "dDurationMs": 8961,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sino del que construye en equipo.\nEntonces, ese ego realmente siento yo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 182519,
+    "dDurationMs": 8561,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que no ha sido un inconveniente en mi\nvida, sino por el contrario, siempre me",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 186680,
+    "dDurationMs": 11000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ha permitido ser humilde con lo que he\npodido aprender y construir y siento que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 194519,
+    "dDurationMs": 8761,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "realmente ese autoconocimiento de que se\nlidera mejor con el ejemplo que con la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 199879,
+    "dDurationMs": 8000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que con la orden es lo que me ha\npermitido liderar pues en este momento",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 205239,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "un equipo de 80 personas.\nSinceramente, a mí me causa bastante",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 209920,
+    "dDurationMs": 8920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "curiosidad, pues debido a que soy camper\ny demás, el hecho de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 215319,
+    "dDurationMs": 9000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cómo lograste escalar desde la\nuniversidad y dar los cimientos de lo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 221360,
+    "dDurationMs": 6680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que es hoy en día medio.\nBueno, esa es una historia superinesante",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 226120,
+    "dDurationMs": 7959,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y a mí me encanta. Eh, yo siento que ha\nsido un montón de oportunidades que no",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 230760,
+    "dDurationMs": 7520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "he dejado pasar. E como estabas\nmencionando, cuando estaba estudiando en",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 235599,
+    "dDurationMs": 7081,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "New CLA y terminé mis estudios, se me\npresentó la oportunidad de trabajar con",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 240000,
+    "dDurationMs": 6599,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "una empresa en Los Ángeles que estaba\nbuscando a alguien que fuera bilingüe.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 244439,
+    "dDurationMs": 5561,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Ese era el único requisito que había. No\nnecesitaba ser ingeniera, no necesitaba",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 248560,
+    "dDurationMs": 7519,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "todos mis estudios ni mis cartones,\nsolamente necesitaba ser bilingüe. Y eh",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 253400,
+    "dDurationMs": 7000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cuando empecé en este en este trabajo me\npermitieron ir escalando pues y ir",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 258359,
+    "dDurationMs": 6921,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "aprendiendo. Realmente soy una persona\nque aprende muy rápidamente, sobre todo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 262520,
+    "dDurationMs": 4679,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "en temas de tecnología. Entonces eso\npues por eso digo que han sido",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 266320,
+    "dDurationMs": 6120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "oportunidades que no se han\ndesaprovechado.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 269000,
+    "dDurationMs": 8400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Luego pues eh como cualquier inmigrante\ndepende de las visas. Eh, se me venció",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 275800,
+    "dDurationMs": 7200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mi permiso de trabajo, mi visa de\ntrabajo, me tocó regresarme y aquí pues",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 279479,
+    "dDurationMs": 8000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "realmente creo que lo otro que me ha\nayudado a escalar es tener una muy buena",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 285759,
+    "dDurationMs": 6440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "compañía. Mi esposo realmente ha sido\nmuy visionario. Eh, creo que gracias a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 290639,
+    "dDurationMs": 10041,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "él también hemos podido construir lo que\nhemos construido. Eh, y pues realmente",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 296759,
+    "dDurationMs": 10561,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "creo que merece la pena eh resaltar el\nvalor de una de un buen socio, de una",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 304479,
+    "dDurationMs": 7241,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "buena visión, de un buen de una buena\nmeta construida en conjunto.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 310080,
+    "dDurationMs": 7119,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Me imagino que a lo largo de todo este\nproceso tú pues como en cualquier",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 315320,
+    "dDurationMs": 4960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "proceso llevaste como mucha frustración\no momentos en los cuales no la pasabas",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 319360,
+    "dDurationMs": 3880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "muy bien\ntodavía",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 320840,
+    "dDurationMs": 7720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "como exactamente o sea todavía siendo\nuna empresaria tan grande has llegado a",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 325479,
+    "dDurationMs": 8761,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tener esos momentos cómo emocionalmente\nlos llevas a cargo a cargo y a cabo como",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 331560,
+    "dDurationMs": 7520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "para lograr salir de de esos pequeños\nhuequitos en los cuales uno se encuentra",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 335840,
+    "dDurationMs": 10320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "en la vida\nYo creo que es válido tener esos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 341360,
+    "dDurationMs": 8880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "momentos de de gestión de emociones, de\nvalidar pues lo que has construido, de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 348280,
+    "dDurationMs": 6520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "creer en ti, pero pues es muy válido\ntener unos días grises, o sea, todavía",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 352560,
+    "dDurationMs": 7400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "se tienen eh cuando un proyecto no sale\ncomo esperas, cuando un cliente te",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 356479,
+    "dDurationMs": 8801,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cancela un contrato, cuando eh muchos\nmuchas situaciones te ponen en en un en",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 363479,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "un punto en donde pues tú no quisieras\nestar y tengo que aceptar que uno como",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 368000,
+    "dDurationMs": 9280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mujer pues también tiene días en donde\nestás más hormonal que otros y creo que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 372880,
+    "dDurationMs": 8920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "eh el permitirte eh aceptar y gestionar\nesa emoción con todo lo que viene esa",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 379680,
+    "dDurationMs": 7200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "emoción, así sea un día, dos días que te\ndes cierto tiempo para, okay, hoy es el",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 383639,
+    "dDurationMs": 6680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "día de eh voy a estar eh triste, voy a\nestar brava, voy a estar furiosa con el",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 388400,
+    "dDurationMs": 5639,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mundo, voy a estar todo eso te permite\ngestionar después de ese momento que te",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 391960,
+    "dDurationMs": 7840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "das como, bueno, ya eso fue todo y otra\nvez miramos a ver cómo arrancamos. Eh,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 397720,
+    "dDurationMs": 7160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "creo que te permite gestionar esa\nfrustración, esa ira, todos esos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 402360,
+    "dDurationMs": 5839,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sentimientos negativos que por supuesto\nque te van a pasar, o sea, no estás",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 406720,
+    "dDurationMs": 6479,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "nunca exento de eso.\nTú como mujer, pues teniendo en cuenta",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 410599,
+    "dDurationMs": 6681,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de que si de por sí hoy en día es como\nun poquito difícil adentrarse al mundo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 415520,
+    "dDurationMs": 7359,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tech o todavía sigue habiendo como mucho\nestigma en medio a que las mujeres no",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 420680,
+    "dDurationMs": 5840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "son ingenieras o que las mujeres no son\nprogramadoras y demás.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 424560,
+    "dDurationMs": 4919,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Sí. ¿Cómo manejaste ese esa\nincertidumbre o esos estigmas que te",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 428360,
+    "dDurationMs": 4519,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ponía la gente\ntodavía",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 430160,
+    "dDurationMs": 5520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "para llegar al punto donde estás hoy en\ndía?",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 433800,
+    "dDurationMs": 5920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Eso todavía pasa, o sea, todavía pasa\nque llego con mi con mi esposo a una",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 437759,
+    "dDurationMs": 6120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "reunión y piensan que el ingeniero es\nél, que el estudiado es él y que pues no",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 442479,
+    "dDurationMs": 8321,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "estoy diciendo que no lo sea, no sea\nestudiado, pero pues realmente es como",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 447319,
+    "dDurationMs": 10401,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "siempre pasa que eh a las mujeres nos\ntienen rezagadas como si no pudiéramos o",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 453919,
+    "dDurationMs": 9680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "como si no eh nos mereciéramos estar en\nesas posiciones. He tenido que lidiar",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 460560,
+    "dDurationMs": 7840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "con comentarios de pues de hombres, por\nsupuesto, que no vienen ni el caso, eh",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 465800,
+    "dDurationMs": 7920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "comentarios superdescertados, pero creo\nyo que desde la seguridad que tú has",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 470479,
+    "dDurationMs": 9361,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "construido y desde tu propio propósito,\ndesde tu propio autoconocimiento de pues",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 476560,
+    "dDurationMs": 7880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "yo sí soy capaz, yo soy la lo que soy,\nhe demostrado que puedo estar en este",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 481400,
+    "dDurationMs": 8160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mundo y realmente desde ese\nautoconocimiento de ti misma es que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 486639,
+    "dDurationMs": 7761,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "logras como salir al otro lado. Eh,\nmuchas veces te va a tocar como",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 492319,
+    "dDurationMs": 9401,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "demostrar que efectivamente sí puedes y\nva a ser una guerra que que vas a tener",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 497240,
+    "dDurationMs": 10720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que dar si queremos eh como mujeres\npermitirnos ese espacio eh en este mundo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 505039,
+    "dDurationMs": 10161,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tech. Pero pues la verdad es que creo yo\nque la la el el movimiento feminista ha",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 512159,
+    "dDurationMs": 7680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ayudado a darnos estos espacios en estos\neh en este mundo de la tecnología y de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 517959,
+    "dDurationMs": 6841,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "la inteligencia artificial. Y realmente\ncreo que eh hemos avanzado un montón.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 522560,
+    "dDurationMs": 7160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Cuando yo estudiaba ingeniería\néramos cinco mujeres en el salón y 30",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 526959,
+    "dDurationMs": 7201,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hombres. Entonces creo que se ha venido\nmejorando esa proporción, la cual me",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 531480,
+    "dDurationMs": 9359,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "alegra muchísimo. Eh, pero no, las\nmujeres claro que podemos. A ti, ¿qué te",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 536640,
+    "dDurationMs": 8319,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "gustaría como decirle a todas esas niñas\nque están empezando, digamos, aquí en",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 542760,
+    "dDurationMs": 7400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Campos y que sienten al inicio de su\nformación que no pueden, que saben más",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 547800,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que ellos o que las hacen sentir que no\npueden?",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 551480,
+    "dDurationMs": 8560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Yo creo que e pues bueno, no lo que me\ngustaría decirles a ellas es que es muy",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 557680,
+    "dDurationMs": 7240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "muy valioso ese autoconocimiento.\nSiempre vale la pena eh",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 562839,
+    "dDurationMs": 7601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "demostrarse no a los demás, sino a uno\nmismo que uno realmente es capaz con",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 566920,
+    "dDurationMs": 8520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "estas eh con estas carreras, con estos\ndesafíos. Eh el cerebro del hombre no",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 573360,
+    "dDurationMs": 7159,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "está construido diferente al de la mujer\nen cuanto a conocimientos, eh en cuanto",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 577839,
+    "dDurationMs": 5680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a fuerza, pues es otra cosa. Y es así.\nNo la discuto, pero en cuanto a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 582000,
+    "dDurationMs": 7640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "conocimientos, en cuanto a capacidades\nde aprender, en cuanto a capacidades de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 585200,
+    "dDurationMs": 8120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de resolver eh\ncualquier problema que se presente en",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 591839,
+    "dDurationMs": 6161,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "estudios, estoy segurísima que las\nmujeres somos iguales de capaces a los",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 595200,
+    "dDurationMs": 6960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hombres. iguales.\nBueno, Margarita, tú eres fundadora, tú",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 600240,
+    "dDurationMs": 6680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "eres líder, tú eres mujer, tú eres\nmuchas cosas, muchos roles al mismo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 604000,
+    "dDurationMs": 9600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tiempo. ¿Cómo logras llevar todos esos\nroles a cabo sin caer en frustración o o",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 611920,
+    "dDurationMs": 9000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "en esos enredos que a veces se presentan\nen el día? eh con muy poquito sueño,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 616920,
+    "dDurationMs": 10080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pero pues aparte de eso eh realmente\ncreo que lo importante es ser consciente",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 624760,
+    "dDurationMs": 7840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de que no vas a poder estar 100% en\ntodos tus roles al tiempo, eh, y que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 630680,
+    "dDurationMs": 6080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vale más la pena cuando te concentras en\nuno solo en ese momento. O sea, si en",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 635000,
+    "dDurationMs": 5200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "este momento necesito ser empresaria,\nokay, necesito ser empresaria y necesito",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 638440,
+    "dDurationMs": 5480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "olvidar todos mis otros roles en ese\nmomento. Si hay algo que interrumpe eso,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 642079,
+    "dDurationMs": 6041,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "okay, necesito interrumpir mi rol y\npasar al otro, pero no puedo ser los",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 646120,
+    "dDurationMs": 6200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cinco roles, seis roles que mencionaste\nal mismo tiempo. Siento que es muy",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 650320,
+    "dDurationMs": 5480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "importante e que cuando estoy con mi\nfamilia, estoy con mi familia y muchas",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 654079,
+    "dDurationMs": 5601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "veces ese tiempo con mi familia se ve\ninterrumpido por el trabajo y necesito",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 657360,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "estar en el trabajo. Entonces, okay, le\npongo una pausa a mi familia, espero un",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 661720,
+    "dDurationMs": 5559,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "momento, necesito resolver esto otro y\npuedo continuar luego con mi con mi",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 665639,
+    "dDurationMs": 5081,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "familia, pero no puedo estar en los dos\nen los dos tiempos al 100%, en los dos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 669200,
+    "dDurationMs": 6439,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "roles.\nEso es algo que sinceramente me parece",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 672639,
+    "dDurationMs": 6561,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "como de admirar y muy impresionante\nporque pues sí siento que uno como",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 677600,
+    "dDurationMs": 7520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mujer, al menos yo, yo he soñado con el\nhecho de tener una familia y pues",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 681680,
+    "dDurationMs": 10480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "siempre choca y rosa el hecho de pucha,\ntengo que también surgir como persona y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 689839,
+    "dDurationMs": 5201,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ser alguien, pero a la vez quiero tener\nmi vida personal.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 693839,
+    "dDurationMs": 5240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Entonces, pues sí es como muy\nreconfortante escucharlo de alguien que",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 697120,
+    "dDurationMs": 6040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ya lo logra.\nSí, sí. No se puede, se puede. Por",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 701320,
+    "dDurationMs": 5800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "supuesto que vas a tener que sacrificar\ny tienes que estar dispuesto a esos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 704480,
+    "dDurationMs": 6599,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sacrificios de o de lo que te decía al\nprincipio, de verdad, de sueño o de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 708920,
+    "dDurationMs": 6919,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tiempo con tu esposo, con tus hijos, con\no de dedicación también inclusive a a la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 714360,
+    "dDurationMs": 7120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "empresa. O sea, vas a tener que hacer\nciertos sacrificios, pero que a la larga",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 718600,
+    "dDurationMs": 7600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pues si quieres tener tu familia, para\nmí lo más importante realmente es la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 723360,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "familia. Bueno, durante mucho tiempo se\nle ha estigmatizado a todas las personas",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 728040,
+    "dDurationMs": 5479,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que están como en el mundo de la\ntecnología el hecho de que son muy",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 731560,
+    "dDurationMs": 6760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mecánicos, muy robots, de que sus\nhabilidades blandas no es algo que como",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 736279,
+    "dDurationMs": 8240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que llegue a importar mucho.\n¿Qué tanto tú consideras de que tus",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 740519,
+    "dDurationMs": 8560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "habilidades blandas te han servido o han\nsido de importancia para tu proceso?",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 747440,
+    "dDurationMs": 7680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Bueno, yo realmente es que creo que las\nhabilidades blandas, o sea, poder leer",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 752880,
+    "dDurationMs": 6840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "el ambiente en una sala de conferencias\nes mucho más importante que poder leer",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 757040,
+    "dDurationMs": 5520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "un código o que poder leer un programa o\nque poder programar. Para mí es mucho",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 761279,
+    "dDurationMs": 4641,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "más importante y te va a llevar mucho\nmás lejos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 764320,
+    "dDurationMs": 5600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "poder desarrollar esas habilidades\nblandas, habilidades de comunicación,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 767920,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "poder negociar, poder liderar un equipo,\nte va a poder llevar mucho más lejos que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 771800,
+    "dDurationMs": 5680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que tú hagas todo el trabajo sola.\nEstando más conscientes de que hoy en",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 776079,
+    "dDurationMs": 6521,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "día las habilidades blandas es algo que\nnos suelen llevar tanto como",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 779199,
+    "dDurationMs": 8161,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "programadores como empresarios y demás a\nniveles mucho más grandes en nuestra",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 784320,
+    "dDurationMs": 9720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vida, tanto profesional como personal.\nEh, ¿tú cómo consideras o si pudieras",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 792279,
+    "dDurationMs": 7281,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "volver atrás, ¿qué consideras que\nhubieras cambiado en tu formación de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 797040,
+    "dDurationMs": 8520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "todo esto de habilidades blandas? O sea,\n¿qué te hubiera gustado sumarle a tu",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 801760,
+    "dDurationMs": 7000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "formación, digamos? No sé, eh, formación\npara aprender a hablar en público con",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 807480,
+    "dDurationMs": 4680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mayor facilidad o qué crees que es lo\nque más te ha costado? Bueno, hablar en",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 810639,
+    "dDurationMs": 5481,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "público me cuesta un montón, pero creo\nque antes de esa me hubiera gustado",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 813639,
+    "dDurationMs": 8760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tomar eh una\nun curso o eh que me hubieran podido",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 819360,
+    "dDurationMs": 6599,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "enseñar sobre eh liderazgo, porque\nsiento que cuando quieres liderar un",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 823959,
+    "dDurationMs": 10041,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "equipo necesitas desarrollar habilidades\nde liderazgo y e desarrollarlas solo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 829120,
+    "dDurationMs": 9040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "realmente te va a costar tiempo tuyo,\ntiempo de la persona que quieres liderar",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 836000,
+    "dDurationMs": 8519,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y muchos errores, un montón de errores.\nEntonces, creo que eh habilidades de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 840440,
+    "dDurationMs": 8199,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "liderazgo para emprendedores\nhubiera sido algo que me hubiera gustado",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 846560,
+    "dDurationMs": 7199,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "eh tener.\nEh,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 850800,
+    "dDurationMs": 7080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "bueno, y algo de no liderazgo, perdón,\nde no habilidades blandas sería eh",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 856079,
+    "dDurationMs": 7320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "finanzas para no financieros. Creo que\ntambién me hubiera gustado tenerla.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 860720,
+    "dDurationMs": 4799,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mencionas todo esto de finanzas, de\nliderazgo.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 864000,
+    "dDurationMs": 6279,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Centrándonos más un poquito en la parte\nde finanzas, sé que anteriormente pues",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 868560,
+    "dDurationMs": 6800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "como que la educación financiera no era\nalgo del cual se hablara mucho o pues de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 872560,
+    "dDurationMs": 7160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "lo cual se tocara mucho el tema. ¿Tú\ncómo aprendiste? ¿Cómo fue tu proceso?",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 877320,
+    "dDurationMs": 6759,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Todavía estoy aprendiendo.\nTodavía estoy aprendiendo. Realmente",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 881720,
+    "dDurationMs": 7200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "siento que empecé muy tarde a aprender\nsobre",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 886880,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "finanzas. Toda mi formación realmente ha\nsido muy enfocada en",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 892040,
+    "dDurationMs": 6520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "TEC.\nEh, y cuando pues ya monté en la empresa",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 897120,
+    "dDurationMs": 5120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y ya me di cuenta que necesitaba\naprender sobre finanzas, fue que empecé",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 900120,
+    "dDurationMs": 9399,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a aprender, ¿no? Antes, que creo que fue\nun un desatino en mi proceso, pero pues",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 907160,
+    "dDurationMs": 8720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "lo estoy haciendo. Eh, siento que sí\ndeberían desde el colegio enseñar",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 911320,
+    "dDurationMs": 9079,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "finanzas, eh, por lo menos lo básico.\nY siento que las finanzas, o sea, no es",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 917920,
+    "dDurationMs": 7800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "solo para financieros, terminan eh de\nverdad eh en el día a día de cualquier",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 922839,
+    "dDurationMs": 8761,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "persona, eh\nsiendo un un rubro bastante importante,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 928360,
+    "dDurationMs": 3240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "un un",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 931720,
+    "dDurationMs": 5720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "campo bastante importante de aprender.\n¿Cómo te gustaría que se sientan pues",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 936000,
+    "dDurationMs": 6360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que se sienta en general cualquier\npersona que haya llegado a tu equipo de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 939399,
+    "dDurationMs": 6761,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "trabajo, a tu empresa cuando ya se sea\npor mejor oportunidad laboral, porque se",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 944360,
+    "dDurationMs": 6479,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "lo presentó algo personal? ¿Cómo te\ngustaría que les quede? Como como se",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 950199,
+    "dDurationMs": 3560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "siente\nesa huella de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 952079,
+    "dDurationMs": 7240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "A mí me gustaría que la huella que les\ndeja ver en su corazón o en su hoja de",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 956759,
+    "dDurationMs": 7681,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vida, cualquiera de las dos, sea eh\nherramientas y experiencia para poder",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 961360,
+    "dDurationMs": 7120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "afrontar cualquier eh\ncualquier desafío que se le presente en",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 966120,
+    "dDurationMs": 8159,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "su próxima oportunidad. Eh, realmente me\nparece que en Verer los, o sea, los",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 971800,
+    "dDurationMs": 7039,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "formamos no porque seamos superestrictos\ny eso, sino porque eh hay muchas",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 976600,
+    "dDurationMs": 6919,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "oportunidades de aprendizaje.\nEntonces, creo yo que con que se sientan",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 980880,
+    "dDurationMs": 8199,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "seguros que en su próximo trabajo van a\na sobresalir o por lo menos no se van a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 986399,
+    "dDurationMs": 7401,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sentir eh\nexcedidos con lo que les soliciten.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 991519,
+    "dDurationMs": 7120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Siento yo que con eso ya vamos ganados.\nPor otro lado, creo que me gustaría que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 996279,
+    "dDurationMs": 7240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "se llevaran\ne",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1000480,
+    "dDurationMs": 8680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "seguridad, o sea, que que hayan que que\ncrean en ellos mismos que eso que han",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1006279,
+    "dDurationMs": 6920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "aprendido acá pues se se pueda\ntransmitir en otros.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1011240,
+    "dDurationMs": 6360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "remontándonos un poquito a tus inicios y\na tus cimientos de todo lo que te hace",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1015360,
+    "dDurationMs": 7599,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ser hoy en día, todos tus logros y tus\nfracasos, eh, ¿qué es algo que ahorita",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1021160,
+    "dDurationMs": 3679,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "si pudieras decirle a la Margarita del\nfuturo le dirías?",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1024199,
+    "dDurationMs": 3600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Del pasado.\nDel pasado",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 1025640,
+    "dDurationMs": 9319,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "o es futuro. También puedo decirle a la\na la de allá. Eh, a la del pasado me",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 1030679,
+    "dDurationMs": 4280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "gustaría decirle que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1035480,
+    "dDurationMs": 7760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "los cartones no le van a dar la\nfelicidad,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1039039,
+    "dDurationMs": 10681,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que más eh un proyecto que se que que\nque va a a tener una visión fuerte, va a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1047760,
+    "dDurationMs": 7000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ser lo que le va a generar colenitud en\nsu vida. eh y que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1055200,
+    "dDurationMs": 6839,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y que estaba en lo correcto cuando\nsentía que una buena pareja iba a ser un",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1061039,
+    "dDurationMs": 4520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "buen proyecto de vida.\nNos hablas mucho sobre el hecho de que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1063880,
+    "dDurationMs": 4840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tu pareja ha sido como alguien muy\nimportante",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1066640,
+    "dDurationMs": 6960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y pues yo considero que ha sido verdad\nla más enamorada",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 1071640,
+    "dDurationMs": 5800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de que pues obviamente con las personas\ncon las que te rodeas es importante para",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 1075640,
+    "dDurationMs": 5600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a quién quieres llegar a ser o a dónde\nquieres llegar. ¿Qué sientes que es lo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1079880,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "más importante que te ha dejado esa\npersona en tu vida? Aparte de todo el",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1083840,
+    "dDurationMs": 5719,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "apoyo que ha hecho que tú te mantengas\nestado",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1087520,
+    "dDurationMs": 8000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Yo creo que él cree más en mí de lo que\nyo creo en mí y eso es muy importante",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 1091559,
+    "dDurationMs": 9321,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "para mí. O sea, como que eh sentir que\nél ve el valor que yo le que yo le que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1098799,
+    "dDurationMs": 6081,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "yo le brindo o que le traigo a la\nempresa o a nuestra familia, para mí eso",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1103080,
+    "dDurationMs": 8040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "es supervalioso realmente. Entonces, yo\ncreo que eh una mujer crece también",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1108799,
+    "dDurationMs": 8880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "porque su pareja se lo permite o no se\nlo permite como permiso, pero pues",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1114400,
+    "dDurationMs": 7759,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sí eh le da esa seguridad de que pues\nuna mujer puede lograrlo,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1119880,
+    "dDurationMs": 9000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "porque hay muchos hombres que pues\nretienen o que eh no sé, por su",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1126200,
+    "dDurationMs": 7440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "inseguridad no brindan esa seguridad a a\nlas mujeres y siento que las mujeres",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1130720,
+    "dDurationMs": 7959,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cuando estamos muy bien respaldadas\ndamos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1134919,
+    "dDurationMs": 8721,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "un 200% de lo que podemos dar realmente.\nEs muy lindo escuchar eso y el hecho de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1140960,
+    "dDurationMs": 8320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que puedes encontrar una persona buena\npara tu vida te puede ayudar a forjar un",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1147000,
+    "dDurationMs": 9360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "futuro y una meta y una empresa que de\ncierta manera llevan juntos tan grandem",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1153120,
+    "dDurationMs": 7439,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y pues con todo esto, ¿qué habilidades\nhas logrado aprender tanto de tu pareja",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 1158559,
+    "dDurationMs": 9281,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "como de qué vida como general que te han\nayudado a sobrellevar estrés y demás?",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1164440,
+    "dDurationMs": 8680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "emocionales o de manera.\nBueno, yo creo que en esta sí",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1174039,
+    "dDurationMs": 7561,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "creo que conocerse como tanto sus\nfortalezas como sus debilidades ha sido",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1179440,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "como nuestro éxito. Y hablo de los dos\nporque realmente creo que los dos hemos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1183159,
+    "dDurationMs": 8201,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "construido algo muy chévere.\nSi bien yo conozco toda la parte técnica",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1188559,
+    "dDurationMs": 9521,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y toda la parte operativa de la empresa,\nél pues es el que ha tenido la visión de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1195960,
+    "dDurationMs": 5199,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cómo podemos crecer el negocio. Y él me\ndice, \"Oye, creo que acá hay una",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1199400,
+    "dDurationMs": 5759,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "oportunidad. ¿Qué te parece? Podemos\nhacerle.\" yo, \"Sí, podemos ta. Creo que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1203159,
+    "dDurationMs": 9081,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "podemos hacerlo por este lado, pero creo\nque saber cuáles son las fortalezas de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1207880,
+    "dDurationMs": 7919,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "uno y del otro eh es lo que nos permite\nllegar hasta donde hemos llegado y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1213919,
+    "dDurationMs": 6521,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "construir como hemos construido.\" O sea,\nnosotros eh mucha gente nos dice como,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1219039,
+    "dDurationMs": 5241,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\"Pero, ¿por qué siempre se van los dos a\nlas reuniones?\" nosotros pues porque",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1222320,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "somos un buen equipo, somos un muy buen\nequipo. Eh, él es muy comercial, él es",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1227000,
+    "dDurationMs": 6120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "muy administrativo, él tiene los números\nen la cabeza supercaros y pues yo doy",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1231280,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "toda la parte técnica de soporte.\nEntonces sentimos que cuando vamos los",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1235120,
+    "dDurationMs": 6520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "dos vamos más seguros tanto con lo que\nvamos a proponer como con nosotros",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1239440,
+    "dDurationMs": 7040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mismos, porque sabemos que tenemos como\nel apoyo del otro. Entonces creo que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1244919,
+    "dDurationMs": 5041,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "eso, conocer las fortalezas y las\ndebilidades del otro y de cada uno nos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1248799,
+    "dDurationMs": 6201,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ha ayudado a construir lo que hemos\nconstruido. Siento que es como muy",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1252600,
+    "dDurationMs": 7760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "impresionante o alo que a mí me ha\nimpactado mucho el hecho de que pues sí",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1257440,
+    "dDurationMs": 7320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "uno ve a las personas, a los líderes, a\nlos empresarios y uno dice, \"Son muy",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1262440,
+    "dDurationMs": 6960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "grandes y de seguro les costó mucho\nllegar hasta allá, pero uno nunca llega",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1266600,
+    "dDurationMs": 8160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a tener la oportunidad de preguntar\nprecisamente, de sentarse y de decir,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1272679,
+    "dDurationMs": 7641,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "eh, ¿qué te llevó a llegar hasta acá?\n¿Cómo te sentiste en el proceso? y que",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 1277400,
+    "dDurationMs": 7639,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "es muy humano, como que es algo que a\nveces hace falta",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1281960,
+    "dDurationMs": 4880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de sentir como esa conexión de que es\nposible. Sí.",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 1285919,
+    "dDurationMs": 6120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Mm. Sí.\nTú actualmente",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 1289000,
+    "dDurationMs": 7880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "con qué palabra te llegarías como a\ndefinir, o sea, con qué palabra",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1293799,
+    "dDurationMs": 8000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "llegarías a definir tu vida? O sea, paz.\nEh, ¿cómo la llegarías a definir?",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1300159,
+    "dDurationMs": 10201,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Yo siento que la palabra resiliencia\nestá super eh, ¿cómo se dice?",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 1306400,
+    "dDurationMs": 7639,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sobrevalorada y superutilizada. Sí,\nexacto. Yo realmente creo que si",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1312520,
+    "dDurationMs": 5920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "resiliencia podría ser una de mis\npalabras",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1315960,
+    "dDurationMs": 7240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "para definirme, no porque yo sienta que\nhe pasado por muchas cosas malas y he",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1320919,
+    "dDurationMs": 9120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "podido salir de ellas, sino porque\nsiento que he permanecido a pesar de de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1328279,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "las\nbarreras que se han puesto, o sea, lo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1332159,
+    "dDurationMs": 5961,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que estaba comentando al inicio, cuando\nse me venció mi visa de trabajo y me",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1335559,
+    "dDurationMs": 6201,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "devolví, yo ya había creado una empresa\nen Estados Unidos y ya estaba eh",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1340480,
+    "dDurationMs": 4960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "trabajando trabajando con ella, ya tenía\nun cliente y cuando me tocó devolverme",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1344120,
+    "dDurationMs": 3960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "fue como, \"Okay, creo que tengo que\nvolver a empezar y eso, ¿cómo puedo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1346720,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "volver a hacerlo?\" O sea, como volver a\nsalir de ese de ese inicio, porque",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1350360,
+    "dDurationMs": 7080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "además pues iniciar la empresa es\ndifícil, o sea, son costos que uno tiene",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1355159,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que asumir, son eh procesos que uno\ntiene que asumir y además pues el",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1358760,
+    "dDurationMs": 8560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "trabajo que uno tiene que hacer.\nEntonces creo yo que eh resiliencia",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1365080,
+    "dDurationMs": 6599,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "podría ser una.\n¿Qué fue lo que pensaste ese día en el",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1369880,
+    "dDurationMs": 4039,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cual te tuviste que regresar y te tocó\nempezar de cero?",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1372480,
+    "dDurationMs": 5679,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Ay, no, fue horrible. No, yo lloré\nmuchísimo. Lloré mucho, mucho, mucho",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 1376480,
+    "dDurationMs": 7840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cuando me dijeron que me han negado la\nvisa de trabajo. Eh, y cuando llegué",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1381720,
+    "dDurationMs": 7559,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "acá, pues afortunadamente podía seguir\ntrabajando con la empresa de allá.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1386200,
+    "dDurationMs": 9839,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Entonces, mi cliente quiso mantener esa\nrelación. E",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1392320,
+    "dDurationMs": 7680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "eso pues permitió que que el el inicio\naquí fuera un poco más fácil. Eh, la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1398279,
+    "dDurationMs": 6161,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "empresa de allá tocó cerrarla, nos pues\nme tocó abrir acá una nueva. Eh, y en",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1403159,
+    "dDurationMs": 6561,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ese momento pues fue que conocí a\nJoaquín, entonces creo que eso también",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1406760,
+    "dDurationMs": 5960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ayudó a que estuviera un poco motivada.\nÉl pues me decía, \"Bueno, dale, tú",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1411320,
+    "dDurationMs": 4680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "puedes, tú puedes, tú puedes arrancar\notra vez. Mira que el cliente igual",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1414559,
+    "dDurationMs": 9041,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "quiere seguir trabajando contigo, ta ta\nta.\" Y ya pues después fue que eh el",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1420320,
+    "dDurationMs": 10280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vino a ser parte de el proceso de del\ncrecimiento de la empresa. E pero yo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1427440,
+    "dDurationMs": 5920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "creo que fue\notra oportunidad que se me presentó y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1432039,
+    "dDurationMs": 4321,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que me dejé pasar porque como que el\ncliente seguí quería seguir trabajando",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1434760,
+    "dDurationMs": 5960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "conmigo y habían unos inconvenientes,\npues porque desde Colombia el cliente",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1438559,
+    "dDurationMs": 5401,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "estaba en Estados Unidos, me tocaba\nhacer papeleo con los bancos, los bancos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1442320,
+    "dDurationMs": 6920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "me pedían 3 años de experiencia para\npoderme, o sea, era eran como como unas",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1447159,
+    "dDurationMs": 8520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "trabas que se iban poniendo ahí en en el\nproceso, pero creo yo que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1453200,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "no las ganas las ganas de lo que uno\ncomo que más lo impulsan.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1457640,
+    "dDurationMs": 5960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Teniendo en cuenta todo esto que nos has\ndicho de que los bancos supieran muchas",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 1460360,
+    "dDurationMs": 7520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cosas, hoy en día es demasiado difícil\nel hecho de emprender y más aún así",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1466240,
+    "dDurationMs": 5200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "siendo joven, pues por toda la\ncompetencia que hay en el mercado y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1469200,
+    "dDurationMs": 6719,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "demás. ¿Tú qué le dirías tanto a los\nemprendedores que nos están viendo,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1473000,
+    "dDurationMs": 7320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "personas del exterior, personas externas\na campus, como a los campers, teniendo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1478159,
+    "dDurationMs": 6281,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "en cuenta de que muchos son niños que\nacaban de salir del colegio, acaban de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1481960,
+    "dDurationMs": 7599,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "entrar, tienen muchas expectativas, pero\nno saben cómo alcanzarlas para poder",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1487240,
+    "dDurationMs": 6960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "aterrizar un poquito esos sueños.\nBueno, yo realmente",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1491840,
+    "dDurationMs": 5480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a todos los que quieren emprender\nsiempre les digo, tengan primero la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1495880,
+    "dDurationMs": 7320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "experiencia del trabajo. ¿Por qué? Pues\nporque uno necesita esa experiencia de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1500559,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "eh ya sea\nde manejo de personal, ya sea de la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1505320,
+    "dDurationMs": 4440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "parte administrativa, ya sea de la parte\nlegal, o sea, van a ser muchas cosas que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1508480,
+    "dDurationMs": 5480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tú vas a tener que ir aprendiendo cuando\neres emprendedor y empezarlas sin",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1512000,
+    "dDurationMs": 5799,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "experiencia te va a costar un poco más.\nEntonces, para mí siempre, siempre y se",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1515799,
+    "dDurationMs": 4801,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "lo digo a mis hijos, tengan primero la\nexperiencia del trabajo, o sea, vayan,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1519399,
+    "dDurationMs": 4841,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "trabajen en una empresa, en una\ncorporación, ojalá en una empresa grande",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1522399,
+    "dDurationMs": 5520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "en donde los procesos ya estén definidos\npara que pues puedas aprender de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1525799,
+    "dDurationMs": 6360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "procesos también. y te quede mucho más\nfácil implementar tus tus propios",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1530120,
+    "dDurationMs": 8679,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "procesos cuando quieras emprender. Pero\npara mí eh 5 años de experiencia en en",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1536000,
+    "dDurationMs": 7600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "corporaciones o en el mercado laboral y\nluego siempre en finanzas, por favor.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1543760,
+    "dDurationMs": 6680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Bueno, Margarita, muchísimas gracias por\nestar aquí en este espacio, por",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1547799,
+    "dDurationMs": 8801,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "compartirnos más el cómo eres tú como\npersona, el cómo es tan importante tener",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1553440,
+    "dDurationMs": 5920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "esa parte humana y muchas gracias por\nestar en Day One Cup,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1557799,
+    "dDurationMs": 6841,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "¿no? Gracias a ustedes por la invitación\nde nuevo y espero volver a estar para",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 1561480,
+    "dDurationMs": 7160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "acá en otra oportunidad con otro tema.\nMuchas gracias a todos ustedes por",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1566840,
+    "dDurationMs": 6319,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vernos, por estar pendientes del\npodcast. Eh, vamos a estar subiendo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1571240,
+    "dDurationMs": 7840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "capítulos nuevos cada 15 días con\ndiferentes tipos de invitados muy",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1576120,
+    "dDurationMs": 10919,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "especiales, tanto empresarios como\ntocando temas que se salen un poquito de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1583480,
+    "dDurationMs": 7400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "lo usual, pero que son muy interesantes.\nNo olviden seguirnos en todas nuestras",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1588440,
+    "dDurationMs": 7599,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "redes sociales, suscribirse y estar muy\npendientes por todos lados. Gracias.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1593039,
+    "dDurationMs": 3000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Gracias.",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  } ]
+}

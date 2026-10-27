@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "whatsapp": {
+      "command": "C:\\Users\\tomas\\AppData\\Local\\Python\\pythoncore-3.14-64\\python.exe",
+      "args": [
+        "C:\\Users\\tomas\\second-brain\\automation\\whatsapp-mcp\\whatsapp-mcp-server\\main.py"
+      ],
+      "env": {
+        "WHATSAPP_API_BASE_URL": "http://127.0.0.1:8085/api",
+        "PYTHONIOENCODING": "utf-8"
+      }
+    }
+  }
+}

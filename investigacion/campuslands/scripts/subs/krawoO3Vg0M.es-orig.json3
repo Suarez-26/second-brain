@@ -1,0 +1,3402 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  }, {
+    "mhModeHint": 2,
+    "juJustifCode": 0,
+    "sdScrollDir": 3
+  } ],
+  "wpWinPositions": [ {
+  
+  }, {
+    "apPoint": 6,
+    "ahHorPos": 20,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  } ],
+  "events": [ {
+    "tStartMs": 0,
+    "id": 1,
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1599,
+    "dDurationMs": 7561,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Diego tarazona fundador campus Lan con\nsu visión única y su pasión por la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 6680,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tecnología Diego Ha logrado crear un\nprograma innovador que conecta la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 11160,
+    "dDurationMs": 6360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "formación de programadores talentosos\ncon oportunidades laborales su historia",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 15480,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "inspiradora demuestra que los fracasos\nson parte del proceso de crecimiento y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 19720,
+    "dDurationMs": 7319,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que con determinación y perseverancia se\npueden superar los obstáculos Y cumplir",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 24400,
+    "dDurationMs": 7320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "los sueños Diego tarazona es nuestro\núltimo invitado esta noche enfoca",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 32120,
+    "dDurationMs": 9599,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "bucaramanga Eh bueno arranco\npresentándome quién soy eh yo me vino",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 38079,
+    "dDurationMs": 10681,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "como un emprendedor modelo 82 veo acá\nmuchos de mi modelo también entonces eso",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 43760,
+    "dDurationMs": 10360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "me me me gusta eh padre esposo\nEh Tuve la oportunidad mis primeros años",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 52559,
+    "dDurationMs": 6680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "soy de acá de bucaramanga tuve la\noportunidad mis primeros años de salir",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 56879,
+    "dDurationMs": 7680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de las unidades tecnológicas y a los 21\naños entr una compañía acá santanderiana",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 61480,
+    "dDurationMs": 8520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "en la cual estuve 15 o 16 años entonces\nla primera etapa de mi vida fui empleado",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 66720,
+    "dDurationMs": 7000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "casi 16 años y y fue la primera gran\nparte de mi vida porque en esta compañía",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 72200,
+    "dDurationMs": 6279,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tuve la oportunidad de crecer como\npersona como profesional eh",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 76119,
+    "dDurationMs": 7521,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "desarrollarme formarme Porque arranqué\nsiendo tecnólogo en esta compañía",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 80520,
+    "dDurationMs": 8720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "terminé siendo gerente y en esa primera\ngran etapa Eh pues vivir una etapa eh",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 87000,
+    "dDurationMs": 9560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "año 2000 en adelante del proceso de\nformación ao año 2003 de de desde que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 92920,
+    "dDurationMs": 10239,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "empecé a trabajar y me formé me formé y\ntrabajé en paralelo pero la parte bonita",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 99159,
+    "dDurationMs": 9521,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de esta primeros 15 o 16 años es que en\nesta compañía aprendí a emprender siendo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 106119,
+    "dDurationMs": 7280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "empleado tuve la oportunidad de tener un\nmentor un eh el fundador de esta",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 111840,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "compañía fue un mentor Para mí fue un\npadre que me enseñó que para emprender",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 116399,
+    "dDurationMs": 8241,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "no se tenía que tener empresa sino que\ntenía que eh asumir",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 122200,
+    "dDurationMs": 7919,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "responsabilidades el enterrar el no se\npuede cero excusas en la vida y esos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 128080,
+    "dDurationMs": 7120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "primeros 15 o 16 años fueron parte\ndigamos de de esa primera gran escuela y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 133760,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "segundo esta compañía me dio la\noportunidad de estar fuera del país gran",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 136680,
+    "dDurationMs": 9160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "parte eh de mi vida casi 12 años\neh abriendo mercados y aprendiendo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 143440,
+    "dDurationMs": 7200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Entonces eso fue digamos una primera\ngran etapa y ahí decía yo pues ya 15 16",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 149160,
+    "dDurationMs": 7760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "años de experiencia\nlaboral de de emprender con la plata de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 153319,
+    "dDurationMs": 8441,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "otro con el riesgo de otro eh de decir\nNo es que no toman decisiones y no",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 159760,
+    "dDurationMs": 6440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "asumen riesgos pero cuando Todo está muy\nsencillo muy fácil pero",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 163560,
+    "dDurationMs": 8560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pues decir eso con la plata otro es muy\nfácil no entonces ahí digo voy a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 168080,
+    "dDurationMs": 10920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "emprender y decido en el año\n2016 emprender y eso me dio la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 175599,
+    "dDurationMs": 8000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "posibilidad de de decir y y traigo esta\nprimera consulta es qué queríamos hacer",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 181280,
+    "dDurationMs": 7760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "con esa gran experiencia empezamos a\nemprender nac una compañía que que llama",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 186000,
+    "dDurationMs": 9360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "gbp o grupo bien pensado que de compañía\nPues nada era una otra persona y yo eh",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 193159,
+    "dDurationMs": 8121,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "en una habitación 3 por TR Entonces en\neste proceso desde el 2016 junio primero",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 198519,
+    "dDurationMs": 8241,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "del 2016 empezamos la carrera en\nemprendimiento eh junto a Andrés",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 203680,
+    "dDurationMs": 9400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "lisarazo eh quien me ha acompañado desde\nel año 2011 primero fuimos compañeros de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 209239,
+    "dDurationMs": 10200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "trabajo y luego fuimos emprendedores y\nen el 2020 teníamos eh eh esta",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 217480,
+    "dDurationMs": 7399,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "estructura teníamos digamos ya habíamos\nvenido creciendo y teníamos veníamos del",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 222239,
+    "dDurationMs": 8481,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mundo tradicional al mundo tecnológico\nal mundo emprendedor y eh lo primero que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 228599,
+    "dDurationMs": 6041,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "decidimos Pues llega la pandemia una\nsorpresa para todos pero ya teníamos una",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 233200,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "idea de qué queríamos y queríamos\nconstruir un holding empresarial eh",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 237920,
+    "dDurationMs": 5720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "donde la tecnología fuera digamos\ntransar a ese holding y en ese proceso",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 242079,
+    "dDurationMs": 5321,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "todas las personas que venían\ndesarrollándose con nosotros fueran",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 245720,
+    "dDurationMs": 6200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "parte de ese holding y fueran esos\nfuturos emprendedores así como yo tuve",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 249760,
+    "dDurationMs": 6719,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "la oportunidad de tener un mentor que me\ndio la oportunidad de emprender Pues que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 255000,
+    "dDurationMs": 6479,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "esas personas que venían también detrás\nde nosotros empujando",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 258359,
+    "dDurationMs": 10081,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "eh fueran esos nuevos emprendedores\nentonces arrancamos con con un digamos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 264560,
+    "dDurationMs": 8280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "en ese en ese en ese querer hacer acá\nempezamos a arriesgar arnos más entonces",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 270680,
+    "dDurationMs": 6760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "empezamos a invertir en muchas cositas\npequeñas que se volvieron grandes y acá",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 275440,
+    "dDurationMs": 6920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ya teníamos una un pequeño holding\nempresarial de de emprendimientos unas",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 280199,
+    "dDurationMs": 7601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "empresas más sólidas que que otras\nentonces con con el primer con la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 285520,
+    "dDurationMs": 7959,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "primera experiencia me siento muy muy\nrelacionado porque acá yo no me metí con",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 289960,
+    "dDurationMs": 7280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "dos sino fui más loco y me arriesgué con\nmuchas más cosas que esa es parte del",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 295479,
+    "dDurationMs": 7241,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "aprendizaje\neh qué salió mal pues",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 300280,
+    "dDurationMs": 7600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "lo resumo en tres o sea es decir\nbásicamente para para emprender se",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 305759,
+    "dDurationMs": 7601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "requieren muchas cosas pero hay tres\ncosas que yo creo fundamentales primero",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 311039,
+    "dDurationMs": 8761,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "un equipo un equipo capaz de hacer\nposible ese sueño esa idea y al",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 316360,
+    "dDurationMs": 7760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "emprender muchos muchas muchas cosas\npues se requieran muchos equipos ya no",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 322000,
+    "dDurationMs": 8160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "era una persona sino era un equipo en\ncada emprendimiento entonces",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 327000,
+    "dDurationMs": 6800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "eh qué salió mal en esa primera parte es\nque los equipos se quedaron cortos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 332000,
+    "dDurationMs": 8120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "porque era un emprendedor en cada equipo\nempujando pero ese esa persona y acá",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 337319,
+    "dDurationMs": 8041,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hago un tema y es yo había logrado\nconstruir lo que había construido con un",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 342520,
+    "dDurationMs": 8040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "equipo de trabajo así como mi mentor\ntenía un equipo y yo hacía parte de ese",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 347039,
+    "dDurationMs": 8801,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "equipo luego yo a lo largo de estos años\nconstruí desarrollé y formé un equipo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 353400,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que venía conmigo hace más de 10 años y\nque en el emprendimiento venía se pasó y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 357919,
+    "dDurationMs": 7441,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "se fue conmigo\npero cuando decido arrancar varias cosas",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 362520,
+    "dDurationMs": 7720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "al tiempo se disuelve mi equipo de\ntrabajo y se va a diferentes",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 368560,
+    "dDurationMs": 7479,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "emprendimientos y cada emprendimiento\nqueda sin equipo Entonces ellos empiezan",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 372960,
+    "dDurationMs": 7600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "en un proceso al igual que yo ya después\na los 40 años quedarse en equipo es muy",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 378400,
+    "dDurationMs": 7480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "[ __ ] porque volver otra vez a formar\nequipo a los 40 nada que hacer Entonces",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 383759,
+    "dDurationMs": 8361,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "quedo yo solo pero también ellos quedan\nsolos en sus emprendimientos Entonces el",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 388919,
+    "dDurationMs": 7241,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "el el el que salió mal es que formar\nesos equipos En cada uno de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 393360,
+    "dDurationMs": 8559,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "emprendimientos fue muy complejo y acá\nel primer digamos consejo es para",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 399240,
+    "dDurationMs": 7280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "emprender se requiere un equipo y en ese\nequipo hay unos socios y en ese en ese",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 404639,
+    "dDurationMs": 7081,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "equipo aparte de Los Socios hay un\nequipo de trabajo que va detrás",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 408639,
+    "dDurationMs": 9481,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "creyéndole a esos socios y que sin ser\nsocios van a ser los futuros socios lo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 415120,
+    "dDurationMs": 7440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "segundo es capital claramente Pues el\nnegocio que más producía os acá también",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 420599,
+    "dDurationMs": 6641,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "entonces\ndescapitaliza mucho por soportar otros",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 425800,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sueños o otras\nideas pero pues es lo segundo que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 429479,
+    "dDurationMs": 7681,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "requiere un emprendimiento capital eso o\nsea es decir arrancar sin plata es",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 433520,
+    "dDurationMs": 7000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "imposible hoy en el 2024 es imposible Y\npor qué Porque es que usted no su",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 438919,
+    "dDurationMs": 6641,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "emprendimiento no compite con el\nemprendimiento de la esquina compite con",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 443599,
+    "dDurationMs": 7241,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "el emprendimiento que nació en Japón y\nya está acá entonces la competencia es",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 448560,
+    "dDurationMs": 8840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "muy global Entonces se requiere capital\nentonces cometimos errores de arrancar",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 454800,
+    "dDurationMs": 7480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "proyectos eh donde decíamos que no\ngastar 50 millones nuestro presupuesto y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 459680,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "nos gastamos 200 lo mismo que en la\nprimera",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 463319,
+    "dDurationMs": 9600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "eh sacar plata de otros proyectos que se\nlban para meterle a estos otros riesgos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 469720,
+    "dDurationMs": 8680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "entonces pues se descapitaliza todo\nentonces lo segundo fue eh la proyección",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 476479,
+    "dDurationMs": 8000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "el presupuesto la consecución de ese\ncapital que s mal pero ese es otro punto",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 481720,
+    "dDurationMs": 8240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "importante y es el capital y lo tercero\nes el",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 485440,
+    "dDurationMs": 8719,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mercado que si usted consigue el capital\nconsigue el equipo pero no tiene Cómo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 492319,
+    "dDurationMs": 5481,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "llegar al mercado con la solución que\nusted está llegando Pues nada que hacer",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 495800,
+    "dDurationMs": 7079,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y los emprendimientos mueren por mercado\npor ventas no mueren por producto y y y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 501039,
+    "dDurationMs": 7361,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "eso lo aprendí también en en en mi\nprimer experiencia laboral y es que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 506400,
+    "dDurationMs": 7639,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "nosotros nuestra competencia era una una\ncompañía alemana de 100 años y yo iba a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 511520,
+    "dDurationMs": 7480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "México a decir que una compañía en Girón\nSantander que no sabían que era Girón ni",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 516760,
+    "dDurationMs": 8120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "saben que existían o bucaramanga que no\nsaben nombrarlo era mejor que una",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 521200,
+    "dDurationMs": 9360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "empresa de 100 años en Alemania Entonces\nnosotros salimos a comernos mercado sin",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 527040,
+    "dDurationMs": 7799,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "producto el producto nunca iba a estar a\nla medida de esta empresa alemana Y si",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 532959,
+    "dDurationMs": 6601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "yo me ponía primero desarrollar el\nproducto para luego Buscar el mercado",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 536920,
+    "dDurationMs": 7039,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Pues eso nunca iba a pasar o sea me\nendeudaban luego hacía el producto y el",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 541839,
+    "dDurationMs": 7961,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "producto nunca iba a estar listo\nEntonces estos emprendimientos también",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 546399,
+    "dDurationMs": 8440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "nacen con con con un mercado creyente\nque es fácil de conquistar y y y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 552720,
+    "dDurationMs": 7600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "efectivamente No fue fácil llegar a esos\nmercados Entonces qué salió mal pues yo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 557839,
+    "dDurationMs": 6761,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "creo que los tres Pilares de de de\ncuando uno arranca prender el el equipo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 562920,
+    "dDurationMs": 10280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que iba a ser posible\neh la creación de estos eh proyectos dos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 569399,
+    "dDurationMs": 8841,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "eh descapitalizar Lo que teníamos y nos\nquedamos cortos en las inversiones y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 575519,
+    "dDurationMs": 6801,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tres fue nos concentramos primero en\ncrear producto y luego conquistar",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 580000,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mercado cuando inclusive yo sabiendo que\neso pues eso no era así O sea yo soy un",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 584519,
+    "dDurationMs": 7921,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "fiel creyente esto porque lo he hecho\ntoda la vida y y acá pues pasó algo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 590000,
+    "dDurationMs": 7480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "similar estos estos proyectos eran muy\nbuenos en la creación del producto pero",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 594519,
+    "dDurationMs": 7121,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "no eran O sea no tenían las personas\ndentro del equipo que se comieran en",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 599399,
+    "dDurationMs": 8161,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mercado entonces fue una gran\nexperiencia digamos eh dura pero",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 604519,
+    "dDurationMs": 9121,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "multiplicada por por ocho proyectos al\ntiempo entonces fue ha sido",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 611279,
+    "dDurationMs": 7560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "frustrante enfrentarse a esas ocho cosas\nal tiempo y y en todo sentido porque",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 616279,
+    "dDurationMs": 6120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "llega un punto que todo empieza a ir mal\nlos que está los proyectos que están",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 620240,
+    "dDurationMs": 7159,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "bien al ser los papás de los demás pues\nempiezan también a ir mal Entonces qué",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 625120,
+    "dDurationMs": 5159,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "salió mal nada más y nada menos que esos\ntres",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 628320,
+    "dDurationMs": 8720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "conceptos\neh qué aprendimos pues",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 633880,
+    "dDurationMs": 10280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que emprender emprender yo no puedo\ndecir levantarme hoy y decir que que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 640920,
+    "dDurationMs": 8200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que que voy a emprender Y ya y sigo\nsiendo lo mismo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 646480,
+    "dDurationMs": 8200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "entonces para emprender hay que saber\nque no se puede ser la misma persona o",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 651839,
+    "dDurationMs": 7680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "seguir haciendo lo mismo el emprendedor\nlo primero que tiene que cambiar y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 657160,
+    "dDurationMs": 6840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "empezar a estructurar una nueva vida y\nNosotros hemos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 661120,
+    "dDurationMs": 7839,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "estructurado como unos pasos para\nemprender basado en la misma experiencia",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 666200,
+    "dDurationMs": 8160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de todos nuestros proyectos Entonces ese\nprimer paso llamamos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 670760,
+    "dDurationMs": 8360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "eh es que no alcanzó a ver cero cargas y\nel cero cargas es que nunca hay una edad",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 676639,
+    "dDurationMs": 7921,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ideal para emprender si se emprende a\nlos 20 no se tiene deudas se requiere se",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 682480,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vive con un millón de pesos porque se\nvive con los papás pero no se tiene",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 687160,
+    "dDurationMs": 7720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "conocimiento no se tiene experiencia no\nse tiene las relaciones y si emprende a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 691320,
+    "dDurationMs": 9199,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "los 40 pues ya tiene está casado hijos\ndeudas le debe a todo el mundo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 697639,
+    "dDurationMs": 8161,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Entonces nunca claro tiene conocimiento\ntiene experiencia tiene relaciones pero",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 703240,
+    "dDurationMs": 6920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pues la carga es mayor Entonces cuando\nyo decidí emprender junto con mi socio",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 708160,
+    "dDurationMs": 7160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "nosotros veníamos una compañía donde\nganamos bien yo era aderente y pasé a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 712839,
+    "dDurationMs": 5401,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ganar cinco veces menos pero si yo\nhubiera traído mi carga a ese momento y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 717560,
+    "dDurationMs": 5000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "yo\nno no hubiera sido capaz de emprender y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 720360,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Qué es mi carga no es que yo necesito 20\nmillones mensuales para yo vivir y si se",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 724959,
+    "dDurationMs": 7041,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "lo pongo a mi emprendimiento pues mi\nemprendimiento de arranque yanita 240",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 729000,
+    "dDurationMs": 8000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "los 20 míos por 12 meses 240 más todo lo\notro Entonces es una carrera contra el",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 735199,
+    "dDurationMs": 6121,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tiempo entonces esa carga es\ndirectamente proporcional al tiempo que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 738880,
+    "dDurationMs": 7519,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "usted tiene para lograr el objetivo\nEntonces cuando decides emprender hay",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 743839,
+    "dDurationMs": 5961,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que o sea a menos que tenga toda la\nplata del",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 747279,
+    "dDurationMs": 8881,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mundo arrancar con la menor carga\nposible porque esa carga te va a hacer",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 753160,
+    "dDurationMs": 7280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "digamos Rendirse más rápido por qué\nPorque la gasolina se acaba más rápido y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 757800,
+    "dDurationMs": 8640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "la presión es mayor Eh entonces eso\ntambién digamos lo aprendimos lo segundo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 763279,
+    "dDurationMs": 6800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "eh una carrera contra el tiempo pues\ndefinitivamente usted está en una",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 768399,
+    "dDurationMs": 7521,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "carrera contra el tiempo entre Buscar el\nresultado y tener los recursos y en esa",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 773079,
+    "dDurationMs": 10081,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Carrera contra el tiempo juega un papel\nfundamental en tener equipo porque uno",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 779760,
+    "dDurationMs": 5360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cuando arranca emprender y es un consejo\nque le doy a mucho de los emprendedores",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 784519,
+    "dDurationMs": 6440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que\nhoy se acercan emprender hoy solo es muy",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 788360,
+    "dDurationMs": 8839,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "complejo hoy hoy hoy es muy difícil\nporque cuando uno arranca",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 792760,
+    "dDurationMs": 10560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "emprender pues tiene que ser abogado\njurídico financiero contador el que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 800680,
+    "dDurationMs": 6719,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "recluta el que contrata el que hace el\nproducto el que lo vende entonces Y por",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 805880,
+    "dDurationMs": 5800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "qué le toca hacerlo todo a uno porque no\ntiene plata para contratar una persona",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 808760,
+    "dDurationMs": 8879,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "para cada cargo Entonces sí es\nimportante tener un equipo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 814680,
+    "dDurationMs": 7519,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "porque tú estás en una carrera contra\nreloj una carrera contratiempo Y si",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 819880,
+    "dDurationMs": 6759,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "usted no si usted logra resultados\npuedes conseguir plata pero si si pasa",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 825240,
+    "dDurationMs": 5200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "el tiempo y se gasta la plata y el\nresultado no mejora Pues no hay plata",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 828920,
+    "dDurationMs": 4960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "entonces usted está en una carrera\ncontratiempo y ahí es donde el equipo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 831759,
+    "dDurationMs": 5721,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sebe viir esa persona que está\nvisualizando y están viendo el tiempo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 835440,
+    "dDurationMs": 5959,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "adelante y el otro que está siendo capaz\nde o sea el que trae la plata y el que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 839279,
+    "dDurationMs": 6961,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "logra el resultado porque las dos cosas\nson imposibles eh de desarrollar lo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 844079,
+    "dDurationMs": 7320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tercero que aprendimos es nuevos hábitos\nde vida",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 848399,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "eh ser empleado es fabuloso yo fui 16\naños y eso me me hizo qui quien me hizo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 853720,
+    "dDurationMs": 6559,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pero los hábitos tienen que ser\ndiferentes el del emprendedor Por qué",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 857920,
+    "dDurationMs": 7080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Porque en esos en esos hábitos en unos\nhábitos todo cambia O sea no puede",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 862680,
+    "dDurationMs": 6519,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "seguir siendo el mismo Diego trasona que\nse levantaba sabiendo que el 15 y el 30",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 866759,
+    "dDurationMs": 8241,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "le llegaba su salario\ndiferente acá y y los primeros hábitos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 871800,
+    "dDurationMs": 8399,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "yo los resumo en tres O sea primero el\nel el emprendedor tiene que saber que el",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 877959,
+    "dDurationMs": 7481,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "emprendimiento es él el día que él se\nmuera se acabó el emprendimiento",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 882839,
+    "dDurationMs": 8601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Entonces lo primero que tiene que hacer\nen en las mañanas arrancar es a cuidarse",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 888959,
+    "dDurationMs": 7761,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "porque uno nunca de cuida uno uno nunca\nhace ejercicio come mal pero si uno",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 893759,
+    "dDurationMs": 6760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "muere se acabó todo y a uno le dice no\ncuídese Y eso Y eso lo hablamos hace",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 898519,
+    "dDurationMs": 7641,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "poquito unos\nminutos con con con Sandra y y pues es",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 904639,
+    "dDurationMs": 5440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que uno nunca no le queda tiempo o sea\nqué hago hago ejercicio o busco la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 907920,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "factura pero eso es un primer tema que\ntienes que arrancar porque tú eres el",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 912199,
+    "dDurationMs": 6841,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "emprendimiento segundo A las 6 de la\nmañana tienes que estar estudiando",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 916199,
+    "dDurationMs": 7121,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "porque como les digo Tú tienes que ser\njurídico abogado contador y demás",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 921320,
+    "dDurationMs": 6639,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "entonces tú tienes todos los días que\naprender por lo menos 2 horas y si usted",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 925199,
+    "dDurationMs": 7041,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "no se invierte 2 horas en ti todos los\ndías usted no es capaz con su",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 930920,
+    "dDurationMs": 6599,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "emprendimiento porque usted tiene que\nser cada vez mejor mejor persona mejor",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 935079,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "líder mejor contador mejor abogado mejor\ntributarista entonces la mejor hora de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 939759,
+    "dDurationMs": 7520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "formarse es de 6 de la mañana a 8 de la\nmañana y por qué a esa hora porque es el",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 944560,
+    "dDurationMs": 8440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "único momento que va a tener libres sin\nque te llamen sin un chicharrón y a las",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 949839,
+    "dDurationMs": 7721,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "8 salir después de que hizo ejercicio\ndespués de que cuidó después de que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 954720,
+    "dDurationMs": 9919,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "estudió de 9 de la mañana a medianoche\ncomo estamos haciendo acá A qué a estar",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 960639,
+    "dDurationMs": 8041,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "en en espacios que generen valor porque\nel problema del del emprendedor es que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 967040,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "el emprendedor piensa que esos espacios\nllegan solos y esos espacios no llegan",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 970800,
+    "dDurationMs": 7800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hay que buscarlos hay que estar acá hay\nque ir a Bogotá Ah ir a Bogotá cuesta",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 975519,
+    "dDurationMs": 8361,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "plata sí cuesta pero de 9 de la noche de\n9 de la mañana a mediane tú tienes que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 981240,
+    "dDurationMs": 6920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "estar en espacios que te generen valor\nque teneren relacionamiento porque noos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 986160,
+    "dDurationMs": 7239,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "espacios logras conseguir los futuros\nsocios los futuros clientes a los cuales",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 990959,
+    "dDurationMs": 6761,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "les vas a vender los\nfuturos amigos que en algún momento los",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 996199,
+    "dDurationMs": 6601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vas a llamar y le van a solucionar un\nproblema o lo van a conectar o los",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1000399,
+    "dDurationMs": 7721,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "futuros también digamos trabajadores y\naliados y en ese en esos en ese hábito",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1006440,
+    "dDurationMs": 5800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de 9 a las 12 yo no veo a los\nemprendedores ahí y ahí fallamos mucho",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1010160,
+    "dDurationMs": 7960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "porque nos cuesta meter nuestros\nespacios y en esos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1015399,
+    "dDurationMs": 7161,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "espacios Porque nadie nos conoce\nentonces hay que hacernos invitar hay",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1019800,
+    "dDurationMs": 6519,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que meternos hay que ir hay que viajar y\nhay que gastar plata para eso porque",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1024520,
+    "dDurationMs": 6159,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Definitivamente hay que hacer no podemos\nesperar a que no los creen nosotros",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1028000,
+    "dDurationMs": 7439,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tenemos que meternos Y ese es otro tema\nque aprendimos el siguiente tema El Pit",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1033919,
+    "dDurationMs": 6561,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "7 por\n24 y es que nosotros los emprendedores",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1038640,
+    "dDurationMs": 7559,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "todos los días estamos levantando\nEntonces el emprendedor que no tenga el",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1042559,
+    "dDurationMs": 7601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Pit preparado está [ __ ] nosotros todos\nlos días tenemos que estar levantando y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1048439,
+    "dDurationMs": 6841,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "no tenemos que levantar preparados\nEntonces cuando yo digo el Pit 7 por 24",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1052640,
+    "dDurationMs": 9200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "es que usted le dice un emprendedor y y\nsu empresa cuál Y cuánto",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1057600,
+    "dDurationMs": 8600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "facturó no como que más o menos no y y\ncuál es el ev y Cuál es la utilidad Y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1063760,
+    "dDurationMs": 6960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "qué hacen Y cuánto equipo y me mandan\nuna información y pasan 15 días Si no la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1067840,
+    "dDurationMs": 7360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "recibe oo o sea el p 7 por 24 tiene que\nestar acá una carpeta que si a uno le",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1072120,
+    "dDurationMs": 10039,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "dicen tiene que tener el Word el PF el\nExcel el video El slide para para",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1078960,
+    "dDurationMs": 8000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "poderlo mandar y ahí uno falla porque\nuno todos los días está editando y no",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1084600,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "está preparado o sea no está preparado y\nno tiene la información al día y le",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1089080,
+    "dDurationMs": 5880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "preguntan y y no está preparado entonces\nuno siempre tiene que estar preparado y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1092840,
+    "dDurationMs": 7400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "acá en este punto importante y es que el\nPit tiene que cambiarse todos los días",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1097520,
+    "dDurationMs": 6279,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Pich que no cambie pues p que no crece y\nno evoluciona y cada vez que uno",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1102320,
+    "dDurationMs": 6960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "presenta un Pit\neh realmente aprende que le faltó algo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1107200,
+    "dDurationMs": 10920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Yo tengo una estadística interna mía y\nes que cada vez que yo salgo a levantar",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1112360,
+    "dDurationMs": 11240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "recursos de 21 a 22 pach que hago uno\nlevanto Entonces cuando cuando yo voy y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1121080,
+    "dDurationMs": 11800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "yo digo tocó levantar yo ya sé que me\nfaltan 22 p para levantar uno Imagine 22",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1128559,
+    "dDurationMs": 10480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "o sea son 21 fracasos y un y un éxito Eh\nentonces La pregunta es uno por día uno",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1135919,
+    "dDurationMs": 8361,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "por mes uno por cada se meses o dos pis\npor día Entonces de qué depende levantar",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1141919,
+    "dDurationMs": 8921,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Pues de eso y si no estamos preparados\nno jemos el siguiente dice todo el",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1148240,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tiempo estoy levantando inversión Bueno\nes más de lo mismo junto con crear",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1153120,
+    "dDurationMs": 5080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "equipo parte de lo que hemos hecho y es\ntodo el tiempo tenemos que estar con la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1156520,
+    "dDurationMs": 6360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mente de estar levantando inversión\nporque siempre o sea el emprendedor que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1160559,
+    "dDurationMs": 6561,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "no esté levantando inversión pues ya la\nsacó el estadio ya está al otro lado",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1164960,
+    "dDurationMs": 6839,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pero siempre tenemos que estar ahí eh\npreparados y la de crear equipo la la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1168840,
+    "dDurationMs": 7959,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "más importante y la más difícil porque\nsin equipo uno no logra nada sin equipo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1174600,
+    "dDurationMs": 7319,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "uno no logra nada o sea es decir Y esa\nes de las más",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1178840,
+    "dDurationMs": 9319,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "complejas y qué no volvería a hacer\nBueno yo puse cinco cositas la primera",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1185640,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "es hacer dos cosas al mismo tiempo eso\nya nunca lo volvé a hacer mire me lo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1190200,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "dijeron muchos de mis socios de mis\ninversionistas de las personas que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1194039,
+    "dDurationMs": 6921,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "creyeron en mí Diego no haga dos cosas\ncéntrese céntrese haga una sola haga una",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1198840,
+    "dDurationMs": 9280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sola y yo no yo puedo yo puedo yo puedo\nhoy yo no quiero hacer nada diferente a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1203640,
+    "dDurationMs": 8279,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Campos O sea no es capaz uno o sea a\nmenos que uno sea un ángel inversionista",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1209679,
+    "dDurationMs": 6921,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y ya no I y no esté en la operación de\nningún proyecto pero por ejemplo o sea y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1214960,
+    "dDurationMs": 5920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "yo sé que es difícil o sea uno está\ntrabajando porque necesita el salario",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1218080,
+    "dDurationMs": 7000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "para vivir y está emprendiendo es\ncomplejo sacarle al estadio así Si usted",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1223240,
+    "dDurationMs": 7080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "decide emprender tiene que arriesgarse y\naventarse porque si no no lo vas a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1226799,
+    "dDurationMs": 10601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "lograr no lo vas a lograr y yo fracasé\nporque no me concentré porque me puse a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1234720,
+    "dDurationMs": 9760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hacer no dos cosas muchas cosas y eso me\ncostó lágrimas lágrimas la segunda",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1241640,
+    "dDurationMs": 7880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "eh inversiones grandes para descubrir el\nmodelo de negocio o sea uno cuando es",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1247120,
+    "dDurationMs": 6200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "emprendedor quiere que todo o sea uno\nuno es uno es muy técnico entonces uno",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1251840,
+    "dDurationMs": 5680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "va a montar el primer restaurante y\nquiere que el restaurante juepuchica sea",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1255280,
+    "dDurationMs": 7840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "La tacita de té pero La tacita de té\ncuesta plata entonces uno uno uno quiere",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1260280,
+    "dDurationMs": 8440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que todo sea perfecto uno quiere meterle\nplata al",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1264159,
+    "dDurationMs": 8041,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "producto y ahí se equivoca uno porque si\nno ha comprobado el modelo de negocio",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1270360,
+    "dDurationMs": 7360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Pues usted no sabe si esos recursos le\nvan a hacer falta Entonces yo era muy de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1275320,
+    "dDurationMs": 8200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de que la mesa tiene que estar Perfecta\nde que o sea es decir de hacer las cosas",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1279760,
+    "dDurationMs": 8080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y y sigo siéndolo pero pero a veces uno\nle mete plata de más al producto o sea",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1286320,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "uno tiene que salir con lo mínimo\nposible an o sea si no ha descubierto el",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1291159,
+    "dDurationMs": 5681,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "modelo de negocio después de que escura\nel modelo de negocio y sepa que ese es",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1294279,
+    "dDurationMs": 7681,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "es Es o sea porque lo contrario y ahí\nuno se equivoca de meterle plata algunas",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1299559,
+    "dDurationMs": 7321,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cosas en la parte del producto que lo\nhacen más pesado la operación eh Y que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1304640,
+    "dDurationMs": 6600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pues le hacen gastar plata sin haber\ndescubierto que realmente Ese es el",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1309039,
+    "dDurationMs": 7801,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "camino y después esa plata le hace falta\nla tercera es eh emprender Solo No no",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1315120,
+    "dDurationMs": 7000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "eso no se debe hacer o sea emprender\nsolo eh no se debe hacer o sea eso no lo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1319880,
+    "dDurationMs": 6399,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "haría hoy es difícil emprender solo yo\ntengo unos grandes amigos y socios que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1324400,
+    "dDurationMs": 8120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "emprenden solo Acá hay uno\neh pero pero es difícil sabes que es",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1329640,
+    "dDurationMs": 8000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "complejo o sea emprender solo es casi\nque imposible no digo que imposible pero",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1334760,
+    "dDurationMs": 7240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "es muy muy complejo hoy en el mundo de\nhoy y cuando digo emprender es arrancar",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1339600,
+    "dDurationMs": 6439,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hoy no O sea arrancar hoy y decir voy a\nemprender solo es muy complejo yo les",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1344000,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "aconsejo y sabiendo que le estoy dando\nel consejo más difícil porque hacer",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1347279,
+    "dDurationMs": 6801,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sociedades es lo es el es 10 veces más\ndifícil que emprender solo o sea lograr",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1352120,
+    "dDurationMs": 6919,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "conseguir el socio ideal es casi que\nimposible pero hay que hay que buscar y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1357080,
+    "dDurationMs": 8880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y í y hay que tener ahí unas cositas\npara saber cómo conseguirlo la cuarta",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1362240,
+    "dDurationMs": 9439,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "eh contratar lento y sacar rápido uno\nuno lo difícil como emprendedor es tomar",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1367919,
+    "dDurationMs": 9601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "decisiones malucas o sea acá lo que les\nquiero decir es o sea est está al",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1373960,
+    "dDurationMs": 8120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "contrario pero es uno como emprendedor\ntiene que aprender a a tomar decisiones",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1379240,
+    "dDurationMs": 7280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que no son fáciles para uno porque\nporque es complejo sacar a una persona",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1384640,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "es complejo decir esto ya no lo voy a\nhacer lo voy a soltar Eh Esto no me",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1389080,
+    "dDurationMs": 9079,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "funcionó tengo que eliminar esto y eso\nes dificilísimo Y eso en el caso mío me",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1394960,
+    "dDurationMs": 8199,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "costó muchísimo me costó muchísimo y lo\nque hace uno es alargar la agonía",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1400000,
+    "dDurationMs": 8480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "alargar la pérdida alargar el problema y\ny y eso sí hoy lo aprendí a hacer rápido",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1405640,
+    "dDurationMs": 8039,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y no hay nada que hacer o sea si si eso\nva en contra el negocio usted termina",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1410520,
+    "dDurationMs": 7519,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "afectando no a uno sino a todos los que\ndependen de este proyecto y el último",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1415799,
+    "dDurationMs": 7801,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Este es un tema que pues es muy personal\nese no aplica la regla para todos eh eh",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1422559,
+    "dDurationMs": 7240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "en estos\nemprendimientos emprender es un trabajo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1426720,
+    "dDurationMs": 7880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Solitario porque solo el emprendedor\nvive y sabe lo que está viviendo y todo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1432400,
+    "dDurationMs": 6600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "estos momentos duros que viven uno en el\ndía a día eh pues uno lo vive solo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1437480,
+    "dDurationMs": 6799,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "porque nadie lo entiende porque el\nconsejo que le dan todos sus conocidos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1441039,
+    "dDurationMs": 9120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "su mamá su papá su esposa no olvídese\nrenuncie de [ __ ] estaba mejor el trabajo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1447480,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "no nos arriesgue más el patrimonio mire\nesto Entonces cuando uno decide",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1452559,
+    "dDurationMs": 6841,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "emprender es un trabajo el\nemprendimiento es Solitario es le toca",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1456559,
+    "dDurationMs": 6961,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hacer es solo o sea no es capaz uno y y\ny esos momentos duros hay que vivirlo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1461360,
+    "dDurationMs": 6520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "con el socio y ahí por eso es que le\ndigo yo si usted está solo emprendiendo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1465520,
+    "dDurationMs": 5920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "es muy difícil pero si usted lleva eso\nal hogar es complejo o si usted lo está",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1469679,
+    "dDurationMs": 6921,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "haciendo en familia es complejo porque\nen los fracasos pues sale todo lo malo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1473840,
+    "dDurationMs": 6280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sale todo lo malo Entonces si Quién\npierde menos y el otro no tiene para",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1478039,
+    "dDurationMs": 6041,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "comer si el otro entonces ahí cuando hay\nfamilia pues hay unos sentimientos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1482120,
+    "dDurationMs": 10279,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "adicionales que hacen que también se\ndañen el tema entonces en el caso",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1486559,
+    "dDurationMs": 12480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "digamos personal lo viví eh eh pero pues\nen esos momentos duros muy muy",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1495039,
+    "dDurationMs": 8161,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "complejo o sea tener la la reunión en en\nen la oficina y luego en la reunión",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1501440,
+    "dDurationMs": 7000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "familiar donde encuentra al primo al\nhermano al tío tener también ese otro",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1505600,
+    "dDurationMs": 10880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "espacio entonces eh muy complejo nada\neste es Digamos como como la experiencia",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1511799,
+    "dDurationMs": 11641,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "eh emprender No es fácil al final del\ncamino eh creo que resultado es el que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1519799,
+    "dDurationMs": 8841,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "termina alegrando el tema pero pero el\nfracaso siempre está presente pues y no",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1526840,
+    "dDurationMs": 6800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "en los emprendedores de base tecnológic\ntodos los amigos que yo conozco que hoy",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1531080,
+    "dDurationMs": 7479,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "la tienen están al otro lado han\nfracasado han",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1535480,
+    "dDurationMs": 10559,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "fracasado muchas veces el éxito está en\nlograr ser capaz de levantarse Pero le",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1541960,
+    "dDurationMs": 11959,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "digo esto no es fácil o sea uno a veces\nse levanta rendido y dice puchica me",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1549480,
+    "dDurationMs": 9199,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "entrego pero pero pero el secreto está\nque si usted es capaz de levantarse una",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1556679,
+    "dDurationMs": 6041,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y otra vez\nva a valer la pena se el resultado valer",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1560720,
+    "dDurationMs": 5160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "la pena yo todavía estoy buscando ese\nresultado tod no le he sacado al estadio",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1564440,
+    "dDurationMs": 5239,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Entonces yo hago parte de esos\nemprendedores y estoy en ese",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1572919,
+    "dDurationMs": 6760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "proceso esa la historia de Diego Quiénes\nde acá conocen",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1580120,
+    "dDurationMs": 9240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "campus OK Me atrevo a decir que es uno\nde los",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1589720,
+    "dDurationMs": 9000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "más disruptivos e interesantes que yo\nparticularmente he visto en muchísimo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1595120,
+    "dDurationMs": 9640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tiempo es una locura lo que lo que ha\nhecho Diego con su equipo todo lo que él",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1601480,
+    "dDurationMs": 9600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "dice es lo que pasamos nosotros una y\notra vez pero siempre uno está buscando",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1608159,
+    "dDurationMs": 7961,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "como ese siguiente unicornio sab voy a\nhacer el próximo Facebook ser",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1613640,
+    "dDurationMs": 7080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "próximo pues este man se creó este\nproyecto y para los que no lo conocen es",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1618320,
+    "dDurationMs": 9040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "un piso entero en zona franca muy al\nestilo de Google es la cosa más",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1623279,
+    "dDurationMs": 8321,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "impresionante de ver con una apuesta que\na pesar de ser base tecnológica tiene",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1629600,
+    "dDurationMs": 5360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mucho de conciencia\nhumana y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1635000,
+    "dDurationMs": 10960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mucho ala de visión sobre todoa visión\nEsa visión es impresionante O sea no",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1643760,
+    "dDurationMs": 7000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "solo nos demuestra la visión que tiene\nDiego y su equipo sino lo que está",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1648480,
+    "dDurationMs": 7760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pasando hoy por hoy con el ecosistema lo\nque está pasando hoy por hoy con la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1653279,
+    "dDurationMs": 8240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tecnología con el potencial que tenemos\nen países como Colombia de trabajar en",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1658919,
+    "dDurationMs": 9441,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "desarrollo hacer una cantidad de cosas y\ncómo si es posible llegar a a a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1665320,
+    "dDurationMs": 7400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ejecutar este tipo de proyectos que en\nmi caso personal digamos que nunca se",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1670399,
+    "dDurationMs": 7801,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "había pensado de esta manera cuando él\ndecía de 3 por TR en la oficina yo y me",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1675519,
+    "dDurationMs": 9000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "devuelvo acá que una un pedacito que\nustedes no ven en ese 3 por3 en ese",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1681120,
+    "dDurationMs": 7080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Macro aquí en la parte inferior dice 191\nempleados directos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1686120,
+    "dDurationMs": 7200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "56,200 millones de facturación en el\n2022 y mercado en siete países de l",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1691000,
+    "dDurationMs": 6919,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tamam Pues eso muestra el potencial\nbásicamente cierto eso muestra lo que se",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1695519,
+    "dDurationMs": 9160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "puede lograr Entonces digamos que todo\nesto pues para felicitarlo Antes que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1700640,
+    "dDurationMs": 9200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "nada usted a su equipo pero con la gran\npregunta es Esa visión qué qué hasta",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1708120,
+    "dDurationMs": 7679,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hasta dónde van a llegar qué están\npensando qué quieren hacer por un lado y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1712519,
+    "dDurationMs": 8801,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "por otro lado a Pit en una frase que es\ncampus L para los que no lo conocen",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1718320,
+    "dDurationMs": 3000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Pues",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1721880,
+    "dDurationMs": 8679,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "bueno antes de este de este pedacito Yo\nquiero decir es",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1727519,
+    "dDurationMs": 8400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "campul cuando nace hace 3 años y medio\nnació en febrero del",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1732039,
+    "dDurationMs": 9880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "2021 el 80% ha cambiado o sea el\nproyecto inicial o la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1739000,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "el 80% ha cambiado en todo en tamaño en\ntodo entonces te podrán imaginar el caos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1743720,
+    "dDurationMs": 5799,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que llevo en 3 años y medio en mi vida\nporque si si todo ha cambiado pues",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1747480,
+    "dDurationMs": 7799,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cambió el presupuesto usted presupuestó\ngastó 100 si usted presupuestó que se I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1752640,
+    "dDurationMs": 9360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a demorar un año y llevamos 3 años y\nmedio entonces todo ha cambiado pero hoy",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1758640,
+    "dDurationMs": 9600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hoy con el equipo Acá está Sandra charry\nquiero decir que Sandra ha sido digamos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1765320,
+    "dDurationMs": 7800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "esaa\nesa persona que estado en la en esos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1770559,
+    "dDurationMs": 8360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "espacios en la soledad acompañando todo\neste proceso y con la que he trabajado",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1775799,
+    "dDurationMs": 6801,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de la mano junto con con con Diana junto\ncon los socios que los socios a pesar de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1780679,
+    "dDurationMs": 7521,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que no están han sido los socios\nFabulosos y maravillosos es una persona",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1784840,
+    "dDurationMs": 7839,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de Medellín y una persona de México y\nEstados Unidos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1789640,
+    "dDurationMs": 7639,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "eh pero sin ellos no hbio posible hoy\ncampus l lo hemos definido como un",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1795039,
+    "dDurationMs": 7441,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "centro de movilidad social que a través\nde la tecnología el desarrollo de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1799640,
+    "dDurationMs": 7519,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "habilidades blandas y el inglés buscamos\ngarantizar el primer empleo de calidad",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1804480,
+    "dDurationMs": 7520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "en el mundo ti a jóvenes de escasos\nrecursos y cómo generamos esa movilidad",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1809320,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "social con empleo de calidad eso es\ncampul",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1813120,
+    "dDurationMs": 7000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Lance y la visión hasta\ndnd bueno la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1818000,
+    "dDurationMs": 9159,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "visión la visión\neh Hoy hoy tuve acá la sorpresa de de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1823360,
+    "dDurationMs": 8280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "entrar y Encontrarme a a a a tres a tres\nCampers tres emprendedores que ya están",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1829799,
+    "dDurationMs": 5441,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "trabajando están ahí en la fila levanten\nla mano ya están trabajando y están",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1833399,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "emprendiendo Y todo lo que me explican\nno lo entiendo No nada no que mire que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1837440,
+    "dDurationMs": 5000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "estamos haciendo tema con Inteligencia\nartificial no lo entiendo nada nada lo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1840720,
+    "dDurationMs": 6679,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que me están explicando pero sé que\nhacia ya va y que lo van a hacer y y y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1844600,
+    "dDurationMs": 7559,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "los veo a tod ahora buscando espacios en\nlas noches y los fines de semana porque",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1849279,
+    "dDurationMs": 10360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "trabajan no eh pero la visión queremos\nconstruir un modelo irruptivo único eh",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1855720,
+    "dDurationMs": 7520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "en tres aspectos eh el primero es que\nsea un modelo de en un año cambiarle la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1862159,
+    "dDurationMs": 6681,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vida a una persona a través de la\neducación y segundo que ese modelo sea",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1866679,
+    "dDurationMs": 6561,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "el más económico de\nlatinoamérica y el tercero es que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1872240,
+    "dDurationMs": 7799,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "logremos\nque ese modelo de transformación de un",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1875720,
+    "dDurationMs": 11559,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "año tenga un éxito del 90 por. hoy vamos\nen el 78 el del 100% de los jóvenes que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1884200,
+    "dDurationMs": 6439,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pasan un año Por nuestro campus el 78\nlogramos que se empleen entonces bajo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1889200,
+    "dDurationMs": 5599,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "este esquema es un nuevo modelo\nirruptivo de transformación de Vidas a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1893039,
+    "dDurationMs": 6041,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "través de la educación en el menor\ntiempo con el menor costo y con la mayor",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1896679,
+    "dDurationMs": 7360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "efectividad para latinoamérica Con qué\nobjetivo con el objetivo de evitar la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1901679,
+    "dDurationMs": 8201,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "migración los países desarrollados como\nEstados Unidos Europa Asia y demás",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1907080,
+    "dDurationMs": 7319,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "necesitan talento de todo tipo necesitan\nel que el mesero el cocinero el",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1912120,
+    "dDurationMs": 5960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "conductor pero también que son trabajos\nque hay que ir a hacerlos allá pero",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1916159,
+    "dDurationMs": 5801,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "también necesitan El talento que se\ntiene que quedar en nuestros países",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1919559,
+    "dDurationMs": 7840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "desarrollando de nuestro país para sus\npaíses y ese es el talento que que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1925080,
+    "dDurationMs": 6319,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "podemos ofrecer en el campus y es\nconocimiento digital para países",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1929279,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "desarrollados qué vamos a lograr con eso\nque los jóvenes no migren traigan",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1933320,
+    "dDurationMs": 7359,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "dólares a nuestra economía desarrollemos\nla economía y que eh traigamos el",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1938279,
+    "dDurationMs": 6161,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "conocimiento que necesita ti porque\ntrabajan para compañías en el exterior y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1942840,
+    "dDurationMs": 5920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ese conocimiento No lo tenemos acá y lo\nnecesitamos para transformar nuestra",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1945760,
+    "dDurationMs": 3000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ciudad",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1948919,
+    "dDurationMs": 7880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "esa parte es bien importante siempre\nhemos hablado de de de Cuál es el el",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1953720,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "verdadero sueño americano cierto como\nque todo el mundo tiene la idea de me",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1958000,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "voy para Estados Unidos y y no el\nverdadero sueño americano es vivir en",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1962200,
+    "dDurationMs": 8880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "zapatoca o en la mesa de los santos y\nganar en dólares 4000 veces más caro a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1968799,
+    "dDurationMs": 7281,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vivir como rico acá que es digamos el\nverdadero sueño americano y obviamente",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1973360,
+    "dDurationMs": 6679,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que ese dinero haga que la economía se\nmueva o sea Nosotros somos las las",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1978279,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "únicas personas que podemos realmente\ncambiar el mundo cambiando nuestro",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1982440,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "propio mundo Entonces esa parte es\nsamente interesante no sé si alguien",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1985559,
+    "dDurationMs": 2641,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tenga alguna",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1991120,
+    "dDurationMs": 9159,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pregunta bueno esto primero que todo muy\nbuenas noches Mi nombre es Gabriel",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1996720,
+    "dDurationMs": 8319,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Buenas noches Diego me gustaría Antes\nque nada hacer la pregunta darle las",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2003360,
+    "dDurationMs": 6080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "gracias a usted por haber creído en\nNuestra Empresa por nuestra idea y a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2007919,
+    "dDurationMs": 7640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "campus también por esa maravillosa\nempresa que creó y la pregunta mía es",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2013039,
+    "dDurationMs": 5681,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "qué consejo le daría a ese Diego\ntarazona del",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2022760,
+    "dDurationMs": 9000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pasado es que iba a ser más fácil\nhermano",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2027000,
+    "dDurationMs": 4760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "eh No yo a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2031960,
+    "dDurationMs": 8520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ver yo creo que digamos pues después de\nla guerra como se dice todo el mundo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2036880,
+    "dDurationMs": 10600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "general y y es muy fácil\npero pero yo creo que era tomar de tomar",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2044760,
+    "dDurationMs": 7639,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "decisiones no con sentimiento sino con\nracionalidad lo que pasa es que eso hace",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2050200,
+    "dDurationMs": 7159,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cambiar mi esencia también pero de\npronto sí ser un poquito más entrado en",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2054359,
+    "dDurationMs": 10800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "esas decisiones de riesgo y inversión\neh que hice apostando",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2060839,
+    "dDurationMs": 8800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "eh más a cuando todo o sea y acá va que\nque cuando uno arranca emprender todo el",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2066839,
+    "dDurationMs": 7121,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mundo le dice sabes que encuentra uno de\n1 encuentra uno que le dice hermano va",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2071520,
+    "dDurationMs": 7399,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "por el lado correcto otros 999 no le\ndicen nada lo miran y como que este Man",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2076679,
+    "dDurationMs": 5000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "está loco entonces uno no encuentra\nnunca al que al que le dice que sí y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2080520,
+    "dDurationMs": 6319,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "apenas encuentra al que dice que sí\npuesa se arriesga o sea sigue más",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2085159,
+    "dDurationMs": 6641,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "convencido no pero entonces de pronto\nser un poquito más más racional a la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2089240,
+    "dDurationMs": 7920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hora de de de tomar esas\napuestas he sido muy osado en muchas",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2095000,
+    "dDurationMs": 7200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "apuestas que inclusive yo en el fondo\ndecía será que sí O sea como que yo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2100200,
+    "dDurationMs": 5600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "había más de un 80% que no iba a\nfuncionar pero yo decía vamos a hacerlo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2104280,
+    "dDurationMs": 6440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "entonces ser un poquito más racional en\nesas",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2108040,
+    "dDurationMs": 7120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "apuestas bueno Y esa es la historia de\nDiego ahora que hagamos algo networking",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2113240,
+    "dDurationMs": 5839,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "aprovecho para que le hagan más\npreguntas para que hablen con él para",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2116599,
+    "dDurationMs": 8401,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que tenga una cantidad de cosas Eh Esto\nes fup esto es lo que está pasando hoy",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2122480,
+    "dDurationMs": 6280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "por hoy con todas las historias de todos\nlos tipos de emprendedores tenemos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2126960,
+    "dDurationMs": 8760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "muchas cosas en común eso es lo que\npodemos ver Y de lo que pasa hoy en",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2132440,
+    "dDurationMs": 7960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "charlas como esta Pues básicamente queda\ncomo el resumen de crean en ustedes",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2137440,
+    "dDurationMs": 2960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mismos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2148520,
+    "dDurationMs": 7960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "agradézcanle aprender de los errores de\nlos demás que los propios duele menos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2153160,
+    "dDurationMs": 7890,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "por lo menos Entonces eh eso es fup los\ndejo con Johana y y muchas gracias a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2158280,
+    "dDurationMs": 16109,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "todos Muchas gracias Diego\n[Música]",
+      "acAsrConf": 0
+    } ]
+  } ]
+}

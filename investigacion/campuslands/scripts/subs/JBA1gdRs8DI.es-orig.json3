@@ -1,0 +1,2769 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  }, {
+    "mhModeHint": 2,
+    "juJustifCode": 0,
+    "sdScrollDir": 3
+  } ],
+  "wpWinPositions": [ {
+  
+  }, {
+    "apPoint": 6,
+    "ahHorPos": 20,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  } ],
+  "events": [ {
+    "tStartMs": 0,
+    "id": 1,
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 0,
+    "dDurationMs": 10080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Cuando nació ProSantander,\nmuchos pensaron que era imposible ver a"
+    } ]
+  }, {
+    "tStartMs": 6440,
+    "dDurationMs": 10120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "10 empresas unidas aportándole al\ndesarrollo regional."
+    } ]
+  }, {
+    "tStartMs": 11680,
+    "dDurationMs": 4880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Hoy son 89 empresas unidas"
+    } ]
+  }, {
+    "tStartMs": 19640,
+    "dDurationMs": 5240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Bienvenidos a un nuevo capítulo de Human\nCode Podcast."
+    } ]
+  }, {
+    "tStartMs": 23280,
+    "dDurationMs": 5960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Mi nombre es Víctor Guzmán y el día de\nhoy seré el presentador."
+    } ]
+  }, {
+    "tStartMs": 27120,
+    "dDurationMs": 7760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "El día de hoy queremos hablar de futuro,\nno solo de futuro tecnológico, sino del"
+    } ]
+  }, {
+    "tStartMs": 32200,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "papel que tienen eh los jóvenes en esta\ntransformación."
+    } ]
+  }, {
+    "tStartMs": 36360,
+    "dDurationMs": 7280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Para eso nos acompaña eh Juan Pablo\nRemolina, quien es director ejecutivo de"
+    } ]
+  }, {
+    "tStartMs": 42080,
+    "dDurationMs": 7160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ProSantander.\nEs una organización que viene"
+    } ]
+  }, {
+    "tStartMs": 45240,
+    "dDurationMs": 9880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "impulsando, sacando como tal acciones\npara unir y avanzar en el proceso que"
+    } ]
+  }, {
+    "tStartMs": 53040,
+    "dDurationMs": 5640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "lleva Santander. Pero dejemos que sea él\nmismo quien nos hable un poco de quién"
+    } ]
+  }, {
+    "tStartMs": 57040,
+    "dDurationMs": 5520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "es Juan Pablo Remolina y qué es\nProSantander. Juan Pablo, bienvenido,"
+    } ]
+  }, {
+    "tStartMs": 60720,
+    "dDurationMs": 7240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "qué gusto tenerte aquí. Víctor, muchas\ngracias por la invitación. Eh"
+    } ]
+  }, {
+    "tStartMs": 64960,
+    "dDurationMs": 8240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ProSantander es una organización\nempresarial, es una fundación que reúne"
+    } ]
+  }, {
+    "tStartMs": 71280,
+    "dDurationMs": 9360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a 89\nempresas representativas de la región,"
+    } ]
+  }, {
+    "tStartMs": 76880,
+    "dDurationMs": 10640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que buscan contribuir a la construcción\ny ejecución de una visión compartida del"
+    } ]
+  }, {
+    "tStartMs": 84160,
+    "dDurationMs": 10560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "desarrollo con una perspectiva de largo\nplazo. En ese sentido, son empresarios"
+    } ]
+  }, {
+    "tStartMs": 91200,
+    "dDurationMs": 10160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que eh están convencidos\nde la necesidad de aportar para que a"
+    } ]
+  }, {
+    "tStartMs": 98640,
+    "dDurationMs": 10720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "todo el departamento le vaya bien, a\ncada uno de sus habitantes. Porque como"
+    } ]
+  }, {
+    "tStartMs": 104520,
+    "dDurationMs": 10880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "dice Stefan Schmidheiny, no hay empresas\nexitosas en sociedades fracasadas."
+    } ]
+  }, {
+    "tStartMs": 112640,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Excelente. Eh toda esa experiencia y\ntodo ese proceso que vienes que no solo"
+    } ]
+  }, {
+    "tStartMs": 117360,
+    "dDurationMs": 5120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "en el sector público, sino también en el\nsector privado"
+    } ]
+  }, {
+    "tStartMs": 120440,
+    "dDurationMs": 8959,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que has adquirido, ¿cuál crees que es el\nmayor reto que ha tenido"
+    } ]
+  }, {
+    "tStartMs": 125560,
+    "dDurationMs": 8800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ProSantander en este interés de poder\navanzar en el desarrollo de Santander?"
+    } ]
+  }, {
+    "tStartMs": 132200,
+    "dDurationMs": 6440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "El mayor reto\nha sido"
+    } ]
+  }, {
+    "tStartMs": 135800,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cómo superar\nesos mitos"
+    } ]
+  }, {
+    "tStartMs": 140920,
+    "dDurationMs": 6360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de\ny esas fuerzas de de su unión en el"
+    } ]
+  }, {
+    "tStartMs": 145680,
+    "dDurationMs": 5920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "departamento.\nEntonces es cómo desde ProSantander"
+    } ]
+  }, {
+    "tStartMs": 149880,
+    "dDurationMs": 7920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "contribuimos\npara que nos pongamos de acuerdo, para"
+    } ]
+  }, {
+    "tStartMs": 154600,
+    "dDurationMs": 8960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que conversemos y establezcamos\nuna agenda común"
+    } ]
+  }, {
+    "tStartMs": 160800,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "en la cual nos permita a cada uno de los\nactores de la sociedad, tanto al sector"
+    } ]
+  }, {
+    "tStartMs": 166040,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "privado\nal sector social, al sector público y al"
+    } ]
+  }, {
+    "tStartMs": 169920,
+    "dDurationMs": 9120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sector académico\ntrabajar de manera articulada para"
+    } ]
+  }, {
+    "tStartMs": 175080,
+    "dDurationMs": 11159,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "avanzar en esos proyectos. Y yo creo que\nha sido el mayor reto"
+    } ]
+  }, {
+    "tStartMs": 183120,
+    "dDurationMs": 9560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y a la vez donde hemos podido\ncontribuir, por ejemplo"
+    } ]
+  }, {
+    "tStartMs": 189120,
+    "dDurationMs": 8320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cuando nació ProSantander\nmuchos pensaron que era imposible ver a"
+    } ]
+  }, {
+    "tStartMs": 196200,
+    "dDurationMs": 5360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "10\nempresas unidas aportándole al"
+    } ]
+  }, {
+    "tStartMs": 199880,
+    "dDurationMs": 5440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "desarrollo regional.\nHoy son 89 empresas unidas"
+    } ]
+  }, {
+    "tStartMs": 205017,
+    "dDurationMs": 4623,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "[resoplido]\ntrabajando en equipo",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 207320,
+    "dDurationMs": 7520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "donde el único interés\nes el interés general."
+    } ]
+  }, {
+    "tStartMs": 211640,
+    "dDurationMs": 8920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Es que al departamento de Santander le\nvaya bien y eso se ha visto reflejado en"
+    } ]
+  }, {
+    "tStartMs": 218320,
+    "dDurationMs": 8520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "la unión de otros actores.\nEntonces con la bancada parlamentaria,"
+    } ]
+  }, {
+    "tStartMs": 223920,
+    "dDurationMs": 10200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "con los gobernantes, la dirigencia\npolítica, con los gremios, hemos podido"
+    } ]
+  }, {
+    "tStartMs": 230040,
+    "dDurationMs": 9600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "establecer una priorización de proyectos\npara el desarrollo e iniciativas como la"
+    } ]
+  }, {
+    "tStartMs": 236960,
+    "dDurationMs": 8360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que estamos realizando actualmente, que\nes la construcción"
+    } ]
+  }, {
+    "tStartMs": 241480,
+    "dDurationMs": 10280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de la visión Santander 2050 de manera\nconjunta, es decir, cómo nos soñamos el"
+    } ]
+  }, {
+    "tStartMs": 248720,
+    "dDurationMs": 8359,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "departamento al próximo cuarto de siglo\ny eso lo estamos haciendo"
+    } ]
+  }, {
+    "tStartMs": 253959,
+    "dDurationMs": 7840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "varios actores que representan a\ndiferentes sectores de la sociedad de"
+    } ]
+  }, {
+    "tStartMs": 259519,
+    "dDurationMs": 7121,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "manera coordinada.\nMe parece excelente ver cómo se puede"
+    } ]
+  }, {
+    "tStartMs": 264520,
+    "dDurationMs": 9840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "unir desde la perspectiva social, desde\nla perspectiva eh privada y pública"
+    } ]
+  }, {
+    "tStartMs": 270280,
+    "dDurationMs": 8280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "entrar a ver cómo el desarrollo se puede\nquizás en un principio se veía como algo"
+    } ]
+  }, {
+    "tStartMs": 276440,
+    "dDurationMs": 6840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "muy alejado o muy separado, pero desde\nacá se está viendo que se puede unir y"
+    } ]
+  }, {
+    "tStartMs": 280840,
+    "dDurationMs": 7680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "entrar a trabajar conjuntamente.\nPero basado en esta en esta unión y"
+    } ]
+  }, {
+    "tStartMs": 286160,
+    "dDurationMs": 7680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "todas las experiencias de lo que permite\ntrabajar en todos estos frentes"
+    } ]
+  }, {
+    "tStartMs": 290560,
+    "dDurationMs": 7920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "¿cuál crees que es el secreto, qué es lo\nque necesita en este momento Santander"
+    } ]
+  }, {
+    "tStartMs": 296280,
+    "dDurationMs": 5880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "para poder eh avanzar? Más\ninfraestructura, más inversión, trabajo"
+    } ]
+  }, {
+    "tStartMs": 300600,
+    "dDurationMs": 8200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "en equipo, ¿qué crees que sería el\nsecreto? Sí, yo creo que eh cada uno de"
+    } ]
+  }, {
+    "tStartMs": 305360,
+    "dDurationMs": 7720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "esos elementos que usted señala, Víctor\neh se requiere."
+    } ]
+  }, {
+    "tStartMs": 310480,
+    "dDurationMs": 6280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Por ejemplo, en materia de de\ninfraestructura"
+    } ]
+  }, {
+    "tStartMs": 315000,
+    "dDurationMs": 6360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "es fundamental.\nEh Santander"
+    } ]
+  }, {
+    "tStartMs": 319520,
+    "dDurationMs": 5920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "algunos dicen que es una isla dentro de\nColombia"
+    } ]
+  }, {
+    "tStartMs": 322919,
+    "dDurationMs": 7961,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "porque está desconectada.\nNo tiene buenas vías de acceso."
+    } ]
+  }, {
+    "tStartMs": 328600,
+    "dDurationMs": 8360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Pero al interior de Santander vemos que\nlas provincias están desconectadas, es"
+    } ]
+  }, {
+    "tStartMs": 333240,
+    "dDurationMs": 8000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "decir, islas dentro de una isla.\nPrecisamente por la falta de"
+    } ]
+  }, {
+    "tStartMs": 338840,
+    "dDurationMs": 8360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "infraestructura.\nTambién requerimos más inversión"
+    } ]
+  }, {
+    "tStartMs": 344040,
+    "dDurationMs": 10000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "más conectividad con el mundo\ny conexión en términos de podernos"
+    } ]
+  }, {
+    "tStartMs": 349800,
+    "dDurationMs": 9320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "integrarnos a cadenas globales de valor\ny eso implica mayor inversión en el"
+    } ]
+  }, {
+    "tStartMs": 356760,
+    "dDurationMs": 8480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "departamento.\nTambién requerimos eh"
+    } ]
+  }, {
+    "tStartMs": 362280,
+    "dDurationMs": 7200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cada vez más un talento humano más\npertinente,"
+    } ]
+  }, {
+    "tStartMs": 367280,
+    "dDurationMs": 6440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mejor talento humano.\nAhí tenemos grandes retos,"
+    } ]
+  }, {
+    "tStartMs": 372200,
+    "dDurationMs": 7400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pero\nusted señalaba uno muy importante que es"
+    } ]
+  }, {
+    "tStartMs": 376040,
+    "dDurationMs": 8320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "la unión. Yo creo que si bien hay\navances en esa materia,"
+    } ]
+  }, {
+    "tStartMs": 382520,
+    "dDurationMs": 7600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "todavía nos falta mucho\ny necesitamos tener la capacidad"
+    } ]
+  }, {
+    "tStartMs": 387400,
+    "dDurationMs": 6960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de conversar sobre\ndiferentes asuntos,"
+    } ]
+  }, {
+    "tStartMs": 392480,
+    "dDurationMs": 5160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "temas complejos,\nestablecer"
+    } ]
+  }, {
+    "tStartMs": 396120,
+    "dDurationMs": 5520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "una\nuna agenda común"
+    } ]
+  }, {
+    "tStartMs": 399480,
+    "dDurationMs": 5360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y trabajar unidos y eso implica\nconfianza."
+    } ]
+  }, {
+    "tStartMs": 403280,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Eso implica\nsentarnos a reconocernos el uno al otro,"
+    } ]
+  }, {
+    "tStartMs": 408360,
+    "dDurationMs": 9800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a escucharnos\ny ahí yo creo que tenemos que eh avanzar"
+    } ]
+  }, {
+    "tStartMs": 415360,
+    "dDurationMs": 6760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "con el propósito de de generar confianza\nentre los diferentes actores."
+    } ]
+  }, {
+    "tStartMs": 420160,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Se me viene a la mente que muchas veces\nen el en este mundo tan cambiante o este"
+    } ]
+  }, {
+    "tStartMs": 424800,
+    "dDurationMs": 4760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tiempo tan cambiante ahora, los jóvenes\na veces tienden a hacer esas islas"
+    } ]
+  }, {
+    "tStartMs": 428520,
+    "dDurationMs": 8880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "aparte\ny a veces no se interconectan con con el"
+    } ]
+  }, {
+    "tStartMs": 433960,
+    "dDurationMs": 9000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "plano con las opciones que tanto la\nparte privada como la pública puede"
+    } ]
+  }, {
+    "tStartMs": 439360,
+    "dDurationMs": 8120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "entrar a ayudarlos. Pero cuál crees que\nes"
+    } ]
+  }, {
+    "tStartMs": 443760,
+    "dDurationMs": 7320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "la razón o el factor que los jóvenes en\neste momento no están viendo como"
+    } ]
+  }, {
+    "tStartMs": 448840,
+    "dDurationMs": 6600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "oportunidad, qué es lo que ellos en este\nmomento como que desconocen por estar de"
+    } ]
+  }, {
+    "tStartMs": 453160,
+    "dDurationMs": 7440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pronto en esa cápsula o en su ideología\no su pensamiento que les está impidiendo"
+    } ]
+  }, {
+    "tStartMs": 457680,
+    "dDurationMs": 8920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ver una oportunidad para avanzar.\nSí, Víctor, yo creo que"
+    } ]
+  }, {
+    "tStartMs": 462600,
+    "dDurationMs": 10720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "se menciona algo muy muy importante y es\ncómo a veces nos convertimos en islas,"
+    } ]
+  }, {
+    "tStartMs": 469120,
+    "dDurationMs": 9360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "¿no? Y y y esto, haciendo la analogía,\nno simplemente en el sentido geográfico,"
+    } ]
+  }, {
+    "tStartMs": 476480,
+    "dDurationMs": 8760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sino también, por ejemplo, en el sentido\npoblacional. Y cómo las generaciones"
+    } ]
+  }, {
+    "tStartMs": 482880,
+    "dDurationMs": 10520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "están desconectadas las unas a los\notros. Y eh los jóvenes, muchos, eh no"
+    } ]
+  }, {
+    "tStartMs": 491440,
+    "dDurationMs": 7120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "están\no no se tienden puentes con otras"
+    } ]
+  }, {
+    "tStartMs": 496360,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "generaciones. Y yo creo que\nahí debemos revisar qué qué estamos"
+    } ]
+  }, {
+    "tStartMs": 501440,
+    "dDurationMs": 9720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "haciendo mal.\n¿Por qué no nos estamos escuchando?"
+    } ]
+  }, {
+    "tStartMs": 506360,
+    "dDurationMs": 9480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "¿Por qué la población mayor no realmente\nestá generando"
+    } ]
+  }, {
+    "tStartMs": 513080,
+    "dDurationMs": 7720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "no está atrayendo a los jóvenes?\n¿Y qué es lo que hace falta? Y también"
+    } ]
+  }, {
+    "tStartMs": 517599,
+    "dDurationMs": 11401,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "por qué los jóvenes están retrayendo y\nde pronto no están teniendo esa ese"
+    } ]
+  }, {
+    "tStartMs": 524839,
+    "dDurationMs": 7881,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "impulso de poder abrir conversaciones\ncon"
+    } ]
+  }, {
+    "tStartMs": 530000,
+    "dDurationMs": 7560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "con otras eh con otros sectores\npoblacionales."
+    } ]
+  }, {
+    "tStartMs": 534240,
+    "dDurationMs": 8920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Y yo creo que eh ese es un reto\nimportante"
+    } ]
+  }, {
+    "tStartMs": 538960,
+    "dDurationMs": 12240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que debemos empezarlo a a romper. Y yo\ncreo que eh entidades como Campus Lands,"
+    } ]
+  }, {
+    "tStartMs": 546680,
+    "dDurationMs": 11640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "como este podcast eh con este nombre de\nHuman Code podcast, que me parece muy"
+    } ]
+  }, {
+    "tStartMs": 554760,
+    "dDurationMs": 10960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "interesante, eh buscamos es llegarle a\nlos jóvenes, ¿sí? Y eh y es algo que que"
+    } ]
+  }, {
+    "tStartMs": 563400,
+    "dDurationMs": 8240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tenemos que es unirnos, hacernos la\npregunta, pero yo creo que es es muy"
+    } ]
+  }, {
+    "tStartMs": 569000,
+    "dDurationMs": 8800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "importante es eh primero identificar el\nreto. Y yo creo que ahí tenemos un reto"
+    } ]
+  }, {
+    "tStartMs": 574520,
+    "dDurationMs": 8120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mayúsculo y los\ndeben"
+    } ]
+  }, {
+    "tStartMs": 578960,
+    "dDurationMs": 7600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "abrirse, deben tener mayor apertura,\ntienen que"
+    } ]
+  }, {
+    "tStartMs": 584320,
+    "dDurationMs": 9040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "también adaptarse\npara poder atraer a la juventud y la"
+    } ]
+  }, {
+    "tStartMs": 590960,
+    "dDurationMs": 8520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "juventud yo creo que también tiene que\ntener un poco de paciencia y hacer"
+    } ]
+  }, {
+    "tStartMs": 596520,
+    "dDurationMs": 8440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "digamos ese proceso igualmente para que\npodamos construir de manera conjunta."
+    } ]
+  }, {
+    "tStartMs": 602360,
+    "dDurationMs": 7040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Ahorita mira que dices algo fundamental\nque es el tema de que estamos en una"
+    } ]
+  }, {
+    "tStartMs": 606200,
+    "dDurationMs": 9120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "época que todo es digitalización, todo\nestá a través de una pantalla y entrar a"
+    } ]
+  }, {
+    "tStartMs": 612120,
+    "dDurationMs": 7600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "poder sacar o a interactuar con un joven\nque para él todo es una pantalla, de"
+    } ]
+  }, {
+    "tStartMs": 617680,
+    "dDurationMs": 5720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hecho lo vemos acá en Campusland y que\nmuchos alumnos cuando llegan son"
+    } ]
+  }, {
+    "tStartMs": 622000,
+    "dDurationMs": 6040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "personas que tienen ese perfil de\nprogramador que simplemente empiezan a"
+    } ]
+  }, {
+    "tStartMs": 625640,
+    "dDurationMs": 9240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "programar y se aíslan completamente de\nsu entorno. Pero cuál crees que siendo"
+    } ]
+  }, {
+    "tStartMs": 631400,
+    "dDurationMs": 7760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "esto algo muy evidente que ya sabemos\nese es el problema, cuál crees que sería"
+    } ]
+  }, {
+    "tStartMs": 637280,
+    "dDurationMs": 8040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "la habilidad principal que debería\nentrar un un joven a aprender para no"
+    } ]
+  }, {
+    "tStartMs": 642320,
+    "dDurationMs": 7240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "quedar así aislado tecnológicamente, por\nser bueno en un ámbito técnico, porque"
+    } ]
+  }, {
+    "tStartMs": 647600,
+    "dDurationMs": 6239,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "no es malo ser bueno en un en un ámbito\ntécnico, pero lo que sí es malo es"
+    } ]
+  }, {
+    "tStartMs": 651240,
+    "dDurationMs": 5400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cuando lo alejo simplemente es para mí,\nlo ejecuto pero el demás mundo no me"
+    } ]
+  }, {
+    "tStartMs": 655640,
+    "dDurationMs": 6840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "importa.\nSí, yo creo que es algo que que tenemos"
+    } ]
+  }, {
+    "tStartMs": 659400,
+    "dDurationMs": 7920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que ser muy conscientes\ny hay que brindarle a ese joven otro"
+    } ]
+  }, {
+    "tStartMs": 665080,
+    "dDurationMs": 7600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tipo de habilidad, porque la verdad es\nque tarde que temprano"
+    } ]
+  }, {
+    "tStartMs": 669680,
+    "dDurationMs": 7680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ese joven se va a estrellar con la vida\nse va a estrellar con la realidad"
+    } ]
+  }, {
+    "tStartMs": 675080,
+    "dDurationMs": 7120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "porque muchas veces las soluciones no\nestán en la pantalla"
+    } ]
+  }, {
+    "tStartMs": 679600,
+    "dDurationMs": 10120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "las soluciones están dejar la pantalla a\nun lado, apagarla"
+    } ]
+  }, {
+    "tStartMs": 685520,
+    "dDurationMs": 11600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "e ir y conversar con una persona, salir\na otro tipo de de espacios"
+    } ]
+  }, {
+    "tStartMs": 693600,
+    "dDurationMs": 8560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que puede que no sean de la comodidad de\nese joven,"
+    } ]
+  }, {
+    "tStartMs": 698880,
+    "dDurationMs": 7880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pero que en realidad, si queremos mover\nla aguja del desarrollo, del"
+    } ]
+  }, {
+    "tStartMs": 703800,
+    "dDurationMs": 8480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "crecimiento, del bienestar,\nla única manera es a partir de gestos de"
+    } ]
+  }, {
+    "tStartMs": 710320,
+    "dDurationMs": 7040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "humanidad.\nY los mayores gestos de humanidad"
+    } ]
+  }, {
+    "tStartMs": 715240,
+    "dDurationMs": 6520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "es\nmirándose a los ojos, es escuchando a la"
+    } ]
+  }, {
+    "tStartMs": 720000,
+    "dDurationMs": 10560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a otra persona,\nes eh con unas palabras auténticas,"
+    } ]
+  }, {
+    "tStartMs": 727800,
+    "dDurationMs": 8520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "es con\nlas emociones"
+    } ]
+  }, {
+    "tStartMs": 732560,
+    "dDurationMs": 7520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "eh y yo creo que eso difícilmente va a\nser reemplazado."
+    } ]
+  }, {
+    "tStartMs": 737920,
+    "dDurationMs": 8320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Entonces, necesitamos\nasí como hay esa inteligencia"
+    } ]
+  }, {
+    "tStartMs": 741920,
+    "dDurationMs": 8240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "artificial, fortalecer esas inteligencia\nemocional humana,"
+    } ]
+  }, {
+    "tStartMs": 748320,
+    "dDurationMs": 7440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y yo creo que son dos elementos que\npueden ir perfectamente de la mano y que"
+    } ]
+  }, {
+    "tStartMs": 753040,
+    "dDurationMs": 6440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "van a hacer de ese joven absolutamente\nimparable."
+    } ]
+  }, {
+    "tStartMs": 757200,
+    "dDurationMs": 7080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Cuando ese joven tiene habilidades\ntécnicas, pero también unas habilidades"
+    } ]
+  }, {
+    "tStartMs": 761680,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "blandas de liderazgo, de comunicación, a\nese joven nada lo para."
+    } ]
+  }, {
+    "tStartMs": 766920,
+    "dDurationMs": 5520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Estamos completamente de acuerdo. De\nhecho, una de las cosas que a mí más me"
+    } ]
+  }, {
+    "tStartMs": 770440,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "apasiona de Campusland, cuando tuve la\noportunidad de conocer su metodología,"
+    } ]
+  }, {
+    "tStartMs": 774720,
+    "dDurationMs": 6760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "era el hecho de que no solo formaban eh\nprofesionalmente, eh técnicamente,"
+    } ]
+  }, {
+    "tStartMs": 779160,
+    "dDurationMs": 7160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "enseñar inteligencia artificial, enseñar\nprogramación, enseñar el inglés, enseñar"
+    } ]
+  }, {
+    "tStartMs": 784720,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "todas esas partes técnicas, sino que\ntambién tenían su parte habilidades"
+    } ]
+  }, {
+    "tStartMs": 788080,
+    "dDurationMs": 8120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "blandas para poder generar un\nprofesional un poco más integral."
+    } ]
+  }, {
+    "tStartMs": 793360,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Pero si tuvieras que definir una\ncualidad o una habilidad a nivel de"
+    } ]
+  }, {
+    "tStartMs": 798280,
+    "dDurationMs": 5480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "habilidades blandas, ¿cuál crees que\nsería la principal para aconsejarle a"
+    } ]
+  }, {
+    "tStartMs": 802280,
+    "dDurationMs": 3680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "los jóvenes que nos están viendo el día\nde hoy?"
+    } ]
+  }, {
+    "tStartMs": 806000,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "A ver, yo creo que hay varias\nhabilidades,"
+    } ]
+  }, {
+    "tStartMs": 809640,
+    "dDurationMs": 5400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pero sin duda donde uno, digamos, puede\nhablar de las habilidades de"
+    } ]
+  }, {
+    "tStartMs": 813440,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "comunicación,\nlas habilidades de negociación, pero hay"
+    } ]
+  }, {
+    "tStartMs": 818000,
+    "dDurationMs": 5680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "una habilidad muy importante que es el\nliderazgo."
+    } ]
+  }, {
+    "tStartMs": 821520,
+    "dDurationMs": 8920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Cada joven\ntiene el potencial de ejercer liderazgo."
+    } ]
+  }, {
+    "tStartMs": 827200,
+    "dDurationMs": 7800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Normalmente, los jóvenes o las personas\nque están en posiciones,"
+    } ]
+  }, {
+    "tStartMs": 832600,
+    "dDurationMs": 8160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "llamémoslo de entrada,\npiensan que el líder está allá arriba."
+    } ]
+  }, {
+    "tStartMs": 838160,
+    "dDurationMs": 7800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "El líder es el el jefe.\nYo creo que ese es un gran error."
+    } ]
+  }, {
+    "tStartMs": 843480,
+    "dDurationMs": 5920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Cada uno de nosotros\ntenemos la capacidad de ejercer"
+    } ]
+  }, {
+    "tStartMs": 847880,
+    "dDurationMs": 8280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "liderazgo.\nYo creo que eh esa es una habilidad muy"
+    } ]
+  }, {
+    "tStartMs": 853000,
+    "dDurationMs": 9840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "importante y que va a ser muy valorada,\nporque en últimas es hacer que una idea"
+    } ]
+  }, {
+    "tStartMs": 859880,
+    "dDurationMs": 9640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pueda movilizar diferentes actores\npara que sea una realidad. Entonces,"
+    } ]
+  }, {
+    "tStartMs": 866080,
+    "dDurationMs": 7280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "poder y eso implica otras habilidades\nQue se desprenden. Exactamente, que se"
+    } ]
+  }, {
+    "tStartMs": 871760,
+    "dDurationMs": 5600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "desprenden de ahí. Entonces, saber\ncomunicar, saber negociar. Incluso yo"
+    } ]
+  }, {
+    "tStartMs": 876000,
+    "dDurationMs": 4839,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "diría\neh"
+    } ]
+  }, {
+    "tStartMs": 878680,
+    "dDurationMs": 8760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que hay tres elementos o tres\nhabilidades muy importantes"
+    } ]
+  }, {
+    "tStartMs": 883360,
+    "dDurationMs": 8600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que es la lectura, saber leer,\nsaber hablar"
+    } ]
+  }, {
+    "tStartMs": 889760,
+    "dDurationMs": 5000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y saber escribir.\nSon cosas"
+    } ]
+  }, {
+    "tStartMs": 892920,
+    "dDurationMs": 7600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "del conocimiento. que parecen\nelementales, pero que uno ve que mucha",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 897680,
+    "dDurationMs": 7240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "gente le cuesta muchísimo. Si usted le\ndice a algún joven, de pronto, haga una"
+    } ]
+  }, {
+    "tStartMs": 903320,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "carta.\nPucha, pronto no, entonces ChatGPT"
+    } ]
+  }, {
+    "tStartMs": 907800,
+    "dDurationMs": 8360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ChatGPT, ayúdame a la carta.\nAh, sí, desde lo más mínimo piden ya la",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 912400,
+    "dDurationMs": 7800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ayuda digital. Y que y que puede ser,\ndigamos, pero pero es importante que"
+    } ]
+  }, {
+    "tStartMs": 918839,
+    "dDurationMs": 5201,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tengan\nsu criterio para saber si eso está bien"
+    } ]
+  }, {
+    "tStartMs": 923000,
+    "dDurationMs": 9880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "o mal.\n¿Sí? Y poder hacer esa esa esa crítica."
+    } ]
+  }, {
+    "tStartMs": 930160,
+    "dDurationMs": 7320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Eh, el tema de la escritura es\nfundamental."
+    } ]
+  }, {
+    "tStartMs": 934720,
+    "dDurationMs": 5680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "El el tema de cómo expresarse en\npúblico."
+    } ]
+  }, {
+    "tStartMs": 938760,
+    "dDurationMs": 5000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Cómo hacer una exposición, una\npresentación."
+    } ]
+  }, {
+    "tStartMs": 942120,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Porque en últimas,\ncuando usted tiene un negocio, a lo"
+    } ]
+  }, {
+    "tStartMs": 945160,
+    "dDurationMs": 9000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mejor va a ser esos 30 segundos que\nusted se va a encontrar con ese gran"
+    } ]
+  }, {
+    "tStartMs": 950520,
+    "dDurationMs": 11200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "inversionista en el ascensor y que usted\nle tiene que decir o le tiene que eh,"
+    } ]
+  }, {
+    "tStartMs": 957240,
+    "dDurationMs": 10400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "señalar, comunicar ese discurso de cómo\nvender su producto, vender su idea en"
+    } ]
+  }, {
+    "tStartMs": 964560,
+    "dDurationMs": 8560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ese momento específico. Entonces, eh,\nrequiere de diferentes habilidades y eso"
+    } ]
+  }, {
+    "tStartMs": 971600,
+    "dDurationMs": 5880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "se\nafina en la medida en que se van"
+    } ]
+  }, {
+    "tStartMs": 975760,
+    "dDurationMs": 6120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ejerciendo, se van practicando.\nEntonces, como todo, es muy importante"
+    } ]
+  }, {
+    "tStartMs": 980680,
+    "dDurationMs": 6600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "eso.\nY yo terminaría con otra que a veces no"
+    } ]
+  }, {
+    "tStartMs": 984960,
+    "dDurationMs": 8520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "se menciona.\nY es el ejercicio."
+    } ]
+  }, {
+    "tStartMs": 990520,
+    "dDurationMs": 8080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Sí. El ejercicio, porque muchas veces\ncuando usted está simplemente sentado al"
+    } ]
+  }, {
+    "tStartMs": 995839,
+    "dDurationMs": 9761,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "frente de la pantalla, hay una\ncomo un un incentivo al sedentar, al a"
+    } ]
+  }, {
+    "tStartMs": 1002920,
+    "dDurationMs": 8919,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hacer sedentario, ¿cierto? Y a que usted\nno no moverse. Pero en la medida en que"
+    } ]
+  }, {
+    "tStartMs": 1008080,
+    "dDurationMs": 10120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "usted eh, se dé la oportunidad de\nmoverse, de hacer ejercicio, de salir,"
+    } ]
+  }, {
+    "tStartMs": 1014680,
+    "dDurationMs": 7080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de eh, estar expuesto a\na a la naturaleza, en fin, yo creo que"
+    } ]
+  }, {
+    "tStartMs": 1020640,
+    "dDurationMs": 6520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "eso\ndebe generar mejores condiciones para"
+    } ]
+  }, {
+    "tStartMs": 1025240,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ejercer esas habilidades, ese\nconocimiento y también otros espacios de"
+    } ]
+  }, {
+    "tStartMs": 1029439,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "creatividad.\nCorrecto. Bueno, y la experiencia que"
+    } ]
+  }, {
+    "tStartMs": 1033640,
+    "dDurationMs": 7360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hay ahora con todas esas empresas que\nestán en alianza, unidos, que forman Pro"
+    } ]
+  }, {
+    "tStartMs": 1039199,
+    "dDurationMs": 6201,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Santander.\n¿Crees que si hablamos de una persona"
+    } ]
+  }, {
+    "tStartMs": 1043720,
+    "dDurationMs": 6280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que tiene conocimientos muy sólidos a\nnivel técnico, eh, idiomáticos también,"
+    } ]
+  }, {
+    "tStartMs": 1048360,
+    "dDurationMs": 8080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "saber lenguas,\ny otra persona que de pronto no tiene la"
+    } ]
+  }, {
+    "tStartMs": 1054320,
+    "dDurationMs": 6920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "misma capacidad técnica, pero es una\npersona integral, ¿cuál crees que"
+    } ]
+  }, {
+    "tStartMs": 1058560,
+    "dDurationMs": 7000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "realmente sería el perfil más apetecido\npor las empresas entre esos dos tipos de"
+    } ]
+  }, {
+    "tStartMs": 1063560,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "profesionales?\nSin duda una persona integral es muy"
+    } ]
+  }, {
+    "tStartMs": 1068360,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "llamativa.\nUsted puede ser técnico, pero si no se"
+    } ]
+  }, {
+    "tStartMs": 1071920,
+    "dDurationMs": 9960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "relaciona con los compañeros,\neso puede generar"
+    } ]
+  }, {
+    "tStartMs": 1077200,
+    "dDurationMs": 8000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "un problema de ambiente laboral.\nUsted en últimas hace parte de un"
+    } ]
+  }, {
+    "tStartMs": 1083400,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "equipo.\nY es fundamental tener"
+    } ]
+  }, {
+    "tStartMs": 1088000,
+    "dDurationMs": 5920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "una persona\nque contribuya a un mejor ambiente"
+    } ]
+  }, {
+    "tStartMs": 1092800,
+    "dDurationMs": 6520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "laboral,\nque contribuya mejores ideas."
+    } ]
+  }, {
+    "tStartMs": 1097120,
+    "dDurationMs": 7400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Y a veces esas ideas no están\nsimplemente en esa persona,"
+    } ]
+  }, {
+    "tStartMs": 1101800,
+    "dDurationMs": 9520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sino también cómo esa persona\ngenera las conversaciones y los espacios"
+    } ]
+  }, {
+    "tStartMs": 1107880,
+    "dDurationMs": 9760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y facilita y hace mejores preguntas, es\ndecir, cómo esa persona no solo es"
+    } ]
+  }, {
+    "tStartMs": 1115880,
+    "dDurationMs": 6080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "excelente técnico,\nsino también coequipero."
+    } ]
+  }, {
+    "tStartMs": 1120400,
+    "dDurationMs": 4760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Y yo creo que\neso implica que sea una persona"
+    } ]
+  }, {
+    "tStartMs": 1123840,
+    "dDurationMs": 10240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "integral.\nQue se sepa eh comunicar con los demás,"
+    } ]
+  }, {
+    "tStartMs": 1129680,
+    "dDurationMs": 8200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que eh pueda incluso sugerir\neh temáticas, pueda hacer buenas"
+    } ]
+  }, {
+    "tStartMs": 1136400,
+    "dDurationMs": 5480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "preguntas,\npueda responsabilizarse"
+    } ]
+  }, {
+    "tStartMs": 1139840,
+    "dDurationMs": 8480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de temas,\neh, tenga iniciativa,"
+    } ]
+  }, {
+    "tStartMs": 1144920,
+    "dDurationMs": 8200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "eh, eso es lo que requiere realmente los\nequipos de trabajo y las compañías."
+    } ]
+  }, {
+    "tStartMs": 1150280,
+    "dDurationMs": 8080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Podríamos entrar a hablar o analizar de\nque incluso una persona con no una alta"
+    } ]
+  }, {
+    "tStartMs": 1156360,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "capacidad técnica, si tiene esa\nhabilidad comunicativa, podría ser el"
+    } ]
+  }, {
+    "tStartMs": 1161160,
+    "dDurationMs": 5000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "profesional que realmente necesitaría la\nempresa, porque por medio de ser"
+    } ]
+  }, {
+    "tStartMs": 1164560,
+    "dDurationMs": 5440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "propositivo, por medio de estar\nparticipando, por medio de tener esa"
+    } ]
+  }, {
+    "tStartMs": 1168160,
+    "dDurationMs": 5600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "actitud de diálogo, podría entrar a\ncapacitarse incluso mejor que el que de"
+    } ]
+  }, {
+    "tStartMs": 1172440,
+    "dDurationMs": 5480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pronto ya viene con una capacidad\ntécnica. Así es, Víctor. Mire, hace poco"
+    } ]
+  }, {
+    "tStartMs": 1176640,
+    "dDurationMs": 9520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hablé\ncon el representante de una importante"
+    } ]
+  }, {
+    "tStartMs": 1181320,
+    "dDurationMs": 10800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "organización multilateral en Colombia.\nY luego de cerca de 5 años viviendo en"
+    } ]
+  }, {
+    "tStartMs": 1189200,
+    "dDurationMs": 9280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Colombia, le pregunté\nqué es lo que"
+    } ]
+  }, {
+    "tStartMs": 1194400,
+    "dDurationMs": 8640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "más le haya gustado de de Colombia.\nY me dijo, su gente."
+    } ]
+  }, {
+    "tStartMs": 1201240,
+    "dDurationMs": 7560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Eso es lo que más me me llamó la\natención y lo que más me agrada. Y eso"
+    } ]
+  }, {
+    "tStartMs": 1206120,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hace que muchas personas en el mundo\nquieran mi puesto."
+    } ]
+  }, {
+    "tStartMs": 1210760,
+    "dDurationMs": 5960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Porque yo soy el representante de esa\nentidad y acá se pelean por estar en"
+    } ]
+  }, {
+    "tStartMs": 1215160,
+    "dDurationMs": 7160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Colombia.\nY es yo dije, pero explíqueme un poco"
+    } ]
+  }, {
+    "tStartMs": 1219480,
+    "dDurationMs": 9360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mejor qué significa eso de la gente.\nDijo, una sonrisa."
+    } ]
+  }, {
+    "tStartMs": 1224800,
+    "dDurationMs": 9000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Esa empatía, esa buena vibra, esas ganas\nde hacer las cosas, esa resiliencia, ese"
+    } ]
+  }, {
+    "tStartMs": 1232040,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "positivismo\nque"
+    } ]
+  }, {
+    "tStartMs": 1234840,
+    "dDurationMs": 9880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "él no ve en otros países.\nEntonces, eh lo que usted dice,"
+    } ]
+  }, {
+    "tStartMs": 1242440,
+    "dDurationMs": 7800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "muy bien la parte técnica,\npero esa capacidad comunicacional es"
+    } ]
+  }, {
+    "tStartMs": 1247720,
+    "dDurationMs": 7320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "fundamental y eso es lo que va a hacer\nque esa persona"
+    } ]
+  }, {
+    "tStartMs": 1251800,
+    "dDurationMs": 9320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vuelva, que esa persona hable bien de\nnosotros, que pueda defender los"
+    } ]
+  }, {
+    "tStartMs": 1258640,
+    "dDurationMs": 6920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "proyectos que se le presentan y por lo\ntanto nosotros podamos construir un"
+    } ]
+  }, {
+    "tStartMs": 1263400,
+    "dDurationMs": 5640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mejor país. Eso viene siendo como una\ncualidad de lo que mencionabas ahorita"
+    } ]
+  }, {
+    "tStartMs": 1267160,
+    "dDurationMs": 6680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "acerca del liderazgo.\nAhora, después de"
+    } ]
+  }, {
+    "tStartMs": 1271840,
+    "dDurationMs": 5880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de tener al frente esta responsabilidad\ntan grande,"
+    } ]
+  }, {
+    "tStartMs": 1275160,
+    "dDurationMs": 8800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "eh de ser pues gerente ejecutivo de un\nun una institución de este calibre,"
+    } ]
+  }, {
+    "tStartMs": 1281080,
+    "dDurationMs": 8040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "indícanos de pronto tres factores o tres\ncualidades, tres habilidades que nos"
+    } ]
+  }, {
+    "tStartMs": 1285920,
+    "dDurationMs": 10400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "puedas decir acerca de lo que debe tener\nuna persona eh que tiene liderazgo."
+    } ]
+  }, {
+    "tStartMs": 1293800,
+    "dDurationMs": 5160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Que un líder que tres factores o tres\ncualidades que un líder debería tener,"
+    } ]
+  }, {
+    "tStartMs": 1297920,
+    "dDurationMs": 7120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sin falta.\nUno, la capacidad de escuchar."
+    } ]
+  }, {
+    "tStartMs": 1302280,
+    "dDurationMs": 8200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "De realmente poder\nem"
+    } ]
+  }, {
+    "tStartMs": 1307520,
+    "dDurationMs": 8840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "evitar prejuicios, sino darse la\noportunidad"
+    } ]
+  }, {
+    "tStartMs": 1312520,
+    "dDurationMs": 7600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de escuchar a los diferentes actores.\nDos,"
+    } ]
+  }, {
+    "tStartMs": 1318240,
+    "dDurationMs": 6840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tener carácter,\ntener la capacidad de impulsar"
+    } ]
+  }, {
+    "tStartMs": 1323760,
+    "dDurationMs": 5920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "eh\ndiferentes temas que velen por el"
+    } ]
+  }, {
+    "tStartMs": 1327560,
+    "dDurationMs": 7240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "bienestar general.\nHabrán"
+    } ]
+  }, {
+    "tStartMs": 1331440,
+    "dDurationMs": 6800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "incentivos de usted impulsar diferentes\nagendas."
+    } ]
+  }, {
+    "tStartMs": 1336000,
+    "dDurationMs": 9080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Pero yo creo que es muy importante\nel carácter de ese de esa persona de"
+    } ]
+  }, {
+    "tStartMs": 1343000,
+    "dDurationMs": 5880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "dedicarle esfuerzo\nrealmente"
+    } ]
+  }, {
+    "tStartMs": 1346560,
+    "dDurationMs": 6800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a temáticas\nque impulsen el bienestar de la"
+    } ]
+  }, {
+    "tStartMs": 1352000,
+    "dDurationMs": 4760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "comunidad.\nY"
+    } ]
+  }, {
+    "tStartMs": 1354520,
+    "dDurationMs": 5560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "adicionaría\nla capacidad de unión,"
+    } ]
+  }, {
+    "tStartMs": 1358720,
+    "dDurationMs": 6760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "la capacidad de facilitar\nconversaciones,"
+    } ]
+  }, {
+    "tStartMs": 1362040,
+    "dDurationMs": 11440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de realmente movilizar los actores\nen torno a un objetivo específico."
+    } ]
+  }, {
+    "tStartMs": 1369400,
+    "dDurationMs": 11160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Y eso implica mucho mucha empatía, mucha\nsensibilidad, eh implica"
+    } ]
+  }, {
+    "tStartMs": 1378040,
+    "dDurationMs": 7640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "eh poder conectarse con cada uno de esos\nactores."
+    } ]
+  }, {
+    "tStartMs": 1381840,
+    "dDurationMs": 9680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cuando hay líderes jóvenes\nmuchos son"
+    } ]
+  }, {
+    "tStartMs": 1388080,
+    "dDurationMs": 8240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "eh pues han tenido exposición\nde manera muy temprana"
+    } ]
+  }, {
+    "tStartMs": 1393840,
+    "dDurationMs": 8531,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "eh\ny a veces"
+    } ]
+  }, {
+    "tStartMs": 1398640,
+    "dDurationMs": 7560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "eh el liderazgo implica experiencia\n[resoplido]"
+    } ]
+  }, {
+    "tStartMs": 1403080,
+    "dDurationMs": 8240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "realmente para ser efectivo\ny",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 1407720,
+    "dDurationMs": 7800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y si bien es importante\no o es muy valioso que hayan líderes"
+    } ]
+  }, {
+    "tStartMs": 1413680,
+    "dDurationMs": 6440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "jóvenes\ndigamos más que más que la edad, yo creo"
+    } ]
+  }, {
+    "tStartMs": 1418160,
+    "dDurationMs": 5480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que es\nvalorar"
+    } ]
+  }, {
+    "tStartMs": 1421920,
+    "dDurationMs": 7200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "eh\nel hecho de"
+    } ]
+  }, {
+    "tStartMs": 1426040,
+    "dDurationMs": 9040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de haber cometido errores\ny uno necesita tiempo para realmente"
+    } ]
+  }, {
+    "tStartMs": 1432960,
+    "dDurationMs": 8440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tener la oportunidad de cometer errores\ny de aprender de esos errores"
+    } ]
+  }, {
+    "tStartMs": 1437840,
+    "dDurationMs": 8520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "eh por lo tanto no subvalorar la\nexperiencia"
+    } ]
+  }, {
+    "tStartMs": 1443440,
+    "dDurationMs": 8160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y sobre todo uno de los\nde los errores muy comunes"
+    } ]
+  }, {
+    "tStartMs": 1449280,
+    "dDurationMs": 5520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "es el ego y creer que uno se la sabe\ntodas"
+    } ]
+  }, {
+    "tStartMs": 1452920,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "es importante siempre darse la\noportunidad de"
+    } ]
+  }, {
+    "tStartMs": 1457160,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de abrir las conversaciones, de tener\nmucha humildad"
+    } ]
+  }, {
+    "tStartMs": 1462000,
+    "dDurationMs": 7360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "eh\ny y y solo en esa medida se va a lograr"
+    } ]
+  }, {
+    "tStartMs": 1467040,
+    "dDurationMs": 6760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tener legitimidad\nporque la legitimidad no va a ser"
+    } ]
+  }, {
+    "tStartMs": 1471640,
+    "dDurationMs": 6360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "suficiente con el conocimiento, la parte\ntécnica"
+    } ]
+  }, {
+    "tStartMs": 1475080,
+    "dDurationMs": 8200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "los grupos no lo reconozcan realmente\npor la forma de ser de esa persona"
+    } ]
+  }, {
+    "tStartMs": 1480880,
+    "dDurationMs": 7400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "porque no cae bien, porque las maneras\nno son las adecuadas"
+    } ]
+  }, {
+    "tStartMs": 1485520,
+    "dDurationMs": 8480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "eh y eso es un arte\ny eso se aprende"
+    } ]
+  }, {
+    "tStartMs": 1490440,
+    "dDurationMs": 9360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y por lo tanto eh es sobre todo muy\nimportante darse la oportunidad"
+    } ]
+  }, {
+    "tStartMs": 1496600,
+    "dDurationMs": 7600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de haber fracasado.\nPorque solo en esos fracasos y haberlos"
+    } ]
+  }, {
+    "tStartMs": 1502600,
+    "dDurationMs": 6960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "reconocido\nes que realmente uno puede corregir"
+    } ]
+  }, {
+    "tStartMs": 1507760,
+    "dDurationMs": 5360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y y aprender.\nMe parece muy importante lo que dices y"
+    } ]
+  }, {
+    "tStartMs": 1511720,
+    "dDurationMs": 5800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de hecho me lleva como a una segunda\npregunta y es el hecho de que para que"
+    } ]
+  }, {
+    "tStartMs": 1515880,
+    "dDurationMs": 5960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "la persona\neh pueda aprender estas habilidades es"
+    } ]
+  }, {
+    "tStartMs": 1520240,
+    "dDurationMs": 5160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "necesario lo que tú dices, darse el\ntiempo para cometer errores y tener esos"
+    } ]
+  }, {
+    "tStartMs": 1524240,
+    "dDurationMs": 5440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "espacios.\nPero si vamos a una entrevista de pronto"
+    } ]
+  }, {
+    "tStartMs": 1527560,
+    "dDurationMs": 7640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "laboral, donde de pronto son 5 o 10\nminutos, donde nos perfilan y dicen este"
+    } ]
+  }, {
+    "tStartMs": 1532800,
+    "dDurationMs": 7240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tiene la habilidad, este no la tiene.\n¿Cómo podríamos entrar a hablar de que"
+    } ]
+  }, {
+    "tStartMs": 1537920,
+    "dDurationMs": 7200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "las empresas realmente en estas alturas,\npor más de que saben que es muy muy"
+    } ]
+  }, {
+    "tStartMs": 1542880,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "importante que tengan estas habilidades\ncomunicativas"
+    } ]
+  }, {
+    "tStartMs": 1546600,
+    "dDurationMs": 7160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "la traten de calificar de una manera tan\nrápida y no le den ese tiempo, digamos,"
+    } ]
+  }, {
+    "tStartMs": 1551000,
+    "dDurationMs": 8000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "para cometer digamos, esos errores y\ndarse cuenta que el que haron en en la"
+    } ]
+  }, {
+    "tStartMs": 1556680,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sala de espera del trabajo, en realidad\nera la persona más idónea, la que se iba"
+    } ]
+  }, {
+    "tStartMs": 1561000,
+    "dDurationMs": 5960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a formar para lo que ellos necesitaban?\n¿Podríamos hablar de que las empresas"
+    } ]
+  }, {
+    "tStartMs": 1565160,
+    "dDurationMs": 6440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "realmente sí valoran que tengan estas\ncapacidades, aún cuando no tienen un"
+    } ]
+  }, {
+    "tStartMs": 1569080,
+    "dDurationMs": 6840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mecanismo de de medirlo?\nSí, yo creo que"
+    } ]
+  }, {
+    "tStartMs": 1573240,
+    "dDurationMs": 7160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "es muy importante que las empresas\npues generen otros espacios adicionales,"
+    } ]
+  }, {
+    "tStartMs": 1578400,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "es difícil uno evaluar\nen 5 minutos pues las habilidades de una"
+    } ]
+  }, {
+    "tStartMs": 1583200,
+    "dDurationMs": 8760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "persona o no.\nEh y puede que ese sea"
+    } ]
+  }, {
+    "tStartMs": 1588840,
+    "dDurationMs": 9920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "un mecanismo para evaluar ciertas cosas,\nno necesariamente esas habilidades."
+    } ]
+  }, {
+    "tStartMs": 1596400,
+    "dDurationMs": 6520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Em\nEs decir, no todo se va a evaluar en"
+    } ]
+  }, {
+    "tStartMs": 1600680,
+    "dDurationMs": 8400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "esos 5 minutos.\nY por lo tanto es es clave también"
+    } ]
+  }, {
+    "tStartMs": 1605640,
+    "dDurationMs": 9000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "utilizar otros mecanismos de evaluación\ny que los candidatos también"
+    } ]
+  }, {
+    "tStartMs": 1611760,
+    "dDurationMs": 7320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "busquen incidir de otras maneras.\nA veces es bueno comunicar a través de"
+    } ]
+  }, {
+    "tStartMs": 1617360,
+    "dDurationMs": 5600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "redes cuáles\nsus capacidades."
+    } ]
+  }, {
+    "tStartMs": 1621000,
+    "dDurationMs": 7200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Y con la evidencia\nhay que buscar validador."
+    } ]
+  }, {
+    "tStartMs": 1626440,
+    "dDurationMs": 7320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "No es lo mismo si alguien al interior de\nla empresa a lo mejor sugiere, oiga, es"
+    } ]
+  }, {
+    "tStartMs": 1631080,
+    "dDurationMs": 9000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que Víctor es un yo lo conozco y tiene\nesa capacidad. Sí, correcto."
+    } ]
+  }, {
+    "tStartMs": 1636040,
+    "dDurationMs": 9720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Y de pronto eso puede incidir o hay\ncierta evidencia o un correo adicional"
+    } ]
+  }, {
+    "tStartMs": 1643280,
+    "dDurationMs": 8880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que llegue, es decir, hay que buscar\ntambién cómo diferenciarse del resto."
+    } ]
+  }, {
+    "tStartMs": 1649080,
+    "dDurationMs": 6760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Porque si esos 5 minutos van a\ndeterminar"
+    } ]
+  }, {
+    "tStartMs": 1653800,
+    "dDurationMs": 6960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "eh la\nescogencia o no"
+    } ]
+  }, {
+    "tStartMs": 1657800,
+    "dDurationMs": 6920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "yo creo que hay que buscar cómo ampliar\nesos 5 minutos de otra manera."
+    } ]
+  }, {
+    "tStartMs": 1662560,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "esos 10 segundos con la persona en el\nascensor, venda su idea. Exacto. 5",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 1667240,
+    "dDurationMs": 5400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "minutos ya hablamos de un poco más de\ntiempo y realmente cómo marcar la"
+    } ]
+  }, {
+    "tStartMs": 1670480,
+    "dDurationMs": 6200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "diferencia en\npocas fracciones de tiempo, pero por qué"
+    } ]
+  }, {
+    "tStartMs": 1674360,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "soy diferente a las otras personas. Me\nme gusta como tal esa idea."
+    } ]
+  }, {
+    "tStartMs": 1678840,
+    "dDurationMs": 7000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Mencionabas ahorita algo acerca de que\nbueno es cuando tenemos mentores y"
+    } ]
+  }, {
+    "tStartMs": 1682560,
+    "dDurationMs": 7800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "personas que nos van ayudando y guiando.\nSi en ese momento tuvieras que hablarle"
+    } ]
+  }, {
+    "tStartMs": 1687600,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a a los jóvenes y decirles\neh este es el camino o te daría este"
+    } ]
+  }, {
+    "tStartMs": 1693040,
+    "dDurationMs": 5160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "consejo\n¿cuál crees que sería el mensaje que"
+    } ]
+  }, {
+    "tStartMs": 1696200,
+    "dDurationMs": 6600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ellos deberían escuchar en este momento\npara de pronto alinearse"
+    } ]
+  }, {
+    "tStartMs": 1701040,
+    "dDurationMs": 5880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "con el camino que deberían seguir?\nRecomendaría"
+    } ]
+  }, {
+    "tStartMs": 1705200,
+    "dDurationMs": 9360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "eh soñar.\nCreo que hay que eh"
+    } ]
+  }, {
+    "tStartMs": 1710440,
+    "dDurationMs": 11600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ver cuál es el mundo que uno quiere\nidentificar, digamos, ese ese propósito"
+    } ]
+  }, {
+    "tStartMs": 1719200,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "eh tener esas metas claras\nponerlas por escrito"
+    } ]
+  }, {
+    "tStartMs": 1725440,
+    "dDurationMs": 4800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "eh\ny"
+    } ]
+  }, {
+    "tStartMs": 1728240,
+    "dDurationMs": 5240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y creerse el cuento.\nYo creo que"
+    } ]
+  }, {
+    "tStartMs": 1731800,
+    "dDurationMs": 7000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que los jóvenes\neh tienen anhelos."
+    } ]
+  }, {
+    "tStartMs": 1735960,
+    "dDurationMs": 5320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Pero hay que clarificar esos anhelos.\nA veces usted le pregunta, bueno, pero"
+    } ]
+  }, {
+    "tStartMs": 1740000,
+    "dDurationMs": 3720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "usted quiere, ah, no, yo quiero esto y\nquiero esto y quiero lo otro y quiero,"
+    } ]
+  }, {
+    "tStartMs": 1742680,
+    "dDurationMs": 3600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "no, espere.\n¿Cuál es?"
+    } ]
+  }, {
+    "tStartMs": 1744840,
+    "dDurationMs": 5520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Clarifiquemos qué es lo que usted\nquiere."
+    } ]
+  }, {
+    "tStartMs": 1747360,
+    "dDurationMs": 9080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "E identificar ese propósito.\nY en la medida en que usted realmente lo"
+    } ]
+  }, {
+    "tStartMs": 1753560,
+    "dDurationMs": 10040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "adopte, se apropia de esa idea,\ncrea que realmente es posible, que usted"
+    } ]
+  }, {
+    "tStartMs": 1758840,
+    "dDurationMs": 10400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tiene la capacidad, eso va a suceder.\nUsted"
+    } ]
+  }, {
+    "tStartMs": 1766040,
+    "dDurationMs": 8720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "con esa meta establecida de manera\nclara,"
+    } ]
+  }, {
+    "tStartMs": 1770640,
+    "dDurationMs": 8120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "eh, sin duda va a permitir que sea muy\nfácil"
+    } ]
+  }, {
+    "tStartMs": 1776000,
+    "dDurationMs": 5640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "empezar a generar las acciones\npara que eso se convierta en una"
+    } ]
+  }, {
+    "tStartMs": 1780400,
+    "dDurationMs": 6600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "realidad.\nEntonces, eh, mi invitación es a que"
+    } ]
+  }, {
+    "tStartMs": 1784520,
+    "dDurationMs": 8240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "crean en ellos mismos.\nQue los jóvenes realmente tienen un"
+    } ]
+  }, {
+    "tStartMs": 1789040,
+    "dDurationMs": 10200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "potencial incalculable, inimaginable.\nY que simplemente es que ellos realmente"
+    } ]
+  }, {
+    "tStartMs": 1796400,
+    "dDurationMs": 8280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "identifiquen qué es lo que quieren.\nY que se la crean y realmente van a ver"
+    } ]
+  }, {
+    "tStartMs": 1802320,
+    "dDurationMs": 8600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que eso se va a hacer realidad.\nJuan Pablo, ya para cerrar hemos hablado"
+    } ]
+  }, {
+    "tStartMs": 1807440,
+    "dDurationMs": 7320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "eh de esta temática a nivel juvenil,\npero qué mensaje de pronto le podrías"
+    } ]
+  }, {
+    "tStartMs": 1812640,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "dar para estos profesionales que en este\nmomento sienten que de pronto la"
+    } ]
+  }, {
+    "tStartMs": 1816800,
+    "dDurationMs": 6520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "revolución de la inteligencia artificial\nlos va a dejar sin trabajo o los va a"
+    } ]
+  }, {
+    "tStartMs": 1820840,
+    "dDurationMs": 5800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "dejar sesgados en en sus carreras, que\nno están de pronto directamente"
+    } ]
+  }, {
+    "tStartMs": 1825480,
+    "dDurationMs": 4720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "conectadas con este tema de la\ntecnología."
+    } ]
+  }, {
+    "tStartMs": 1828200,
+    "dDurationMs": 7520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Sí, yo no creo que la inteligencia\nartificial vaya necesariamente"
+    } ]
+  }, {
+    "tStartMs": 1833600,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a reemplazar\na a las personas,"
+    } ]
+  }, {
+    "tStartMs": 1838040,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pero una persona\napoyada con inteligencia artificial sí"
+    } ]
+  }, {
+    "tStartMs": 1842560,
+    "dDurationMs": 8000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "va a reemplazar\na personas que no la utilizan."
+    } ]
+  }, {
+    "tStartMs": 1846440,
+    "dDurationMs": 7760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Es decir, el reto es cómo realmente\nadoptamos,"
+    } ]
+  }, {
+    "tStartMs": 1852360,
+    "dDurationMs": 7960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "aprendemos\ny aprovechamos"
+    } ]
+  }, {
+    "tStartMs": 1856440,
+    "dDurationMs": 10480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "la tecnología que tenemos a disposición.\nDe lo contrario, tenga la seguridad que"
+    } ]
+  }, {
+    "tStartMs": 1864040,
+    "dDurationMs": 9400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "si no lo empezamos\na utilizar,"
+    } ]
+  }, {
+    "tStartMs": 1869200,
+    "dDurationMs": 12200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "van a ser eh esas personas o la\ntecnología sí nos va a reemplazar."
+    } ]
+  }, {
+    "tStartMs": 1877120,
+    "dDurationMs": 9640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Entonces, eh aquí es lo que hay es una\noportunidad"
+    } ]
+  }, {
+    "tStartMs": 1883040,
+    "dDurationMs": 9280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de ser cada vez más productivos, generar\nmalo valor y adicional a eso, ganar"
+    } ]
+  }, {
+    "tStartMs": 1890000,
+    "dDurationMs": 8160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tiempo.\nEn la medida en que podamos utilizar,"
+    } ]
+  }, {
+    "tStartMs": 1895280,
+    "dDurationMs": 10520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sepamos utilizar la tecnología, podemos\nganar tiempo para dedicarle a cosas que"
+    } ]
+  }, {
+    "tStartMs": 1903560,
+    "dDurationMs": 8280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "le damos más valor.\nPodemos pasar más tiempo con la familia,"
+    } ]
+  }, {
+    "tStartMs": 1908560,
+    "dDurationMs": 8480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "con la pareja, para hacer ejercicio,\npara ver una película, en fin, y también"
+    } ]
+  }, {
+    "tStartMs": 1915560,
+    "dDurationMs": 7760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "siendo\nefectivos en las labores que nosotros"
+    } ]
+  }, {
+    "tStartMs": 1920160,
+    "dDurationMs": 8840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "realizamos. Entonces, eh\nhay que darle la bienvenida a la"
+    } ]
+  }, {
+    "tStartMs": 1925720,
+    "dDurationMs": 9320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tecnología, a la inteligencia artificial\ny que permita realmente eh"
+    } ]
+  }, {
+    "tStartMs": 1933360,
+    "dDurationMs": 9440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ayudar\na las organizaciones y eh a cómo"
+    } ]
+  }, {
+    "tStartMs": 1939680,
+    "dDurationMs": 6760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mejoramos nuestro desempeño y que nos dé\nmayores libertades en lo que realizamos"
+    } ]
+  }, {
+    "tStartMs": 1945480,
+    "dDurationMs": 6200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "día a día.\nCorrecto, bueno, el mensaje ha sido"
+    } ]
+  }, {
+    "tStartMs": 1948840,
+    "dDurationMs": 7760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "claro y contundente. Realmente, las\ncarreras van a ser muchas, hay muchas eh"
+    } ]
+  }, {
+    "tStartMs": 1954080,
+    "dDurationMs": 6800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "caminos que pueden entrar a tomar, pero\ncomo profesional o como joven debes"
+    } ]
+  }, {
+    "tStartMs": 1958680,
+    "dDurationMs": 5360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tener en cuenta la herramienta de la\ninteligencia artificial te va a hacer"
+    } ]
+  }, {
+    "tStartMs": 1962240,
+    "dDurationMs": 7160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "llegar un poco más lejos que el\nprofesional que no la esté utilizando. Y"
+    } ]
+  }, {
+    "tStartMs": 1966600,
+    "dDurationMs": 7400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "adicional, si no tienes las capacidades\ncomunicativas, es el momento para"
+    } ]
+  }, {
+    "tStartMs": 1971440,
+    "dDurationMs": 7320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "empezar a a cultivarlas y a trabajarlas\nporque sin duda esto es la base de los"
+    } ]
+  }, {
+    "tStartMs": 1976880,
+    "dDurationMs": 5000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "profesionales del futuro.\nMuchas gracias, Juan Pablo, por estar"
+    } ]
+  }, {
+    "tStartMs": 1980040,
+    "dDurationMs": 8800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "con nosotros el día de hoy. A ustedes,\ngracias por escucharnos. Nos vemos en un"
+    } ]
+  }, {
+    "tStartMs": 1983760,
+    "dDurationMs": 5080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "próximo episodio de Human Code Podcast."
+    } ]
+  } ]
+}

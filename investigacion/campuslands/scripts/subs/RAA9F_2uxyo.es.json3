@@ -1,0 +1,5183 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  }, {
+    "mhModeHint": 2,
+    "juJustifCode": 0,
+    "sdScrollDir": 3
+  } ],
+  "wpWinPositions": [ {
+  
+  }, {
+    "apPoint": 6,
+    "ahHorPos": 20,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  } ],
+  "events": [ {
+    "tStartMs": 0,
+    "id": 1,
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 359,
+    "dDurationMs": 5241,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Bueno, buenas tardes nuevamente. ¿Cómo\nestán? Ya estamos aquí instaladitos y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3560,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "quiero que para iniciar hagamos un\nejercicio mental y como lo dije de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 8240,
+    "dDurationMs": 7000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pronto las personas que estuvieron en la\nclase pasada, vamos a tomar desde ya la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 12160,
+    "dDurationMs": 9039,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "inteligencia artificial como un eh como\nun colaborador, como esa persona que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 17279,
+    "dDurationMs": 10481,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "nosotros acudimos eso para delegarle eh\ntareas pues de nuestro día a día en el",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 23039,
+    "dDurationMs": 8560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "caso de que nosotros bueno, tengamos eh\npersonas a nuestro cargo o ese tipo de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 29519,
+    "dDurationMs": 8921,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cosas. Bueno, la inteligencia artificial\nes eso, empezar a construir esas agentes",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 34520,
+    "dDurationMs": 7559,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que van a estar a tu cargo e para\nayudarte en esas tareas del día a día,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 40160,
+    "dDurationMs": 8320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "¿no? Entonces, imagina que hoy vas a\nconocer a ese mejor colaborador del",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 46199,
+    "dDurationMs": 7801,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mundo, a una persona que no se cansa,\nuna persona que sabe absolutamente de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 50199,
+    "dDurationMs": 6840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "todo, que trabaja 247, que resuelve\ntareas en segundos, que te ayuda a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 55840,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pensar, que te ayuda a ser más\nproductivo. Eso es la inteligencia",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 59480,
+    "dDurationMs": 5360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "artificial. Vamos a irnos con eso y\ncomenzamos.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 67600,
+    "dDurationMs": 9800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "De niños lo soñábamos, de adultos lo\nolvidamos,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 73479,
+    "dDurationMs": 3921,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pero nunca fue ficción.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 78439,
+    "dDurationMs": 10561,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "El futuro de ayer, la realidad de hoy\ny lo que nos espera mañana. ¿Recuerdas",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 86240,
+    "dDurationMs": 8239,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "esto, verdad? Soñábamos con hablar a\ntravés de un reloj, con ver a nuestros",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 91400,
+    "dDurationMs": 8840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "seres queridos a través de una pantalla.\nCreíamos en robots que nos ayudarían en",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 97159,
+    "dDurationMs": 8640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "casa. Imaginábamos inteligencias que lo\nsabían todo. Coches que no solo nos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 103040,
+    "dDurationMs": 7759,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "llevaban, sino que nos entendían.\nIncluso nos atrevíamos a pensar en lo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 108000,
+    "dDurationMs": 9520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "imposible. Replicar la vida, [música]\nfusionar al hombre con la máquina.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 113560,
+    "dDurationMs": 9680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Parecía magia. Eran solo películas. Solo\nfantasía [música]",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 118680,
+    "dDurationMs": 4560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "eran los sueños de un niño.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 128440,
+    "dDurationMs": 9600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Y entonces ese futuro llegó, [música]\npero el soñador cambió. Ahora eres el",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 134519,
+    "dDurationMs": 7720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "líder, el padre, el empresario, el que\ntoma [música] las decisiones. Y esa",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 140160,
+    "dDurationMs": 8200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "increíble capacidad de creer en lo\nimposible parece haberse desvanecido.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 145800,
+    "dDurationMs": 8240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "¿O no? Porque ellos, la [música] nueva\ngeneración nunca dejaron de soñar.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 152239,
+    "dDurationMs": 8441,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "La inteligencia artificial no [música]\nes una herramienta, es tu aliada. crean",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 157640,
+    "dDurationMs": 7440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "clones digitales y automatizan voces, no\npor ficción, sino por una eficiencia que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 163096,
+    "dDurationMs": 6783,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "[música]"
+    }, {
+      "utf8": " nosotros ni siquiera habíamos\nimaginado. Están diseñando un futuro",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 168120,
+    "dDurationMs": 6280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "donde lo digital y lo físico se\nfusionan, creando mundos [música] con",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 171959,
+    "dDurationMs": 6041,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hologramas y redefiniendo la industria\ncon robótica inteligente y realidad",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 176480,
+    "dDurationMs": 4920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "aumentada.\nEstán construyendo un [música] futuro",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 179239,
+    "dDurationMs": 6401,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sobre blockchain, redefiniendo el valor\ncon NFT. El cambio [música] ya está",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 184360,
+    "dDurationMs": 5280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "aquí.\nInteligencia artificial,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 187959,
+    "dDurationMs": 6481,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "metaverso,\nbig data.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 191720,
+    "dDurationMs": 7760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Estas no son tecnologías del futuro,\nestán transformando el mundo. Ahora, la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 197360,
+    "dDurationMs": 5320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "única pregunta [música] es, ¿tu empresa\nestá preparada?",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 203920,
+    "dDurationMs": 5920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Bueno, entonces precisamente como les\ndecía, la inteligencia artificial es ese",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 208200,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "candidato perfecto y ese candidato\nperfecto ya existe, pero así como tiene",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 212680,
+    "dDurationMs": 5479,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "esas ventajas que les comentaba ahorita,\nque es que sabe de todo, que trabaja en",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 216280,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "segundos, que escala tareas, que ayuda\ncasi en cualquier cosa, eh, y bueno,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 220519,
+    "dDurationMs": 6440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "trabaja tareas en segundos, tiene una\nserie de condiciones y es que no",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 224760,
+    "dDurationMs": 6800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "adivina, no interpreta intenciones\nambiguas, depende 100% de mis",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 229560,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "instrucciones, de lo que yo le digo. y\nsi recibe un mal contexto, nos va a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 233079,
+    "dDurationMs": 5800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "devolver malos resultados. Entonces,\nesto es algo primordial que hay que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 237040,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tener claro desde el principio para\nempezar a utilizar inteligencia",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 241280,
+    "dDurationMs": 8239,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "artificial. ¿Listo? Entonces, eh\nconfírmenme eh rápido rápidamente por",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 246239,
+    "dDurationMs": 8481,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "última vez, que todo se vea bien y eh\npues vamos avanzando. Entonces, como les",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 252159,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "decía, la inteligencia artificial es ese\ncandidato perfecto, pero tiene ciertas",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 257120,
+    "dDurationMs": 6280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "condiciones que tenemos que tener en\ncuenta eh pues a la hora de utilizarlo.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 260919,
+    "dDurationMs": 7720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Y hay un cambio de paradigma en el mundo\nlaboral y es que del 90 al 2010 ustedes",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 266840,
+    "dDurationMs": 6760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pues yo creo que mucha gente aquí tiene\npresente la suite de Microsoft Word,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 270680,
+    "dDurationMs": 6799,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Excel y PowerPoint. Esta suite era pues\nes el mínimo viable para tú ser",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 275280,
+    "dDurationMs": 5759,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "competente pues en el mercado laboral,\n¿cierto? Pues sea en el área que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 279160,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "estuvieses por Excel y PowerPoint, pues\nes lo básico, son las herramientas",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 282680,
+    "dDurationMs": 7600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "básicas que toda persona eh que todo\nprofesional debía manejar, ¿cierto? Para",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 287960,
+    "dDurationMs": 6200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sea cualquier tipo de tarea. Y luego en\n2010 2020 por ahí en esa década",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 292320,
+    "dDurationMs": 7520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "empezaron a aparecer otras herramientas\ncomo Teams, herramientas como eh la nube",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 297639,
+    "dDurationMs": 7441,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de Google, ¿cierto? eh que ya nos\npermitió acceder a Docs, a Google Docs,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 302840,
+    "dDurationMs": 6079,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "eh a Google Sheets, estas aplicaciones\nque eran como Word Excel y PowerPoint,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 306919,
+    "dDurationMs": 6201,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pero ya en la nube, ya no en tu\ncomputador local, ya no tenías que eh",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 311400,
+    "dDurationMs": 5880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pensar en que el archivo se podía perder\nsi se va a la luz, bueno, ese tipo de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 314720,
+    "dDurationMs": 6080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cosas, eh porque ya la la nube, la\ntecnología en la nube nos permitió",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 318840,
+    "dDurationMs": 6960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "llevar eso al siguiente nivel. Y bueno,\notras herramientas como precisamente",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 322960,
+    "dDurationMs": 7200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Teams, como Skype, bueno, otras\nherramientas que revolucionaron, vaya,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 327560,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "el trabajo eh y el mundo corporativo y\nlaboral. Pero entonces ahora llegamos a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 332840,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "otro cambio de paradigma con la\ninteligencia artificial, donde todas",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 336120,
+    "dDurationMs": 9400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "estas herramientas se van a volver eh\neso, el Word, Excel y PowerPoint",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 342800,
+    "dDurationMs": 9000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de nuestra época y de aquí en adelante.\nEso ténganlo por seguro. Word, Excel y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 347680,
+    "dDurationMs": 8799,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "PowerPoint del 2026 en adelante al 2030\nvan a ser las herramientas que integren",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 354960,
+    "dDurationMs": 5840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "inteligencia artificial. Por eso es tan\nimportante que todos lo tengamos muy",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 358319,
+    "dDurationMs": 6201,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "claro y que todos también tengamos\nempecemos a subirnos en este bus de la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 363039,
+    "dDurationMs": 5560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "inteligencia artificial por toda la\nproductividad, pues eso que supone, ¿no?",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 366720,
+    "dDurationMs": 5720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Entonces, [carraspeo]\n¿cuáles son esas herramientas? Aquí",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 370400,
+    "dDurationMs": 7560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tenemos eh para que ustedes tengan un\npanorama rápido, tenemos eh todas las",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 376240,
+    "dDurationMs": 8120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "herramientas de inteligencia artificial\nque existen ahorita en el mercado así",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 380360,
+    "dDurationMs": 7839,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vigente, ¿cierto? e categorizadas por\ncasos de uso, asistentes",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 385880,
+    "dDurationMs": 9120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "conversacionales, para generación de\ncontenido, para generación eh eso de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 391960,
+    "dDurationMs": 6959,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "diapositivas, para productividad, eh\nasistentes de para desarrolladores de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 397240,
+    "dDurationMs": 6679,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "software. Entonces, hay inteligencia\nartificial para muchos casos de uso y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 401880,
+    "dDurationMs": 7120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hay muchísimos pues diferentes niveles\nde inteligencia artificial. Eh, hoy",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 406240,
+    "dDurationMs": 7079,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "quiero que entiendan eso porque eh hay\nmuchísimo, muchísimo donde podemos sacar",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 411520,
+    "dDurationMs": 6920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "provecho de la inteligencia artificial.\nNo es solo hablar con chat GPT, no es",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 415199,
+    "dDurationMs": 7000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "solo eh hacer de pronto las cosas\nbásicas que hasta ahora cada uno venga",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 420879,
+    "dDurationMs": 5600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de pronto haciendo con inteligencia\nartificial, es verlo, es conocer eh las",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 425199,
+    "dDurationMs": 6161,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "diferentes funcionalidades que me\nofrece, cómo sacarle provecho a esas",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 428680,
+    "dDurationMs": 6959,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "diferentes funcionalidades, ¿cierto? Y\neh bueno, además de de cómo sacarle",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 433560,
+    "dDurationMs": 5440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "provecho, cómo empezar a aplicarlo\ntambién pues en mi día a día, ¿no?",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 437319,
+    "dDurationMs": 6041,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Entonces\nvamos a ingresar por acá. Lo tengo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 441280,
+    "dDurationMs": 7880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "preparado. Por aquí tengo, voy a quitar\nesto del fondo.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 445599,
+    "dDurationMs": 9681,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Por aquí lo tengo. Y es e chat GPT,\n¿cierto? Esta es la interfaz de chat GPT",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 452759,
+    "dDurationMs": 5961,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "gratuita. Voy a cuadrar esto por acá.\nSí.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 456680,
+    "dDurationMs": 6959,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Eh, aquí tenemos eso, la interfaz de\nchat GPT gratuita, ¿cierto? Aquí tenemos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 460879,
+    "dDurationMs": 8921,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "acceso al chat, tenemos acceso de pronto\na la creación de imágenes, tenemos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 465159,
+    "dDurationMs": 8801,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "acceso eh a la investigación profunda,\nal análisis de documentos. Aquí desde",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 471919,
+    "dDurationMs": 7400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "aquí nos deja probar ciertas cosas,\n¿cierto? nos deja interactuar con el",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 475840,
+    "dDurationMs": 7160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "chat, pero yo creo que hay una un\nsíntoma que muchos han identificado a la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 481639,
+    "dDurationMs": 6120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a la hora de utilizar inteligencia\nartificial y es que empiezan a hablar",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 485560,
+    "dDurationMs": 8599,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "con él, pero poco a poco se empieza a\ndañar, empieza a responder mal, empieza",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 490479,
+    "dDurationMs": 8241,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a inventarse datos o empieza a traer\ncosas que no tienen nada que ver con lo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 495639,
+    "dDurationMs": 5400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que uno eh pues con lo que uno está\nhaciendo. Entonces ustedes me van a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 499960,
+    "dDurationMs": 5560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "decir, \"No, usted me va a enseñar a\nutilizar Chat GPT, pero chat GPT no",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 503400,
+    "dDurationMs": 7040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sirve porque chat GPT se equivoca o chat\nGPT me inventa.\" Y es que ahí es donde",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 507680,
+    "dDurationMs": 7760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "viene eh los diferentes modelos de pago\nque tiene chat GPT, ¿cierto? La",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 512959,
+    "dDurationMs": 7601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "diferencia es pues las diferentes\nfuncionalidades y alcances que nos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 517599,
+    "dDurationMs": 8881,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "permiten eh pues las versiones pagas,\n¿cierto?, de estas herramientas, mucho",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 522279,
+    "dDurationMs": 8601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "en muchos casos e para sacarles provecho\na la inteligencia artificial, ¿no?",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 527720,
+    "dDurationMs": 9640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Entonces, eh la diferencia básicamente\nde chat GPT, pago a chat GPT eh pues",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 535279,
+    "dDurationMs": 7161,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "eso, gratuito, como lo tenemos en este\nmomento, son los diferentes modelos que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 540279,
+    "dDurationMs": 5721,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ellos me ofrecen. Y aquí los tenemos y\nes que quiero que se ubiquen aquí donde",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 544399,
+    "dDurationMs": 5521,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "están viendo mi cursor donde dice\ninstant. Este es el modelo de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 547560,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "inteligencia artificial que responde\ncuando nosotros utilizamos el chat GPT",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 552480,
+    "dDurationMs": 4200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "gratuito. ¿Qué es un modelo de\ninteligencia artificial? ¿Cómo así",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 554959,
+    "dDurationMs": 6801,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Santiago? Pues bueno, como los modelos\nde carros. Sale por ejemplo entonces el",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 559959,
+    "dDurationMs": 5841,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "carro sencillo, luego está el carro full\nequipo y luego está el carro que ya es",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 563839,
+    "dDurationMs": 7401,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "automático. Los diferentes modelos.\nBásicamente aquí eso representan es la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 568600,
+    "dDurationMs": 6080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "analogía perfecta para representar los\nmodelos de inteligencia artificial.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 572680,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Existe un modelo que es el más rápido y\nel más básico, el más generalista.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 576720,
+    "dDurationMs": 5960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Existe otro modelo que es el modelo\nthinking, ¿cierto? Ubiquen esos nombres",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 580920,
+    "dDurationMs": 4960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "porque de aquí en adelante si ustedes\nempiezan a utilizar inteligencia",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 583920,
+    "dDurationMs": 6159,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "artificial, todos esos nombres son muy\nimportantes que ustedes empiecen ya a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 587279,
+    "dDurationMs": 6441,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "empaparse de eso. No es algo técnico, no\nes algo que no hay que saber, es algo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 591480,
+    "dDurationMs": 6359,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que tenemos que empezar a empaparnos\nporque mucha gente que paga, yo conozco",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 595880,
+    "dDurationMs": 6079,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "gente que paga chat GPT y que ni\nsiquiera sabe qué modelo está",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 599079,
+    "dDurationMs": 7681,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "utilizando. Entonces, imagínense pues\nestas cosas que la gente cree que no son",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 604360,
+    "dDurationMs": 7039,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tan importantes, lo son, porque son eso,\nel estándar que va a estar de aquí en",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 608640,
+    "dDurationMs": 8720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "adelante para el la productividad y para\nel trabajo de todos, pues en cualquier",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 614279,
+    "dDurationMs": 7081,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "área que ustedes se desempeñen. Vaya.\nEntonces, ve viendo esto y teniendo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 619480,
+    "dDurationMs": 6479,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "claro que siempre en todas las\ninteligencias artificiales que ustedes",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 623519,
+    "dDurationMs": 6760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pues conozcan, van a existir como esta\nnomenclatura de tres modelos. Hay un",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 627920,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "modelo que es el básico, el más el más\nsencillo, ¿cierto? El más rápido, el más",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 631920,
+    "dDurationMs": 6159,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "barato. Luego está un modelo en medio\nque es el modelo competente que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 636200,
+    "dDurationMs": 6879,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "utilizamos para el día a día, para\ntrabajar, para investigar, para generar,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 640480,
+    "dDurationMs": 6120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "para analizar archivos, ¿cierto? Todas\nestas tareas del día a día lo utilizamos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 645040,
+    "dDurationMs": 5160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "con el modelo de en medio, que en este\ncaso hablando de chat GPT, es el modelo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 648440,
+    "dDurationMs": 7480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "thinking, ¿listo? El modelo thinking,\nque es el modelo que piensa, es el",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 652279,
+    "dDurationMs": 8161,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "modelo que antes de responderte piensa\nsu respuesta y la razona internamente",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 658240,
+    "dDurationMs": 7399,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "para no responderte cualquier cosa, sino\npara responderte pues eso, información",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 663079,
+    "dDurationMs": 7000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "realmente\nrealmente valiosa y que te sirva para la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 668120,
+    "dDurationMs": 6279,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tarea que estás haciendo. Entonces, los\nmodelos thinking son esos modelos que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 672360,
+    "dDurationMs": 6039,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tenemos que pensar en utilizar en\nnuestro día a día. ¿Listo? las personas",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 675839,
+    "dDurationMs": 7240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que de pronto utilicen chat GPT eh pago\ny ni siquiera conozcan los diferentes",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 680200,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "modelos que hay, eso es pues para esas\npersonas y también para que las personas",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 684959,
+    "dDurationMs": 6721,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que nunca lo hemos pagado en la vida\ntambién tengamos eh claro pues del poder",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 689880,
+    "dDurationMs": 6519,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que nos estamos perdiendo, ¿no? El chat\nGPT instant, que es el chat GPT básico,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 694000,
+    "dDurationMs": 6079,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sencillo, eh rápido, generalista. Si\nustedes se fijan, chat GPT nunca se va a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 698519,
+    "dDurationMs": 7361,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "demorar en responderles en la versión\ngratuita porque utiliza este modelo.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 702839,
+    "dDurationMs": 8560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Tenemos acceso a activar una\nfuncionalidad de análisis, pero es eh no",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 708760,
+    "dDurationMs": 7160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "es obviamente lo mismo que el modelo\npago. Entonces,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 713519,
+    "dDurationMs": 6721,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "esto tenerlo claro desde el principio,\nporque pues ustedes podrían pensar, no,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 718200,
+    "dDurationMs": 5639,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "usted va a venir a a enseñarme\núnicamente chat GPT y es que no es la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 722279,
+    "dDurationMs": 5201,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "herramienta, es el uso y las\nfuncionalidades y el alcance que le",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 725760,
+    "dDurationMs": 6759,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vemos. Entonces, estos son los\ndiferentes planes que tiene CHPT en este",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 730360,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "momento, que son el plan gratuito, el\nplan GO, que es un plan de eh 21000",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 735240,
+    "dDurationMs": 6599,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pesos, que ellos sacaron hace poco. Este\nplan es nuevo, este plan no existía hace",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 739240,
+    "dDurationMs": 6279,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "unos meses. Luego tenemos el plan plus,\nque es el plan pago de toda la vida, el",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 743800,
+    "dDurationMs": 6599,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que siempre ha existido. Y luego tenemos\nel plan pro. Yo en este caso pues yo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 748320,
+    "dDurationMs": 5400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "utilizo el plan plus y es el plan que yo\nle recomiendo a todo el mundo, pero de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 752240,
+    "dDurationMs": 5039,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pronto las personas que salgan de esta\ncapacitación y piensen, \"Venga, vamos a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 755360,
+    "dDurationMs": 5599,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "darle la oportunidad a ver qué tal al\nchat GPT.\" El plan Go me parece una",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 759240,
+    "dDurationMs": 6839,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "buena opción para ustedes que de pronto\nquieran empezar porque nos da e",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 765048,
+    "dDurationMs": 7791,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "[carraspeo]"
+    }, {
+      "utf8": "\nnos da acceso a eh no nos da acceso al",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 769639,
+    "dDurationMs": 9320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "modelo thinking, pero nos da más uso de\neh el modelo de inteligencia artificial",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 775240,
+    "dDurationMs": 7880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "GPT 5.3 Instant. ¿Listo? Y es que eso\nque yo les decía ahorita, eh, ahora",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 781959,
+    "dDurationMs": 3921,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que nos vamos,\npor favor, cuidado por ahí con los",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 784360,
+    "dDurationMs": 7240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "micrófonos,\nlos que tengamos activado el micrófono,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 787800,
+    "dDurationMs": 8399,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cuidado. Este, entonces [carraspeo] eso\nles comentaba, eh, me parece, pues eso,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 794440,
+    "dDurationMs": 6800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "un plan competente para esas personas\nque quieren darle la oportunidad. Eh,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 798720,
+    "dDurationMs": 8280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "son 20,000 pes. Es una salida a comer.\nEs algo que me parece que en el momento",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 804240,
+    "dDurationMs": 9520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de la historia donde estamos realmente\npensar eh que comprar software es un",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 810399,
+    "dDurationMs": 8521,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "lujo, es una bobada, es algo que no hay\nque tener ni siquiera eh pues en la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 816360,
+    "dDurationMs": 6520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mente. Pagar software no es un lujo,\npagar por inteligencia artificial no es",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 820880,
+    "dDurationMs": 8560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "innecesario, es productividad. No es un\nlujo, es productividad. Y esos 100,000es",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 826160,
+    "dDurationMs": 8440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "eh pues que cuesta el chat GPT Plus nos\ndan acceso a una serie de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 831720,
+    "dDurationMs": 6960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "funcionalidades más allá de simplemente\nhablar con un chat GPT normal. Aquí",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 837079,
+    "dDurationMs": 5721,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tenemos, en este caso, les estoy\ncompartiendo pantalla de mi cuenta",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 840360,
+    "dDurationMs": 9200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "personal de chat GPT, donde yo pago pues\nel chat GPT Plus, que es esa",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 846800,
+    "dDurationMs": 7800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ese plan de 100,000 pes que precisamente\nles estaba comentando, ¿no? Entonces,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 852819,
+    "dDurationMs": 7380,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "[carraspeo][tos]"
+    }, {
+      "utf8": "\neh, aquí está listo.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 857839,
+    "dDurationMs": 10920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Esta es la cuenta de Chat BT que obtiene\npues eso, toda eh como el modelo pago de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 863600,
+    "dDurationMs": 5159,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "siempre de Chat PT y nos da acceso a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 870880,
+    "dDurationMs": 3759,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Se le silenció el micrófono.",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 881399,
+    "dDurationMs": 9521,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Hola. Se le silenció el micrófono.\nEstá silenciado.",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 888120,
+    "dDurationMs": 6920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Listo. Ya, ya vi. Gracias, gracias,\ngracias. No, no sé en qué momento se",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 892759,
+    "dDurationMs": 6961,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "silenció eso, pero listo. Entonces, como\nles decía, repitiendo, en la versión",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 897880,
+    "dDurationMs": 5199,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "paga de chat BT, que en este caso yo\ntengo la versión plus, tenemos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 901399,
+    "dDurationMs": 6201,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "diferentes funcionalidades más allá de\nsimplemente el chat GPT de toda la vida.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 905279,
+    "dDurationMs": 6641,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "No es solo chat GPT de toda la vida.\nEsta plataforma nos ofrece más cosas y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 910040,
+    "dDurationMs": 7120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "más alcances. Entonces, por acá tenemos\nlos GPT, que son agentes de inteligencia",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 914399,
+    "dDurationMs": 6440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "artificial, que nosotros podemos crear,\nno solo utilizar los que existen, sino",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 919000,
+    "dDurationMs": 7920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "crear nuestros propios agentes para las\ntareas que yo necesite, que yo quiera",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 923800,
+    "dDurationMs": 7159,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hacer. Luego tenemos los proyectos donde\neh podemos utilizar la inteligencia",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 928759,
+    "dDurationMs": 6760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "artificial para guardar archivos, para\nguardar contexto y que la IA siempre",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 933399,
+    "dDurationMs": 7800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tenga acceso a eso. Pero entonces vamos\na hablar más claro y vamos a eh",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 938279,
+    "dDurationMs": 8240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "conceptualizarlo para que pues eso nos\nquede como [carraspeo]",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 943360,
+    "dDurationMs": 7279,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "eso ahí eh como algo claro. Y son estos\ndos conceptos que tenemos acá para",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 948079,
+    "dDurationMs": 8000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "entender la que es el concepto de la\ngente y el concepto de el copiloto.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 953680,
+    "dDurationMs": 7200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Entonces, un proyecto viene siendo como\nun copiloto y un GPT personalizado viene",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 958600,
+    "dDurationMs": 7560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "siendo como un agente. Pero entonces,\n¿cómo así? Los proyectos son como",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 963319,
+    "dDurationMs": 8561,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "copilotos de inteligencia artificial y\nlos agentes GPT son, bueno, eso agentes,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 969839,
+    "dDurationMs": 4961,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "¿no? Entonces, pero ¿qué es un agente?\n¿Qué es un agente de inteligencia",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 973759,
+    "dDurationMs": 4921,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "artificial? Le vamos a hacer una\nanalogía para que ustedes se la lleven",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 976319,
+    "dDurationMs": 8841,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "el día de hoy y es que hagan de cuenta\nque Chat GPT es un médico general, un",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 982040,
+    "dDurationMs": 7599,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "médico eh general a ti te resuelve\ndudas, tú vas y le consultas cosas y te",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 987399,
+    "dDurationMs": 7481,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ayuda y te remite, ¿cierto?, a un médico\nespecialista. Entonces, Chat GPT es una",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 992680,
+    "dDurationMs": 7040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "inteligencia artificial generalista que\nsabe absolutamente de todo, que te puede",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 997560,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ayudar absolutamente en cualquier cosa\nporque tiene todos los conocimientos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1002399,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "necesarios. es una inteligencia\nartificial generalista, sabe de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1006120,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "absolutamente todo. ¿Qué pasa? Para\nsacarle real provecho a la inteligencia",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1010399,
+    "dDurationMs": 7000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "artificial, yo lo que tengo que hacer es\nusarla para esa tarea en específico y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1015000,
+    "dDurationMs": 6920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "enseñarle a la IA cómo es que se hace\nesa tarea en específico que yo necesito.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1019959,
+    "dDurationMs": 7401,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Y una de las formas por las cuales\npodemos hacer eso se llaman precisamente",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1024400,
+    "dDurationMs": 8200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "los agentes y los copilotos. A estos\nnosotros les ponemos unas instrucciones",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1030120,
+    "dDurationMs": 7799,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "para que ellos empiecen a actuar de\ncierta manera, desde cierta perspectiva,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1035480,
+    "dDurationMs": 7680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "siguiendo tal vez ciertos procesos,\n¿cierto? O tal vez aprendiendo cómo eh",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1040760,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "se hacen las cosas en mi trabajo, cómo\nyo quiero las diapositivas, cómo yo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1045480,
+    "dDurationMs": 6040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "quiero el informe, cómo yo quiero la\nhoja de Excel todos los jueves con el",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1049520,
+    "dDurationMs": 7080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "informe de ventas, por ejemplo, me lo\nacaba de inventar. Pero entonces los",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1053640,
+    "dDurationMs": 8800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "agentes de inteligencia artificial es\nnosotros a la IA, al chat",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1058240,
+    "dDurationMs": 9080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "GPT y entregarle un cerebro propio, una\nidentidad propia, un paso a paso, unas",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1064679,
+    "dDurationMs": 7721,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "instrucciones que tiene que seguir y\npues él empiece a masterizar, ¿cierto? y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1070559,
+    "dDurationMs": 9561,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "aprender esa tarea que yo lo quiero\nponer a hacer, pues de manera más pro,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1075880,
+    "dDurationMs": 9400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de manera más eh\nde manera eso más precisa que yo pueda",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1082600,
+    "dDurationMs": 6920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sacarle más provecho. Entonces, por aquí\nyo tengo un ejemplo eh de diferentes",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1087799,
+    "dDurationMs": 5041,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "agentes que yo he creado, pero les voy a\nenseñar desde la versión gratuita para",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1091559,
+    "dDurationMs": 7120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "las personas que tienen la versión\ngratuita cómo pueden ingresar a estos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1096000,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "agentes de inteligencia artificial. Ojo,\ndesde la versión gratuita no podemos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1100360,
+    "dDurationMs": 6679,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "crear agentes, solo podemos ver los\nagentes que tenemos eh en la tienda de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1105520,
+    "dDurationMs": 4960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "agentes. Entonces, voy a entrar rápido\npara que ustedes puedan verlo. No me voy",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1108919,
+    "dDurationMs": 6921,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a demorar mucho en esto porque tenemos\nque hacer imágenes, tenemos que hacer un",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1112520,
+    "dDurationMs": 7399,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "montón de cosas, pero eh para que pues\npuedan también pensar en utilizar los",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1118120,
+    "dDurationMs": 5960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "agentes de la tienda. Entonces, aquí\ntenemos eh la versión gratuita. Si",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1122200,
+    "dDurationMs": 6440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ustedes se fijan en la barra izquierda\ndonde sale el historial, donde salen los",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1126400,
+    "dDurationMs": 6360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "proyectos, tenemos una opción acá que\nnos dice, pues en este caso más,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1130720,
+    "dDurationMs": 7360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "¿cierto? Son tres punticos que me deja\nvalir más opciones. Y voy a encontrar la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1135360,
+    "dDurationMs": 7319,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "opción de aplicaciones. Vamos a entrar\naquí a la sección de aplicaciones.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1141120,
+    "dDurationMs": 6200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Ahí ingresamos a la sección de\naplicaciones. Aquí van a encontrar eh",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1145080,
+    "dDurationMs": 7719,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "este contenido no nos interesa. Son\ndiferentes integraciones que puede hacer",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1149080,
+    "dDurationMs": 7599,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "chattas herramientas, pero esto está en\nfase beta, está en fase de pruebas.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1154720,
+    "dDurationMs": 6040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Entonces, todavía no nos vamos a centrar\nen esto. Vamos a ir a la parte superior",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1158480,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "donde dice GPT, ¿cierto? ¿Ven este\nbotoncito? Aquí en la parte superior",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1162360,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "derecha, estamos en la sección de\naplicaciones, ¿cierto? Parte superior",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1166320,
+    "dDurationMs": 7000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "derecha, el botón de GPT. Y si\ningresamos aquí, aquí vamos a encontrar",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1171120,
+    "dDurationMs": 8840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "la tienda de agentes de inteligencia\nartificial que ya existen, creados por",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1176039,
+    "dDurationMs": 7441,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "la comunidad y creados por por Open AI,\npor la gente de Chat GPT para las",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1182039,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "diferentes tareas. Entonces, aquí hay un\nbuscador donde yo puedo buscar",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1185039,
+    "dDurationMs": 8241,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "diferentes cosas. por ejemplo, eh, para\ncreación de de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1190640,
+    "dDurationMs": 8159,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "imágenes, yo puedo buscar ahí y ahí me\nva a empezar a buscar en la tienda de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1195760,
+    "dDurationMs": 7600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "todos los agentes de chatt,\npues otros agentes que hayan creado",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1200720,
+    "dDurationMs": 6079,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "diferentes personas. ¿Listo? Entonces,\nesto es una forma de yo buscar agentes",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1205240,
+    "dDurationMs": 5120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tal vez que a mí me puedan servir para\nlo que yo hago. Pero como les digo, lo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1208720,
+    "dDurationMs": 7880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "realmente valioso es crear nuestros\npropios agentes a partir de quién sabe",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1213080,
+    "dDurationMs": 8440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hacer mejor una tarea eh, que yo,\n¿cierto? Que la persona que cada uno de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1219039,
+    "dDurationMs": 7241,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ustedes que la persona que lo hace pues\nen su día a día. Pero entonces",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1224480,
+    "dDurationMs": 7600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "lastimosamente por eso les hacía la\naclaración de la de la cuenta de chatt",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1228960,
+    "dDurationMs": 8599,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "gratuita y esas diferentes opciones por\nlas cuales pensar en pagar en este caso",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1235200,
+    "dDurationMs": 6959,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "charge BT. Pero entonces les voy a\nmostrar una gente que yo cree y que es",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1240240,
+    "dDurationMs": 7760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "esa metodología que vamos a tener el día\nde hoy y es un agente eh director de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1245840,
+    "dDurationMs": 6839,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "empresas. ¿Cómo así, Santiago? Ya\nsabemos y ya tenemos claro que a los",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1249720,
+    "dDurationMs": 8079,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "agentes los podemos crear, los podemos\ncrear para diferentes tareas en",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1255840,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "específico, ¿no?, que yo tenga o\ndiferentes procesos que yo quiera",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1259760,
+    "dDurationMs": 6840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "estandarizar con un agente de\ninteligencia artificial. Entonces, en",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1264240,
+    "dDurationMs": 8280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "este caso, yo me creé un agente que lo\nque se encarga es mostrarnos a nosotros",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1270679,
+    "dDurationMs": 7321,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pues las diferent los diferentes\nalcances que tiene la inteligencia",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1274760,
+    "dDurationMs": 6799,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "artificial en\ngeneración de texto, generación de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1279440,
+    "dDurationMs": 7520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "imágenes. ¿Y cómo lo hace? Lo que\nhacemos es crear una empresa desde cero",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1284480,
+    "dDurationMs": 7559,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "o bueno, ustedes en este caso podrían\nutilizarlo para si ustedes tienen un",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1290080,
+    "dDurationMs": 7560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "emprendimiento, una imagen propia, una\nmarca para ver cómo pueden de cero con",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1295880,
+    "dDurationMs": 5880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "un agente de inteligencia artificial\ncrear una marca completamente desde cero",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1299600,
+    "dDurationMs": 6079,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y llegar a crear hasta una página web\npara esa marca completamente hecha con",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1303640,
+    "dDurationMs": 5600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "inteligencia artificial. Entonces, voy a\nentrar y voy a decirle, \"Hola.\"",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1307640,
+    "dDurationMs": 6279,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Eh,\nvoy a ver si sí ahí está funcionando",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1311960,
+    "dDurationMs": 7520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "bien. Ahí ya me respondió rápidamente y\nme dice, \"Soy tu director de activación",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1316840,
+    "dDurationMs": 7520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "empresarial con IA. te ayuda a convertir\nuna idea de negocio en una empresa",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1321520,
+    "dDurationMs": 7519,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "demostrable y lista para presentar con\nimagen, presentación, video y landing.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1326400,
+    "dDurationMs": 8279,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Entonces, aquí este agente me va a\nmostrar cómo me va a ayudar generando",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1331279,
+    "dDurationMs": 8241,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "texto, imagen, presentaciones, videos,\nuna landing page y un este inclusive un",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1337840,
+    "dDurationMs": 7680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "chatbot de inteligencia artificial.\nEntonces le voy a decir, eh, como acá él",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1342720,
+    "dDurationMs": 7559,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "me está respondiendo, me dice, \"Cuéntame\nen un resumen rápido qué tipo de de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1348000,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "empresa quieres crear, si ya tienes un\nnombre o quieres que yo lo proponga, si",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1352919,
+    "dDurationMs": 7041,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "quieres empezar desde cero o ya tienes\nuna idea base.\" Entonces,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1357640,
+    "dDurationMs": 7395,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "voy a hacerlo y vean cómo lo hago para\nque pues ahorita las personas que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1361600,
+    "dDurationMs": 8959,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "quieran puedan intentarlo para\n[carraspeo] pues eso, para ver como la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1367880,
+    "dDurationMs": 5840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "experiencia. Entonces, sí, precisamente\nese agente se los voy a compartir",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1371880,
+    "dDurationMs": 6120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ahorita. Vamos a ver cómo es el flujo\npara que ustedes vean. Como ven, le dije",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1376159,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hola y él ya me respondió\nespecíficamente con lo que él hace. Eso",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1380039,
+    "dDurationMs": 7281,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "es porque él ya tiene unas instrucciones\nde cómo debe responder, de cómo debe a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1384760,
+    "dDurationMs": 5399,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mí eh guiarme para ir avanzando por la\nmetodología. Entonces, ahora le va a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1388480,
+    "dDurationMs": 5600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "decir pues esa empresa que yo quiero\ncrear. En este caso le voy a decir algo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1392640,
+    "dDurationMs": 7560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sencillo. Voy a decir que quiero crear\nuna empresa de em",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1398080,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "distribución\nde perfumes",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1402840,
+    "dDurationMs": 8160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "e\nque son fragancias",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1407679,
+    "dDurationMs": 9921,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "eh con esencias\nde alta calidad",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1413600,
+    "dDurationMs": 7640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y muy parecidas a perfumes\neh de marca",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1423080,
+    "dDurationMs": 7280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Eh, sí, así lo va a decir. A ver qué me\nhace con un prom tan sencillo como ese.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1428760,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Entonces, ojo, ¿qué es lo que estamos\nprobando acá? La posibilidad de nosotros",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1433080,
+    "dDurationMs": 5839,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de que tenemos de crear agentes que ya\nsepan cómo actuar, que ya sepan qué",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1436919,
+    "dDurationMs": 6281,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hacer y que yo no tenga que matarme\nexplicándole cómo es mi proceso, que yo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1441360,
+    "dDurationMs": 5400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "no tenga que matarme explicándole qué\nes, cuál es la tarea que tengo que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1444440,
+    "dDurationMs": 6719,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hacer, que yo no tenga que matarme\nsiempre volviendo a explicarle el",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1448799,
+    "dDurationMs": 6321,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "contexto y el objetivo, todo ese prompt\nengineering que ahora está tan de moda",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1453600,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que es cómo hablar con la inteligencia\nartificial. Yo lo que puedo hacer es",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1457000,
+    "dDurationMs": 7320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "invertir mi tiempo en explicarle una vez\na la guía cómo debe hacer ese proceso,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1461679,
+    "dDurationMs": 6521,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "¿cierto? Cómo cómo se hace, cuál es el\npaso a paso que debe seguir y crear",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1466120,
+    "dDurationMs": 6120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "estos agentes para que él ya sepa lo que\ntenga que hacer. Tanto al punto sabe lo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1470159,
+    "dDurationMs": 6561,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que tiene que hacer, que yo puedo darle\nprompts sersencillos y él ya va a seguir",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1475279,
+    "dDurationMs": 6321,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "esas instrucciones que yo le di.\nEntonces, acá él me está entregando la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1478919,
+    "dDurationMs": 6441,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "marca, dice Essential Distribution. Ahí\nno me dio un nombre.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1485557,
+    "dDurationMs": 4323,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "[carraspeo]",
+      "isSpeakerChange": 1
+    }, {
+      "utf8": "\nmuy",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 1488200,
+    "dDurationMs": 5640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "muy creativo, la verdad. Voy a generarlo\nde nuevo. [risas]",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1492000,
+    "dDurationMs": 5720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Entonces, si se fijan [carraspeo] ahí lo\ngeneré de nuevo. Vamos a ver qué me dice",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1495080,
+    "dDurationMs": 7640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ahora. Me dice Essential Prime. Bueno,\nvamos a dejarlo así. Nombre de la marca",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1499520,
+    "dDurationMs": 8080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Essential Prime. Me crea un eslogan. Eh,\nme crea qué hace la empresa, el perfil",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1505600,
+    "dDurationMs": 4799,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ideal de los diferentes clientes que yo\npueda llegar a tener. Dice,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1508600,
+    "dDurationMs": 6840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\"Emprendedores y revendedores que buscan\nproductos atractivos, tiendas de belleza",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1512919,
+    "dDurationMs": 7120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "o cosmética, consumidores que valoran\naromas sofisticados similares a perfumes",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1517679,
+    "dDurationMs": 8081,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "reconocidos a un precio más accesible\nprecisamente. Entonces ahí él ya me está",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1522240,
+    "dDurationMs": 8039,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ayudando a crear todo y me creó\ninclusive el portafolio de servicios. me",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1528480,
+    "dDurationMs": 7040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "creo que yo entonces vendo un paquete\nbásico, un paquete pro, un paquete",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1533200,
+    "dDurationMs": 7359,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "premium. Entonces este agente está\nsiguiendo esas instrucciones, ese",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1537000,
+    "dDurationMs": 8080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "proceso que tiene para eh en este caso\ncrearme la marca. Lo voy a decir, me",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1542240,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "dice, \"Escríbeme siguiente.\" Entonces,\nvoy a utilizarlo. Recuerden que ahorita",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1546960,
+    "dDurationMs": 5079,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "la idea es que ustedes hagan este\nejemplo con su propia empresa, con su",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1550279,
+    "dDurationMs": 5520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "propia marca personal, con su propio\nemprendimiento, que usted le cuente,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1554159,
+    "dDurationMs": 5561,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\"No, mira, tengo un emprendimiento sobre\ntal cosa y se llama así.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1558159,
+    "dDurationMs": 4760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Quiero que me ayude a estructurarlo,\npero ya vamos a ver, no solo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1561120,
+    "dDurationMs": 7600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "estructurarlo, sino qué más es lo que me\nda. Me dice etapa dos, prompt",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1566159,
+    "dDurationMs": 7161,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "profesional para crear el logo. Y si\nustedes se fijan, me me entregó un",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1571399,
+    "dDurationMs": 7201,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "prompt listo. Bueno, ahí lo está\nterminando de escribir. Listo para",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1575279,
+    "dDurationMs": 8361,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "copiar y pegar, donde yo puedo generar\nprecisamente el logo de mi marca con",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1581880,
+    "dDurationMs": 5560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "otra inteligencia artificial que sea\npara creación de imágenes, ¿no?",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1585320,
+    "dDurationMs": 6479,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Entonces, yo ya no tengo que ir a la IA.\na ponerme a escribir el prompt, sino que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1589679,
+    "dDurationMs": 7321,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ya mi agente me lo dio. Entonces,\nimagínese la posibilidad de crear",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1594159,
+    "dDurationMs": 6841,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "agentes. Si usted aprende a crear\nagentes, esas diferentes posibilidades",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1598840,
+    "dDurationMs": 7680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que usted puede llegar a tener de\ndelegarle a la IA esas tareas",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1603919,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "específicas o esas cosas pues que usted\nno quiere estar haciendo todo el tiempo.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1608200,
+    "dDurationMs": 7199,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Entonces, voy a hacer el ejercicio y me\nvoy a ir a la sección de imágenes de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1611960,
+    "dDurationMs": 8959,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "chat GPT. Voy a abrirlo en otra pestaña.\nEh, voy a abrir una nueva pestaña de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1617919,
+    "dDurationMs": 7521,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "HPT. Voy a ir a la sección de creación\nde imágenes.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1622840,
+    "dDurationMs": 5920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "En este caso, aquí ya estoy dentro. Esto\nes exactamente igual en la versión",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1626760,
+    "dDurationMs": 7760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "gratuita y en la versión premium. Aquí\nestamos en la versión gratuita. Voy a ir",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1631640,
+    "dDurationMs": 7759,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a imágenes y aquí vemos la interfaz.\nEntonces, quiero que hagamos este",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1636679,
+    "dDurationMs": 6961,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "experimento y voy a copiar el prompt que\nme dio mi agente, ¿cierto?",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1641840,
+    "dDurationMs": 8640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Aquí él me da la opción para copiarlo\ndirectamente. Entonces lo voy a copiar y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1645840,
+    "dDurationMs": 9360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "me voy a ir a chat GPT plus y vamos a\nver qué tal la calidad de la creación de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1653039,
+    "dDurationMs": 6760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "la imagen. Y también me voy a ir a chat\nGPT gratuito. Aquí él ya va a empezar.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1658039,
+    "dDurationMs": 6161,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Voy a abrir mi otro chat GPT, que esta\nes una cuenta gratuita que tengo acá. Lo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1661679,
+    "dDurationMs": 6681,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pueden ver y vamos a ver pues qué\ndiferencia hay realmente. Listo.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1666240,
+    "dDurationMs": 7319,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Entonces esto es la parte de generación\nde imágenes de chat GPT. Pero entonces",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1670840,
+    "dDurationMs": 5800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "más allá de chat GPT existen otras\nherramientas, como les digo, para",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1674840,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "generación de imágenes. No sé si de\npronto aquí alguien conozca Nano Banana,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1678720,
+    "dDurationMs": 6360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que es un modelo que se volvió muy muy\nfamoso para este tema de la generación",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1682919,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "del contenido y la creación de imágenes,\nque pues es un modelo creado por Google,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1687880,
+    "dDurationMs": 5880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "¿cierto? que pues es el modelo ese que\ngeneraba esas imágenes con famosos que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1691279,
+    "dDurationMs": 8681,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "se pusieron de moda hace como unos 6\nmeses que te hacías la la foto con el",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1697240,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "famoso o la foto en la torre Ifel.\nBueno, esas diferentes cosas hechas con",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1701559,
+    "dDurationMs": 8761,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "inteligencia artificial. Con ese modelo\nde Google e es pues con el que se hacen",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1707159,
+    "dDurationMs": 8961,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ese tipo de cosas. Mira, mi chat GPT, en\neste caso, la versión plus ya eh me creó",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1714080,
+    "dDurationMs": 7040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "el logo. Ustedes se fijan, me creó el\nlogo pues en dos variaciones diferentes,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1718360,
+    "dDurationMs": 8679,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "en horizontal y como en vertical. Pues\nesto es un logo bastante interesante,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1723799,
+    "dDurationMs": 8360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "bastante sencillo. Entonces voy a hacer\notro ejercicio con este logo que acabo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1729080,
+    "dDurationMs": 9839,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de crear y es que yo ahorita tomé una\nimagen, ya se las voy a mostrar,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1735880,
+    "dDurationMs": 9120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de este térmito que es un térmito blanco\nque tengo acá, pues en campos. Aquí",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1741240,
+    "dDurationMs": 3760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "estoy pegando la imagen",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1745279,
+    "dDurationMs": 7520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y vamos a ver cómo chat GPT me va. Voy a\nutilizar esta imagen sencilla que acabo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1751240,
+    "dDurationMs": 6039,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de tomar. Imagínese que esto es un\nproducto, lo que usted vende o imagínese",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1754919,
+    "dDurationMs": 7281,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que eso es pues ese producto que usted\nquiere de pronto promocionar o bueno, en",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1760159,
+    "dDurationMs": 7601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "este caso tantas cosas que podemos\nentrar a ver eh con la inteligencia",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1764519,
+    "dDurationMs": 11280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "artificial. Entonces lo voy a decir e\nintegra el logo eh vertical",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1772640,
+    "dDurationMs": 8039,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de esentia\nprime",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1777320,
+    "dDurationMs": 9800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "en eh\ndirectamente",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1782360,
+    "dDurationMs": 9120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "en el termo blanco de agua,\n¿no? El termo blanco que está en la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1789760,
+    "dDurationMs": 5279,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "imagen\nde referencia.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1795360,
+    "dDurationMs": 10799,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Además,\nponlo en un estudio de fotos e",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1803159,
+    "dDurationMs": 3000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "profesional",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1806200,
+    "dDurationMs": 6599,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "con un fondo\nque contraste",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1810120,
+    "dDurationMs": 8600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "con el color\ndel termo.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1815720,
+    "dDurationMs": 3000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Listo.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1818840,
+    "dDurationMs": 7000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Vamos a ver cómo lo hace. Si lo hace\ndirectamente así.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1822960,
+    "dDurationMs": 7880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Ahí dice que ya está creando la imagen\ny vamos a ver el resultado de la versión",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1828039,
+    "dDurationMs": 7081,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "gratuita. Si ustedes se fijan, la\nversión gratuita todavía sigue,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1833600,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "no se ha terminado de generar en este\ncaso. Bueno, voy a a recargar la página",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1838360,
+    "dDurationMs": 6799,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a ver si no se terminó de generar o si\nsí ya ahí ya está.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1843080,
+    "dDurationMs": 8319,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Mira, me creó un logo bastante como por\nla misma línea, ¿no?",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1848519,
+    "dDurationMs": 6961,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Algo muy parecido,\nsi ustedes se fijan que es diferente,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1853240,
+    "dDurationMs": 6919,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pero algo pues muy parecido en este\ncaso. Entonces, [carraspeo]",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1858200,
+    "dDurationMs": 8280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "voy a ver, mira, lo que pude lograr. En\neste caso, ya tengo mi termo de Esential",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1862679,
+    "dDurationMs": 8360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Prime con la marca que yo Entonces, ¿qué\npuedo hacer yo? Yo puedo cargar imágenes",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1868399,
+    "dDurationMs": 9601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y puedo modificar imágenes que yo tome.\nPuedo inclusive pues tomar este prompt",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1873799,
+    "dDurationMs": 7120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de el logo que ya cree y eh utilizarlo\npara mejorarlo con nuestra inteligencia",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1879639,
+    "dDurationMs": 5961,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "artificial, etcétera. Entonces, voy a\ndarle siguiente,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1883600,
+    "dDurationMs": 7799,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que ya la prueba pues del logo la\nhicimos ahí bastante de manera bastante",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1888039,
+    "dDurationMs": 7480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "rápida, pero ahora me va a mostrar un\nprom profesional para crear la mascota",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1893600,
+    "dDurationMs": 6039,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de la marca. Entonces, bueno, en este\ncaso de que su negocio, el caso de uso",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1898000,
+    "dDurationMs": 8480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "en el que usted quiera hacer es la\nprueba con este agente, aplique para una",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1901880,
+    "dDurationMs": 8880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mascota muy válido y bueno, no solamente\npara utilizarlo en chat GPT, sino en",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1908639,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "otra plataforma que ya vamos a ver qué\nes lo que podemos lograr ahí. Entonces,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1912919,
+    "dDurationMs": 7801,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "en este caso me entrego un prom\nprofesional para crear la marca, perdón,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1917639,
+    "dDurationMs": 6760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "la mascota. Le voy a dar siguiente a ver\nqué más me va a generar.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1924480,
+    "dDurationMs": 7280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Bueno, en este caso, ¿por qué salieron\ntan tan iguales",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1929919,
+    "dDurationMs": 5281,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "las imágenes? Bueno, pues salieron tan\niguales precisamente por el prompt que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1934039,
+    "dDurationMs": 5000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "yo estoy utilizando. Si ustedes se\nfijan, yo utilicé el mismo prompt.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1936840,
+    "dDurationMs": 7839,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Entonces, por eso es que se genera lo\nmismo, o bueno, no lo mismo, pero algo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1942000,
+    "dDurationMs": 7000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "muy parecido. Y bueno, en este caso pues\nes porque utilizamos el mismo el mismo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1947200,
+    "dDurationMs": 6359,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "promp, ¿no? Obviamente si yo cambio el\npromo,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1951039,
+    "dDurationMs": 7880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "va a cambiar. Mira, en este caso me creó\notro prom profesional para la creación",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1956679,
+    "dDurationMs": 6041,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "la para la presentación comercial.\nEntonces, esto sería para crear una",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1960480,
+    "dDurationMs": 6520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "presentación. En la clase anterior, que\nde pronto las personas que estuvieron",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1964399,
+    "dDurationMs": 8681,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "estuvimos viendo\ntambién esa metodología con el agente de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1969519,
+    "dDurationMs": 9361,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "diapositivas que a mí me sirve para eh\npues eso, utilizar otra herramienta que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1975360,
+    "dDurationMs": 8559,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "es Notebook LM para la generación de\ndiapositivas. Esto no lo voy a indagar",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1981120,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hoy porque no me alcanza el tiempo, pero\neh este es otro agente de inteligencia",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1985880,
+    "dDurationMs": 7560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "artificial que tengo yo en este caso\npara otra tarea. En este caso la tarea",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1990399,
+    "dDurationMs": 7601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de este agente es crear diapositivas.\n¿Listo? Entonces, ¿qué es lo que yo acá",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1996440,
+    "dDurationMs": 6440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hago? Exactamente lo mismo que dice\nahorita. Voy a copiar el prompt para",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2001080,
+    "dDurationMs": 5240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "generar las diapositivas y voy a\nentregárselo a mi agente de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2004639,
+    "dDurationMs": 10000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "diapositivas. Listo. Entonces lo voy a\ndecir analizar el contenido",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2009720,
+    "dDurationMs": 9679,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "eh sobre mi empresa para generar una\npresentación",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2017000,
+    "dDurationMs": 6279,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "completa.\nEh,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2020919,
+    "dDurationMs": 7441,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sí, así lo voy a decir. Vamos a dejarlo\nahí trabajando mientras sigo por acá.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2025399,
+    "dDurationMs": 7120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Entonces, PR profesional para creación\nde presentación comercial. Lo voy a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2030480,
+    "dDurationMs": 5439,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "decir ahora. Listo. Siguiente. ¿Qué más\nme va a entregar?",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2037080,
+    "dDurationMs": 7240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Este agente me va a entregar ahora un\nprom profesional para crear un video",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2041799,
+    "dDurationMs": 8481,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "corto. ¿Listo? Entonces, este video\ncorto eh vamos a ver cómo lo podemos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2047159,
+    "dDurationMs": 7041,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "generar rápidamente porque no tengo\nmucho tiempo, pero entonces vamos a ver",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2051960,
+    "dDurationMs": 6800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cómo puedo yo ingresar. Y esto va a ser\nun tipcito que les voy a llevar, que es",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2056159,
+    "dDurationMs": 8720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "algo nuevo que salió hace unos días, que\neh es una plataforma de Google donde yo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2061200,
+    "dDurationMs": 9520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "puedo acceder al modelo pago de Beo 3.1\npara generar diferentes videos con",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2067560,
+    "dDurationMs": 8960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "inteligencia artificial. Y esta es esa\nherramienta que tenemos en este caso eh",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2074440,
+    "dDurationMs": 6919,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "para crear videos con inteligencia\nartificial de manera gratuita. Se los",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2078440,
+    "dDurationMs": 6760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "voy a compartir aquí por el chat.\n¿Listo? Para que la tengan ahí.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2086199,
+    "dDurationMs": 4880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "[carraspeo]",
+      "isSpeakerChange": 1
+    }, {
+      "utf8": "\nY ahorita vamos a hacer el ejemplo de",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 2088599,
+    "dDurationMs": 7000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "creación de videos con esa plataforma.\nVoy a seguir escribiendo siguiente a ver",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2093320,
+    "dDurationMs": 7320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "qué más me va a entregar. Ya me entregó\nel logo, me entregó una mascota, me",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2097720,
+    "dDurationMs": 7840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "entregó una presentación, me entregó en\neste caso un video, un prompt para un",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2103040,
+    "dDurationMs": 9360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "video y vamos a ver, ahora me entrega un\nprom profesional para crear la landing",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2108800,
+    "dDurationMs": 7799,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "page de mi empresa. Entonces, muy bueno\neste agente porque ya me entrega los",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2114359,
+    "dDurationMs": 7601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "promps listos para que yo solo tenga que\ncopiar y pegar. Entonces, vamos a ver",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2119839,
+    "dDurationMs": 8081,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cuál es esa otra herramienta que yo les\nestaba hablando y es precisamente Google",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2124839,
+    "dDurationMs": 9760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "AI Studio. Y aquí vendría siendo otro\nejemplo muy claro de esos diferentes",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2132240,
+    "dDurationMs": 7440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "eh agentes que perdón, de esos\ndiferentes modelos que yo tengo, así",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2136839,
+    "dDurationMs": 7161,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "como Chat GPT, Gemini tiene también sus\ntres niveles de agentes que funcionan",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2142040,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "para diferentes cosas. Entonces, si\nustedes entran a Google AI Studio, van a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2146680,
+    "dDurationMs": 7240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ver que como primero les van a salir\nestas seis opciones y aquí es donde",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2151319,
+    "dDurationMs": 6481,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tenemos disponible todas las opciones de\ngeneración con los modelos de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2155680,
+    "dDurationMs": 6600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "inteligencia artificial de Google.\nEntonces, si ustedes se fijan, acá",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2158800,
+    "dDurationMs": 7519,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tenemos código y chat, tenemos\ngeneración de imágenes, tenemos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2163599,
+    "dDurationMs": 6881,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "generación de video y tenemos generación\nde voz y bueno, generación para eso,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2168760,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "para narrativa, para yo generar, por\nejemplo, res de esos que son eh",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2172640,
+    "dDurationMs": 7640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "generados con IA. Entonces, aquí los\npuedo generar. Vuelvo texto a audio.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2178440,
+    "dDurationMs": 7440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Entonces, en este caso voy a hacer el\nejemplo con eh el modelo de inteligencia",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2183319,
+    "dDurationMs": 6881,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "artificial de generación de imágenes. Y\ncomo cuando ustedes entran acá a la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2188240,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "generación de imágenes, si se fijan,\ntenemos esos tres niveles. Tenemos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2192319,
+    "dDurationMs": 6561,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "nanobanana normalito, que es el modelo\nmás sencillo de todos. Tenemos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2196720,
+    "dDurationMs": 6200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "nanobanana 2, que es el modelo\nintermedio, ¿cierto? el modelo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2201040,
+    "dDurationMs": 7400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "competente. Y luego tenemos Nanobanana\nPro, que es el modelo de última",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2205960,
+    "dDurationMs": 5960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "generación para generación de imágenes\nredundantemente,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2209960,
+    "dDurationMs": 6440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "eh, el último modelo de inteligencia\nartificial de Google para generación de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2213920,
+    "dDurationMs": 6360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "imágenes. Entonces, en este caso, todos\nustedes van a poder ingresar a esta",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2217720,
+    "dDurationMs": 7119,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "plataforma y utilizar Nanobanana normal,\nporque pues es el modelo gratuito que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2222880,
+    "dDurationMs": 4560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "nos deja utilizar en este caso Google,\n¿no? Entonces, ¿qué es lo que voy a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2226400,
+    "dDurationMs": 5880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hacer acá? Voy a volver a hacer el\nejemplo del logo para que veamos cómo eh",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2230640,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pues en este caso lo generaría\nnanobanana normal.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2234599,
+    "dDurationMs": 6161,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Y también voy a hacer la prueba con otra\ncuenta que tengo, que sí es una cuenta",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2238839,
+    "dDurationMs": 6361,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que puede acceder a los modelos de\ninteligencia artificial pagos, como van",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2243240,
+    "dDurationMs": 7240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a ver acá, por ejemplo, aquí puedo\nacceder a Nano Banana Pro. No les voy a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2248280,
+    "dDurationMs": 7400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "explicar en este momento cómo pueden\nhacer esto, este pago, porque eso sería",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2252760,
+    "dDurationMs": 7040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "para una capacitación más enfocada al\ntema de Google AI Studio. O bueno, en",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2258079,
+    "dDurationMs": 5441,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "este caso estamos haciendo una una\nmasterclass donde les mostramos a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2261560,
+    "dDurationMs": 5960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ustedes todos estos diferentes alcances\nque puede llegar a tener. Entonces, en",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2265000,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "este caso aquí sí tenemos Nanobanana\nPro, que como les digo, Nanobanana Pro",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2269400,
+    "dDurationMs": 6840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "es el último modelo de inteligencia\nartificial de Google, el más pro de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2273599,
+    "dDurationMs": 7561,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "todos y el que genera mejores imágenes.\nEntonces también vamos a comparar ese",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2278560,
+    "dDurationMs": 6759,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "resultado y también vamos a ver dónde\npuedo generar esa landing page de manera",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2284000,
+    "dDurationMs": 5440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "rápida. Entonces, mira cómo me lo\ngeneró. En este caso, una novanana",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2286880,
+    "dDurationMs": 7280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "normal me generó una variación más\ninteresante con un logo con una e",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2291960,
+    "dDurationMs": 7280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Essential Prime y me generó como tres\nvariaciones. Está interesante.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2296920,
+    "dDurationMs": 8399,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Y en este caso, miren, el que me generó\nnanobanana Pro. Está también bastante",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2302240,
+    "dDurationMs": 7960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "interesante. Me gusta este, me gusta\nesto, este loguito así como de, no sé",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2308240,
+    "dDurationMs": 5480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "qué es eso, pero me gusta. Está\ninteresante. Este fue el que más me",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2312040,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "gustaba de todos. Entonces, voy a\nutilizar este modelo y vamos a ver dónde",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2316440,
+    "dDurationMs": 7919,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "es que entro para crear esas páginas\nweb. Cuando ustedes estén en Google AI",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2320440,
+    "dDurationMs": 7360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Studio, van a entrar a el apartado de,\nbueno, como lo dice en inglés o en",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2325880,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "español, probablemente sea como zona de\npruebas, el playground, que es la zona",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2330119,
+    "dDurationMs": 7401,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de chat. Voy a descargar esto para que\nno se me pierda y ya lo descargué.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2334400,
+    "dDurationMs": 9320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Listo. Entonces, voy a abrirlo de nuevo\ny cuando ustedes ingresen lo que van a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2339839,
+    "dDurationMs": 10201,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pues ver es eh pues eso, la interfaz de\nchat de toda la vida, ¿cierto? Y arriba",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2346040,
+    "dDurationMs": 7440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a la derecha podemos eh\ningresar pues eso, las diferentes",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2351640,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "funcionalidades. Dice Sara que cuando\nentra Google Studio le sale error.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2356640,
+    "dDurationMs": 6479,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Entonces voy a hacer la prueba, por\nejemplo, entrando",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2360359,
+    "dDurationMs": 8841,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "desde otra cuenta,\nuna cuenta que nunca haya entrado, a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2366200,
+    "dDurationMs": 3000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Studio.google.com.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2369680,
+    "dDurationMs": 12520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Listo, esta es la URL. Bueno, aquí no me\ndeja porque no no he iniciado sesión.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2378000,
+    "dDurationMs": 7200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "A ver, aquí AI Studio.\nGoogle.com",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2386720,
+    "dDurationMs": 9720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Aquí me deja entrar. Eh,\nvoy a pasarte el link de nuevo, el link",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2393319,
+    "dDurationMs": 7361,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "como limpio. Aistudio.google.com.\nAquí esto es una un usuario nuevo.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2398920,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Entonces cuando yo entro por primera vez\nme sale que me dan la bienvenida y para",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2403720,
+    "dDurationMs": 7560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "aceptar unos acuerdos. ¿Listo? Entonces\nle voy a dar continuar a ver qué más me",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2408119,
+    "dDurationMs": 7561,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sale y ya puedo empezar a trabajar en\neste caso con Google Studio. Como les",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2413560,
+    "dDurationMs": 8960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "decía, esta es la parte inicial,\n¿cierto? Eh, la parte como de inicio de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2419760,
+    "dDurationMs": 6960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Google AI Studio. ¿Dónde me voy a crear\nesas esas páginas? ¿Dónde me voy a crear",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2424960,
+    "dDurationMs": 6680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "esa landing page? Si ustedes se fijan en\nla parte izquierda, en esta barra de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2428839,
+    "dDurationMs": 8121,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "navegación después de playground vamos a\ntener una opción que es build",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2434319,
+    "dDurationMs": 8161,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "o construye en inglés. Nos dice acá\nprecisamente construye tus ideas con",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2439280,
+    "dDurationMs": 8240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Gemini. Aquí es donde nosotros venimos\npara crear esos diferentes páginas webs",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2445040,
+    "dDurationMs": 7799,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "o cualquier cosa prácticamente con\ncódigo que nosotros querramos crear con",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2450640,
+    "dDurationMs": 6760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Yemin. Entonces voy a crear esa página\nweb que me creó mi agente, ¿cierto? Lo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2455800,
+    "dDurationMs": 11440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "único que voy a hacer, ay, no, aquí no\nes, eh, aquí. Entonces, me voy a venir a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2462520,
+    "dDurationMs": 9240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mi agente, ¿cierto? Voy a ir nuevamente\nal prompt.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2469079,
+    "dDurationMs": 7641,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Si ustedes se fijan acá me dice prompt\nprofesional para, no, este no es prom",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2474079,
+    "dDurationMs": 6760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "profesional para crear la landing page.\nEntonces, aquí tenemos la el prompt. Lo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2479040,
+    "dDurationMs": 8480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "voy a copiar.\nMe voy a ir a Google Studio nuevamente.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2485200,
+    "dDurationMs": 6760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Voy a ingresar a la parte de build,\n¿cierto? Recordemos que a la izquierda",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2489240,
+    "dDurationMs": 6920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "en la barra aparecemos en build y aquí\ntenemos la interfaz de chat. Entonces",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2493920,
+    "dDurationMs": 6040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ingresamos y pegamos directamente el\nprompt. En este caso, no voy solo a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2498040,
+    "dDurationMs": 7840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pegar el prompt, sino que voy a cargar\ntambién la imagen del logo que ya me",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2502599,
+    "dDurationMs": 8041,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "gustó, que vimos ahorita, que es esta.\nEsta fue la que más me gustó. Voy a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2507480,
+    "dDurationMs": 6599,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mandársela para que la utilice y le doy\nen empezar. Aquí me dice inclusive que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2512599,
+    "dDurationMs": 6361,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "si quiero activar las notificaciones\npara que cuando esté listo me notifique,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2516160,
+    "dDurationMs": 6040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pero en este caso lo voy a dejar así y\nvamos a dejarlo que trabaje. Pero",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2520640,
+    "dDurationMs": 8080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "entonces\nvamos a ingresar mientras esto trabaja a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2525319,
+    "dDurationMs": 7641,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "eh esa página que les decía para pues\neso, para eh generar vídeos con",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2531680,
+    "dDurationMs": 7360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "inteligencia artificial. Y es tan\nsencillo como venir acá y buscar Google",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2536400,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Bits como videos, pero bits. Entonces\nvamos a buscarlo. Google Bits no hay",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2541280,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pierde. Nos va a servir como primera\nopción. Eh, fíjense que no sea una",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2544920,
+    "dDurationMs": 9679,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "estafa o algo así porque nunca falta,\npero esta es la el enlace al que tenemos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2551079,
+    "dDurationMs": 9721,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que entrar, que es workspace.google.com.\nY bueno, la eh la al apartado de Bits en",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2558319,
+    "dDurationMs": 6641,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "específico, porque Workspace, pues eso\nes es nos ofrece pues las diferentes",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2562920,
+    "dDurationMs": 7240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "aplicaciones de el espacio de trabajo de\nGoogle. ¿Cómo más puedo entrar? Entonces",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2568040,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "puedo irme acá. Si ustedes se fijan en\nla cuenta de Google, a la izquierda",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2571920,
+    "dDurationMs": 7919,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "están las aplicaciones. Si acá buscamos\nen las diferentes aplicaciones, eh, aquí",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2577839,
+    "dDurationMs": 5961,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tendría que estar Bits. En este caso,\naquí está, míralo. Aquí tenemos la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2581400,
+    "dDurationMs": 6840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "aplicación de Bits. ¿Listo? Entonces,\ncuando a Bits, ¿qué me permite hacer? Si",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2585880,
+    "dDurationMs": 7920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ustedes se fijan, la primera opción es\nuna opción nueva. Me permite a mí crear",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2591200,
+    "dDurationMs": 7840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "videos con el modelo más pro de Google\npara generación de videos sin pagar",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2595599,
+    "dDurationMs": 8361,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "absolutamente ni un peso. Entonces, esto\nes espectacular. Si ustedes entran y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2601640,
+    "dDurationMs": 6760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "eligen la opción de generación de video\ncon esto es un editor de video,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2606240,
+    "dDurationMs": 5920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "básicamente esto es un editor de video\nde Google, pero eso es lo valioso que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2610599,
+    "dDurationMs": 6960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "podemos generar videos desde acá.\nEntonces, aquí nos deja crear un video",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2613880,
+    "dDurationMs": 9080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "desde cero o animar una imagen. ¿Listo?\nCrear un video desde cero o animar una",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2619520,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "imagen. Eh, Katia, ¿estás alzando la\nmano? No sé si necesitas algo. Me puedes",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2624720,
+    "dDurationMs": 8680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "escribir por el chat. ¿Qué necesitas?\nCuéntame o me puedes hablar también.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2630520,
+    "dDurationMs": 10400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Eh, sí. Hola, muchas gracias, Santiago.\n¿Cómo estás? Eh, acá, es decir, así como",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 2636599,
+    "dDurationMs": 11520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tú lo estás e explicando, eh la idea es\nque se suben los videos. Por ejemplo, yo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2643440,
+    "dDurationMs": 12200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tengo un video mío eh hablando de bueno,\nde algo particular promocionar eh un",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2652040,
+    "dDurationMs": 8120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "producto o un servicio mío. Eh cargo el\nvideo acá y él me lo edita como yo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2657920,
+    "dDurationMs": 6600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "quiera, o sea, lo que hacíamos\nanteriormente con CAP, con",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2662960,
+    "dDurationMs": 5359,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "No, no, no, no. Eso sí lo puede lograr\nla inteligencia artificial, pero esta",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 2666119,
+    "dDurationMs": 9361,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "herramienta no lo puede lograr. Eso lo\npodría lograr Cloud, que ahí en ese caso",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2671400,
+    "dDurationMs": 9719,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pues podríamos también pensar en eh pues\nes una formación enfocada en cloud para",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2678200,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ver eh pues eso, cuál es el alcance y si\nCloud me puede editar a mi video sin yo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2682800,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tener que hacer nada, me puede poner\nsubtítulos, me puede poner eh gráficos,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2686920,
+    "dDurationMs": 9320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "me puede hacer un montón de cosas, pero\nes con voz, por ejemplo, lo que hacíamos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2690880,
+    "dDurationMs": 10719,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "anteriormente, manual con CapCut o\nlo hace también",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2698440,
+    "dDurationMs": 7960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "por ahora, o sea, el la edición de\nvideos con inteligencia artificial por",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 2703720,
+    "dDurationMs": 6920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ahora está limitada a que te hace los\ncortes de tu video por medio de promps,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2708920,
+    "dDurationMs": 6840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "te hace los cortes, te pone los\nsubtítulos porque entendrás que que una",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2713839,
+    "dDurationMs": 6280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "te edite un video pues es algo bastante\navanzado, entonces es algo que todavía",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2717440,
+    "dDurationMs": 8000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "está bastante verde. Entonces, por ahora\nsolo se utiliza para para que te ahorres",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2722760,
+    "dDurationMs": 7319,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "el tiempo de hacer los cortes, de poner\nlos subtítulos, de esas cosas y pues ya",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2727440,
+    "dDurationMs": 6679,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tú terminas de pulirlo. Eso se hace con\nCloud, que es otra herramienta que,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2731760,
+    "dDurationMs": 7280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "bueno, hoy no la estamos viendo. Aquí lo\nque hacemos en BID, como yo les decía,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2736280,
+    "dDurationMs": 7160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "esto es un editor de video, nativamente,\nes un editor de video básico como como",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2741280,
+    "dDurationMs": 7640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Capc, etcétera. Pero, ¿qué me permite\nesteor de este editor de video? acceso",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2746040,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "al modelo para yo generar videos con\ninteligencia artificial. Entonces, aquí",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2750480,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "yo podría sacar provecho de ese prompt\nque me dio mi agente, ¿cierto? ¿Se",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2754480,
+    "dDurationMs": 8359,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "acuerdan que era un prompt para un\nvideo? Aquí está. Eh, no, aquí no está.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2760319,
+    "dDurationMs": 6760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Está más abajo.\nMira, prompt profesional para video",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2764760,
+    "dDurationMs": 7559,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "corto. Entonces, voy a copiar este\nprompt. Me voy a ir a esa aplicación de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2769160,
+    "dDurationMs": 10399,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Google y aquí, si ustedes se fijan, yo\npuedo pegar el prompt y puedo añadir una",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2775920,
+    "dDurationMs": 9600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "imagen, ¿cierto? Entonces, ¿qué imagen\nvoy a añadir? La imagen de pues del logo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2782880,
+    "dDurationMs": 6199,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que ahorita ya generé. Entonces, voy a\ndarle generar.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2787520,
+    "dDurationMs": 6599,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Mientras se genera, vamos a ver la\npágina cómo terminó de irnos. Y si",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2791599,
+    "dDurationMs": 5881,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ustedes se fijan acá ya está él\nterminando, todavía no ha terminado, ahí",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2796119,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sigue trabajando, pero ahí ya podemos\nver un poquito cómo está la página web",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2800040,
+    "dDurationMs": 8079,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "como una previsualización.\nEntonces,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2804520,
+    "dDurationMs": 8079,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "esos son como los diferentes temas que\nyo puedo elegir, que ella me va a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2809559,
+    "dDurationMs": 7321,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "elegir. A mí, la verdad, me gusta este.\nEntonces, listo. Ahí ella sigue",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2814680,
+    "dDurationMs": 8402,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "trabajando, está creándome mi página\nweb, aquí se está generando mi video y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2820280,
+    "dDurationMs": 6120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pues yo ya generé el logo. Entonces,\n[carraspeo] aquí vimos diferentes",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2824240,
+    "dDurationMs": 7800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "herramientas con las que ustedes pueden\ngenerar imágenes por medio de prompts,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2828559,
+    "dDurationMs": 6280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "utilizar tal vez este agente para eh\nprecisamente para su marca, para su",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2833480,
+    "dDurationMs": 6639,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "emprendimiento, para que le ayude a\npotenciarlo, para que le ayude a mejorar",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2836559,
+    "dDurationMs": 7520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "su logo actual, su eh su eslogan actual,\n¿sí? Tal vez estas diferentes cosas que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2842319,
+    "dDurationMs": 6481,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "nos pueda ayudar la IA. Ya les voy a\ncompartir a la gente, tranquilos. En un",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2846200,
+    "dDurationMs": 6840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "momentico les voy a compartir el link.\nOjo este link, guárdenlo porque pues",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2851079,
+    "dDurationMs": 7240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "solamente con este link van a poder\ningresar a utilizar este agente desde",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2855680,
+    "dDurationMs": 7439,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sus cuentas, ¿no? Otra cosa, si ustedes\nvan y lo crean desde cero ustedes",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2860040,
+    "dDurationMs": 6120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mismos, pero bueno, esto pues no entra\nen lo que tenemos para el día de hoy.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2864440,
+    "dDurationMs": 7119,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Entonces,\nles voy a compartir el enlace. Este es",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2868280,
+    "dDurationMs": 7760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "el enlace de uso para el agente director\nde empresas. Con ingresar este enlace",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2873400,
+    "dDurationMs": 7600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "van a ingresar acá para pues hablar con\nél. ¿Listo? Entonces,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2878440,
+    "dDurationMs": 8280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "voy a compartírselos aquí por el chat.\nAhí lo voy a pasar varias veces,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2884000,
+    "dDurationMs": 6119,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "¿eh? Sí, ahí ya se envió. Listo.\nEntonces, ahí lo pasé por el chat para",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2888200,
+    "dDurationMs": 7159,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que puedan ingresar. No pierdan ese link\nporque si no no van a poder ingresar a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2892520,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "la gente. Listo.\nMira el video que se me generó.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2899240,
+    "dDurationMs": 3319,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "con el lobo.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2908319,
+    "dDurationMs": 5881,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Pues imagínate eso para un para empezar\nun real de tu marca y después salir ahí",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2912240,
+    "dDurationMs": 7079,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "con el perfume. Bueno, o sea, tantas\ncosas que podemos hacer, pero esto es",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2917200,
+    "dDurationMs": 6960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "simplemente una prueba rápida de lo que\npuedo lograr. O sea,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2921640,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "si yo aquí me pongo a editar este prom,\na decirle, \"No, no lo hagas de esta",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2925440,
+    "dDurationMs": 5879,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "manera, cambia esto.\" Por ejemplo, si\nustedes elijan este promp es una",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2929359,
+    "dDurationMs": 6521,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "descripción de lo que quiere el video.\nCrea un video sinográfico de esencia",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2933920,
+    "dDurationMs": 8320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "prime. Entonces, bueno, ahí sí vamos\ncambiando el contenido del from. podemos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2938119,
+    "dDurationMs": 10440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ir cambiando precisamente el pues el\nresultado de esa herramienta. Entonces,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2945599,
+    "dDurationMs": 7960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "eh les recomiendo que lo utilicen Google\nAI Studio para generación de imágenes y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2950920,
+    "dDurationMs": 6760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "bueno, hay muchísimas más cosas para que\npuede ser como generación de páginas",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2954920,
+    "dDurationMs": 8520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "web, como videos, un montón de cosas más\nque no alcanzamos a verlas en estas",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2959160,
+    "dDurationMs": 9240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "capitaciones tan cortas, pero que e les\nrecomiendo que empiecen a pensar en",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2965559,
+    "dDurationMs": 9240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "explorar estas herramientas. y en\nencontrarles pues ese uso. Dice, eh,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2972440,
+    "dDurationMs": 6879,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\"¿Cuánto tiempo máximo genera videos?\"\nDesde aquí puedes generar clips hasta de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2977040,
+    "dDurationMs": 9480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "8 segundos. Pero entonces ahí entra a\njugar pues eso, tu creatividad de cómo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2982839,
+    "dDurationMs": 7760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "eh ideas, qué escenas vas a ir creando\npara después tú ir editando esas mini",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2988480,
+    "dDurationMs": 5319,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "escenas de 8 segundos y terminar con un\nreel completamente hecho con",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2991920,
+    "dDurationMs": 6679,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "inteligencia artificial, que eso sería\nuna una de las metodologías pues eso, de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2996720,
+    "dDurationMs": 7000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "creación de videos con inteligencia\nartificial",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3000240,
+    "dDurationMs": 6440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "eh que bueno que existen, ¿no? Pero eso\npues como les digo, hay muchas cosas que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3005319,
+    "dDurationMs": 5601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "se pueden lograr con ella. Hay mucha\nproductividad que se puede lograr, pero",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3009119,
+    "dDurationMs": 5881,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "no alcanzamos a verla todas acá. Por eso\nnosotros ofrecemos diferentes",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3012240,
+    "dDurationMs": 6760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "capacitaciones que están enfocadas para\ngeneración de contenido, para",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3016880,
+    "dDurationMs": 7800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "productividad, para creación de agentes,\npara uso de chat GPT, para uso de cloud,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3021359,
+    "dDurationMs": 6321,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "para uso de las diferentes herramientas.\n¿Listo?",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3031240,
+    "dDurationMs": 7040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Listo. Entonces, eh aquí se está\nterminando de generar la página. No me",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3036599,
+    "dDurationMs": 5960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "deja previsualizarla porque se está\nterminando, pero esto con ese prompt que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3041119,
+    "dDurationMs": 6321,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "me entregó la gente, eso va a ser una\npágina muy buena que literalmente pues",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3045400,
+    "dDurationMs": 7280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vamos hasta poder empezar a utilizar si\nyo tuviera realmente ese negocio de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3049599,
+    "dDurationMs": 9760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "perfumes. Entonces, como lo vimos hoy,\nles recomiendo que utilicen ese agente",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3055760,
+    "dDurationMs": 8599,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que les mostraba, el agente eh, pues en\neste caso al agente creador de empresas",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3062240,
+    "dDurationMs": 6319,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que intenten generar sus imágenes con\ninteligencia artificial. Ya vimos el",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3065839,
+    "dDurationMs": 7161,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ejemplo de cómo yo tomé una foto y le\ncambié el contenido al termo en este",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3071040,
+    "dDurationMs": 7079,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "caso, ¿cierto? Y lo puse en una escena\nmás chévere o esas diferentes cosas que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3075640,
+    "dDurationMs": 6080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "yo puedo lograr con los agentes de\ninteligencia artificial que yo puedo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3079480,
+    "dDurationMs": 6800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "crear. Y en este caso no tenemos tiempo\nacá para aprender a crear agentes, por",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3084000,
+    "dDurationMs": 7480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "eso les digo que existen, tenemos otros\nespacios, [carraspeo]",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3088359,
+    "dDurationMs": 7720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pero bueno, eh ahí por el grupo les\nestaré mostrando las diferentes, pues",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3093559,
+    "dDurationMs": 8800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "les mostraré como capturas de lo que\ntermine de generarse acá, pero le voy a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3098559,
+    "dDurationMs": 9441,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "dar paso a Anita, eh, que tiene pues\neso, una metodología bastante chévere y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3106319,
+    "dDurationMs": 9881,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "eh la dinámica preparada para que\nustedes se puedan ganar esa masterclass",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3111359,
+    "dDurationMs": 11281,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "o bueno, esa formación VIP de 12 horas\nde inteligencia artificial. ¿Listo?",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3118280,
+    "dDurationMs": 4360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Entonces, Anita, ¿estás por ahí? M.",
+      "acAsrConf": 0
+    } ]
+  } ]
+}

@@ -1,0 +1,72 @@
+{
+  "collapse-filter": false,
+  "search": "-path:ai-brain-starter -path:automation",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:people",
+      "color": {
+        "a": 1,
+        "rgb": 1096065
+      }
+    },
+    {
+      "query": "path:areas",
+      "color": {
+        "a": 1,
+        "rgb": 16096779
+      }
+    },
+    {
+      "query": "path:organizaciones",
+      "color": {
+        "a": 1,
+        "rgb": 9133302
+      }
+    },
+    {
+      "query": "path:diego_investigacion",
+      "color": {
+        "a": 1,
+        "rgb": 960009
+      }
+    },
+    {
+      "query": "path:diego_instagram",
+      "color": {
+        "a": 1,
+        "rgb": 16007006
+      }
+    },
+    {
+      "query": "path:meta",
+      "color": {
+        "a": 1,
+        "rgb": 15381256
+      }
+    },
+    {
+      "query": "path:projects",
+      "color": {
+        "a": 1,
+        "rgb": 1357990
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1.15,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.19450022690615745,
+  "close": true
+}

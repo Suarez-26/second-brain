@@ -1,0 +1,2607 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  }, {
+    "mhModeHint": 2,
+    "juJustifCode": 0,
+    "sdScrollDir": 3
+  } ],
+  "wpWinPositions": [ {
+  
+  }, {
+    "apPoint": 6,
+    "ahHorPos": 20,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  } ],
+  "events": [ {
+    "tStartMs": 0,
+    "id": 1,
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 0,
+    "dDurationMs": 7480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Muchas personas sueñan con trabajar en\ntecnología, pero pocos conocen realmente"
+    } ]
+  }, {
+    "tStartMs": 5200,
+    "dDurationMs": 7900,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "el camino para lograrlo. Hoy [música] en\nThe Human Code tenemos un capítulo único"
+    } ]
+  }, {
+    "tStartMs": 10600,
+    "dDurationMs": 7440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "donde ese camino cobra vida a través\n[música] de tres historias, la de Andrés"
+    } ]
+  }, {
+    "tStartMs": 15640,
+    "dDurationMs": 7360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Racines, ex camper de Campus [música]\nLands, quien nos contará cómo esta"
+    } ]
+  }, {
+    "tStartMs": 20280,
+    "dDurationMs": 7800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "experiencia transformó por completo su\nfuturo, y la de Nicole y Brian, campers"
+    } ]
+  }, {
+    "tStartMs": 26160,
+    "dDurationMs": 8080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "actuales, quienes nos abrirán las\npuertas de lo que significa hoy estar"
+    } ]
+  }, {
+    "tStartMs": 30880,
+    "dDurationMs": 7680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "formándose en Campus Lands. Mi nombre es\nRyan Hamill y bienvenidos."
+    } ]
+  }, {
+    "tStartMs": 40720,
+    "dDurationMs": 8360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Hola y bienvenidos a un nuevo episodio\nde The Human Code. Hoy tenemos una"
+    } ]
+  }, {
+    "tStartMs": 46400,
+    "dDurationMs": 8160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "increíble historia que siento que muchas\npersonas necesitan"
+    } ]
+  }, {
+    "tStartMs": 51440,
+    "dDurationMs": 8720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "escuchar y que puede ser de mucho valor\na las personas que están viendo. Estamos"
+    } ]
+  }, {
+    "tStartMs": 56440,
+    "dDurationMs": 9320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "acá con Brian. Brian es actualmente\nalguien que está egresado eh de Campus"
+    } ]
+  }, {
+    "tStartMs": 63320,
+    "dDurationMs": 9160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Lands. Eh estamos acá con Andrés\ntambién, que nos va a contar la historia"
+    } ]
+  }, {
+    "tStartMs": 68400,
+    "dDurationMs": 10600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de él y con Nicole, que es actualmente\nun camper. Eh entonces, bueno, empecemos"
+    } ]
+  }, {
+    "tStartMs": 76560,
+    "dDurationMs": 7600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "contigo, Brian. Cuéntenos un poquito\nsobre tu background, [música] eh cómo ha"
+    } ]
+  }, {
+    "tStartMs": 81360,
+    "dDurationMs": 7120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sido tu experiencia en Campus Lands y\npor qué la tecnología."
+    } ]
+  }, {
+    "tStartMs": 86160,
+    "dDurationMs": 5920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Eh bueno, eh primero cómo ha sido mi\nexperiencia en Campus Lands pues siento",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 90560,
+    "dDurationMs": 5800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que ha sido muy genial, muy maravillosa.\nHe podido conocer personas que me han"
+    } ]
+  }, {
+    "tStartMs": 94200,
+    "dDurationMs": 6520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ayudado mucho en este\nprogreso. Por lo menos la profe, los"
+    } ]
+  }, {
+    "tStartMs": 99200,
+    "dDurationMs": 5880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "profesores siempre me han parecido\ngeniales. Siento que la forma [música]"
+    } ]
+  }, {
+    "tStartMs": 102880,
+    "dDurationMs": 7120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "en que nos explican es muy chévere y\nsiempre están dispuestos a ayudar."
+    } ]
+  }, {
+    "tStartMs": 107440,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Me repites la otra pregunta.\nNo, la segunda pregunta es, ¿usted"
+    } ]
+  }, {
+    "tStartMs": 111600,
+    "dDurationMs": 5240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "estaba jugando fútbol o qué fue lo que\npasó ahí? Porque yo sé que están"
+    } ]
+  }, {
+    "tStartMs": 114760,
+    "dDurationMs": 3600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pensando qué fue lo que pasó, ¿cierto,\nBrian?"
+    } ]
+  }, {
+    "tStartMs": 117160,
+    "dDurationMs": 6040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Eh, bueno.\nLa pregunta, la si es falsa o verdadera,",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 121200,
+    "dDurationMs": 4320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "es que [música] yo soy una persona que\nhace deportes de contacto."
+    } ]
+  }, {
+    "tStartMs": 124520,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Okay.\npues, practico lo que viene siendo",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 126960,
+    "dDurationMs": 7720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "boxeo, karate, kick boxing y kung fu. Y\npues, estaba haciendo sparring y el la"
+    } ]
+  }, {
+    "tStartMs": 132920,
+    "dDurationMs": 8120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "otra persona tenía un guante que estaba\npelado, ¿no? Claro. Al momento de de"
+    } ]
+  }, {
+    "tStartMs": 138360,
+    "dDurationMs": 6840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tener contacto, pues, me raspó, ¿sí? Y\nla re la pre la respuesta propia"
+    } ]
+  }, {
+    "tStartMs": 144101,
+    "dDurationMs": 4139,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "[risas]\nes que tuve una alergia.",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 148360,
+    "dDurationMs": 6040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "No, pero mira, yo Sí, exacto, pero yo no\ncreo que hay ningún problema con las",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 151880,
+    "dDurationMs": 8960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "personas que que que practiquen deportes\nde contacto, incluso siento que en todo"
+    } ]
+  }, {
+    "tStartMs": 157280,
+    "dDurationMs": 8640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "momento, ¿no? El UFC, ahorita eso es ya\nes mainstream, ¿cierto? Eh, y me parece"
+    } ]
+  }, {
+    "tStartMs": 164160,
+    "dDurationMs": 5480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "eso muy eso está muy chévere. Yo cuan Yo\nme acuerdo que yo practicaba karate,"
+    } ]
+  }, {
+    "tStartMs": 167440,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pero bueno, cuando yo era más joven. Eh,\npero chévere, el boxeo también, muy muy"
+    } ]
+  }, {
+    "tStartMs": 171520,
+    "dDurationMs": 7719,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "chévere. Eh, y bueno, y el el tema de la\nexperiencia Campus Land, los profes, tú"
+    } ]
+  }, {
+    "tStartMs": 177000,
+    "dDurationMs": 7840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hablas de la la parte tecnológica como\nla parte de las eh habilidades blandas y"
+    } ]
+  }, {
+    "tStartMs": 183080,
+    "dDurationMs": 6120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "todo eso. ¿Qué tal el inglés? ¿Cómo le\nha ido con eso?"
+    } ]
+  }, {
+    "tStartMs": 186440,
+    "dDurationMs": 7040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Pues, yo el inglés, yo no sabía\nabsolutamente nada de inglés y siento",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 191400,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que he mejorado bastante.\nMhm."
+    } ]
+  }, {
+    "tStartMs": 194200,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Eh, siento que las actividades que nos\ndan los profesores nos ayudan mucho a",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 198840,
+    "dDurationMs": 6679,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "aprender este idioma.\nOkay, okay. O sea, entró a Campus Land"
+    } ]
+  }, {
+    "tStartMs": 203400,
+    "dDurationMs": 5000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sin hablar inglés y salió haciendo\nkarate."
+    } ]
+  }, {
+    "tStartMs": 206982,
+    "dDurationMs": 6550,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "[risas]\nOiga, buenísimo, buenísimo, Brian. Me me",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 210760,
+    "dDurationMs": 5759,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "encanta conocerlo. Y Andrés, cuéntame.\n[música]"
+    } ]
+  }, {
+    "tStartMs": 213760,
+    "dDurationMs": 5240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Tú ahorita eh también estás egresado de\nde de Campus Land, ¿cierto?",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 218239,
+    "dDurationMs": 4961,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Mhm.\nPero tú tienes una historia muy especial",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 221080,
+    "dDurationMs": 5640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que, pues, [música] la verdad, a mí me\ngustaría escucharla a mí, porque la"
+    } ]
+  }, {
+    "tStartMs": 225280,
+    "dDurationMs": 3560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "verdad no la no la sé, pero me han\ncontado por por encima."
+    } ]
+  }, {
+    "tStartMs": 228320,
+    "dDurationMs": 7120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Okay.\nEh, entonces, ¿por qué no me cuentas",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 231280,
+    "dDurationMs": 8480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cómo fue tu, digamos, proceso, empezando\npor por por el inicio"
+    } ]
+  }, {
+    "tStartMs": 238040,
+    "dDurationMs": 2760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y hasta donde estás ahorita?\nOkay."
+    } ]
+  }, {
+    "tStartMs": 240387,
+    "dDurationMs": 4093,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "[música]\nEh, bueno, Ryan, digamos que mi historia",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 243080,
+    "dDurationMs": 5440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "empieza\neh"
+    } ]
+  }, {
+    "tStartMs": 246440,
+    "dDurationMs": 8080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "se puede decir que mi vida laboral\nempieza a los 17 17 años, desde muy"
+    } ]
+  }, {
+    "tStartMs": 251400,
+    "dDurationMs": 8720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "joven. Digamos que mi contexto es que\nmis padres murieron cuando yo era muy"
+    } ]
+  }, {
+    "tStartMs": 256200,
+    "dDurationMs": 9880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "joven y quedé eh siendo sustentado por\nmi abuelita. Entonces, a raíz de una"
+    } ]
+  }, {
+    "tStartMs": 262560,
+    "dDurationMs": 7960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "muerte eh de nuestra pa una muerte por\nuna enfermedad de nuestra familia, ella"
+    } ]
+  }, {
+    "tStartMs": 268520,
+    "dDurationMs": 4920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "también partiría de mi vida y de los 17\naños yo estaría en ese contexto de"
+    } ]
+  }, {
+    "tStartMs": 273138,
+    "dDurationMs": 4902,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "[música]\nde valerme por mí mismo. Entonces,",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 275840,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "digamos que empieza mi historia eh\ndefendiéndome, ganándome la papa, como"
+    } ]
+  }, {
+    "tStartMs": 280040,
+    "dDurationMs": 8280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "quien dice, como [música] no, muchas\ncosas, atendiendo restaurantes,"
+    } ]
+  }, {
+    "tStartMs": 284320,
+    "dDurationMs": 8760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cocinero, eh inclusive fantasma de de\ntie de tienda de terror en en una ciudad"
+    } ]
+  }, {
+    "tStartMs": 290720,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de hierro. Yo creo de los trabajos más\ndifíciles"
+    } ]
+  }, {
+    "tStartMs": 294720,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que bueno, no, fueron experiencias muy\nbonitas que me enseñaron muchas cosas,"
+    } ]
+  }, {
+    "tStartMs": 299640,
+    "dDurationMs": 5840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pero en un fondo yo quería superarme,\nquería escalar, no no quería quedarme"
+    } ]
+  }, {
+    "tStartMs": 304280,
+    "dDurationMs": 7040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "con\nen la en los en esas trabas que nos pone"
+    } ]
+  }, {
+    "tStartMs": 308320,
+    "dDurationMs": 8000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "la vida, quería ir más allá. Entonces,\neh a medida que iba trabajando también"
+    } ]
+  }, {
+    "tStartMs": 313600,
+    "dDurationMs": 7680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "iba estudiando eh desde el principio\nprogramación, de empecé en el lapso del"
+    } ]
+  }, {
+    "tStartMs": 318919,
+    "dDurationMs": 7081,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Sena, desarrollo de software, saqué la\ntecnología,"
+    } ]
+  }, {
+    "tStartMs": 322960,
+    "dDurationMs": 6760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pero eh sentía muy débiles estas skills.\nEntonces, yo decía y yo tenía una"
+    } ]
+  }, {
+    "tStartMs": 328000,
+    "dDurationMs": 6800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mentalidad interna que yo me decía a mí\nmismo, eh ser profesional o ser pro"
+    } ]
+  }, {
+    "tStartMs": 332720,
+    "dDurationMs": 6520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "programador no es solo programar, yo\nnecesito ser un profesional completo. Y"
+    } ]
+  }, {
+    "tStartMs": 337560,
+    "dDurationMs": 6359,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "fue lo que yo encontré acá en Campus\nLands. Campus Lands me prometía ser un"
+    } ]
+  }, {
+    "tStartMs": 341360,
+    "dDurationMs": 5840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "profesional completo e íntegro, no solo\nprogramar, sino tener habilidades"
+    } ]
+  }, {
+    "tStartMs": 345600,
+    "dDurationMs": 5520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "blandas, saber hablar, [música] saber\nllegar a las personas, saber llegar a"
+    } ]
+  }, {
+    "tStartMs": 348920,
+    "dDurationMs": 6080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "las empresas. La parte del inglés, que\nal igual que el compañero, yo empecé en"
+    } ]
+  }, {
+    "tStartMs": 352640,
+    "dDurationMs": 6959,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cero, yo decía \"Hello\" y no sabía qué\nestaba diciendo. Entonces, eh Campus"
+    } ]
+  }, {
+    "tStartMs": 357960,
+    "dDurationMs": 4400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Lands fue muy\n[música]"
+    } ]
+  }, {
+    "tStartMs": 359840,
+    "dDurationMs": 8400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "inmersivo en todo, o sea, Campus Lands\neh yo al combinar Campus Lands con el",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 364440,
+    "dDurationMs": 8400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "trabajo fue un fue una carga brutal, o\nsea, eran, ponle, durante todo Campus"
+    } ]
+  }, {
+    "tStartMs": 371240,
+    "dDurationMs": 6360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Lands eran\ndías de cuatro o cinco horas de sueño,"
+    } ]
+  }, {
+    "tStartMs": 375240,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "como mucho tres, durante varios meses,\ndurante esos 10 meses. Entonces, pues"
+    } ]
+  }, {
+    "tStartMs": 380000,
+    "dDurationMs": 7720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "nada, tomé la decisión, dije, \"No, vamos\na sacar el proyecto adelante.\" Salí de"
+    } ]
+  }, {
+    "tStartMs": 384200,
+    "dDurationMs": 8480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Campus Lands eh con un inglés B1, cuando\npara mí era un temor muy grande de"
+    } ]
+  }, {
+    "tStartMs": 389840,
+    "dDurationMs": 7079,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pronto hablar en público. Tuve un nivel\nde inglés que de pronto al salir no era"
+    } ]
+  }, {
+    "tStartMs": 394720,
+    "dDurationMs": 3400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "el más indicado, pero había superado un\nmiedo."
+    } ]
+  }, {
+    "tStartMs": 397320,
+    "dDurationMs": 6120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Sí, defendiste, sí.\nY al igual y el día hoy me defiendo en",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 400880,
+    "dDurationMs": 7680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "el lenguaje, sigo estudiándolo poco a\npoco y yo sé que menos de nada yo estaré"
+    } ]
+  }, {
+    "tStartMs": 406720,
+    "dDurationMs": 5480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "eh prestando mis servicios no solo acá\nen Colombia, sino también en el"
+    } ]
+  }, {
+    "tStartMs": 409680,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "exterior, que es como un\nque antes era un sueño, pero ahora es"
+    } ]
+  }, {
+    "tStartMs": 414000,
+    "dDurationMs": 6840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "una meta a corto plazo.\nOkay, okay, ya se está ya lo ya se está"
+    } ]
+  }, {
+    "tStartMs": 417560,
+    "dDurationMs": 7640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pintando, digamos la situación donde tú\nrealmente vas a salir a a a prestar esos"
+    } ]
+  }, {
+    "tStartMs": 423400,
+    "dDurationMs": 5519,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "servicios a nivel internacional.\ninternacional, entonces ya no lo veo"
+    } ]
+  }, {
+    "tStartMs": 427000,
+    "dDurationMs": 5800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "lejos, ya no lo veo como que, \"Uf, es\nque hay que ser muy inteligente para"
+    } ]
+  }, {
+    "tStartMs": 430320,
+    "dDurationMs": 6360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "eso.\" Digamos que ya viví el proceso,\nobviamente es un proceso muy difícil en"
+    } ]
+  }, {
+    "tStartMs": 434880,
+    "dDurationMs": 7440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "el que hay que llevar muchos hábitos a\ncabo, en el que hay que sacrificar"
+    } ]
+  }, {
+    "tStartMs": 439160,
+    "dDurationMs": 7520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "muchas cosas de la juventud y demás.\nPero nada, supremamente satisfecho, ese"
+    } ]
+  }, {
+    "tStartMs": 444840,
+    "dDurationMs": 5805,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "fue mi proceso en Campus Lands, un\nproceso bastante intensivo tanto en"
+    } ]
+  }, {
+    "tStartMs": 448640,
+    "dDurationMs": 5720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "inglés como habilidades blandas, como\n[música]"
+    } ]
+  }, {
+    "tStartMs": 450800,
+    "dDurationMs": 7920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que la profe nos nos inculcó tanto. Eh\ninclusive los profesores de",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 456240,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "programación, Yolver Pardo, que fue es\nun senior de alta categoría con"
+    } ]
+  }, {
+    "tStartMs": 460480,
+    "dDurationMs": 8600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "muchísima experiencia que él me enseñaba\ninclusive en las clases eh ciertos"
+    } ]
+  }, {
+    "tStartMs": 466840,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "trucos de senior, de cómo manejar una\nbase de datos, de cómo organizar la"
+    } ]
+  }, {
+    "tStartMs": 470840,
+    "dDurationMs": 7080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "arquitectura [música] dentro del dentro\ndel día dentro del código y son cosas"
+    } ]
+  }, {
+    "tStartMs": 475480,
+    "dDurationMs": 7400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que estoy implementando hoy en día eh ya\ndespués de más de un año de experiencia"
+    } ]
+  }, {
+    "tStartMs": 480160,
+    "dDurationMs": 8600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "laboral, de haber salido de Campusland y\nes lo que me ha permitido escalar a a a"
+    } ]
+  }, {
+    "tStartMs": 486120,
+    "dDurationMs": 7640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "distinta a distintas dificultades de\nproyectos, inclusive eh a partir de la"
+    } ]
+  }, {
+    "tStartMs": 491680,
+    "dDurationMs": 5160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "siguiente semana empiezo\nen un perfil como Data Science en"
+    } ]
+  }, {
+    "tStartMs": 495680,
+    "dDurationMs": 3000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Bancolombia, entonces\nWow."
+    } ]
+  }, {
+    "tStartMs": 497720,
+    "dDurationMs": 4320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "es un perfil\nAmazing.",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 499120,
+    "dDurationMs": 7040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "es una rama nueva, yo que vengo de\nagentes y RPA con inteligencia",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 503960,
+    "dDurationMs": 6280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "artificial paso a la rama de Data\nScience, entonces va a ser un nuevo un"
+    } ]
+  }, {
+    "tStartMs": 508520,
+    "dDurationMs": 5040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "nuevo reto, va a ser un nuevo arco\nprofesional para mí que va directamente"
+    } ]
+  }, {
+    "tStartMs": 512599,
+    "dDurationMs": 5961,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a la hoja de vida.\nBuenísimo, buenísimo, o sea"
+    } ]
+  }, {
+    "tStartMs": 516159,
+    "dDurationMs": 6760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "digamos que eso\nsiento que"
+    } ]
+  }, {
+    "tStartMs": 520640,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "obviamente no fue no fue fácil, fue\ndifícil, demasiado difícil por tanto en"
+    } ]
+  }, {
+    "tStartMs": 525640,
+    "dDurationMs": 2360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "la parte personal como en la parte\nlaboral"
+    } ]
+  }, {
+    "tStartMs": 527936,
+    "dDurationMs": 3664,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "[música]\nSí, no, totalmente.",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 529280,
+    "dDurationMs": 5840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Pero digamos que ya\nbueno, sien- siento yo esto, Andrés, y",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 533560,
+    "dDurationMs": 4960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "no sé si ustedes también están de\nacuerdo, pero"
+    } ]
+  }, {
+    "tStartMs": 537240,
+    "dDurationMs": 4160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a veces la vida [música]\nle pone las cartas sobre la mesa,"
+    } ]
+  }, {
+    "tStartMs": 540520,
+    "dDurationMs": 5360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Sí, exactamente.\ny hay personas que toman la decisión de",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 543720,
+    "dDurationMs": 5280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "jugar el juego con las cartas que uno\ntiene"
+    } ]
+  }, {
+    "tStartMs": 547160,
+    "dDurationMs": 5040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "o personas que\ndesafortunadamente"
+    } ]
+  }, {
+    "tStartMs": 550600,
+    "dDurationMs": 6811,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "se van por otro\npor por por por otro lado y y y no"
+    } ]
+  }, {
+    "tStartMs": 554160,
+    "dDurationMs": 6120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "llegan a a lograr eh lo que lo que se\n[música]"
+    } ]
+  }, {
+    "tStartMs": 558560,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "o sea, lo lo lo que tenían en mente\ninicialmente, sí, porque es que"
+    } ]
+  }, {
+    "tStartMs": 562960,
+    "dDurationMs": 5720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "si tú lo puedes hacer, Andrés, sí, hay\npersonas que pueden estar en una"
+    } ]
+  }, {
+    "tStartMs": 567080,
+    "dDurationMs": 7640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "situación\nmuchísimo menos complicado, ¿sí? pero"
+    } ]
+  }, {
+    "tStartMs": 572720,
+    "dDurationMs": 3880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "no lo van a lograr, ¿sí? porque es que\nes la disciplina"
+    } ]
+  }, {
+    "tStartMs": 576406,
+    "dDurationMs": 6474,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "[música]\nes uno tener esa parte donde donde uno",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 580080,
+    "dDurationMs": 6120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tiene esa meta, sí, o sea, tú hablándome\nde metas"
+    } ]
+  }, {
+    "tStartMs": 584200,
+    "dDurationMs": 5680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "eso me hace pensar como que es un chico\nque que realmente tiene esa parte clara,"
+    } ]
+  }, {
+    "tStartMs": 588120,
+    "dDurationMs": 6520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sí, o sea, realmente está está\nentendiendo que hay metas de largo plazo"
+    } ]
+  }, {
+    "tStartMs": 592880,
+    "dDurationMs": 4480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y de corto plazo, pero uno para cumplir\nlas metas de largo plazo primero tienes"
+    } ]
+  }, {
+    "tStartMs": 596200,
+    "dDurationMs": 4080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que cumplir las de corto plazo, sí.\nLas de corto plazo, exacto."
+    } ]
+  }, {
+    "tStartMs": 598440,
+    "dDurationMs": 5680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Entonces eso puede ser, por ejemplo, un\nindependizarse,",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 601920,
+    "dDurationMs": 5440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "uno irse de la casa, uno tener su propio\napartamento, su moto, su carro."
+    } ]
+  }, {
+    "tStartMs": 607191,
+    "dDurationMs": 5609,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "[música]\nAhora lo que tú dices, o sea, esa parte",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 610680,
+    "dDurationMs": 6840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de venir a Campus Land y y [música] y\nque que la tecnología sea como la ruta"
+    } ]
+  }, {
+    "tStartMs": 615480,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "para poder llegar ahí, tú hablas de la\nparte de los agentes IA, que obviamente"
+    } ]
+  }, {
+    "tStartMs": 619680,
+    "dDurationMs": 6520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "es lo que eh nuestra empresa nos nos\ndedicamos a hacer, y yo sé lo"
+    } ]
+  }, {
+    "tStartMs": 623440,
+    "dDurationMs": 5367,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "revolucionario que puede ser ese eh esa\ntecnología, sí, el valor que puede"
+    } ]
+  }, {
+    "tStartMs": 628160,
+    "dDurationMs": 2320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "crear.\n[música]"
+    } ]
+  }, {
+    "tStartMs": 629200,
+    "dDurationMs": 5520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Entonces\ncuando tú me dices, me hablas de eso y",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 632440,
+    "dDurationMs": 6840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "dices, okay, eh en eh\npasé por ese ese ese proyecto y ahorita"
+    } ]
+  }, {
+    "tStartMs": 638000,
+    "dDurationMs": 6120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "estoy\neh a a punto de entrar a a Data Science"
+    } ]
+  }, {
+    "tStartMs": 641839,
+    "dDurationMs": 4561,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "con Bancolombia, o sea, eso es un salto\ncuántico, Andrés, ¿sí?"
+    } ]
+  }, {
+    "tStartMs": 645400,
+    "dDurationMs": 7320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Claro.\nY y a mí lo que me gusta escuchar es que",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 650480,
+    "dDurationMs": 8400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "todos tenemos nuestro destino en\nnuestras manos, ¿sí? Eso es el el la"
+    } ]
+  }, {
+    "tStartMs": 656440,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "belleza del capitalismo, sí, que en cada\nuno tiene la oportunidad de salir"
+    } ]
+  }, {
+    "tStartMs": 660880,
+    "dDurationMs": 5680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "adelante. Si alguien quiere madrugar y\nllegar acá a Campus Land a las 4, 5 de"
+    } ]
+  }, {
+    "tStartMs": 665320,
+    "dDurationMs": 6120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "la mañana, 6 de la mañana y el otro\nllega llega tarde, ese es el mercado"
+    } ]
+  }, {
+    "tStartMs": 668640,
+    "dDurationMs": 7080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "libre, ¿sí? El mercado libre es tanto\ncomo el mercado laboral, como el mercado"
+    } ]
+  }, {
+    "tStartMs": 673560,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de los productos, de los servicios.\nEntonces qué chévere historia que que"
+    } ]
+  }, {
+    "tStartMs": 678000,
+    "dDurationMs": 8240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que puedas compartir con nosotros so-\nsobre ese ese, digamos, esa superación,"
+    } ]
+  }, {
+    "tStartMs": 683120,
+    "dDurationMs": 8360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "porque a veces hay personas que\nlo tienen todo fácil y se quejan, ¿sí? Y"
+    } ]
+  }, {
+    "tStartMs": 689480,
+    "dDurationMs": 4960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "desafortunadamente las personas que a\nveces, [música]"
+    } ]
+  }, {
+    "tStartMs": 692360,
+    "dDurationMs": 4720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sí, son así. Entonces, no, pero ¿por\nqué? ¿Por qué no pude? ¿Por qué no me"
+    } ]
+  }, {
+    "tStartMs": 696160,
+    "dDurationMs": 4640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "fue bien? ¿Sí me entiendes?\nSí, de hecho ahora mismo estaba pensando"
+    } ]
+  }, {
+    "tStartMs": 698560,
+    "dDurationMs": 6680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "en la famosa frase que dice, no ver el\nel vaso medio vacío, sino medio lleno."
+    } ]
+  }, {
+    "tStartMs": 703480,
+    "dDurationMs": 4880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Sí, me parece que es una cuestión y me\ndepende mucho de cómo lo piensan, cómo"
+    } ]
+  }, {
+    "tStartMs": 706640,
+    "dDurationMs": 6360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ven las cosas y lo que me dices de que\ncada situación es de cada uno."
+    } ]
+  }, {
+    "tStartMs": 710440,
+    "dDurationMs": 7120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Total. Y al fin y al cabo,\nese, o sea,",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 715760,
+    "dDurationMs": 6200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hay un A mí me gusta mucho el el\nestoicismo, ¿sí? Entonces, yo también"
+    } ]
+  }, {
+    "tStartMs": 719480,
+    "dDurationMs": 8080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hablo de del del del tema de que\nla vida le pasa a uno, ¿sí? Uno no"
+    } ]
+  }, {
+    "tStartMs": 725960,
+    "dDurationMs": 5320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "realmente, uno vive la vida, pero la\nvida lo que hace es que cosas pasan,"
+    } ]
+  }, {
+    "tStartMs": 730040,
+    "dDurationMs": 5840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "¿sí?\nY"
+    } ]
+  }, {
+    "tStartMs": 732640,
+    "dDurationMs": 8800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "no necesariamente, o sea, uno realmente\nno tiene control sobre qué puede pasar a"
+    } ]
+  }, {
+    "tStartMs": 739560,
+    "dDurationMs": 7520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "uno en la vida. Lo que uno tiene que\ncontrolar es qué vas a hacer con las"
+    } ]
+  }, {
+    "tStartMs": 743360,
+    "dDurationMs": 9120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cartas, ¿sí? Y cómo, o sea, cómo vas a\npensar y y y ver esas cosas. Como"
+    } ]
+  }, {
+    "tStartMs": 749960,
+    "dDurationMs": 7240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "algunas personas piensan Campus Land es\nuna oportunidad, otras personas lo lo"
+    } ]
+  }, {
+    "tStartMs": 755280,
+    "dDurationMs": 6440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Como sabemos, no todo el mundo viene acá\ny sale exitoso, para algunas personas no"
+    } ]
+  }, {
+    "tStartMs": 759720,
+    "dDurationMs": 4673,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "es lo que ellos buscan, ¿sí? Es como\ntodo."
+    } ]
+  }, {
+    "tStartMs": 762680,
+    "dDurationMs": 8480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Pero entonces, ver la oportunidad y\n[música] decir, ¿sabe qué? A mí a mí me"
+    } ]
+  }, {
+    "tStartMs": 766600,
+    "dDurationMs": 10440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "parece interesante, me parece que es una\noportunidad nueva, ¿sí? Y y ver que la"
+    } ]
+  }, {
+    "tStartMs": 775200,
+    "dDurationMs": 6200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vida a veces\ntrabaja en formas en Yo digo que Dios"
+    } ]
+  }, {
+    "tStartMs": 779120,
+    "dDurationMs": 8000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "trabaja en formas misteriosas,\nporque lo que es para uno es para uno,"
+    } ]
+  }, {
+    "tStartMs": 783320,
+    "dDurationMs": 10549,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "¿sí? Y y yo sé que todos ustedes, o sea,\npilosos, tienen tienen esa visión, ¿sí?"
+    } ]
+  }, {
+    "tStartMs": 790400,
+    "dDurationMs": 7080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "De de de querer superar, salir adelante\n[música] y alcanzar los sueños. Porque"
+    } ]
+  }, {
+    "tStartMs": 795960,
+    "dDurationMs": 5280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "si no estamos para alcanzar los sueños,\nentonces ¿qué estamos haciendo? ¿Cierto?"
+    } ]
+  }, {
+    "tStartMs": 798920,
+    "dDurationMs": 7320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Hay que trabajar para eso.\nY qué chévere que han podido dar con"
+    } ]
+  }, {
+    "tStartMs": 803320,
+    "dDurationMs": 8280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "este proyecto acá, que tenga esa\nconexión internacional,"
+    } ]
+  }, {
+    "tStartMs": 808600,
+    "dDurationMs": 7480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sí, que por ejemplo, multinacionales,\nempresas eh de otros países, pero"
+    } ]
+  }, {
+    "tStartMs": 814560,
+    "dDurationMs": 5120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "también la parte del networking, de\nconocer a tantas otras personas tan"
+    } ]
+  }, {
+    "tStartMs": 817920,
+    "dDurationMs": 7800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "brillantes, ¿no? Exactamente. [música]\nCreo que eso incluso puede ser"
+    } ]
+  }, {
+    "tStartMs": 822400,
+    "dDurationMs": 6920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "lo lo mejor, diría yo, porque uno puede\ntener excelentes profes como la profe"
+    } ]
+  }, {
+    "tStartMs": 827560,
+    "dDurationMs": 5680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que ya le han tirado flores durante todo\nel podcast"
+    } ]
+  }, {
+    "tStartMs": 830720,
+    "dDurationMs": 6360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "eh y y eso sí es muy bueno.\nSí, que hay talento,"
+    } ]
+  }, {
+    "tStartMs": 835200,
+    "dDurationMs": 6680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que hay profes,\npero yo diría, ¿sí?"
+    } ]
+  }, {
+    "tStartMs": 839600,
+    "dDurationMs": 7040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que si tú vienes a Campuslands [música]\ny tú conoces, por ejemplo,"
+    } ]
+  }, {
+    "tStartMs": 844120,
+    "dDurationMs": 7720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "unos pa un par de amigos\ny empiezan a hablar sobre una idea y"
+    } ]
+  }, {
+    "tStartMs": 848680,
+    "dDurationMs": 7120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "resultan montando un proyecto\ny ese proyecto"
+    } ]
+  }, {
+    "tStartMs": 853480,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "empieza a dar porque está interesante y\nla gente le gusta y después cierran unos"
+    } ]
+  }, {
+    "tStartMs": 858400,
+    "dDurationMs": 7040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "clientes. Yo siempre miro las cosas de\nla parte del de del emprendedor porque"
+    } ]
+  }, {
+    "tStartMs": 862760,
+    "dDurationMs": 5520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "yo soy emprendedor, ¿sí? Entonces, no\nsolo es el tema de que, bueno, hay"
+    } ]
+  }, {
+    "tStartMs": 866760,
+    "dDurationMs": 6600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "algunas personas que vienen y van por el\ntrayectoria de un trabajo, excelente."
+    } ]
+  }, {
+    "tStartMs": 871120,
+    "dDurationMs": 7560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Pero qué tal uno venga acá, haga unas\namistades"
+    } ]
+  }, {
+    "tStartMs": 875040,
+    "dDurationMs": 8040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y encima de eso uno conozca ese equipo\nque hacen crear una empresa y que esa"
+    } ]
+  }, {
+    "tStartMs": 880760,
+    "dDurationMs": 7320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "empresa resulta resolviéndole a uno la\nvida y la vida de sus hijos"
+    } ]
+  }, {
+    "tStartMs": 885280,
+    "dDurationMs": 7320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y sus nietos. Eso es algo espectacular.\nAhora, eso no te lo van a decir en en el"
+    } ]
+  }, {
+    "tStartMs": 890839,
+    "dDurationMs": 4601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "en la aplicación para venir a Campus,\n¿sí? Pero pero puede pasar,"
+    } ]
+  }, {
+    "tStartMs": 895395,
+    "dDurationMs": 3125,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "[música]\n¿sí? Y eso es lo importante del del",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 897240,
+    "dDurationMs": 5560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tener pues.\nEntonces, Nicole, cuéntame, cuénteme"
+    } ]
+  }, {
+    "tStartMs": 900120,
+    "dDurationMs": 6840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ahora tu historia, ya hablé suficiente.\nYa no quiero aburrirlos. Cuénteme,"
+    } ]
+  }, {
+    "tStartMs": 905320,
+    "dDurationMs": 5880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Nicole, ¿cómo es cómo es tu historia?\n¿Cómo cómo diste con Campus?"
+    } ]
+  }, {
+    "tStartMs": 909200,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Bueno, realmente fue algo curioso porque\nnunca se me pasó por la mente, de hecho,",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 913440,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "jamás me fijé en ese tipo de temas de de\nprogramación. Yo realmente ahorita estoy"
+    } ]
+  }, {
+    "tStartMs": 918360,
+    "dDurationMs": 4920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "estudiando ingeniería industrial,\nsiempre siempre me gustó esa área, es,"
+    } ]
+  }, {
+    "tStartMs": 921839,
+    "dDurationMs": 4841,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hecho, me puedo desenvolver en muchas\ncosas, entonces siempre me gustó eh"
+    } ]
+  }, {
+    "tStartMs": 925240,
+    "dDurationMs": 5400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "dedicarme a eso.\nY no sé cómo llegó a mí, realmente sí"
+    } ]
+  }, {
+    "tStartMs": 929120,
+    "dDurationMs": 5680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "quisiera saber cómo llegó a mí la idea\nde Campus y yo dije, \"Bueno, pues"
+    } ]
+  }, {
+    "tStartMs": 932520,
+    "dDurationMs": 6280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "miremos qué tal.\" Yo estuve investigando\ny cuando llegué a parar acá, no, yo"
+    } ]
+  }, {
+    "tStartMs": 937200,
+    "dDurationMs": 6200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "quedé enamorada de esto, sí, desde el\nprimer recorrido que que me dieron, yo"
+    } ]
+  }, {
+    "tStartMs": 941120,
+    "dDurationMs": 6520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "dije, \"Aquí fue.\" Sí. Y realmente, como\nmencionas, lo de básicamente los"
+    } ]
+  }, {
+    "tStartMs": 945680,
+    "dDurationMs": 5920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "contactos que uno hace acá, el hecho de\nuno saber relacionarse con las personas,"
+    } ]
+  }, {
+    "tStartMs": 949480,
+    "dDurationMs": 5560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "interactuar y uno nunca sabe a quién se\nva a conocer, a quién a quién se va a"
+    } ]
+  }, {
+    "tStartMs": 953000,
+    "dDurationMs": 4560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "encontrar por el camino, de pronto para\nquién está trabajando uno,"
+    } ]
+  }, {
+    "tStartMs": 956640,
+    "dDurationMs": 5520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Total.\nTotal. Esa parte es muy importante, esa",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 960240,
+    "dDurationMs": 5160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "parte es muy importante. Y bueno, Brian,\nahorita es que"
+    } ]
+  }, {
+    "tStartMs": 963520,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que, o sea, ustedes ya no están Campus,\nusted ya terminó, ¿sí?"
+    } ]
+  }, {
+    "tStartMs": 966720,
+    "dDurationMs": 7480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "No, yo todavía sigo eh como camper, pero\nme faltan ya pocos meses para salir.",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 972640,
+    "dDurationMs": 5640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "No, es que estamos hablando acá del\nfuturo, el el el el próximo futuro.",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 976360,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Bueno, pero ¿qué tienes en mente ahorita\npara para para tu futuro?"
+    } ]
+  }, {
+    "tStartMs": 980800,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Pues, actualmente, pues gracias a\nCampus, este, ya cuando salga tengo",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 985000,
+    "dDurationMs": 4960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "trabajo con la electrificadora.\nO sea, ya lo tiene, listo."
+    } ]
+  }, {
+    "tStartMs": 988920,
+    "dDurationMs": 4040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Ya.\nEstá asegurado.",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 990680,
+    "dDurationMs": 7200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Chicos, o sea, literal garantizado ya el\npuesto. Increíble. Okay.",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 995960,
+    "dDurationMs": 5320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "O sea, emocionante, ¿no? Porque es que a\nveces cuando uno está en la universidad"
+    } ]
+  }, {
+    "tStartMs": 999240,
+    "dDurationMs": 6200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "siento que uno está ahí como que qué voy\na hacer ahorita, me Sí, exacto, me voy a"
+    } ]
+  }, {
+    "tStartMs": 1003360,
+    "dDurationMs": 4640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "graduar, ¿qué voy a hacer? ¿Cierto?\nYa uno aquí tiene como asegurado el"
+    } ]
+  }, {
+    "tStartMs": 1007360,
+    "dDurationMs": 4720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "puesto.\nEntonces usted ya usted, mejor dicho,"
+    } ]
+  }, {
+    "tStartMs": 1010400,
+    "dDurationMs": 5520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "están ahí con el tema del karate, pero\nestá durmiendo durmiendo superbién,"
+    } ]
+  }, {
+    "tStartMs": 1014360,
+    "dDurationMs": 5240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "porque ya tiene todo asegurado, no,\nbuenísimo. Y la el el electrificadora, o"
+    } ]
+  }, {
+    "tStartMs": 1018640,
+    "dDurationMs": 4040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sea, Elesa.\nEsa."
+    } ]
+  }, {
+    "tStartMs": 1020320,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Okay, okay. ¿Y sabes exactamente qué vas\na estar haciendo allá o aún no?",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 1024920,
+    "dDurationMs": 5960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Pues, por el momento lo que más nos han\ndicho es que vamos a estar más que todo",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 1028520,
+    "dDurationMs": 7640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "con el tema de de la IA.\nNo, buenísimo, buenísimo. Qué"
+    } ]
+  }, {
+    "tStartMs": 1033319,
+    "dDurationMs": 8921,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "fantástico, ¿no? Yo me Me que yo estuve\nallá en, eh, Colombia 5.0, que fue un"
+    } ]
+  }, {
+    "tStartMs": 1040680,
+    "dDurationMs": 6159,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "evento que hicieron allá en la UIS y\nallá yo estuve dando una charla. Incluso"
+    } ]
+  }, {
+    "tStartMs": 1044560,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "esa charla está en mis redes sociales.\nY estaba dando una charla sobre la"
+    } ]
+  }, {
+    "tStartMs": 1049440,
+    "dDurationMs": 5280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "inteligencia artificial, los agentes,\n¿sí?"
+    } ]
+  }, {
+    "tStartMs": 1052520,
+    "dDurationMs": 5840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Eh, y y qué interesante que había, ahí\nhabía un director de la ESA en en la"
+    } ]
+  }, {
+    "tStartMs": 1057240,
+    "dDurationMs": 5160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "audiencia.\nY levantó la mano y dijo, \"Bueno, eh,"
+    } ]
+  }, {
+    "tStartMs": 1060560,
+    "dDurationMs": 7160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "bueno, es que no, nosotros tenemos un\nmontón de retos y esto y que lo otro y"
+    } ]
+  }, {
+    "tStartMs": 1064640,
+    "dDurationMs": 8760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "qué podemos hacer.\" Entonces, claro,\ntodas las empresas, ¿sí? Bancolombia,"
+    } ]
+  }, {
+    "tStartMs": 1071040,
+    "dDurationMs": 6600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ESA, las empresas grandes, pero también\nlas las empresas"
+    } ]
+  }, {
+    "tStartMs": 1075280,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pequeñas, sí, pequeñas y medianas, lo\nque llamamos los pymes,"
+    } ]
+  }, {
+    "tStartMs": 1079800,
+    "dDurationMs": 6360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "están en ese proceso, ¿sí?\nClaro que lo van a contratar con la IA,"
+    } ]
+  }, {
+    "tStartMs": 1084040,
+    "dDurationMs": 7000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "¿qué más? ¿O será que lo van a contratar\npara escribir código a manual? Chicos,"
+    } ]
+  }, {
+    "tStartMs": 1088840,
+    "dDurationMs": 6840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "esto es el futuro y es lo que está\npasando."
+    } ]
+  }, {
+    "tStartMs": 1092400,
+    "dDurationMs": 6702,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Y tú, me supongo, que lo están ahorita\ncapacitando y enseñando en precisamente"
+    } ]
+  }, {
+    "tStartMs": 1098360,
+    "dDurationMs": 2360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "eso.\n[música]"
+    } ]
+  }, {
+    "tStartMs": 1099320,
+    "dDurationMs": 6280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Eh, sí, de hecho\nPython y",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 1102680,
+    "dDurationMs": 7080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "En Python, ahorita mismo estoy en .net,\nque es como lo que estamos viendo",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 1107160,
+    "dDurationMs": 6080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ahorita con Cam. Eh, igualmente la\nelectrificadora nos va a regalar, ya"
+    } ]
+  }, {
+    "tStartMs": 1111680,
+    "dDurationMs": 5200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cuando terminemos, nos va a regalar un\nmes más de lo que nos va a enseñar full"
+    } ]
+  }, {
+    "tStartMs": 1115080,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "inteligencia artificial.\nBuenísimo, buenísimo. ¿Y te gusta?"
+    } ]
+  }, {
+    "tStartMs": 1120120,
+    "dDurationMs": 5880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Eh, pues sí, siento que tal vez\nemocionante porque son cosas nuevas que",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 1123480,
+    "dDurationMs": 5640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "uno va aprendiendo, o sea, ah, como que\nyo no tengo miedo a aprender, antes me"
+    } ]
+  }, {
+    "tStartMs": 1127960,
+    "dDurationMs": 4800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "emociono\nque voy a aprender cosas nuevas."
+    } ]
+  }, {
+    "tStartMs": 1130800,
+    "dDurationMs": 6840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Sí. Y Andrés, ¿tú te acuerdas cuando tú\nestabas en esa posición?",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 1134640,
+    "dDurationMs": 7160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "me acuerdo cuando, de hecho, ruta.net,\nigual salía con trabajo una vez, o sea,",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 1139880,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "al otro día, o sea, desde que yo salí de\nCampus Lands, no he tenido un mes o 10"
+    } ]
+  }, {
+    "tStartMs": 1144560,
+    "dDurationMs": 6920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sin trabajo.\nEntonces, está el tema de los agentes."
+    } ]
+  }, {
+    "tStartMs": 1148280,
+    "dDurationMs": 7560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Entonces, pues, era fue complejo porque\nde una vez, entonces, se se me echó"
+    } ]
+  }, {
+    "tStartMs": 1153480,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "encima, el más facilito es pues Python,\nLine Chain, Lang Graph, SQL, Alchemy,"
+    } ]
+  }, {
+    "tStartMs": 1157920,
+    "dDurationMs": 7400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "base de datos vectorizada, entonces un\npoco un montón de cosas que obviamente"
+    } ]
+  }, {
+    "tStartMs": 1162680,
+    "dDurationMs": 7040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "lo lo bombardeaban a uno\ny pero pues no, pues toca hacerlo, es el"
+    } ]
+  }, {
+    "tStartMs": 1167800,
+    "dDurationMs": 6840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "trabajo y para eso me pagan, entonces\nvamos a hacerle, vamos a aprender y"
+    } ]
+  }, {
+    "tStartMs": 1172120,
+    "dDurationMs": 9360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "obviamente pues es la tema de la el tema\nde los agentes, eh digamos que es muy"
+    } ]
+  }, {
+    "tStartMs": 1178920,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "muy quisquilloso dependiendo del del\nsistema o de la automatización que se"
+    } ]
+  }, {
+    "tStartMs": 1183680,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "quiera llevar para la empresa, no solo\nes el los agentes conversacionales, sino"
+    } ]
+  }, {
+    "tStartMs": 1188040,
+    "dDurationMs": 4960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "esos agentes que están automatizando o\npotenciando ciertos trabajadores."
+    } ]
+  }, {
+    "tStartMs": 1192560,
+    "dDurationMs": 4480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Total.\nPor ejemplo, uno de los agentes más",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 1194520,
+    "dDurationMs": 11080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "complejos que yo he tenido\nera un agente de de una clínica, digamos"
+    } ]
+  }, {
+    "tStartMs": 1201120,
+    "dDurationMs": 9560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que la clínica eh lo que es este\nlas grandes farmacéuticas que son"
+    } ]
+  }, {
+    "tStartMs": 1207560,
+    "dDurationMs": 7240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "AstraZeneca y demás, va varias marcas\nhay, ellas proveen un software que los"
+    } ]
+  }, {
+    "tStartMs": 1213200,
+    "dDurationMs": 5560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "médicos tienen que llenar\nconstantemente."
+    } ]
+  }, {
+    "tStartMs": 1216320,
+    "dDurationMs": 8120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Entonces los médicos tenían que una vez\nal atender sus pacientes ellos debían es"
+    } ]
+  }, {
+    "tStartMs": 1221880,
+    "dDurationMs": 6920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "llenar esas fórmulas médicas, entonces\nese software tú, Ryan, que sabes,"
+    } ]
+  }, {
+    "tStartMs": 1226400,
+    "dDurationMs": 5640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "nosotros que sabemos el contexto de del\nsoftware"
+    } ]
+  }, {
+    "tStartMs": 1229880,
+    "dDurationMs": 5200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "esas páginas cuentan sin servicio API.\nMmm."
+    } ]
+  }, {
+    "tStartMs": 1232800,
+    "dDurationMs": 4360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Entonces teníamos que hacer un RPA con\ninteligencia artificial.",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 1236160,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Claro.\nEntonces teníamos que clonar a los",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 1239720,
+    "dDurationMs": 8200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "médicos un RPA que leyera esas fórmulas\nmédicas y que las traspasara a esos"
+    } ]
+  }, {
+    "tStartMs": 1245320,
+    "dDurationMs": 5040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "softwares, no mediante API, sino\nmediante front-end."
+    } ]
+  }, {
+    "tStartMs": 1249560,
+    "dDurationMs": 2440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Imagínese.\nEntonces",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 1250880,
+    "dDurationMs": 6734,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Llenándolo manualmente.\nLlenándolos manualmente, entonces eh",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 1254760,
+    "dDurationMs": 5920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "gracias a Dios, Jholver, en su\n[música]"
+    } ]
+  }, {
+    "tStartMs": 1258000,
+    "dDurationMs": 8320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "en su inmensa experiencia al al al\ndecirnos las o al enseñarnos HTML y CSS,",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 1264440,
+    "dDurationMs": 5480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que en su momento yo dije\nno, eso no se usa."
+    } ]
+  }, {
+    "tStartMs": 1268320,
+    "dDurationMs": 5840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Entonces me tocó el RPA, empezar a\nvolver todas las etiquetas, empezar a"
+    } ]
+  }, {
+    "tStartMs": 1272080,
+    "dDurationMs": 7280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "extraer todos los selectores, los ID de\ncada botón, botón por botón. Entonces"
+    } ]
+  }, {
+    "tStartMs": 1276680,
+    "dDurationMs": 7240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "era muy canzón y no, fue un RPA que\ntardó 4 meses de desarrollo."
+    } ]
+  }, {
+    "tStartMs": 1282120,
+    "dDurationMs": 5880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Era un proyecto en el que pero yo estaba\nsolo, digamos que hoy en día en el"
+    } ]
+  }, {
+    "tStartMs": 1285560,
+    "dDurationMs": 7040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mercado laboral cada proyecto lo\ndesplegamos solo, pues hoy en día un"
+    } ]
+  }, {
+    "tStartMs": 1290360,
+    "dDurationMs": 6920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "programador debe ser full full full\nstack. Entonces en ese proyecto la"
+    } ]
+  }, {
+    "tStartMs": 1295640,
+    "dDurationMs": 5880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "arquitectura que manejaba la empresa era\narquitectura Azure, entonces Azure era"
+    } ]
+  }, {
+    "tStartMs": 1300120,
+    "dDurationMs": 5360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "nuevo para mí.\nEntonces desplegar los modelos con"
+    } ]
+  }, {
+    "tStartMs": 1303360,
+    "dDurationMs": 7800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Founis, desplegar los servicios con\nAzure, hacerlo el el desarrollo de"
+    } ]
+  }, {
+    "tStartMs": 1308520,
+    "dDurationMs": 7760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "DevOps de una forma segura, que no\nconsumir los servicios directos, sino a"
+    } ]
+  }, {
+    "tStartMs": 1313360,
+    "dDurationMs": 6800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "través del Entra ID de Microsoft. Y no,\nfue un proyecto que me sacó muchas"
+    } ]
+  }, {
+    "tStartMs": 1317840,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "canas, de los agentes más complejos que\nhe hecho, la primera vez que toqué, en"
+    } ]
+  }, {
+    "tStartMs": 1322400,
+    "dDurationMs": 7920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ese proyecto nomás, la primera vez que\ntoqué Python con RPA para para hacer"
+    } ]
+  }, {
+    "tStartMs": 1327840,
+    "dDurationMs": 7760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "movimiento a través de una máquina,\nla primera vez que toqué Microsoft Azure"
+    } ]
+  }, {
+    "tStartMs": 1333400,
+    "dDurationMs": 5600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y la primera vez que desarrollé DevOps\nen cuestión de del despliegue de ese"
+    } ]
+  }, {
+    "tStartMs": 1337560,
+    "dDurationMs": 5200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "proyecto. Entonces un proyecto muy\ninteresante que aprendí dos cosas muy"
+    } ]
+  }, {
+    "tStartMs": 1341280,
+    "dDurationMs": 5920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "importantes hoy en día en el mercado\nlaboral, DevOps [música] y RPA."
+    } ]
+  }, {
+    "tStartMs": 1345720,
+    "dDurationMs": 4680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Porque se está automatizando, las\nempresas están locas por automatizarse"
+    } ]
+  }, {
+    "tStartMs": 1348920,
+    "dDurationMs": 6800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hoy en día.\nTodas están locas por automatizarse."
+    } ]
+  }, {
+    "tStartMs": 1353560,
+    "dDurationMs": 4440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Sí, entonces\nEso es, pero ese ese fue uno de los"
+    } ]
+  }, {
+    "tStartMs": 1357240,
+    "dDurationMs": 5120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "proyectos más duros.\nLos proyectos más duros. Y para las que"
+    } ]
+  }, {
+    "tStartMs": 1360440,
+    "dDurationMs": 7040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "acabaron de escuchar a Andrés y\nprácticamente lo único que escucharon"
+    } ]
+  }, {
+    "tStartMs": 1364160,
+    "dDurationMs": 8200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "fue el hablar en chino los últimos 10\nminutos, pues eso es un indicador que"
+    } ]
+  }, {
+    "tStartMs": 1370480,
+    "dDurationMs": 6840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "deberían de capacitarse en esa\ntecnología porque es el futuro. Y siento"
+    } ]
+  }, {
+    "tStartMs": 1374880,
+    "dDurationMs": 7560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que hoy en día si uno no tiene esa parte\ndonde uno entiende qué es lo que está"
+    } ]
+  }, {
+    "tStartMs": 1379320,
+    "dDurationMs": 6520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pasando y entender cómo funcionan esas\ncosas, es lo que tú dices, no solo son"
+    } ]
+  }, {
+    "tStartMs": 1383680,
+    "dDurationMs": 5600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "agentes, mira, la mayoría de los agentes\nque nosotros hemos hecho sí son"
+    } ]
+  }, {
+    "tStartMs": 1386960,
+    "dDurationMs": 6520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "conversacionales, sí, que la cita, que\nesto, que lo otro, que la venta, que el"
+    } ]
+  }, {
+    "tStartMs": 1391120,
+    "dDurationMs": 7600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "producto, que bla, bla, bla, porque pues\nes algo que nosotros podemos montar muy"
+    } ]
+  }, {
+    "tStartMs": 1395920,
+    "dDurationMs": 6280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "rápido, es algo muy, pero si yo te digo\nde los sistemas [música] que nosotros"
+    } ]
+  }, {
+    "tStartMs": 1400640,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hemos montado para empresas en Estados\nUnidos o incluso acá en Colombia,"
+    } ]
+  }, {
+    "tStartMs": 1404360,
+    "dDurationMs": 6760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "constructoras, clínicas, lo que tú\ndices, Andrés, o sea, es un tema"
+    } ]
+  }, {
+    "tStartMs": 1409360,
+    "dDurationMs": 6360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sumamente complicado.\nExacto."
+    } ]
+  }, {
+    "tStartMs": 1411680,
+    "dDurationMs": 10200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "No es algo fácil y es algo que realmente\nes un reto, ¿sí? Entonces, ¿qué pasa?",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 1419360,
+    "dDurationMs": 7920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Los chicos en mi equipo\ny yo, hay algunos que llevan ya años"
+    } ]
+  }, {
+    "tStartMs": 1424040,
+    "dDurationMs": 7760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "trabajando conmigo que son campers.\nY lo más increíble de todo es que esa, o"
+    } ]
+  }, {
+    "tStartMs": 1430240,
+    "dDurationMs": 5360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sea, son unos monstruos completamente, o\nsea, la forma en que trabajan, ¿sí?"
+    } ]
+  }, {
+    "tStartMs": 1433800,
+    "dDurationMs": 7000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Claro, porque estuvieron acá\ntrasnochándose a las 3, 4 de la mañana"
+    } ]
+  }, {
+    "tStartMs": 1437640,
+    "dDurationMs": 9280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "estudiando, como Campus 24/7, entonces\nuno tiene esa cultura, ¿sí? Esta gente"
+    } ]
+  }, {
+    "tStartMs": 1443920,
+    "dDurationMs": 5920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "no les no les importa trasnochar. Y a\nveces me dicen, \"Jefe, no, eso ya está.\""
+    } ]
+  }, {
+    "tStartMs": 1448320,
+    "dDurationMs": 5440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "¿Cómo así que usted sacó todo el sistema\nde notificaciones a través de la API de"
+    } ]
+  }, {
+    "tStartMs": 1451400,
+    "dDurationMs": 5960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "WhatsApp anoche si yo le dije eso anoche\ny lo sacó?"
+    } ]
+  }, {
+    "tStartMs": 1455120,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Y son unos cracks.\nY cada vez más, ¿no? Porque claro, tú"
+    } ]
+  }, {
+    "tStartMs": 1459920,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sabes que de una parte es la\ncapacitación que pasa en Campus Land,"
+    } ]
+  }, {
+    "tStartMs": 1464080,
+    "dDurationMs": 7080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pero Campus Land solo es como en la\nescalera el primer escalón."
+    } ]
+  }, {
+    "tStartMs": 1468920,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Porque el segundo es cuando usted entra\nal trabajo."
+    } ]
+  }, {
+    "tStartMs": 1472320,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Y cuando usted se vuelve un reto, usted\naprende qué es lo que usted tiene que"
+    } ]
+  }, {
+    "tStartMs": 1476800,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hacer, por ejemplo, hay un chico que con\nquien que es parte de mi equipo que él"
+    } ]
+  }, {
+    "tStartMs": 1481000,
+    "dDurationMs": 8240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hace toda la parte del back end y yo le\ndije, \"Listo, manito, eh nosotros usamos"
+    } ]
+  }, {
+    "tStartMs": 1485840,
+    "dDurationMs": 7520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Go.\" Él dijo, \"Bueno, me toca aprender\nGo entonces.\" Sí, entonces"
+    } ]
+  }, {
+    "tStartMs": 1491120,
+    "dDurationMs": 8080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "todas esas cosas, pero qué es lo que\nCampus Land, creo yo, que que da es"
+    } ]
+  }, {
+    "tStartMs": 1497080,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "la oportunidad\nde aprenderlo"
+    } ]
+  }, {
+    "tStartMs": 1501400,
+    "dDurationMs": 4560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y conocer la forma\nLa forma"
+    } ]
+  }, {
+    "tStartMs": 1504240,
+    "dDurationMs": 4280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "en que en que puedes aprender nuevas\ncosas.",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 1507040,
+    "dDurationMs": 7520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Entonces, pues chicos, creo que ya se\nnos acabó el tiempo, pero"
+    } ]
+  }, {
+    "tStartMs": 1511680,
+    "dDurationMs": 8560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "eh no sé si tienen alguna pregunta o\notra cosa. Eh"
+    } ]
+  }, {
+    "tStartMs": 1517000,
+    "dDurationMs": 8080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "esto también ha sido muy muy valioso\nconocerlos a ustedes. Ojalá tengamos"
+    } ]
+  }, {
+    "tStartMs": 1522760,
+    "dDurationMs": 5920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "otra oportunidad de hablar.\nEh"
+    } ]
+  }, {
+    "tStartMs": 1526360,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y y y pues nada, siento que qué chévere\nque exista esto acá en nuestra ciudad,"
+    } ]
+  }, {
+    "tStartMs": 1530680,
+    "dDurationMs": 5840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "¿cierto? Acá acá en\nen en en Bucaramanga."
+    } ]
+  }, {
+    "tStartMs": 1535040,
+    "dDurationMs": 5240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Sí, sí, no, es una oportunidad muy\ngrande para todos los jóvenes que yo la",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 1538360,
+    "dDurationMs": 7080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "verdad los animo a tomar esa\noportunidad. Es un proceso difícil, pero"
+    } ]
+  }, {
+    "tStartMs": 1543600,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "es completamente lograble. O sea, como\ndice Ryan, si yo lo logré, si él lo está"
+    } ]
+  }, {
+    "tStartMs": 1547760,
+    "dDurationMs": 5960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "por lograrlo y ella también, cualquiera\npuede hacerlo."
+    } ]
+  }, {
+    "tStartMs": 1551720,
+    "dDurationMs": 8480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Bueno, chicos, muchísimas gracias por el\ntiempo y el espacio y por acompañarnos",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 1555880,
+    "dDurationMs": 4320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "acá, ¿vale? Gracias, saludos."
+    } ]
+  }, {
+    "tStartMs": 1560882,
+    "dDurationMs": 2021,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "[música]",
+      "isSpeakerChange": 1
+    } ]
+  } ]
+}

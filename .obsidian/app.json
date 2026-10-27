@@ -1,0 +1,12 @@
+{
+  "userIgnoreFilters": [
+    "ai-brain-starter/",
+    "automation/",
+    "**/node_modules/**",
+    "node_modules/",
+    ".claude/",
+    "diego_investigacion/.chrome_profile/",
+    "diego_investigacion/scripts/",
+    "diego_instagram/scripts/"
+  ]
+}

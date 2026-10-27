@@ -1,0 +1,210 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  }, {
+    "mhModeHint": 2,
+    "juJustifCode": 0,
+    "sdScrollDir": 3
+  } ],
+  "wpWinPositions": [ {
+  
+  }, {
+    "apPoint": 6,
+    "ahHorPos": 20,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  } ],
+  "events": [ {
+    "tStartMs": 0,
+    "id": 1,
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1480,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Hola, mi nombre es Freiler Ale Ortega\nZumiñán, tengo 25 años y es un placer",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 6040,
+    "dDurationMs": 6559,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "para mí poder contarles un poco de mi\nhistoria. Eh, soy nacido y criado en la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 10800,
+    "dDurationMs": 5920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "zona del Catatumbo. Mis padres de igual\nforma son nacidos y criados en las zonas",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 14160,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "del Catatumbo. Realicé mis estudios\nhasta el bachiller acá en Tibú. Eh,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 19600,
+    "dDurationMs": 4919,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "luego me desplacé a la ciudad de\nMedellín, eh, con aras de cumplir mi",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 22680,
+    "dDurationMs": 6519,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sueño de ser futbolista, que para mí era\nuna forma de ayudar a mi familia,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 25920,
+    "dDurationMs": 6600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sacarlos de, digámoslo, lo así del de la\nde las necesidades que estaban pasando.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 30920,
+    "dDurationMs": 6840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Por cosas de la vida se me truncó el\nsueño, no pude lograrlo. Eh, cuando",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 35320,
+    "dDurationMs": 5840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "volví acá al municipio, me encontré con\nla realidad de que mi familia estaba",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 38879,
+    "dDurationMs": 7721,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pagando por necesidades mientras yo\nestaba pues detrás de un sueño, que para",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 42840,
+    "dDurationMs": 8399,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mí era lo ideal. Eh, por mucho tiempo eh\ncreí que fui que era el culpable de de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 48680,
+    "dDurationMs": 7760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "esa situación y empecé a vivir mi vida\ncomo en piloto automático. Eh, en el año",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 54399,
+    "dDurationMs": 6361,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "2021 tuve un accidente que casi me\ncuesta la vida. Eh, a raíz de eso, eh,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 59120,
+    "dDurationMs": 4840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pues para muchos una desgracia, pero\npara mí fue la forma de abrir los ojos,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 62480,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de darme cuenta que estaba tirando mi\nvida a la basura. Eh, después me enteré",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 66600,
+    "dDurationMs": 6559,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de campus por un familiar y por videos\nde Facebook y decidí pues darme la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 71119,
+    "dDurationMs": 7721,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "oportunidad de de no hacer lo que hice\ncuando salí del del bachillero. Gracias",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 76560,
+    "dDurationMs": 6879,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a Campus logré enfocarme, logré darle\nuna orientación a mi vida y puedo ver un",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 81240,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "futuro que pueda ayudar a mi familia.\nPuedo por fin quitarme la carga de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 85119,
+    "dDurationMs": 8000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pensar que no hacer o o dejar de hacer\nlo que tenía que haber hecho cuando salí",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 89759,
+    "dDurationMs": 7720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "del bachillerato fue culpa mía. Eh,\nmuchas gracias por su atención y espero",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 95079,
+    "dDurationMs": 2400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que les guste.",
+      "acAsrConf": 0
+    } ]
+  } ]
+}

@@ -1,0 +1,218 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  }, {
+    "mhModeHint": 2,
+    "juJustifCode": 0,
+    "sdScrollDir": 3
+  } ],
+  "wpWinPositions": [ {
+  
+  }, {
+    "apPoint": 6,
+    "ahHorPos": 20,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  } ],
+  "events": [ {
+    "tStartMs": 0,
+    "id": 1,
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 4600,
+    "dDurationMs": 7320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Bienvenidos a Tibó, una tierra de\nresistencia y esperanza ubicada en el",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 9320,
+    "dDurationMs": 6959,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "noreste de Colombia. Tibú ha sido por\ndécadas un territorio marcado por la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 13799,
+    "dDurationMs": 7361,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "violencia y la ilegalidad. La presencia\nde grupos armados y una economía basada",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 18439,
+    "dDurationMs": 7760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "en cultivos ilícitos ha definido su\nrealidad. Pero en medio de la adversidad",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 23880,
+    "dDurationMs": 7719,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hay jóvenes con sueños, hay talento\nesperando una oportunidad. Campus Ligó",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 29359,
+    "dDurationMs": 6281,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "para transformar esa realidad. Como\ncentro de movilidad social, nuestro",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 33680,
+    "dDurationMs": 6280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "propósito es brindar oportunidades a\njóvenes de escasos recursos, sin",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 37640,
+    "dDurationMs": 6239,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "experiencia en programación, pero con un\nenorme potencial a través de un",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 41879,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "entrenamiento intensivo en desarrollo de\nsoftware, inglés y habilidades",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 46079,
+    "dDurationMs": 6800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "socioemocionales. Estos jóvenes están\nconstruyendo un nuevo camino. Hace un",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 50559,
+    "dDurationMs": 7480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "año, muchos de ellos no sabían qué era\nprogramar. Hoy están escribiendo líneas",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 55600,
+    "dDurationMs": 7439,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de código que pueden cambiar su vida.\nNuestra meta es clara, lograr que más",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 60160,
+    "dDurationMs": 7920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "del 80% de nuestros estudiantes accedan\na empleos en empresas nacionales e",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 65320,
+    "dDurationMs": 7520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "internacionales y lo estamos logrando.\nEl 70% de quienes terminan el programa",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 71040,
+    "dDurationMs": 6119,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "trabajan de manera remota desde sus\nhogares, mientras que el 30% se",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 75479,
+    "dDurationMs": 6600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "trasladan a otras ciudades donde sus\ntalentos son altamente valorados. Hoy",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 79520,
+    "dDurationMs": 8160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "están a solo un paso de lograrlo. En\n2025, 37 jóvenes se graduarán como",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 85119,
+    "dDurationMs": 8561,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "programadores, 37 vidas con un nuevo\nhorizonte, 37 familias con un futuro más",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 90520,
+    "dDurationMs": 8919,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "brillante y esto es solo el comienzo.\nPero soñemos más grande. ¿Qué pasaría si",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 96720,
+    "dDurationMs": 7120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "en lugar de 37 Ibu tuviera 1000\nprogramadores trabajando de manera",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 101200,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "remota para Colombia y el mundo? Con el\napoyo de empresarios, aliados y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 105719,
+    "dDurationMs": 7801,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "visionarios, podemos hacer que este\nsueño se multiplique. Aquí en Tibú no",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 110799,
+    "dDurationMs": 6121,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "solo programamos código, programamos el\nfuturo. No.",
+      "acAsrConf": 0
+    } ]
+  } ]
+}

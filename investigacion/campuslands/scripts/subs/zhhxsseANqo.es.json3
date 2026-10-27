@@ -1,0 +1,175 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  }, {
+    "mhModeHint": 2,
+    "juJustifCode": 0,
+    "sdScrollDir": 3
+  } ],
+  "wpWinPositions": [ {
+  
+  }, {
+    "apPoint": 6,
+    "ahHorPos": 20,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  } ],
+  "events": [ {
+    "tStartMs": 0,
+    "id": 1,
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 670,
+    "dDurationMs": 3720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "[Música]"
+    } ]
+  }, {
+    "tStartMs": 6259,
+    "dDurationMs": 8260,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "la secretaría competitividad estamos muy\nfelices de lograr generar esta sinergia",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 12660,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "con estas grandes empresas nuestra\napuesta hoy es formar mil jóvenes por",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 16980,
+    "dDurationMs": 6719,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "año y",
+      "acAsrConf": 242
+    }, {
+      "utf8": " estos",
+      "acAsrConf": 177
+    }, {
+      "utf8": " mil",
+      "acAsrConf": 196
+    }, {
+      "utf8": " jóvenes le van a\nrepresentar a esta ciudad más de un",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 21359,
+    "dDurationMs": 4521,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "millón",
+      "acAsrConf": 242
+    }, {
+      "utf8": " de",
+      "acAsrConf": 235
+    }, {
+      "utf8": " dólares mensuales en el primer\naño",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 26640,
+    "dDurationMs": 5939,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "por eso un proyecto como campus\nrealmente nos emociona de sobremanera y",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 30480,
+    "dDurationMs": 5340,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "es muy importante porque hace que\nestemos dentro del mapa para que",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 33960,
+    "dDurationMs": 5400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "inversionistas nacionales e\ninternacionales sepan que tenemos como",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 37559,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "suplir la gran demanda de capital humano\nque tienen las empresas queremos seguir",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 42180,
+    "dDurationMs": 6359,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "invitando a los empresarios a que le\napuesten a esta iniciativa a que sigamos",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 46500,
+    "dDurationMs": 5219,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "trabajando en procesos de colaboración y\na que encuentren en zona franca",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 50280,
+    "dDurationMs": 5040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Santander la mejor opción para la\ninstalación de sus inversiones los",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 53579,
+    "dDurationMs": 6421,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "invitamos a ustedes también a creer en\nbucaramanga a creer en Santander a creer",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 57480,
+    "dDurationMs": 5059,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "en zona franca Santander para exportar\nsus servicios",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 64220,
+    "dDurationMs": 9689,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "en zona franca Santander los jóvenes\nestamos construyendo una nueva región",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 68750,
+    "dDurationMs": 5159,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "[Música]"
+    } ]
+  } ]
+}

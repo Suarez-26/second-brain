@@ -1,0 +1,57 @@
+---
+id: post_014
+componentkey: "update-card-focusZzQxt5sRYLcOo42QshgeUqLmHltf9mzroHyf8qkzIC8FeedType_CREATOR_PROFILE_ALL_CONTENT_VIEW"
+fecha_extraccion: 2026-10-20
+fecha_relativa: "2 meses"
+tipo: "Texto + Imagen"
+contexto: campuslands
+---
+
+# Publicación `post_014`
+
+- **Cabecera / Autor:** Diego Tarazona Pinzón han compartido esto
+- **Fecha relativa:** 2 meses
+- **Tipo de contenido:** Texto + Imagen
+- **Captura visual de la publicación:** `../03_imagenes/post_014_card.png`
+- **Imágenes descargadas:** post_014_img_01.jpg
+- **Video descargado:** No aplica
+
+## Contenido Íntegro Extraído
+
+```text
+Publicación en el feed
+
+Diego Tarazona Pinzón han compartido esto
+
+Maria Camila Cañas Sànchez
+
+• 2º
+
+Relaciones Gubernamentales | Asuntos Públicos | Política Regulatoria | Innovación Social | Comunicación Estratégica | Relaciones Públicas | América Latina
+
+2 meses
+
+Conectar
+
+Hay momentos que cambian la agenda, pero también nos recuerdan el propósito.
+
+En el #CEC2026 estaremos para conectar, articular y movilizar acciones que sumen al país. Porque ante la adversidad, la unión también transforma. 
+
+EMPRESAS QUE SE UNEN, PAÍS QUE SE LEVANTA 🇨🇴🤝
+
+Campuslands Diego Tarazona Pinzón Fundación ANDI Santiago Pinzón Galán Natalia Orozco Naranjo Iván Guillermo Ramírez Zambrano Karen Carvajalino ANDI - Asociación Nacional de Empresarios de Colombia María Juliana REMOLINA ORDÓÑEZ Jose Manuel Restrepo DBA Saul Pineda Hoyos Abelardo De La Espriella
+
+#Campuslands #SantanderPresente #CEC2026 #LaUniónHaceLaFuerza
+
+31
+​
+7
+​
+```
+
+---
+## 🔗 Conexiones del Segundo Cerebro
+- **Entidad principal:** [[people/diego-tarazona|Diego Tarazona]] | [[areas/campuslands|Campuslands]]
+- **MOC & Análisis:** [[diego_investigacion/README|MOC Diego Tarazona]] | [[diego_investigacion/06_analisis_maestro_diego|Análisis Maestro]]
+- **Áreas temáticas:** [[areas/campuslands|Campuslands]]
+- **Entidades y Aliados detectados:** [[people/maria-camila-canas|María Camila Cañas]] • [[organizaciones/andi|ANDI]]

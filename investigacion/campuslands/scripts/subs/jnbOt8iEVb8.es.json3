@@ -1,0 +1,178 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  }, {
+    "mhModeHint": 2,
+    "juJustifCode": 0,
+    "sdScrollDir": 3
+  } ],
+  "wpWinPositions": [ {
+  
+  }, {
+    "apPoint": 6,
+    "ahHorPos": 20,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  } ],
+  "events": [ {
+    "tStartMs": 0,
+    "id": 1,
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 440,
+    "dDurationMs": 6319,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "bueno vinimos por la universidad ean\nestamos con brit bti brit mucho gusto",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 4120,
+    "dDurationMs": 7360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "jito t Qué gusto tenerte acá No qué\nmaravilla que hayan venido y sobre todo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 8559,
+    "dDurationMs": 8761,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a este evento tan significativo rectora\nsuperclave de la Universidad de an",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 13920,
+    "dDurationMs": 9599,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "crearon un centro de desarrolladores con\ncampus l que viene bucaramanga Manu toca",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 20000,
+    "dDurationMs": 6760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hablar así Manu s no Hola y llegó a\nBogotá por qué llegó a Bogotá Porque la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 25279,
+    "dDurationMs": 5320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Universidad de dan de qué se trata todo\nesto Bueno lo primero fue Amor a primera",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 29119,
+    "dDurationMs": 6321,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vista conamp\nes un programa que la rompe se trata de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 33600,
+    "dDurationMs": 5959,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "un emprendimiento y Nosotros siempre\nestamos atentos a los emprendimientos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 36760,
+    "dDurationMs": 6639,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Queen en todas partes para formar\nprogramadores en un plazo corto gente",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 42160,
+    "dDurationMs": 5200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que\nintensamente quiera participar del",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 45719,
+    "dDurationMs": 5121,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "desarrollo digital de Colombia y que\nquiera conseguir trabajo también pronto",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 49079,
+    "dDurationMs": 7561,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "claro la realidad es la realidad\nentonces 10 meses intensivos 12 horas al",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 53640,
+    "dDurationMs": 7640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "día presencial con inglés y con\nhabilidades blandas por supuesto python",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 58920,
+    "dDurationMs": 6800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "javascript más más todos los lenguajes\npues no todo eso todo eso solo se",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 63320,
+    "dDurationMs": 7360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "necesita saber prender el computador\nsumar y restar tener 17 años y muchas",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 68640,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ganas más de 17 años y para adelante y\npara adelante Sí maravilloso Qué grandes",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 72759,
+    "dDurationMs": 5801,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "instalaciones Qué gran universidad Qué\ngran Apuesta por campus l felicitaciones",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 76520,
+    "dDurationMs": 5840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pues muchas gracias a ti participen\nlisto pues",
+      "acAsrConf": 0
+    } ]
+  } ]
+}

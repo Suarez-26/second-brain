@@ -89,3 +89,10 @@ Uso privado: material fuente, no se republica. Ver [[fuentes/video-podcast]] y [
 **[36:01]** Yo yo creo que liderar liderar es la sumatoria de varias cosas. Primero de desarrollar desarrollar personas. O sea, un líder que no desarrolle personas no es líder. O sea, uno como líder tiene que desarrollar gente que sea mejor que uno, gente que quiera quedarse con el puesto uno. O sea, uno como líder tiene que buscar gente que sea mejor que uno y si no lo es, ayudarlos a que se vuelvan mejor que uno para que le quiten el puesto a uno. ¿Por qué? Porque si ellos me lo quitan a mí, eh, yo voy a tener la oportunidad de crecer. Porque si yo nunca voy a tener un segundo o una persona que me pueda reemplazar a mí, yo me voy a estancar en ese puesto. Entonces, lo primero, un líder desarrolla gente, busca gente para hacerla mejor que uno. Segundo, el líder no se debe preocupar por ser el que más sabe, ¿no? El que debe saber más es el equipo. Un líder se debe preocupar es por armar el mejor equipo, por lograr tener siempre a quién llamar para solucionar
 
 **[37:00]** las cosas. Pero el líder no se preocupar por ser el el el que tiene el mayor conocimiento de su equipo de 10 personas, ¿no? El líder tiene que buscar, es el que busca las soluciones. O sea, y el líder, el tercero, es aquel que tiene una capacidad mental de no derrumbarse, de en medio del mar, no asustarse, de la tormenta, o sea, porque lo que tiene el líder es problemas y el líder está ahí para buscar esas soluciones, pero si el líder se derrumba no hay nada que hacer. Vamos perdiendo 6 y si el líder se derrumbó nos meten 10. Entonces esas son como tres características. Hey.
+
+---
+## 🔗 Conexiones del Segundo Cerebro
+- **Persona:** [[people/diego-tarazona|Diego Tarazona]]
+- **Entidad:** [[areas/campuslands|Campuslands]]
+- **Dossier de Investigación:** [[investigacion/diego-tarazona/dossier|Dossier Diego Tarazona]]
+- **MOC Integral:** [[diego_investigacion/README|MOC Diego Tarazona]]

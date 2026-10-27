@@ -1,0 +1,130 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  }, {
+    "mhModeHint": 2,
+    "juJustifCode": 0,
+    "sdScrollDir": 3
+  } ],
+  "wpWinPositions": [ {
+  
+  }, {
+    "apPoint": 6,
+    "ahHorPos": 20,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  } ],
+  "events": [ {
+    "tStartMs": 0,
+    "id": 1,
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1400,
+    "dDurationMs": 6760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Hola, mi nombre es José Guillermo Paul\nDíaz, tengo 20 años, vengo de Cimacota,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 5720,
+    "dDurationMs": 6839,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de Santander. Hace un año, cuando\nterminé mi colegio, me preguntaba qué",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 10120,
+    "dDurationMs": 7840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "era lo que iba a hacer con mi vida y la\nverdad me asusté, pero conocí Campus",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 15639,
+    "dDurationMs": 7241,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Lance por redes sociales y cuando lo vi\nme enamoró, dije, \"Yo quiero estudiar",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 20519,
+    "dDurationMs": 6281,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ahí.\" Y la verdad, desde que entré a\nCampus Lance, una cosa fue cuando lo vi",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 24760,
+    "dDurationMs": 5560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "en pantalla y otra cosa ya fue cuando\nviví la experiencia, cuando pude",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 28640,
+    "dDurationMs": 7280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "compartir con los trainers y con mis\ncompañeros y en el proceso aprendí",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 32680,
+    "dDurationMs": 8240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "muchísimo. Estoy muy contento por eso.\nEl año pasado culminé mis estudios, mi",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 38000,
+    "dDurationMs": 7600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "formación aquí en Campuslands y hoy\nestoy gozoso de decir que soy un camper",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 43239,
+    "dDurationMs": 6561,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "exitoso, un caso exitoso y estoy\ntrabajando para una empresa que se llama",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 47360,
+    "dDurationMs": 5839,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Solvo Global. Entonces, estoy muy\nagradecido con Campulland y con la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 51600,
+    "dDurationMs": 4599,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "empresa Solbo por darme esta gran\noportunidad.",
+      "acAsrConf": 0
+    } ]
+  } ]
+}

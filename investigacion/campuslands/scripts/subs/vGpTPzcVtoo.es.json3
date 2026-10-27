@@ -1,0 +1,107 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  }, {
+    "mhModeHint": 2,
+    "juJustifCode": 0,
+    "sdScrollDir": 3
+  } ],
+  "wpWinPositions": [ {
+  
+  }, {
+    "apPoint": 6,
+    "ahHorPos": 20,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  } ],
+  "events": [ {
+    "tStartMs": 0,
+    "id": 1,
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1820,
+    "dDurationMs": 7359,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "esa es su oportunidad de ser parte de\nalgo grande de marcar la diferencia de",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 7200,
+    "dDurationMs": 7500,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "poner en alto tu liderazgo en la\neducación de Santander",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 11660,
+    "dDurationMs": 8800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "campus el evento que reúne a futuros\nestudiantes e instituciones líderes en",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 17400,
+    "dDurationMs": 6719,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "formación superior Haz parte de esta\nferia inolvidable que contribuye a la",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 22380,
+    "dDurationMs": 7920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "construcción de un futuro prometedor\npara nuestra región",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 27480,
+    "dDurationMs": 9060,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "construyamos Juntos por un futuro que\npromete jueves 25 y viernes 26 de mayo",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 34079,
+    "dDurationMs": 10201,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "salón mega de neomundo de ocho de la\nmañana a ocho de la noche más",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 38579,
+    "dDurationMs": 5701,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "información al",
+      "acAsrConf": 242
+    }, {
+      "utf8": " 67",
+      "acAsrConf": 239
+    }, {
+      "utf8": " 697",
+      "acAsrConf": 242
+    }, {
+      "utf8": " 2020",
+      "acAsrConf": 235
+    } ]
+  } ]
+}

@@ -1,0 +1,1458 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  }, {
+    "mhModeHint": 2,
+    "juJustifCode": 0,
+    "sdScrollDir": 3
+  } ],
+  "wpWinPositions": [ {
+  
+  }, {
+    "apPoint": 6,
+    "ahHorPos": 20,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  } ],
+  "events": [ {
+    "tStartMs": 0,
+    "id": 1,
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 80,
+    "dDurationMs": 7199,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "muy bien daremos inicio con este pequeño\ntutorial el primer ítem la primera parte",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 4759,
+    "dDurationMs": 8201,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "la cual estipula que hay que dar a\nconocer Cómo se puede utilizar una",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 10320,
+    "dDurationMs": 9320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "fuente de letra una tipografía sea un\narchivo pun ttf o un punto wu F",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 17880,
+    "dDurationMs": 8559,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cualquier tipo de archivo que sea de\ntipografía tipo de letra",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 22160,
+    "dDurationMs": 8519,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "eh utilizando únicamente html y css es\ndecir descargándolo nuestra máquina Y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 28519,
+    "dDurationMs": 6921,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "utilizando pues la las tecnologías\nanteriormente dichas para ello vamos a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 33160,
+    "dDurationMs": 11680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "crear un archivo el cual Vamos a darle\nnombre de ejemplo ejemplo.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 40680,
+    "dDurationMs": 9359,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "html Vale y vamos a traernos nuestro\ntemplate por defecto",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 47280,
+    "dDurationMs": 8320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "html vamos a crear algo muy sencillito\núnicamente un h1 el cual vamos a dar el",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 52480,
+    "dDurationMs": 6079,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "nombre de ejemplo y un p el cual\naplicamos un Loren",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 58920,
+    "dDurationMs": 5919,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ipsum perfecto y vamos a abrirlo con\nlive",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 62239,
+    "dDurationMs": 6321,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "server Aquí está lo podemos ver su\nfuente de letra por defecto es siempre",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 66640,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "el Times New\nRoman vale Bueno antes de hacer",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 71080,
+    "dDurationMs": 7760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cualquier procedimiento quiero\nevidenciar de que efectivamente pues no",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 76200,
+    "dDurationMs": 7160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "contengo ningún tipo de fuente de letra\nde las cual de la cual voy a utilizar la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 81920,
+    "dDurationMs": 7000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cual es el\nPoppins tipografía",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 85799,
+    "dDurationMs": 8600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Poppins Entonces vamos a aplicar font\nfamily y pues",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 91680,
+    "dDurationMs": 2719,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vamos a poner",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 95200,
+    "dDurationMs": 8919,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "popins no hay nada no hay ningún cambio\nno hay ningún tipo de variable como",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 101280,
+    "dDurationMs": 7199,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "popin regular de momento en mi máquina\nno está",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 105360,
+    "dDurationMs": 8240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "instalado y bueno con esto en mente pues\nvamos a dejarlo aquí de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 110439,
+    "dDurationMs": 10161,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "momento y como primer paso tenemos que\nbuscar la tipografía objetiva como ya",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 116159,
+    "dDurationMs": 10721,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "dije antes pues voy a utilizar eh este\nPoppins para ello voy a buscarlo con",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 124560,
+    "dDurationMs": 2320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Google",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 131720,
+    "dDurationMs": 5040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "fonts muy bien Y pues buscaremos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 138040,
+    "dDurationMs": 4479,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "popins aquí está",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 153760,
+    "dDurationMs": 8960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "bueno Vamos a darle a get\nfont la tenemos acá y sin utilizar el",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 160519,
+    "dDurationMs": 7720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "recurso que nos da Google fonts vamos a\ndescargar la tipografía nuestro archivo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 165879,
+    "dDurationMs": 9321,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "comprimido pun rar vamos a buscar\nnuestras",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 170040,
+    "dDurationMs": 10240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "descargas bien y iremos a nuestra\ncarpeta de ejemplo donde la extraeremos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 177120,
+    "dDurationMs": 8800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "la descomprimir\nen una",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 181640,
+    "dDurationMs": 10720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "carpeta bueno esta tipografía no tiene\nun punto ttf variable donde contenga",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 188920,
+    "dDurationMs": 9160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tanto regular como Black bolt light\nsemol ninguna de estas variables que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 194239,
+    "dDurationMs": 3841,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tienen Entonces vamos a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 199000,
+    "dDurationMs": 9480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hacer únicamente uso de regular para\neste",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 203480,
+    "dDurationMs": 5000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ejemplo y pues suele ser común",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 208760,
+    "dDurationMs": 9280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "utilizar una carpeta como buenas\nprácticas que sea fonts únicamente fonts",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 214280,
+    "dDurationMs": 12039,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "para este fin iremos a nuestro editor de\ntexto aquí tenemos nuestra carpeta y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 221480,
+    "dDurationMs": 10160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "para ello vamos a utilizar el @\nfontface tengo aquí un template que me",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 229480,
+    "dDurationMs": 6399,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ayuda a estructurarlo\nrápidamente utilizando la propiedad font",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 234360,
+    "dDurationMs": 6680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "family podemos darle el nombre que\nqueremos para utilizarlo en nuestro",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 238360,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "diseño en nuestro gml entonces pues\nvamos a darle el nombre de popins",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 245239,
+    "dDurationMs": 11601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "regular y con la propiedad source src\nvamos a buscar eh a navegar en",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 253360,
+    "dDurationMs": 8880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "nuestro directorio para obtener la\nfuente de letra al cual se accederá por",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 259759,
+    "dDurationMs": 8880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "medio de este\nseudónimo muy bien entonces de momento",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 265600,
+    "dDurationMs": 5640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "no hay cambios se mantiene igual\nevidentemente",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 272320,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "bien entonces para esto como\nanteriormente lo había hecho para",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 276280,
+    "dDurationMs": 7160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "demostrar que no se encuentra únicamente\nVamos a darle la propiedad font family a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 280479,
+    "dDurationMs": 5280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "todos nuestros elementos y pues como\ndije",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 287120,
+    "dDurationMs": 9160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "anteriormente vamos a utilizar popins\nregular y aquí está se puede ver aquí",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 296800,
+    "dDurationMs": 8480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Sencillamente podemos utilizar cualquier\ntipo de de letra haciendo estos pasos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 302680,
+    "dDurationMs": 6959,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sin ningún problema y bueno con esto\ndamos por finalizado nuestro primera",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 307680,
+    "dDurationMs": 8079,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "nuestra primera parte de este pequeño\ntutorial Hola hoy vamos a ver Cómo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 312840,
+    "dDurationMs": 9359,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "modificar a través de estilo css\npropiedades de apariencia que dan a las",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 318120,
+    "dDurationMs": 8320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "etiquetas Storm and Mark bien en este\ncaso podemos observar que tenemos aquí",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 324280,
+    "dDurationMs": 9080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "lo que es una estructura\nhtml con la que traemos nuestra trabaja",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 330000,
+    "dDurationMs": 8880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de estilos mediante este link bien\nTambién tenemos como podemos ver una",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 335880,
+    "dDurationMs": 8800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "etiqueta Body una etiqueta header\ntenemos una etiqueta Main tenemos dos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 342080,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sections dos etiquetas section dentro de\nesta etiqueta Main bien entonces",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 346720,
+    "dDurationMs": 8599,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "empecemos por la primera en la etiqueta\nheader tenemos lo que es una etiqueta h1",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 351960,
+    "dDurationMs": 7799,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de título tenemos Dentro de este h1 un\ntítulo que está encerrado en una",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 356800,
+    "dDurationMs": 7600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "etiqueta stron esta etiqueta stron ayuda\nque eh se busque como tal más rápido por",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 362080,
+    "dDurationMs": 6760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "parte de los buscadores eh la\ninformación que tenemos encerrada bien",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 366840,
+    "dDurationMs": 7680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Tenemos también lo que es una etiqueta\nsection el primer section en esta",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 371639,
+    "dDurationMs": 6921,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "etiqueta section tenemos una etiqueta\npárrafo donde tenemos un Loren en el que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 376800,
+    "dDurationMs": 7480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tenemos un renglón encerrado mediante\nuna etiqueta m que da lo que es una",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 380639,
+    "dDurationMs": 9801,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "enfatiza a lo que es este este renglón\nbien tenemos otra etiqueta sección donde",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 386840,
+    "dDurationMs": 7320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tenemos otra etiqueta párrafo y otro lor\ndonde tenemos una etiqueta Mark",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 392360,
+    "dDurationMs": 7200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "encerrando uno de los renglones que le\nda lo que es un suballo un marcado a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 396800,
+    "dDurationMs": 8280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "este renglón bien Entonces vamos a ir a\nlo que nuestra oa estilos y aquí podemos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 402479,
+    "dDurationMs": 9840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "observar lo que nuestra etiqueta header\ny strom en la que hacemos lo que es eh",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 408599,
+    "dDurationMs": 8440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "la guía o como tal el canal para llegar\na esta etiquetas y hacer lo que es",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 414319,
+    "dDurationMs": 8961,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "nuestra modificación de estilos Entonces\nen este caso tenemos lo que es nuestro",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 419639,
+    "dDurationMs": 10280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "font Wi que está en este caso en blom\npara dar lo que es una negrilla a lo que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 426479,
+    "dDurationMs": 11641,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "es nuestro nuestro título aquí podemos\nver lo que es el título está en rojo no",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 433440,
+    "dDurationMs": 12599,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "en negro porque tenemos un como tal un\nsegundo una un segundo cambio en el que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 441160,
+    "dDurationMs": 12439,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tenemos el color que sería red el color\nde la letra También tenemos lo que es un",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 449639,
+    "dDurationMs": 9240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "background color que da nuestro suballo\namarillo Bien también podemos hacer lo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 456319,
+    "dDurationMs": 9761,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que es el cambio de tanto el color como\nel background color Si queremos un subg",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 461720,
+    "dDurationMs": 11599,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de color azul o un color de letra de\npuede ser un morado hace como tal estos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 474039,
+    "dDurationMs": 8481,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cambios y también tenemos lo que es un\nfont size en el que damos un tamaño a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 480199,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "nuestra letra del título en este caso\ntenemos un tamaño de 20 píxeles pero si",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 484520,
+    "dDurationMs": 9720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "le agregamos un cero de más que serían\n200 píxeles vemos comoo hace un cambio",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 490039,
+    "dDurationMs": 11361,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "en el tamaño de la letra de nuestro\ntítulo bien entonces en la segundas en",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 498360,
+    "dDurationMs": 7559,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "el segundo como está en la segunda\nsección tenemos lo que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 503639,
+    "dDurationMs": 9241,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "es la\nguía como tal eh",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 509560,
+    "dDurationMs": 8839,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "la etiqueta sección la etiqueta m para\nllamar a lo que es nuestros cambios de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 515479,
+    "dDurationMs": 10561,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "estilo en este caso tenemos un fone\nStyle en en itálica o",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 522760,
+    "dDurationMs": 9800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "italic que nos da lo que es nuestra\ncursiva tenemos un color para el color",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 529399,
+    "dDurationMs": 9201,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de la letra en azul que también podemos\nhacer la modificación cuando queramos lo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 534480,
+    "dDurationMs": 11520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tenemos verde ahí cambia verde accer\ncomo tal cambio de color tenemos un Tex",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 542560,
+    "dDurationMs": 11680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "decoration que hace un underline hace lo\nque es un sub gallado en en nuestro",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 550839,
+    "dDurationMs": 10041,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "renglón podemos verlo aquí tenemos un\nfont size que también puede ser",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 556800,
+    "dDurationMs": 8920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "modificado como el de la etiqueta St que\nestá en 18 píxeles pero si le colocamos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 563279,
+    "dDurationMs": 6761,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "un cero podemos subirlo a 180 píxeles y\npodemos ver cómo cambia lo que es el",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 567640,
+    "dDurationMs": 7680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tamaño de nuestra\nbien en este caso También tenemos lo que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 572079,
+    "dDurationMs": 8440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "es en el segundo se con la etiqueta Mark\nun background color eh recordemos que la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 578720,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "etiqueta Mark hace lo que es un marcado\nEntonces en este caso hago un cambio de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 582560,
+    "dDurationMs": 10839,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "color de ese marcado en un verde claro\npuedo cambiarlo si quiero a un azul o a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 588680,
+    "dDurationMs": 11000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "un azul claro o dejarlo Sencillamente en\nun amarillo o en el verde que teníamos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 597320,
+    "dDurationMs": 9400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "también tenemos un color Black para de\ncolor a la letra tenemos un padding que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 603079,
+    "dDurationMs": 10561,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hace como tal un espaciado interno en lo\nque es nuestra etiqueta en este caso en",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 609519,
+    "dDurationMs": 10681,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "la etiqueta Mark lo toma Este espaciado\nyce que como tal si agregamos un mayor",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 618040,
+    "dDurationMs": 6280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "número en este caso tenemos dos píxeles\nsi agregamos 20 vemos como hace un",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 622040,
+    "dDurationMs": 6440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cambio en la etiqueta y hace un espacio\nmás grande que al mismo tiempo se puede",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 627240,
+    "dDurationMs": 7080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ver gracias a lo que es nuestro\nbackground color",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 630320,
+    "dDurationMs": 9800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "verde pero si le quitamos lo que es\nese número y le dejamos el que teníamos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 636880,
+    "dDurationMs": 10759,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "antes vemos como otra vez vuelve a ser\npequeño y tenemos por último font en",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 643639,
+    "dDurationMs": 8640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "blom una negrilla para darle como tal la\nrobustez a la letra bien eso sería todo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 650399,
+    "dDurationMs": 11240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "por el día de hoy Muchas\ngracias a continuación vamos a explicar",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 656399,
+    "dDurationMs": 9560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "algunas etiquetas y estilos de\ncss pero",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 666279,
+    "dDurationMs": 10921,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "primero Cómo podríamos definir el ccs\nbueno definirlo como tal sería que es un",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 674160,
+    "dDurationMs": 8239,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tipo de lenguaje que nos\npermite definir y crear la presentación",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 679920,
+    "dDurationMs": 9479,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "visual de un\ndocumento ya que estructura y escrito es",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 687040,
+    "dDurationMs": 7720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "un lenguaje\nmarcado como Puede ser html Es decir",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 692680,
+    "dDurationMs": 7320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "permite generar el diseño visual de\npáginas web e interfaces de un",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 702360,
+    "dDurationMs": 6680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "usuario sí\nEntonces cuando se habla de la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 707000,
+    "dDurationMs": 7040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "apariencia estética o cambios visuales\nde una web siempre se mencionan los",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 711639,
+    "dDurationMs": 8521,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "estilos ccs\naquí podemos observar en un claro",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 717120,
+    "dDurationMs": 9560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ejemplo eh\nvamos a explicar Qué son y para qué",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 722000,
+    "dDurationMs": 11600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sirven en ccs lenguaje para escribir la\npresentación de páginas web por ejemplo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 729399,
+    "dDurationMs": 11240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "los colores Ajá el diseño\nsí las fuentes nos permiten adaptar las",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 738959,
+    "dDurationMs": 9041,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "presentación de las diferentes\nnecesidades y tipo de dispositivos el",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 744959,
+    "dDurationMs": 8240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ccs es independiente del html y se puede\nutilizar como cualquier lenguaje marcado",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 750639,
+    "dDurationMs": 2560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "basado en",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 754320,
+    "dDurationMs": 6639,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "xml la separación del Código de html y\ncs hace que sea más sencillo mantener",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 760199,
+    "dDurationMs": 10721,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "los\nestilos podemos crear un html y crear un",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 765720,
+    "dDurationMs": 10239,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ccs y importar el estilo para el archivo\nhtml esto influye en el uso de una o",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 773880,
+    "dDurationMs": 6680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "varias páginas esto se conoce como la\nseparación de la estructura de una",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 778079,
+    "dDurationMs": 7481,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "presentación pero ahora ahora\nexplicaremos pues cuatro etiquetas pues",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 783519,
+    "dDurationMs": 9000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que nos corresponden las cuatro\netiquetas",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 786639,
+    "dDurationMs": 11921,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "son b I u y s\neh lo vamos a explicar e Qué hace cada",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 796000,
+    "dDurationMs": 8160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "una qué modifica qué me arregla Qué\ncambios nos crea sobre el archivo y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 802680,
+    "dDurationMs": 9440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vamos a utilizar la canción de Mi\ncorazón encantado para observar",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 807360,
+    "dDurationMs": 12039,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "eh qué C cambio sucede en la información\ndel texto entonces Comencemos primero",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 815399,
+    "dDurationMs": 11321,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vamos a comenzar con la etiqueta B\neh la etiqueta",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 822720,
+    "dDurationMs": 11239,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "B lo que nos proporciona es que el\ntexto se vuelva en negrilla Eh Esto es",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 830759,
+    "dDurationMs": 9000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "importante para citar una información\npara poner un",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 836279,
+    "dDurationMs": 8401,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ejemplo para\ncuando se esté trabajando sobre un",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 842120,
+    "dDurationMs": 9040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "archivo que necesita que el texto se vea\nmás importante se vea más visual esta",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 848440,
+    "dDurationMs": 12040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "etiqueta es perfecta para\neso Seguiremos con la siguiente",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 854440,
+    "dDurationMs": 6040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "etiqueta la siguiente etiqueta sería la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 864040,
+    "dDurationMs": 14080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "i la etiqueta y\neh nos pone la testa en el texto en",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 872680,
+    "dDurationMs": 12680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cursiva esto le da un aire para escribir\nun título una",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 881320,
+    "dDurationMs": 9959,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "firma se utiliza a menudo Cuando se\nquiere dar a Resaltar una información",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 887920,
+    "dDurationMs": 11960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que necesite un tipo de texto un poco\nmás elegante Sí para eso podemos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 895480,
+    "dDurationMs": 4400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "utilizar esta etiqueta",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 900079,
+    "dDurationMs": 10120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "También tenemos la etiqueta siguiendo\nacá el orden la etiqueta u la etiqueta u",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 907360,
+    "dDurationMs": 11279,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "acá la siguiente parte de la canción\ncomo tal la etiqueta un nos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 914360,
+    "dDurationMs": 9120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sirve para subrayar crear una línea\ndebajo de la información del texto esto",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 921800,
+    "dDurationMs": 8640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "es importante porque nos ayuda a\nResaltar ideas principales en nombres",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 929319,
+    "dDurationMs": 7640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "nombres\neh como",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 933199,
+    "dDurationMs": 9041,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tal información de la cual tenga alta\nrelevancia donde necesite ser subrayada",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 939360,
+    "dDurationMs": 8279,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y ser observada\nconcatenada para que el usuario cuando",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 944279,
+    "dDurationMs": 8920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "entre a la interfaz la observe y pueda\nobservar esa línea que se hace abajo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 951199,
+    "dDurationMs": 7801,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "como tal del\ntexto la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 955240,
+    "dDurationMs": 9360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "siguiente etiqueta que vamos a explicar\netiqueta s acá en el último parro de la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 962560,
+    "dDurationMs": 5880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "canción Esta\netiqueta que se encuentra acá decoración",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 967720,
+    "dDurationMs": 8320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de\ntexto es importante cuando de alguna",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 972440,
+    "dDurationMs": 8160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "otra forma queremos tachar alguna\ninformación Sí cuando queremos tachar",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 979440,
+    "dDurationMs": 9160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "información\neh observar algunos cambios que por",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 984680,
+    "dDurationMs": 9719,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ejemplo esta información ya no es así eh\nque queremos explicar en nuestra página",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 991720,
+    "dDurationMs": 10320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que esa información ya como tal no no\nnos sirve que esa información como",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 998920,
+    "dDurationMs": 8800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tal Ya no es verídica entonces\nutilizamos esta etiqueta para tachar la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1005199,
+    "dDurationMs": 10241,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "información para que sea algo visual\nalgo visual que uno diga Oh vea un",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1011920,
+    "dDurationMs": 8520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cambio eso ya no eso sí la mejor manera\ndiría yo que para emplearla es",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1017199,
+    "dDurationMs": 10561,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "utilizándola con la etiqueta de subrayar\nsí poner ejemplo de que esta es la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1025319,
+    "dDurationMs": 7480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "información nueva y estará la\ninformación vieja ahí podríamos hacer un",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1031199,
+    "dDurationMs": 8201,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "contraste entre las dos etiquetas para\nser utilizadas en nuestros archivos html",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1035799,
+    "dDurationMs": 12441,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y nuestros estilos\nccs entonces estas serían las cuatro",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1042880,
+    "dDurationMs": 8919,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "etiquetas Sí la etiqueta B I u y s que\nle",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1049360,
+    "dDurationMs": 7679,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cambios y relevancias a nuestro texto\nuna manera más visual una manera más",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1054120,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "interactiva Para nuestras páginas\nsaberlas utilizar es muy importante",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1058720,
+    "dDurationMs": 5640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "porque ya que eso le da redundancia a\nnuestros textos a nuestra",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1064480,
+    "dDurationMs": 7720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "información para terminar y no menos\nimportante hay que tener en cuenta que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1069840,
+    "dDurationMs": 10040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "algunos elementos\ncomo b y algunas etiquetas pueden",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1076520,
+    "dDurationMs": 7800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "afectar la semántica del de\ncontenido siempre es importante",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1082159,
+    "dDurationMs": 6481,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "considerar el significado y la\naccesibilidad al aplicar los estilos",
+      "acAsrConf": 0
+    } ]
+  } ]
+}

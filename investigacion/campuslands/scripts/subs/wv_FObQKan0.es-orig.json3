@@ -1,0 +1,188 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  }, {
+    "mhModeHint": 2,
+    "juJustifCode": 0,
+    "sdScrollDir": 3
+  } ],
+  "wpWinPositions": [ {
+  
+  }, {
+    "apPoint": 6,
+    "ahHorPos": 20,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  } ],
+  "events": [ {
+    "tStartMs": 0,
+    "id": 1,
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 0,
+    "dDurationMs": 5600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "[Música]"
+    }, {
+      "utf8": "\nsin palabras para agradecerles por todo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2960,
+    "dDurationMs": 7440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "su apoyo toda su comprensión y toda su\npaciencia las buenas acciones reflejan",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 8480,
+    "dDurationMs": 4920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ese deseo por mejorar la sociedad\nayudando al prójimo de maneras",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 12040,
+    "dDurationMs": 5280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "invaluables\nhoy nuestros corazones rebosan de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 15799,
+    "dDurationMs": 6161,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "agradecimiento a quienes hicieron\nposible fundación",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 18760,
+    "dDurationMs": 8720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Y gracias al esfuerzo incansable de\nustedes personas vosas más de 200",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 25199,
+    "dDurationMs": 9001,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "jóvenes han podido formarse y\ntransformar su vida y la de su familia a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 31239,
+    "dDurationMs": 8201,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "F pareciera que fue ayer cuando éramos\nun grupo de niños en busca de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 36320,
+    "dDurationMs": 7800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "orientación con altibajos y dificultades\nen el camino algunos no pudieron",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 41360,
+    "dDurationMs": 8470,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "continuar pero la fundación nos acogió\nmoldeándose",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 46480,
+    "dDurationMs": 3350,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "[Música]"
+    } ]
+  }, {
+    "tStartMs": 57060,
+    "dDurationMs": 7179,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "[Música]"
+    }, {
+      "utf8": "\nclientes vados estratégicos área",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 62039,
+    "dDurationMs": 7961,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "administrativa área operativa área\njurídica contabilidad tutores becados y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 67920,
+    "dDurationMs": 7879,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "padrinos que pusieron su confianza en\nnosotros Durante este 2023 no alcanzan",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 73280,
+    "dDurationMs": 8839,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "las palabras para agradecer Les deseamos\nuna feliz navidad un próspero 2024",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 79200,
+    "dDurationMs": 6700,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Nuevamente gracias por creer y aportar a\nesta",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 82800,
+    "dDurationMs": 3100,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "[Música]"
+    } ]
+  }, {
+    "tStartMs": 88840,
+    "dDurationMs": 3000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "fundación",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 91960,
+    "dDurationMs": 3000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ha",
+      "acAsrConf": 0
+    } ]
+  } ]
+}

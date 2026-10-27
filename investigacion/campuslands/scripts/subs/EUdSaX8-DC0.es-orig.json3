@@ -1,0 +1,2690 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  }, {
+    "mhModeHint": 2,
+    "juJustifCode": 0,
+    "sdScrollDir": 3
+  } ],
+  "wpWinPositions": [ {
+  
+  }, {
+    "apPoint": 6,
+    "ahHorPos": 20,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  } ],
+  "events": [ {
+    "tStartMs": 0,
+    "id": 1,
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 3300,
+    "dDurationMs": 10400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Bueno vamos a continuación a este\ndesarrollo de la farmacias La idea es",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 10860,
+    "dDurationMs": 8999,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que ahora vamos a hacer la configuración\nde Jason server vamos a ver cómo se",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 17640,
+    "dDurationMs": 7200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "configura en el sistema operativo\nWindows",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 22380,
+    "dDurationMs": 9420,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Vamos a ingresar por aquí la terminal se\nvan a dar cuenta que es Exactamente",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 27439,
+    "dDurationMs": 12001,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "igual a como lo trabajamos desde Linux\npara eso pues vamos a abrir",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 34700,
+    "dDurationMs": 13300,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "navegador",
+      "acAsrConf": 235
+    }, {
+      "utf8": " web y vamos a buscar la página\noficial que es el github Entonces vamos",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 43079,
+    "dDurationMs": 10341,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a buscar como Jason server",
+      "acAsrConf": 242
+    }, {
+      "utf8": " git",
+      "acAsrConf": 192
+    }, {
+      "utf8": "\nperfecto",
+      "acAsrConf": 174
+    } ]
+  }, {
+    "tStartMs": 49980,
+    "dDurationMs": 3440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vamos",
+      "acAsrConf": 239
+    }, {
+      "utf8": " a buscar por acá",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 53640,
+    "dDurationMs": 10379,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y lo primero que nos dice es que\nlo instalemos",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 59399,
+    "dDurationMs": 8661,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "lo instalemos un control c pero antes de\ninstalarlo antes de instalarlo es muy",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 66960,
+    "dDurationMs": 6420,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "importante\ninicializar",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 69860,
+    "dDurationMs": 9900,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "el",
+      "acAsrConf": 242
+    }, {
+      "utf8": " Jason",
+      "acAsrConf": 216
+    }, {
+      "utf8": "\npara inicializar",
+      "acAsrConf": 242
+    }, {
+      "utf8": " el",
+      "acAsrConf": 169
+    }, {
+      "utf8": " paquete",
+      "acAsrConf": 230
+    }, {
+      "utf8": " Jason damos",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 76680,
+    "dDurationMs": 3080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "El Comando npm",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 79820,
+    "dDurationMs": 3299,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y menos",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 84900,
+    "dDurationMs": 10140,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "posterior a esto",
+      "acAsrConf": 242
+    }, {
+      "utf8": " si",
+      "acAsrConf": 181
+    }, {
+      "utf8": " instalamos\nel Jason server un enter esperamos un",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 92400,
+    "dDurationMs": 5000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "momento que se haga la descarga y la\nconfiguración",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 112140,
+    "dDurationMs": 8299,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "listo aquí me dice que quedó instalado\ncorrectamente",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 116000,
+    "dDurationMs": 10380,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Ahora nos queda es continuar trabajando\ncon nuestro proyecto",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 123299,
+    "dDurationMs": 9121,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vamos ahora a configurar las tablas\nvamos a mirar la documentación oficial",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 129140,
+    "dDurationMs": 8160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tenemos por acá según la documentación\noficial nos dice que tenemos que crear",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 135480,
+    "dDurationMs": 6979,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "un archivo db\neste archivo nosotros lo podemos Ubicar",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 139620,
+    "dDurationMs": 9420,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "en cualquier parte de nuestro proyecto\nlo importante Sí es que contengan",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 144900,
+    "dDurationMs": 8720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "inicialmente ese archivo",
+      "acAsrConf": 242
+    }, {
+      "utf8": " de",
+      "acAsrConf": 226
+    }, {
+      "utf8": " contener un\nobjeto de tipo",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 152060,
+    "dDurationMs": 7380,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Jason\nsu interior estará compuesto de cada uno",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 156780,
+    "dDurationMs": 2660,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de los elementos",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 160040,
+    "dDurationMs": 10180,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tributos clave valor donde el valor de\ncada tributo eso array Entonces vamos a",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 166080,
+    "dDurationMs": 12439,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mirar",
+      "acAsrConf": 242
+    }, {
+      "utf8": " como",
+      "acAsrConf": 188
+    }, {
+      "utf8": " lo",
+      "acAsrConf": 203
+    }, {
+      "utf8": " estructuramos",
+      "acAsrConf": 238
+    }, {
+      "utf8": "\npor acá",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 172560,
+    "dDurationMs": 5959,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "llaves y vamos a trabajar con clientes",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 187200,
+    "dDurationMs": 7679,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "los puntos\ny lo tenemos de esta forma ya aquí",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 191940,
+    "dDurationMs": 7460,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "podemos manipular la información incluso\nvamos a hacer que nuestra farmacia",
+      "acAsrConf": 242
+    }, {
+      "utf8": " esté",
+      "acAsrConf": 171
+    } ]
+  }, {
+    "tStartMs": 197760,
+    "dDurationMs": 6300,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "funcionando",
+      "acAsrConf": 206
+    }, {
+      "utf8": " a nivel nacional\nEntonces vamos",
+      "acAsrConf": 242
+    }, {
+      "utf8": " a",
+      "acAsrConf": 240
+    }, {
+      "utf8": " tener ciudades",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 205560,
+    "dDurationMs": 10099,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y vamos a establecer una relación mi\nrelación entre ciudades y",
+      "acAsrConf": 242
+    }, {
+      "utf8": " Costa",
+      "acAsrConf": 183
+    }, {
+      "utf8": " Vamos",
+      "acAsrConf": 242
+    }, {
+      "utf8": " a",
+      "acAsrConf": 225
+    } ]
+  }, {
+    "tStartMs": 213239,
+    "dDurationMs": 2420,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ponerle",
+      "acAsrConf": 237
+    } ]
+  }, {
+    "tStartMs": 220260,
+    "dDurationMs": 3140,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de esta forma",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 224159,
+    "dDurationMs": 9000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "bien Ahora ahora vamos a empezar a\nconstruir nuestros elementos",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 230480,
+    "dDurationMs": 9160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "lo primero que debemos hacer es\ndeterminar Qué elementos va a tener",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 236299,
+    "dDurationMs": 7020,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "customers Cuáles son esos atributos para\nasí poder armar el formulario",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 243840,
+    "dDurationMs": 10319,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "para nuestro ejemplo vamos a hacer que\ncustomer tenga cédula nombre apellidos",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 251239,
+    "dDurationMs": 8521,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "dirección teléfono correo electrónico\netcétera entonces vamos a abrirnos por",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 258060,
+    "dDurationMs": 6440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "acá el bloc de notas\no el notepad que todos conocemos",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 265380,
+    "dDurationMs": 6379,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y vamos a colocar lo siguiente para que\nno se nos olvide",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 269600,
+    "dDurationMs": 7240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "es customer\nva a tener cédula",
+      "acAsrConf": 242
+    }, {
+      "utf8": " nombres",
+      "acAsrConf": 212
+    } ]
+  }, {
+    "tStartMs": 278040,
+    "dDurationMs": 3960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "apellidos",
+      "acAsrConf": 242
+    }, {
+      "utf8": " y",
+      "acAsrConf": 176
+    } ]
+  }, {
+    "tStartMs": 283020,
+    "dDurationMs": 5780,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "teléfono\ny vamos a colocarle",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 291860,
+    "dDurationMs": 9279,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "porque tenemos una relación con ciudades\n[Música]",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 297720,
+    "dDurationMs": 8880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "por defecto Jason server siempre le va a\nagregar el atributo ID a cada uno de",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 303960,
+    "dDurationMs": 9560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "esos",
+      "acAsrConf": 242
+    }, {
+      "utf8": " elementos",
+      "acAsrConf": 212
+    }, {
+      "utf8": " y lo va a tomar como su\nidentificador",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 309060,
+    "dDurationMs": 4460,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Entonces vamos a colocar acá",
+      "acAsrConf": 242
+    }, {
+      "utf8": " Siri",
+      "acAsrConf": 212
+    } ]
+  }, {
+    "tStartMs": 316280,
+    "dDurationMs": 8100,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "no listo Entonces esto nos va a ayudar a\ntener una referencia para poder generar",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 322280,
+    "dDurationMs": 8740,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "nuestro formulados\npor acá ya la tenemos Clara y ahora sí",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 328259,
+    "dDurationMs": 10741,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vamos a empezar a definir el formulario\nel formulario va a ser otro web Company",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 335520,
+    "dDurationMs": 9200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pero para",
+      "acAsrConf": 242
+    }, {
+      "utf8": " eso",
+      "acAsrConf": 188
+    }, {
+      "utf8": " vamos a contar con una\npágina web",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 341180,
+    "dDurationMs": 3540,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que se va a llamar",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 345600,
+    "dDurationMs": 8099,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "punto\nhtml",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 349280,
+    "dDurationMs": 10780,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "perfecto",
+      "acAsrConf": 242
+    }, {
+      "utf8": " inicializamos",
+      "acAsrConf": 240
+    }, {
+      "utf8": " esto\nvamos a importarle bustra vamos a",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 357060,
+    "dDurationMs": 10520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "importar a",
+      "acAsrConf": 242
+    }, {
+      "utf8": " punto",
+      "acAsrConf": 240
+    }, {
+      "utf8": " js",
+      "acAsrConf": 241
+    }, {
+      "utf8": " para tener inclusión\nde la librería etcétera es un control c",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 363740,
+    "dDurationMs": 3840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y lo tenemos por acá",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 374940,
+    "dDurationMs": 8460,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "muy bien perfecto entonces aquí en este\nmomento pues vamos a definir",
+      "acAsrConf": 242
+    }, {
+      "utf8": " nuestros",
+      "acAsrConf": 231
+    } ]
+  }, {
+    "tStartMs": 381060,
+    "dDurationMs": 9000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "encabezados",
+      "acAsrConf": 239
+    }, {
+      "utf8": "\nvamos a definir en este caso va a tener",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 387120,
+    "dDurationMs": 8120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "el menú Entonces",
+      "acAsrConf": 242
+    }, {
+      "utf8": " como",
+      "acAsrConf": 228
+    }, {
+      "utf8": " ya tenemos el\ncomponente vamos",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 392060,
+    "dDurationMs": 3180,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Main",
+      "acAsrConf": 210
+    }, {
+      "utf8": " menú",
+      "acAsrConf": 191
+    } ]
+  }, {
+    "tStartMs": 398759,
+    "dDurationMs": 5720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vamos a tener nuestra\ncuerpo principal",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 405199,
+    "dDurationMs": 7801,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y aquí entre nuestro cuerpo principal\nvamos a tener un punto",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 410600,
+    "dDurationMs": 8159,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "container\nperfecto ya con esto hemos estructurado",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 416840,
+    "dDurationMs": 8799,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "customer punto\nhtml bien Entonces vamos a construir",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 422180,
+    "dDurationMs": 7120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "nuestro formulario basado en un\ncomponente entonces aquí donde dice",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 427319,
+    "dDurationMs": 8061,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Force vamos a crear todos los\nformularios que necesitemos hemos",
+      "acAsrConf": 242
+    }, {
+      "utf8": " clic",
+      "acAsrConf": 178
+    } ]
+  }, {
+    "tStartMs": 432180,
+    "dDurationMs": 3200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "derecho un archivo",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 435720,
+    "dDurationMs": 4580,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "customer",
+      "acAsrConf": 234
+    }, {
+      "utf8": "\nguión",
+      "acAsrConf": 190
+    } ]
+  }, {
+    "tStartMs": 440880,
+    "dDurationMs": 9480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "punto js recordemos que siempre los\ncomponentes deben estar expresados en",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 447900,
+    "dDurationMs": 6660,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "palabras compuestas",
+      "acAsrConf": 242
+    }, {
+      "utf8": " separados",
+      "acAsrConf": 238
+    }, {
+      "utf8": " por un\nguión medio importante tener en cuenta y",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 453060,
+    "dDurationMs": 7199,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "no",
+      "acAsrConf": 242
+    }, {
+      "utf8": " olvidarlo",
+      "acAsrConf": 232
+    }, {
+      "utf8": "\nPerfecto entonces aquí vamos a tener la",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 458039,
+    "dDurationMs": 6141,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "palabra es por nuevamente recordemos que\neste componente que exportarlo",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 466160,
+    "dDurationMs": 4720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "el nombre de nuestra clase",
+      "acAsrConf": 242
+    }, {
+      "utf8": " customer",
+      "acAsrConf": 230
+    } ]
+  }, {
+    "tStartMs": 474360,
+    "dDurationMs": 3920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "recordemos que extiende",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 480080,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de html\n[Música]",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 493460,
+    "dDurationMs": 4799,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "recordemos que tenemos un constructor",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 501919,
+    "dDurationMs": 11021,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "donde ese constructor\ntiene un súper que recordemos que el",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 508860,
+    "dDurationMs": 9720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "súper está indicando que esta clase va a\nheredar de la clase superior Es decir de",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 516659,
+    "dDurationMs": 7201,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "html",
+      "acAsrConf": 242
+    }, {
+      "utf8": " elements",
+      "acAsrConf": 238
+    }, {
+      "utf8": "\nvamos a poner dis punto render que es un",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 522300,
+    "dDurationMs": 9020,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "método que vamos a crear en un momento\nel cual se va a encargar de renderizar",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 528180,
+    "dDurationMs": 10640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "lo que necesitemos en la página web\nEntonces",
+      "acAsrConf": 242
+    }, {
+      "utf8": " ya",
+      "acAsrConf": 234
+    }, {
+      "utf8": " vamos a crear aquí render",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 535640,
+    "dDurationMs": 3180,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "su",
+      "acAsrConf": 198
+    }, {
+      "utf8": " método",
+      "acAsrConf": 237
+    } ]
+  }, {
+    "tStartMs": 539040,
+    "dDurationMs": 8160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Aquí vamos a darle 10 puntos\nhtml",
+      "acAsrConf": 242
+    }, {
+      "utf8": " igual",
+      "acAsrConf": 237
+    } ]
+  }, {
+    "tStartMs": 547320,
+    "dDurationMs": 4320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vamos a poner acá html",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 553920,
+    "dDurationMs": 7680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "nuestro",
+      "acAsrConf": 242
+    }, {
+      "utf8": " famoso",
+      "acAsrConf": 240
+    }, {
+      "utf8": " back",
+      "acAsrConf": 241
+    }, {
+      "utf8": "\nvisto",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 558980,
+    "dDurationMs": 8979,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "aquí al final vamos a colocar custom\nElement",
+      "acAsrConf": 242
+    }, {
+      "utf8": " punto",
+      "acAsrConf": 238
+    }, {
+      "utf8": " de",
+      "acAsrConf": 242
+    }, {
+      "utf8": " find",
+      "acAsrConf": 172
+    } ]
+  }, {
+    "tStartMs": 565740,
+    "dDurationMs": 7680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "donde vamos a colocar el nombre de\nnuestra nuestro web componente en este",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 571440,
+    "dDurationMs": 4980,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "caso se va a llamar",
+      "acAsrConf": 242
+    }, {
+      "utf8": "\nguión",
+      "acAsrConf": 212
+    } ]
+  }, {
+    "tStartMs": 578580,
+    "dDurationMs": 9540,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y acá lo relacionamos con la clase\ncustomer",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 584899,
+    "dDurationMs": 8921,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "perfecto ahora que necesitamos hacer\nconstruir nuestro formulario OK Para el",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 591899,
+    "dDurationMs": 7141,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "formulario Pues voy a tomar un\nformulario ya trabajado anteriormente lo",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 596220,
+    "dDurationMs": 8660,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "voy a modificar por aquí vamos a\neliminar algunas cosas ya que la idea es",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 602339,
+    "dDurationMs": 10881,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que este formulario",
+      "acAsrConf": 242
+    }, {
+      "utf8": " sólo",
+      "acAsrConf": 180
+    }, {
+      "utf8": " va",
+      "acAsrConf": 242
+    }, {
+      "utf8": " a",
+      "acAsrConf": 223
+    }, {
+      "utf8": " contener\nel botón de guardar",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 607760,
+    "dDurationMs": 9480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "solamente para guardar datos del usuario\nvamos a borrarlo",
+      "acAsrConf": 242
+    }, {
+      "utf8": " acá",
+      "acAsrConf": 191
+    } ]
+  }, {
+    "tStartMs": 617300,
+    "dDurationMs": 8760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "eliminar y editar",
+      "acAsrConf": 242
+    }, {
+      "utf8": " lo",
+      "acAsrConf": 207
+    }, {
+      "utf8": " vamos a hacer a\npartir de una lista",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 622560,
+    "dDurationMs": 3500,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vamos aquí la información",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 636600,
+    "dDurationMs": 5840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "según lo",
+      "acAsrConf": 176
+    }, {
+      "utf8": " que creo que borramos algo que\nno deberíamos borrar",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 642540,
+    "dDurationMs": 3500,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Okay",
+      "acAsrConf": 189
+    }, {
+      "utf8": " no está perfecto",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 657140,
+    "dDurationMs": 7800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pertenece este señor no no tome mal\nesto viene acá",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 666720,
+    "dDurationMs": 5119,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Ahora sí vamos a eliminar esto",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 673140,
+    "dDurationMs": 7620,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vamos a eliminar\ninformación solamente va a quedar",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 677760,
+    "dDurationMs": 3000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "guardar",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 686339,
+    "dDurationMs": 3000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "entonces",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 692779,
+    "dDurationMs": 5221,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "todavía",
+      "acAsrConf": 199
+    }, {
+      "utf8": " debe pertenecer a este señor",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 699600,
+    "dDurationMs": 9179,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sí",
+      "acAsrConf": 188
+    }, {
+      "utf8": "\ncinco",
+      "acAsrConf": 234
+    }, {
+      "utf8": " y",
+      "acAsrConf": 198
+    }, {
+      "utf8": " estar",
+      "acAsrConf": 219
+    }, {
+      "utf8": " por acá",
+      "acAsrConf": 236
+    } ]
+  }, {
+    "tStartMs": 704000,
+    "dDurationMs": 9600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "este",
+      "acAsrConf": 242
+    }, {
+      "utf8": " DIF",
+      "acAsrConf": 195
+    }, {
+      "utf8": " debería",
+      "acAsrConf": 242
+    }, {
+      "utf8": " pertenecer",
+      "acAsrConf": 238
+    }, {
+      "utf8": " de la parte\ninferior Pues",
+      "acAsrConf": 242
+    }, {
+      "utf8": " eso",
+      "acAsrConf": 204
+    } ]
+  }, {
+    "tStartMs": 712200,
+    "dDurationMs": 6840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "es como\norden",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 715160,
+    "dDurationMs": 10060,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "establecerle a nuestro código para tener\nbien claro en donde se abre en donde se",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 722399,
+    "dDurationMs": 7341,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cierran los elementos este señor viene\npor acá",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 726680,
+    "dDurationMs": 9580,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que tenemos esa información\neste formulario",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 731899,
+    "dDurationMs": 10741,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y por aquí tenemos un dip principal que\nnos va",
+      "acAsrConf": 242
+    }, {
+      "utf8": " a ayudar",
+      "acAsrConf": 234
+    } ]
+  }, {
+    "tStartMs": 738440,
+    "dDurationMs": 12660,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "bueno es importante como les indicó\ntener claro ser muy ordenados con cada",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 746579,
+    "dDurationMs": 4521,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "elemento vamos a ordenar esto",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 754459,
+    "dDurationMs": 7301,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "clase podemos eliminar el resto para\npersonalizar lo que necesitamos Entonces",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 760200,
+    "dDurationMs": 5180,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vamos allá",
+      "acAsrConf": 242
+    }, {
+      "utf8": "\nvoy a",
+      "acAsrConf": 234
+    }, {
+      "utf8": " borrar",
+      "acAsrConf": 238
+    }, {
+      "utf8": " todo esto",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 767180,
+    "dDurationMs": 8880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "posiblemente",
+      "acAsrConf": 241
+    }, {
+      "utf8": " las fechas de nacimiento no\nporque creo que vamos a necesitar algo",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 772740,
+    "dDurationMs": 3320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "con fecha de nacimiento",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 780380,
+    "dDurationMs": 3540,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "se",
+      "acAsrConf": 219
+    }, {
+      "utf8": " pertenece acá",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 786060,
+    "dDurationMs": 10140,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "es importante que cuando copien y peguen",
+      "acAsrConf": 242
+    }, {
+      "utf8": "\ntengamos",
+      "acAsrConf": 185
+    }, {
+      "utf8": " muy",
+      "acAsrConf": 241
+    }, {
+      "utf8": " claro la ideación porque",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 792959,
+    "dDurationMs": 6241,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "eso puede ser fatal Al momento de\ndesarrollar",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 801000,
+    "dDurationMs": 6800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "entonces Vamos a repasar nuevamente\ndientes Cuáles son los elementos que",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 806760,
+    "dDurationMs": 9019,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tiene\nla",
+      "acAsrConf": 242
+    }, {
+      "utf8": " cédula",
+      "acAsrConf": 216
+    } ]
+  }, {
+    "tStartMs": 810360,
+    "dDurationMs": 5419,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "entonces aquí vamos a colocarle",
+      "acAsrConf": 242
+    }, {
+      "utf8": " de",
+      "acAsrConf": 235
+    }, {
+      "utf8": " esa",
+      "acAsrConf": 188
+    } ]
+  }, {
+    "tStartMs": 816360,
+    "dDurationMs": 8840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "forma incluso voy a dejarle",
+      "acAsrConf": 242
+    }, {
+      "utf8": " ese",
+      "acAsrConf": 218
+    }, {
+      "utf8": " atributo\nque me parece muy interesante que es la",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 823320,
+    "dDurationMs": 9060,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "fecha de creación\nvamos a dejarlo activo",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 828480,
+    "dDurationMs": 8099,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "para que se seleccione o incluso esto lo\npodemos tomar como un campo oculto",
+      "acAsrConf": 242
+    }, {
+      "utf8": " campo",
+      "acAsrConf": 202
+    } ]
+  }, {
+    "tStartMs": 835380,
+    "dDurationMs": 5660,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "oculto",
+      "acAsrConf": 190
+    }, {
+      "utf8": "\nvamos a tener entonces",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 839700,
+    "dDurationMs": 6900,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "nombres\ncon cédula nombres y apellidos entonces",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 847260,
+    "dDurationMs": 2900,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ccc",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 855720,
+    "dDurationMs": 2900,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "todo cédula",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 861959,
+    "dDurationMs": 4401,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "o no vamos a colocarle más bien",
+      "acAsrConf": 242
+    }, {
+      "utf8": " un",
+      "acAsrConf": 178
+    }, {
+      "utf8": "\ndocumento",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 867959,
+    "dDurationMs": 3000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "documento",
+      "acAsrConf": 213
+    } ]
+  }, {
+    "tStartMs": 875279,
+    "dDurationMs": 4401,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "o sea",
+      "acAsrConf": 241
+    }, {
+      "utf8": " duplicar esto control",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 881940,
+    "dDurationMs": 5000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ubicamos",
+      "acAsrConf": 234
+    }, {
+      "utf8": " estos son los nombres",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 889750,
+    "dDurationMs": 3080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "[Música]"
+    } ]
+  }, {
+    "tStartMs": 893639,
+    "dDurationMs": 9621,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "recordemos que estos elementos son los\nque nos van a ayudar a estructurar el",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 900720,
+    "dDurationMs": 2540,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "objeto",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 904100,
+    "dDurationMs": 8700,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "apellidos vamos a poner aquí",
+      "acAsrConf": 242
+    }, {
+      "utf8": " nombres",
+      "acAsrConf": 197
+    }, {
+      "utf8": "\nrecordemos que estamos manejando el",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 911040,
+    "dDurationMs": 7400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sistema de búsquedas de 12 columnas\nEntonces por acá tenemos que vamos a la",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 916620,
+    "dDurationMs": 8839,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "fecha registro Vamos a ponerle tres\ncuatro cuatro ocho doce",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 921620,
+    "dDurationMs": 3839,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vamos a reducirle",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 925639,
+    "dDurationMs": 3721,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tenemos",
+      "acAsrConf": 227
+    }, {
+      "utf8": " 3",
+      "acAsrConf": 242
+    }, {
+      "utf8": " 6",
+      "acAsrConf": 188
+    } ]
+  }, {
+    "tStartMs": 931260,
+    "dDurationMs": 5540,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "10",
+      "acAsrConf": 231
+    }, {
+      "utf8": "\nsoles",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 937699,
+    "dDurationMs": 8200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "dos tres\ntres seis nueve y acá tres",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 943040,
+    "dDurationMs": 8940,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y ahora verificamos si podemos modificar\nalgo más del tamaño",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 948740,
+    "dDurationMs": 8880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que",
+      "acAsrConf": 226
+    }, {
+      "utf8": " otros datos necesitamos del cliente",
+      "acAsrConf": 242
+    }, {
+      "utf8": "\njuntamos",
+      "acAsrConf": 231
+    }, {
+      "utf8": " el email",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 954600,
+    "dDurationMs": 9000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y el teléfono\nemail",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 959300,
+    "dDurationMs": 4300,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y",
+      "acAsrConf": 240
+    }, {
+      "utf8": " teléfono",
+      "acAsrConf": 242
+    }, {
+      "utf8": " email",
+      "acAsrConf": 162
+    } ]
+  }, {
+    "tStartMs": 963720,
+    "dDurationMs": 3260,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y teléfono",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 968760,
+    "dDurationMs": 2660,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "teléfono",
+      "acAsrConf": 236
+    } ]
+  }, {
+    "tStartMs": 974180,
+    "dDurationMs": 5339,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vamos para acá\npegamos",
+      "acAsrConf": 194
+    }, {
+      "utf8": " por",
+      "acAsrConf": 199
+    }, {
+      "utf8": " acá",
+      "acAsrConf": 170
+    } ]
+  }, {
+    "tStartMs": 979699,
+    "dDurationMs": 3781,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "la fecha de nacimiento",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 985860,
+    "dDurationMs": 4640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vamos a",
+      "acAsrConf": 242
+    }, {
+      "utf8": " colocarle",
+      "acAsrConf": 227
+    }, {
+      "utf8": " el atributo fecha",
+      "acAsrConf": 242
+    }, {
+      "utf8": " nac",
+      "acAsrConf": 240
+    } ]
+  }, {
+    "tStartMs": 994519,
+    "dDurationMs": 11620,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vamos a tomar nuestra colección\npegamos acá",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1001399,
+    "dDurationMs": 14341,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pegamos acá y pegamos",
+      "acAsrConf": 242
+    }, {
+      "utf8": " acá",
+      "acAsrConf": 231
+    }, {
+      "utf8": "\nperfecto con esto pues teoría tenemos ya",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1011560,
+    "dDurationMs": 8440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "nuestro formulario vamos ahora a\nvincular este formulario",
+      "acAsrConf": 242
+    }, {
+      "utf8": " a",
+      "acAsrConf": 200
+    } ]
+  }, {
+    "tStartMs": 1024380,
+    "dDurationMs": 9559,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Costa",
+      "acAsrConf": 227
+    }, {
+      "utf8": " para poderlo vincular a customer\npues lo primero que tengo que hacer es",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1030699,
+    "dDurationMs": 3240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "importarlo",
+      "acAsrConf": 242
+    }, {
+      "utf8": " no",
+      "acAsrConf": 217
+    } ]
+  }, {
+    "tStartMs": 1038780,
+    "dDurationMs": 3000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "punto",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1042260,
+    "dDurationMs": 6459,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "componentes",
+      "acAsrConf": 242
+    }, {
+      "utf8": " es",
+      "acAsrConf": 199
+    }, {
+      "utf8": " las\n[Música]",
+      "acAsrConf": 139
+    } ]
+  }, {
+    "tStartMs": 1053860,
+    "dDurationMs": 9240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "aquí",
+      "acAsrConf": 187
+    }, {
+      "utf8": " ya tenemos\nla importación de El formulario ahora",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1060039,
+    "dDurationMs": 8640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "necesito definir que mis contenedores\ncomo va a fluir la información",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1066160,
+    "dDurationMs": 10899,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tenemos el menú principal\nestamos importando el",
+      "acAsrConf": 242
+    }, {
+      "utf8": " Jason",
+      "acAsrConf": 240
+    }, {
+      "utf8": " aquí el",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1073520,
+    "dDurationMs": 9600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Index tenemos el menú y por acá tenemos\nque Definir la página web",
+      "acAsrConf": 242
+    }, {
+      "utf8": " de",
+      "acAsrConf": 216
+    } ]
+  }, {
+    "tStartMs": 1080480,
+    "dDurationMs": 8880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "customers",
+      "acAsrConf": 233
+    }, {
+      "utf8": "\npunto html",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1085660,
+    "dDurationMs": 10420,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "para poder establecer enlace con la\ntabla perdón con la página de costo",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1092020,
+    "dDurationMs": 7899,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vamos a revisar vamos a revisar Cómo\nestán nuestro documento si está",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1098000,
+    "dDurationMs": 10220,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "funcionando bien hasta ahora si está\ncargando bien si se carga el menú y si",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1103820,
+    "dDurationMs": 10800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "se carga nuestro componente de",
+      "acAsrConf": 242
+    }, {
+      "utf8": " customers",
+      "acAsrConf": 241
+    }, {
+      "utf8": "\nOk pero acá vamos a colocar",
+      "acAsrConf": 242
+    }, {
+      "utf8": " hundir",
+      "acAsrConf": 172
+    } ]
+  }, {
+    "tStartMs": 1126760,
+    "dDurationMs": 7620,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "simplemente para probar que",
+      "acAsrConf": 242
+    }, {
+      "utf8": " esté",
+      "acAsrConf": 240
+    }, {
+      "utf8": "\nfuncionando bien vamos a poner",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1144340,
+    "dDurationMs": 9100,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vamos acá vamos a comprobar que por lo\nmenos está cargando ya nuestro",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1150200,
+    "dDurationMs": 12080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "formularios",
+      "acAsrConf": 221
+    }, {
+      "utf8": " y así podemos continuar La\nidea es que ese formulario vamos a",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1156940,
+    "dDurationMs": 5340,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "colocarlo vamos a colocarlo en",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1163580,
+    "dDurationMs": 7520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "un",
+      "acAsrConf": 242
+    }, {
+      "utf8": " en un",
+      "acAsrConf": 241
+    }, {
+      "utf8": " modal",
+      "acAsrConf": 191
+    }, {
+      "utf8": "\nvamos a cambiar el contexto lo que hemos",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1168799,
+    "dDurationMs": 2301,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "trabajado",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1176480,
+    "dDurationMs": 5160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "acá aparece tenemos un problema f12",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1182120,
+    "dDurationMs": 9439,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "dice súper solo es válido",
+      "acAsrConf": 242
+    }, {
+      "utf8": " consultor",
+      "acAsrConf": 226
+    }, {
+      "utf8": "\nderivado vamos a mirar qué error",
+      "acAsrConf": 242
+    }, {
+      "utf8": " cometí",
+      "acAsrConf": 240
+    } ]
+  }, {
+    "tStartMs": 1189260,
+    "dDurationMs": 2299,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "por acá",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1208100,
+    "dDurationMs": 2300,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ok",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1223900,
+    "dDurationMs": 3480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "lo que está pasando",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1227480,
+    "dDurationMs": 3199,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "si está bien",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1235900,
+    "dDurationMs": 4180,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "el menú",
+      "acAsrConf": 174
+    }, {
+      "utf8": " render",
+      "acAsrConf": 208
+    } ]
+  }, {
+    "tStartMs": 1241700,
+    "dDurationMs": 2660,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "wow",
+      "acAsrConf": 188
+    } ]
+  }, {
+    "tStartMs": 1246860,
+    "dDurationMs": 5660,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "customer",
+      "acAsrConf": 242
+    }, {
+      "utf8": "\nsuper",
+      "acAsrConf": 137
+    } ]
+  }, {
+    "tStartMs": 1262880,
+    "dDurationMs": 9539,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "no vamos a poner pausa y verificamos\na ver Ya encontré el error",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1268660,
+    "dDurationMs": 12100,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "un súper error de escritura si ustedes\nse dan cuenta que hice con constructor",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1276940,
+    "dDurationMs": 11080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "son errores fatales porque al momento de\nnosotros codificar pues",
+      "acAsrConf": 242
+    }, {
+      "utf8": " así",
+      "acAsrConf": 198
+    }, {
+      "utf8": " que son",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1285200,
+    "dDurationMs": 10200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "imposibles de encontrar tenemos acá\nclientes",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1290120,
+    "dDurationMs": 10380,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "igual a ya tenemos nuestro formulario o\nse hace que en ese momento nuestro",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1297140,
+    "dDurationMs": 11100,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "formulario está funcionando pero súper\nbien listo Entonces ya con esto Tenemos",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1304280,
+    "dDurationMs": 9480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "un gran Avance",
+      "acAsrConf": 242
+    }, {
+      "utf8": " en",
+      "acAsrConf": 185
+    }, {
+      "utf8": " donde",
+      "acAsrConf": 237
+    }, {
+      "utf8": " estamos creando\nnuestra interfaz vamos a trabajar con la",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1311480,
+    "dDurationMs": 7220,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "interfaz primero y luego vamos a\ntrabajar con la parte de los servicios",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1321340,
+    "dDurationMs": 7839,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Ok Perfecto entonces nos vamos a ocupar\ndel diseño inicialmente",
+      "acAsrConf": 242
+    }, {
+      "utf8": " que",
+      "acAsrConf": 223
+    }, {
+      "utf8": " queremos",
+      "acAsrConf": 238
+    } ]
+  }, {
+    "tStartMs": 1327980,
+    "dDurationMs": 6620,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hacer\nqueremos hacer y bueno Tenemos aquí a",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1332840,
+    "dDurationMs": 7500,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "clientes\nhemos estado barra lateral",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1337299,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "esta barra lateral tenemos home que nos\nvuelve la página principal",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1341799,
+    "dDurationMs": 7380,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "clientes\nes que cuando llegué aquí",
+      "acAsrConf": 242
+    }, {
+      "utf8": " aquí",
+      "acAsrConf": 196
+    }, {
+      "utf8": " clientes",
+      "acAsrConf": 218
+    } ]
+  }, {
+    "tStartMs": 1346240,
+    "dDurationMs": 8679,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "me muestra un formulario",
+      "acAsrConf": 242
+    }, {
+      "utf8": " modal",
+      "acAsrConf": 239
+    }, {
+      "utf8": "\nmanzana moda esa ventana modal va",
+      "acAsrConf": 242
+    }, {
+      "utf8": " a",
+      "acAsrConf": 240
+    } ]
+  }, {
+    "tStartMs": 1352760,
+    "dDurationMs": 8520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "contener",
+      "acAsrConf": 227
+    }, {
+      "utf8": " el formulario para ingresar la\nData",
+      "acAsrConf": 242
+    }, {
+      "utf8": " del",
+      "acAsrConf": 222
+    }, {
+      "utf8": " frente",
+      "acAsrConf": 234
+    }, {
+      "utf8": " buscador",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1358820,
+    "dDurationMs": 8820,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "me va a abrir una sección que me va a\npermitir Buscar",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1363280,
+    "dDurationMs": 9460,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "los clientes un buscador personalizado Y\nde esa manera pues vamos a trabajar aquí",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1370340,
+    "dDurationMs": 10160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "voy a vincular\nlos iconos para esto entramos a la",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1376159,
+    "dDurationMs": 12841,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "página de voz icons y por aquí tenemos\nla opción de enlace por medio de",
+      "acAsrConf": 242
+    }, {
+      "utf8": " cdn",
+      "acAsrConf": 226
+    } ]
+  }, {
+    "tStartMs": 1386299,
+    "dDurationMs": 8721,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "o sea",
+      "acAsrConf": 242
+    }, {
+      "utf8": " un",
+      "acAsrConf": 190
+    }, {
+      "utf8": " control",
+      "acAsrConf": 242
+    }, {
+      "utf8": "\nc",
+      "acAsrConf": 241
+    }, {
+      "utf8": " venimos para",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1392059,
+    "dDurationMs": 2961,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "nuestro",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1395840,
+    "dDurationMs": 7160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "esta página web en este caso clientes",
+      "acAsrConf": 242
+    }, {
+      "utf8": "\nEntonces",
+      "acAsrConf": 194
+    }, {
+      "utf8": " nos",
+      "acAsrConf": 235
+    }, {
+      "utf8": " interesan encolar los",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1401539,
+    "dDurationMs": 6201,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "iconos",
+      "acAsrConf": 218
+    }, {
+      "utf8": "\nnos",
+      "acAsrConf": 234
+    }, {
+      "utf8": " insertamos",
+      "acAsrConf": 238
+    } ]
+  }, {
+    "tStartMs": 1405280,
+    "dDurationMs": 8620,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y por acá tenemos\nlo siguiente",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1410059,
+    "dDurationMs": 9661,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tenemos los enlaces un enlace y aquí\ntenemos la opción del icono pero vamos a",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1417500,
+    "dDurationMs": 9500,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "personalizarlo para nosotros aquí\ntenemos home tengo para la página",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1422299,
+    "dDurationMs": 4701,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "oficial de los iconos",
+      "acAsrConf": 242
+    }, {
+      "utf8": " vamos a",
+      "acAsrConf": 188
+    }, {
+      "utf8": " buscarla",
+      "acAsrConf": 241
+    } ]
+  }, {
+    "tStartMs": 1432440,
+    "dDurationMs": 5900,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "acá",
+      "acAsrConf": 191
+    }, {
+      "utf8": "\natrás y aquí buscamos",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1440299,
+    "dDurationMs": 9781,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ya que nos aparecen",
+      "acAsrConf": 242
+    }, {
+      "utf8": " unos",
+      "acAsrConf": 185
+    }, {
+      "utf8": "\nciclos vamos a buscar la casita",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1445820,
+    "dDurationMs": 9660,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "aquí nos indica buen componentes en este\ncaso no vamos a traer a trabajar con",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1451760,
+    "dDurationMs": 12020,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "webcompone",
+      "acAsrConf": 235
+    }, {
+      "utf8": " sino como fuente y le vamos a\ndar clic para copiar",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1457419,
+    "dDurationMs": 6361,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "venimos para nuestro documento html",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1464539,
+    "dDurationMs": 3380,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y lo pegamos por acá",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1469659,
+    "dDurationMs": 14081,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "en teoría con esto debería salir",
+      "acAsrConf": 242
+    }, {
+      "utf8": "\nel",
+      "acAsrConf": 223
+    }, {
+      "utf8": " icono vamos a revisar",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1479980,
+    "dDurationMs": 8020,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y",
+      "acAsrConf": 238
+    }, {
+      "utf8": " aquí tenemos la casita vamos a cambiar\nesos colores",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1485140,
+    "dDurationMs": 9300,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vamos a",
+      "acAsrConf": 242
+    }, {
+      "utf8": " asignar",
+      "acAsrConf": 240
+    }, {
+      "utf8": " para clientes y para\nbuscador",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1489740,
+    "dDurationMs": 4700,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Entonces vamos a buscar otro icono",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1502480,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de búsqueda\na la Lupita",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1507020,
+    "dDurationMs": 5659,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "le damos",
+      "acAsrConf": 242
+    }, {
+      "utf8": " clic",
+      "acAsrConf": 181
+    }, {
+      "utf8": "\nbuscamos nuestro",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1513260,
+    "dDurationMs": 6380,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "enlace\nvamos a pegar por acá",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1524299,
+    "dDurationMs": 12860,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vamos a clientes vamos a clientes\nBuscamos un icono para clientes se puede",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1532159,
+    "dDurationMs": 5000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ver si",
+      "acAsrConf": 212
+    }, {
+      "utf8": " customer aparece algo",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1539600,
+    "dDurationMs": 4800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Así",
+      "acAsrConf": 164
+    }, {
+      "utf8": " un",
+      "acAsrConf": 242
+    }, {
+      "utf8": " poco",
+      "acAsrConf": 234
+    }, {
+      "utf8": " person",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1552880,
+    "dDurationMs": 7840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vamos a buscar",
+      "acAsrConf": 242
+    }, {
+      "utf8": "\npor",
+      "acAsrConf": 178
+    }, {
+      "utf8": " ejemplo",
+      "acAsrConf": 236
+    } ]
+  }, {
+    "tStartMs": 1558200,
+    "dDurationMs": 5959,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "este señor para indicar que vamos a\nagregar",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1562179,
+    "dDurationMs": 5041,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "seleccionamos\nvenimos para",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1570200,
+    "dDurationMs": 4020,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "momento",
+      "acAsrConf": 239
+    }, {
+      "utf8": " y lo pegamos perfecto",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1575539,
+    "dDurationMs": 7041,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ya con eso Hemos puesto los iconos que\nnos van a ayudar",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1582760,
+    "dDurationMs": 7799,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "creo que me equivoqué Le puse en el\nbuscador",
+      "acAsrConf": 242
+    }, {
+      "utf8": " de",
+      "acAsrConf": 228
+    }, {
+      "utf8": " tono",
+      "acAsrConf": 235
+    }, {
+      "utf8": " de",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1598600,
+    "dDurationMs": 8980,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "como estos iconos son basados en texto\nyo puedo agrandarlos puedo agrandarlos",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1605419,
+    "dDurationMs": 8161,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cómo se",
+      "acAsrConf": 242
+    }, {
+      "utf8": " hace\ndebemos",
+      "acAsrConf": 241
+    }, {
+      "utf8": " crear",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1609580,
+    "dDurationMs": 4000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "css",
+      "acAsrConf": 241
+    }, {
+      "utf8": " personalizado",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1617659,
+    "dDurationMs": 3000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sencillo",
+      "acAsrConf": 219
+    } ]
+  }, {
+    "tStartMs": 1623470,
+    "dDurationMs": 3059,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "[Música]"
+    } ]
+  }, {
+    "tStartMs": 1654380,
+    "dDurationMs": 5659,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Paty\ncero",
+      "acAsrConf": 242
+    }, {
+      "utf8": " píxeles",
+      "acAsrConf": 225
+    } ]
+  }, {
+    "tStartMs": 1663260,
+    "dDurationMs": 2600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "entonces",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1666140,
+    "dDurationMs": 3600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "podemos decirle",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1673220,
+    "dDurationMs": 3439,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que",
+      "acAsrConf": 242
+    }, {
+      "utf8": " sus",
+      "acAsrConf": 241
+    }, {
+      "utf8": " iconos",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1677080,
+    "dDurationMs": 9040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vamos a buscar iconos por acá\ny buscamos la clase",
+      "acAsrConf": 242
+    }, {
+      "utf8": " de",
+      "acAsrConf": 236
+    } ]
+  }, {
+    "tStartMs": 1690880,
+    "dDurationMs": 3720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tamaño más grande",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1702100,
+    "dDurationMs": 4260,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "lo",
+      "acAsrConf": 189
+    }, {
+      "utf8": " podemos",
+      "acAsrConf": 242
+    }, {
+      "utf8": " asignar",
+      "acAsrConf": 202
+    }, {
+      "utf8": " fácilmente",
+      "acAsrConf": 231
+    } ]
+  }, {
+    "tStartMs": 1718320,
+    "dDurationMs": 3210,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "[Música]"
+    } ]
+  }, {
+    "tStartMs": 1723320,
+    "dDurationMs": 5660,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vamos a vincular nuestro nuestra",
+      "acAsrConf": 242
+    }, {
+      "utf8": " nuestra",
+      "acAsrConf": 177
+    }, {
+      "utf8": "\nhoja",
+      "acAsrConf": 240
+    }, {
+      "utf8": " de estilo",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1746960,
+    "dDurationMs": 6660,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y aquí como vemos ya no",
+      "acAsrConf": 242
+    }, {
+      "utf8": " están",
+      "acAsrConf": 179
+    }, {
+      "utf8": " un",
+      "acAsrConf": 242
+    }, {
+      "utf8": " poquito",
+      "acAsrConf": 179
+    }, {
+      "utf8": "\nperfecto",
+      "acAsrConf": 189
+    } ]
+  }, {
+    "tStartMs": 1754100,
+    "dDurationMs": 9840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Si queremos cambiar la fuente en color\nblanco pues lo podemos hacer sin ningún",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1759860,
+    "dDurationMs": 8939,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "problema listo ese menú Es estático no\nvamos a darle ninguna interactividad",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1765679,
+    "dDurationMs": 7761,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "para que se oculte nadie es que",
+      "acAsrConf": 242
+    }, {
+      "utf8": " en esta",
+      "acAsrConf": 222
+    }, {
+      "utf8": "\nárea blanca vamos a trabajar con",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1771380,
+    "dDurationMs": 9620,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "nuestros elementos\nEntonces vamos a darle pausa este video",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1776559,
+    "dDurationMs": 4441,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y en el siguiente continuamos trabajando",
+      "acAsrConf": 242
+    } ]
+  } ]
+}

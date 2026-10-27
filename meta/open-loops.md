@@ -17,8 +17,11 @@ Formato: `- [ ] pendiente (origen: [[nota]], desde AAAA-MM-DD)`
 - [ ] Que Campuslands valide la base de conocimiento de prospectos: costo y pago, admisión, cohortes, empleabilidad y canal oficial (ver [[prospectos/base-de-conocimiento]], desde 2026-10-16)
 - [ ] Decidir si se instalan las skills de Kapso en una carpeta aparte, fuera del vault (revisadas en solo lectura el 2026-10-16; no instaladas)
 - [ ] Profundizar detalles biográficos personales en `start-here.md` mediante entrevista (contexto operativo base completado 2026-10-16)
-- [ ] Conectar Claude Desktop al vault con el MCP de filesystem (ver [[investigacion-second-brain]])
+- [x] ~~Conectar Claude Desktop al vault con el MCP de filesystem~~ → conectado junto con el MCP de WhatsApp y bot interactivo (2026-10-17, ver [[automation/PARCHES]])
 - [ ] Revisar el código de ai-brain-starter antes de instalar nada (ver [[mycelium-ai-brain-starter]])
+- [ ] Seguimiento de meta financiera: ahorro de $2.800.000 para portátil a fin de año (origen: [[projects/ahorro-portatil-2026]], desde 2026-10-21)
+
+- [ ] Enviar la propuesta formal el viernes (vía WhatsApp 2026-10-22)
 
 ## Cerrados
 - [x] ~~Reunirse con la persona que lleva el LinkedIn de Diego y conseguir los 9 archivos reales~~ → integrados en `linkedin/` y archivados intactos en `sources/linkedin/` (2026-10-16)

@@ -72,3 +72,8 @@ Formato: fecha · decisión · por qué · alternativas descartadas.
 - **Por qué:** cumplía con la regla 1 de fuentes originales intactas y cerraba los pendientes de pilares y territorios de LinkedIn sin romper la arquitectura en 3 capas.
 - **Alternativas descartadas:** mantener los archivos con sufijo ` (1)` sin archivar o dejar las áreas de vida vacías.
 
+## 2026-10-20 · Conexión bidireccional integral del grafo y eliminación de huérfanos
+- **Decisión:** conectar mediante wikilinks bidireccionales (`[[...]]`) las 337 publicaciones y 83 transcripciones de `diego_investigacion/`, los 77 archivos de `diego_instagram/`, y los 149 audios/videos del corpus de Campuslands, anclándolos a nodos centrales (`people/diego-tarazona`, `areas/campuslands`, `diego_investigacion/README`), nodos temáticos (`areas/ia-aplicada-y-futuro-del-trabajo`, `areas/movilidad-social`, `areas/cultura-camper`), directivos clave (`people/andres-lizarazo`, `people/sandra-charry`, `people/maria-camila-canas`) y aliados institucionales en `organizaciones/` (`fedesoft`, `zona-franca-santander`, `uniminuto`, `inexsu`, `grupo-bien-pensado`, `andi`, `procolombia`, `cenisoft`).
+- **Por qué:** Obsidian Graph View mostraba un anillo masivo de nodos periféricos desconectados. La conexión bidireccional y los MOCs colapsan los huérfanos en cúmulos navegables y hacen que cada pieza de información sea localizable y utilizable en consultas, Dataview y grafos locales.
+- **Alternativas descartadas:** dejar las publicaciones con rutas relativas de archivo Markdown (`../03_imagenes/`) que no crean aristas en el grafo de Obsidian.
+

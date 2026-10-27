@@ -111,3 +111,10 @@ Uso privado: material fuente, no se republica. Ver [[fuentes/video-podcast]] y [
 **[46:01]** tipo de emprendimientos en este con lo que hace Hole ayudan a que finalmente Colombia empiece a mover la aguja si no no vamos a avanzar por eso tan valioso dar esos testimonios [Música] y tiene que conectarse con la red donde jolet tiene un liderazgo muy importante pero pero aquí está el combustible de buena parte de lo que necesitan los emprendimientos etec Sí definitivamente definitivamente estamos Diego creando un o ya lo creamos un gremio ectec en Colombia y Y bueno ya ya hablaremos pero importante sumar porque parte de las verticales a las que se dedica el gremio es precisamente de desarrollo de habilidades y capacidades para el siglo XXI la cuarta Revolución Industrial como también lo hacemos en atelier un colegio del Siglo 21 [Risas] Bueno muy bien y con esta cuña que no
 
 **[47:00]** nos cobra Caracol radio Nos despedimos en este nuevo episodio con Diego tarazona ceo de campusland una iniciativa que nació no para enseñar programación sino para transformar vidas nos oímos la próxima semana aquí en caracol podcast en Caracol radio hasta la próxima chao chao chao
+
+---
+## 🔗 Conexiones del Segundo Cerebro
+- **Persona:** [[people/diego-tarazona|Diego Tarazona]]
+- **Entidad:** [[areas/campuslands|Campuslands]]
+- **Dossier de Investigación:** [[investigacion/diego-tarazona/dossier|Dossier Diego Tarazona]]
+- **MOC Integral:** [[diego_investigacion/README|MOC Diego Tarazona]]

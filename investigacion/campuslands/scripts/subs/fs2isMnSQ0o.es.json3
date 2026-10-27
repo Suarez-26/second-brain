@@ -1,0 +1,307 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  }, {
+    "mhModeHint": 2,
+    "juJustifCode": 0,
+    "sdScrollDir": 3
+  } ],
+  "wpWinPositions": [ {
+  
+  }, {
+    "apPoint": 6,
+    "ahHorPos": 20,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  } ],
+  "events": [ {
+    "tStartMs": 0,
+    "id": 1,
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 560,
+    "dDurationMs": 6199,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "El fortalecimiento de las competencias\ntecnológicas en la juventud guatemalteca",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 4759,
+    "dDurationMs": 6321,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "se consolida como un eje estratégico\npara la competitividad y la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 8559,
+    "dDurationMs": 6761,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "transformación económica del país. El\ncreciente ecosistema digital impulsa la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 13240,
+    "dDurationMs": 6199,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "generación de empleo, el emprendimiento\ny la atracción de inversión en sectores",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 17119,
+    "dDurationMs": 7080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vinculados a la innovación, impulsado\npor programas de formación técnica y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 21680,
+    "dDurationMs": 6839,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "capacitación en habilidades digitales.\nEn este contexto, Jorge Matamoros",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 26080,
+    "dDurationMs": 5519,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "presentó Campus LANS, una iniciativa\norientada a desarrollar un modelo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 30119,
+    "dDurationMs": 5561,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "educativo integral que combina\ntecnología, dominio del inglés y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 33520,
+    "dDurationMs": 6280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "liderazgo con el objetivo de preparar a\nlos jóvenes para integrarse a un mercado",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 38079,
+    "dDurationMs": 4960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "laboral global y de alta demanda\ntecnológica.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 40800,
+    "dDurationMs": 7399,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Campusland es un modelo de desarrollo\nsocial que cuenta con dos aristas. Eh,",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 46360,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "en una de las aristas es un centro de\nformación que de forma intensiva",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 50800,
+    "dDurationMs": 7800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "presencial en 10 meses formamos\nprogramadores Fullstack Junior, inglés y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 55800,
+    "dDurationMs": 7719,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "habilidades blandas, pero para nosotros\nel propósito no termina ahí, sino que el",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 61440,
+    "dDurationMs": 7840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "objetivo final es empleabilidad.\nEntonces, nuestra promesa es que al 85%",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 67159,
+    "dDurationMs": 5681,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a 90 días de egresar a través de nuestra\nred de aleados de empleabilidad se",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 70799,
+    "dDurationMs": 6081,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "coloca en la fuerza laboral. Jorge\nMatamoros también compartió qué papel",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 74640,
+    "dDurationMs": 5119,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "juega el sector privado en la creación\nde nuevas oportunidades para los",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 78479,
+    "dDurationMs": 6161,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "jóvenes.\nPues muchísimo, ¿verdad? Ese es de mis",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 82360,
+    "dDurationMs": 8799,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "retos más grandes ahorita, la difusión\nde este programa. O sea, no no creemos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 87840,
+    "dDurationMs": 7440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que nuestro el talento que estamos\ndesarrollando, o sea, los chicos que van",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 92759,
+    "dDurationMs": 7040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a egresar nuestro de nuestro programa no\nson únicamente para empresas de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 96640,
+    "dDurationMs": 10040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tecnología. Ya hoy en día no importa si\nestás en consumo masivo, financiero,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 103759,
+    "dDurationMs": 7640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "este, cualquier índole de negocio tiene\nun departamento de informática o o que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 109240,
+    "dDurationMs": 7239,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "está desarrollando software para poder\nejecutar la operación.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 113360,
+    "dDurationMs": 9359,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Entonces creo que\neh es muy importante a nivel patrocinio",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 121119,
+    "dDurationMs": 6040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "para los chicos que ingresan en nuestro\nprograma como eh comunicación y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 125719,
+    "dDurationMs": 4561,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "entendimiento de qué es lo que están\nbuscando para nosotros poder adaptar la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 129119,
+    "dDurationMs": 4801,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "currícula.\nEste entorno dinámico permite que los",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 131920,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "jóvenes adquieran habilidades en áreas\ncomo programación, inteligencia",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 135720,
+    "dDurationMs": 6799,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "artificial, desarrollo de software y\ncomercio electrónico, facilitando su",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 140560,
+    "dDurationMs": 6280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "inserción en un mercado laboral global.\naltamente competitivo. Recuerde ver esta",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 145160,
+    "dDurationMs": 5240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "entrevista completa escaneando el código\nQR que se encuentra en pantalla o",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 148720,
+    "dDurationMs": 4960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "visitando nuestra página de YouTube de\nCanal Antigua.",
+      "acAsrConf": 0
+    } ]
+  } ]
+}

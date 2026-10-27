@@ -1,0 +1,124 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  }, {
+    "mhModeHint": 2,
+    "juJustifCode": 0,
+    "sdScrollDir": 3
+  } ],
+  "wpWinPositions": [ {
+  
+  }, {
+    "apPoint": 6,
+    "ahHorPos": 20,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  } ],
+  "events": [ {
+    "tStartMs": 0,
+    "id": 1,
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 700,
+    "dDurationMs": 4380,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "[Música]"
+    }, {
+      "utf8": "\nMucho gusto, me presento. Mi nombre es",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3159,
+    "dDurationMs": 7600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Julio Ortiz, nací en Cúcuta, pero vivo\nen el municipio de Tribun Norte y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 6359,
+    "dDurationMs": 8440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Santander. Al finalizar mi bachillerato,\nno pude ingresar directamente a la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 12880,
+    "dDurationMs": 6200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "universidad por problemas económicos. A\npesar de contar con el apoyo de mis",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 17039,
+    "dDurationMs": 6041,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "padres, decidí empezar a emplear en un\nsalón de belleza. A pasar el tiempo, me",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 21000,
+    "dDurationMs": 6599,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "llené de mi frustración por quedarme en\nese puesto y no pude adquirir un",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 25279,
+    "dDurationMs": 6840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "estudio. Gracias a un familiar que me\ninformó acerca de campulativo, no dudé",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 29720,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "en ingresar y tomar la prueba. A pesar\nde que no tenía conocimiento acerca de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 34160,
+    "dDurationMs": 6800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "programación, gracias de Campulán me\nayudó a mejorar mucho la parte de ser",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 38399,
+    "dDurationMs": 5840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "eficiente y acerca de mis conocimientos.\nY también me hizo entender que con",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 42719,
+    "dDurationMs": 4041,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "esfuerzo ubicación puedo lograr\ncualquier meta.",
+      "acAsrConf": 0
+    } ]
+  } ]
+}

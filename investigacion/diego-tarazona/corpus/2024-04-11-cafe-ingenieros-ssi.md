@@ -95,3 +95,10 @@ Uso privado: material fuente, no se republica. Ver [[fuentes/video-podcast]] y [
 **[37:02]** desconocen todavía la existencia de esta de esta formación estas alternativas para las diferentes jóvenes diferentes estratos también y pues lo importante que este tema del ti ha tomado en nuestra nuestra sociedad para las empresas que actualmente lo tienen o que desean implementarlo Entonces desde la sociedad santanderiana ingenieros Les agradecemos este espacio los invitamos a continuar trabajando y y pues las puertas abiertas siempre para que podamos seguir contando todas estas historias estos importantes desarrollos y empresas eh que salen que son de Santander que son de nuestra región y que pues promueven a nuestro departamento bueno y la invitación es en doble vía allá los esperamos una cosa es lo que yo les cuente lo que la ppt es pero cuando van y hablan con los jóvenes Le cambia completamente la perspectiva tenemos allá también un auditorio si quieren hacer una sesión presencial de
 
 **[38:00]** la sociedad santanderiana de ingenieros allá super bienvenidos o un café con otra temática pero que tengan el espacio físico allá estamos en zona franca para recibirlos muchísimas gracias eh Sandra y pues transmitirle a Diego que por dificultades sí no he visto el WhatsApp pero creo que no se pudo conectar pero no se se pudo conectar pero entonces Muchísimas gracias por atendernos por estar aquí y esperamos en otra oportunidad eh seguir manteniendo este relacionamiento y a todos los que nos acompañaron hoy Gracias y feliz una feliz tarde bueno Buena tarde para todos Un gusto Hasta luego gracias y
+
+---
+## 🔗 Conexiones del Segundo Cerebro
+- **Persona:** [[people/diego-tarazona|Diego Tarazona]]
+- **Entidad:** [[areas/campuslands|Campuslands]]
+- **Dossier de Investigación:** [[investigacion/diego-tarazona/dossier|Dossier Diego Tarazona]]
+- **MOC Integral:** [[diego_investigacion/README|MOC Diego Tarazona]]

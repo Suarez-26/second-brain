@@ -1,0 +1,74 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  }, {
+    "mhModeHint": 2,
+    "juJustifCode": 0,
+    "sdScrollDir": 3
+  } ],
+  "wpWinPositions": [ {
+  
+  }, {
+    "apPoint": 6,
+    "ahHorPos": 20,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  } ],
+  "events": [ {
+    "tStartMs": 0,
+    "id": 1,
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 199,
+    "dDurationMs": 10081,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Cuando nació Pro Santander, muchos\npensaron que era imposible ver a 10",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 7799,
+    "dDurationMs": 7800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "empresas [música] unidas aportándole al\ndesarrollo regional. Hoy son 89 empresas",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 14000,
+    "dDurationMs": 9000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "unidas [música]\ntrabajando en equipo donde el único",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 18800,
+    "dDurationMs": 9719,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "interés es el interés general, es que al\ndepartamento de Santander [música]",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 24920,
+    "dDurationMs": 3599,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "le vaya Bien.",
+      "acAsrConf": 0
+    } ]
+  } ]
+}

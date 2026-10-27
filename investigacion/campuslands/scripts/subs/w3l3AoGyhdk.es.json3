@@ -1,0 +1,411 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  }, {
+    "mhModeHint": 2,
+    "juJustifCode": 0,
+    "sdScrollDir": 3
+  } ],
+  "wpWinPositions": [ {
+  
+  }, {
+    "apPoint": 6,
+    "ahHorPos": 20,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  } ],
+  "events": [ {
+    "tStartMs": 0,
+    "id": 1,
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 0,
+    "dDurationMs": 6930,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "si",
+      "acAsrConf": 241
+    }, {
+      "utf8": " te",
+      "acAsrConf": 252
+    }, {
+      "utf8": " preocupa",
+      "acAsrConf": 201
+    }, {
+      "utf8": " tu",
+      "acAsrConf": 249
+    }, {
+      "utf8": " futuro",
+      "acAsrConf": 251
+    }, {
+      "utf8": " profesional",
+      "acAsrConf": 75
+    }, {
+      "utf8": " y",
+      "acAsrConf": 201
+    }, {
+      "utf8": "\nel",
+      "acAsrConf": 252
+    }, {
+      "utf8": " acceso",
+      "acAsrConf": 234
+    }, {
+      "utf8": " a educación superior",
+      "acAsrConf": 252
+    }, {
+      "utf8": " presenta",
+      "acAsrConf": 207
+    } ]
+  }, {
+    "tStartMs": 4589,
+    "dDurationMs": 6930,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "una",
+      "acAsrConf": 252
+    }, {
+      "utf8": " barrera",
+      "acAsrConf": 246
+    }, {
+      "utf8": " para",
+      "acAsrConf": 252
+    }, {
+      "utf8": " tu",
+      "acAsrConf": 215
+    }, {
+      "utf8": " crecimiento",
+      "acAsrConf": 252
+    }, {
+      "utf8": " somos",
+      "acAsrConf": 155
+    }, {
+      "utf8": " la\nsolución",
+      "acAsrConf": 252
+    }, {
+      "utf8": " a",
+      "acAsrConf": 228
+    }, {
+      "utf8": " tu necesidad",
+      "acAsrConf": 252
+    }, {
+      "utf8": " conoce",
+      "acAsrConf": 211
+    }, {
+      "utf8": " los",
+      "acAsrConf": 253
+    } ]
+  }, {
+    "tStartMs": 9360,
+    "dDurationMs": 5310,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "beneficios",
+      "acAsrConf": 252
+    }, {
+      "utf8": " que",
+      "acAsrConf": 146
+    }, {
+      "utf8": " tenemos",
+      "acAsrConf": 200
+    }, {
+      "utf8": " para",
+      "acAsrConf": 252
+    }, {
+      "utf8": " ti",
+      "acAsrConf": 233
+    }, {
+      "utf8": " somos un\ncampus dedicado a la",
+      "acAsrConf": 252
+    }, {
+      "utf8": " formación",
+      "acAsrConf": 206
+    }, {
+      "utf8": " de",
+      "acAsrConf": 222
+    } ]
+  }, {
+    "tStartMs": 12960,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "jóvenes",
+      "acAsrConf": 201
+    }, {
+      "utf8": " talento",
+      "acAsrConf": 255
+    }, {
+      "utf8": " para el",
+      "acAsrConf": 248
+    }, {
+      "utf8": " desarrollo",
+      "acAsrConf": 252
+    }, {
+      "utf8": " de",
+      "acAsrConf": 229
+    }, {
+      "utf8": "\nsoftware",
+      "acAsrConf": 240
+    }, {
+      "utf8": " te",
+      "acAsrConf": 203
+    }, {
+      "utf8": " daremos",
+      "acAsrConf": 252
+    }, {
+      "utf8": " la",
+      "acAsrConf": 248
+    }, {
+      "utf8": " oportunidad",
+      "acAsrConf": 252
+    }, {
+      "utf8": " de",
+      "acAsrConf": 142
+    } ]
+  }, {
+    "tStartMs": 16859,
+    "dDurationMs": 6811,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "realizar",
+      "acAsrConf": 252
+    }, {
+      "utf8": " tu",
+      "acAsrConf": 247
+    }, {
+      "utf8": " proceso",
+      "acAsrConf": 249
+    }, {
+      "utf8": " de formación",
+      "acAsrConf": 252
+    }, {
+      "utf8": " en",
+      "acAsrConf": 205
+    }, {
+      "utf8": " tan",
+      "acAsrConf": 252
+    }, {
+      "utf8": "\nsolo",
+      "acAsrConf": 202
+    }, {
+      "utf8": " ocho",
+      "acAsrConf": 97
+    }, {
+      "utf8": " meses",
+      "acAsrConf": 158
+    }, {
+      "utf8": " con",
+      "acAsrConf": 211
+    }, {
+      "utf8": " complicarte",
+      "acAsrConf": 0
+    }, {
+      "utf8": " hasta",
+      "acAsrConf": 205
+    }, {
+      "utf8": " el",
+      "acAsrConf": 251
+    } ]
+  }, {
+    "tStartMs": 20939,
+    "dDurationMs": 7471,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "100%",
+      "acAsrConf": 216
+    }, {
+      "utf8": " y",
+      "acAsrConf": 232
+    }, {
+      "utf8": " obtendrás todos los",
+      "acAsrConf": 252
+    }, {
+      "utf8": " conocimientos",
+      "acAsrConf": 200
+    }, {
+      "utf8": "\nnecesarios para convertirte en el mejor",
+      "acAsrConf": 252
+    } ]
+  }, {
+    "tStartMs": 25650,
+    "dDurationMs": 6209,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "en",
+      "acAsrConf": 206
+    }, {
+      "utf8": " el área de programación",
+      "acAsrConf": 252
+    }, {
+      "utf8": " esto",
+      "acAsrConf": 122
+    }, {
+      "utf8": " abrirá",
+      "acAsrConf": 252
+    }, {
+      "utf8": "\nlas",
+      "acAsrConf": 251
+    }, {
+      "utf8": " puertas",
+      "acAsrConf": 252
+    }, {
+      "utf8": " del",
+      "acAsrConf": 200
+    }, {
+      "utf8": " mundo",
+      "acAsrConf": 252
+    }, {
+      "utf8": " para",
+      "acAsrConf": 180
+    }, {
+      "utf8": " ti",
+      "acAsrConf": 235
+    }, {
+      "utf8": " con",
+      "acAsrConf": 240
+    }, {
+      "utf8": " la",
+      "acAsrConf": 252
+    } ]
+  }, {
+    "tStartMs": 30300,
+    "dDurationMs": 6570,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "posibilidad",
+      "acAsrConf": 146
+    }, {
+      "utf8": " de",
+      "acAsrConf": 252
+    }, {
+      "utf8": " tener",
+      "acAsrConf": 216
+    }, {
+      "utf8": " un contrato",
+      "acAsrConf": 252
+    }, {
+      "utf8": " laboral",
+      "acAsrConf": 200
+    }, {
+      "utf8": "\ncomo",
+      "acAsrConf": 145
+    }, {
+      "utf8": " truco",
+      "acAsrConf": 204
+    }, {
+      "utf8": " bien",
+      "acAsrConf": 239
+    }, {
+      "utf8": " pensado",
+      "acAsrConf": 252
+    }, {
+      "utf8": " todo",
+      "acAsrConf": 180
+    }, {
+      "utf8": " nuestro",
+      "acAsrConf": 226
+    } ]
+  }, {
+    "tStartMs": 34380,
+    "dDurationMs": 5820,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ecosistema",
+      "acAsrConf": 252
+    }, {
+      "utf8": " empresarial",
+      "acAsrConf": 207
+    }, {
+      "utf8": " pero",
+      "acAsrConf": 147
+    }, {
+      "utf8": " lo",
+      "acAsrConf": 252
+    }, {
+      "utf8": " mejor",
+      "acAsrConf": 236
+    }, {
+      "utf8": " de",
+      "acAsrConf": 206
+    }, {
+      "utf8": "\ntodo",
+      "acAsrConf": 208
+    }, {
+      "utf8": " es",
+      "acAsrConf": 252
+    }, {
+      "utf8": " que",
+      "acAsrConf": 208
+    }, {
+      "utf8": " te divertirás",
+      "acAsrConf": 252
+    }, {
+      "utf8": " mientras",
+      "acAsrConf": 245
+    } ]
+  }, {
+    "tStartMs": 38879,
+    "dDurationMs": 7110,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "aprendes con espacios dedicados\nexclusivamente para tu",
+      "acAsrConf": 252
+    }, {
+      "utf8": " entretenimiento",
+      "acAsrConf": 144
+    } ]
+  }, {
+    "tStartMs": 42870,
+    "dDurationMs": 8029,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "no",
+      "acAsrConf": 205
+    }, {
+      "utf8": " esperes más",
+      "acAsrConf": 252
+    }, {
+      "utf8": " y",
+      "acAsrConf": 207
+    }, {
+      "utf8": " se",
+      "acAsrConf": 226
+    }, {
+      "utf8": " parte",
+      "acAsrConf": 242
+    }, {
+      "utf8": " de",
+      "acAsrConf": 252
+    }, {
+      "utf8": " nuestro",
+      "acAsrConf": 255
+    }, {
+      "utf8": "\ncampus",
+      "acAsrConf": 248
+    }, {
+      "utf8": " de",
+      "acAsrConf": 243
+    }, {
+      "utf8": " formación",
+      "acAsrConf": 255
+    } ]
+  }, {
+    "tStartMs": 48380,
+    "dDurationMs": 2519,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "[Música]"
+    } ]
+  } ]
+}

@@ -1,0 +1,269 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  }, {
+    "mhModeHint": 2,
+    "juJustifCode": 0,
+    "sdScrollDir": 3
+  } ],
+  "wpWinPositions": [ {
+  
+  }, {
+    "apPoint": 6,
+    "ahHorPos": 20,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  } ],
+  "events": [ {
+    "tStartMs": 0,
+    "id": 1,
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 359,
+    "dDurationMs": 6440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "En las montañas de Soto Norte muchas\nveces nacen sueños que parecen demasiado",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 4640,
+    "dDurationMs": 7200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "grandes para el lugar en donde crecen.\nComo se puede ver, eh yo soy una persona",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 9040,
+    "dDurationMs": 7800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de campo y yo sé que se puede mantener\nun equilibrio entre ambas cosas, entre",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 13799,
+    "dDurationMs": 5921,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "la tecnología y la belleza de lo que es\nla naturaleza.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 17800,
+    "dDurationMs": 5440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Entre caminos de tierra y manos llenas\nde esfuerzo, cada persona tiene una",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 21720,
+    "dDurationMs": 6120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "historia con una oportunidad para\nbrillar. Hoy el camino se abre para tres",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 25439,
+    "dDurationMs": 4881,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "jóvenes que junto a sus familias nunca\ndejaron de creer en el proyecto Soto",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 29880,
+    "dDurationMs": 3600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Norte.\nYo me voy a presentar.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 31880,
+    "dDurationMs": 6960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Mi nombre es Janet Mantilla. Soy la\nvicepresidenta de asuntos estratégicos",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 35920,
+    "dDurationMs": 8840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "del proyecto Soto Norte y hoy te tengo\nuna muy buena noticia. Bienvenido. Te",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 42079,
+    "dDurationMs": 7160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "has ganado una beca para estudiar en\nCampus L. Bravo.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 49719,
+    "dDurationMs": 7801,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "O sea, no tengo palabras. No,\nfelicitaciones, estamos muy orgullosos",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 54079,
+    "dDurationMs": 8000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de ti y me hiciste llorar.\nCamilo Andrés, Juan David y Luis Esteban",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 60120,
+    "dDurationMs": 6200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "reciben una noticia que marcará un antes\ny un después, la certeza de que sus",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 64119,
+    "dDurationMs": 5401,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sueños y su futuro se encontraron en el\nmismo camino. Y ese camino comienza",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 68680,
+    "dDurationMs": 8000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ahora.\nUno de esos muchachos genios que tenemos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 73360,
+    "dDurationMs": 7520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "en Soto Norte. vas a sacar adelante esa\ncarrera que te va a permitir poder",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 79080,
+    "dDurationMs": 7200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "trabajar desde tu casa en cualquier\nparte del mundo, vas a ser persistente.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 84079,
+    "dDurationMs": 5680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Tienes el orgullo como santandellano y\ncomo hijo de Sotonoto. Así que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 88439,
+    "dDurationMs": 6241,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "felicitaciones.\nMeterse en el campo tecnológico es una",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 91960,
+    "dDurationMs": 5080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "gran oportunidad para desarrollarse las\npersonas porque ya todo tiene que ver",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 96159,
+    "dDurationMs": 5681,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "con tecnología.\nSiempre ha sido mi sueño entrar a la al",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 100040,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mundo de la programación. una\noportunidad que voy a aprovechar al",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 103840,
+    "dDurationMs": 6319,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "máximo para aprender nuevas cosas.\nYo justamente me comprometí conmigo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 108040,
+    "dDurationMs": 6439,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mismo a que si llegaba a ganar esta\noportunidad me iba a poner full enfocado",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 112759,
+    "dDurationMs": 6360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a aprender y a desarrollar más\nhabilidades de las que me enseñan allá.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 116240,
+    "dDurationMs": 9879,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Por eso es que me emociona muchísimo esa\nesta oportunidad que me están dando. Si",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 121159,
+    "dDurationMs": 4960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "uno lo intenta, sí se puede lograr.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 129060,
+    "dDurationMs": 3919,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "[Música]"
+    } ]
+  } ]
+}

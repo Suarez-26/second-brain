@@ -1,0 +1,3201 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  }, {
+    "mhModeHint": 2,
+    "juJustifCode": 0,
+    "sdScrollDir": 3
+  } ],
+  "wpWinPositions": [ {
+  
+  }, {
+    "apPoint": 6,
+    "ahHorPos": 20,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  } ],
+  "events": [ {
+    "tStartMs": 0,
+    "id": 1,
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 480,
+    "dDurationMs": 8039,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "no muy buenas tardes en este vídeo vamos\na desarrollar un proyecto en el cual se",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 6000,
+    "dDurationMs": 10440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "incluyen varias tecnologías entre las\ncuales tenemos Los Yes",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 11420,
+    "dDurationMs": 5020,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "gestor de paquetes en bien",
+      "acAsrConf": 242
+    }, {
+      "utf8": " javascript",
+      "acAsrConf": 203
+    } ]
+  }, {
+    "tStartMs": 16619,
+    "dDurationMs": 10701,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Jason server\nhtml y muy bien para comenzar vamos a",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 23760,
+    "dDurationMs": 11000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "instalar el gestor de versiones de noche\npara esto es Sencillamente lo que vamos",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 30720,
+    "dDurationMs": 10440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a hacer es abrir nuestra página web",
+      "acAsrConf": 242
+    }, {
+      "utf8": "\nnuestro",
+      "acAsrConf": 204
+    }, {
+      "utf8": " navegador y básicamente lo que",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 38399,
+    "dDurationMs": 5761,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vamos a hacer es a buscar lo siguiente",
+      "acAsrConf": 242
+    }, {
+      "utf8": "\nenvíen",
+      "acAsrConf": 224
+    } ]
+  }, {
+    "tStartMs": 44340,
+    "dDurationMs": 6840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "para\nWindows",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 48840,
+    "dDurationMs": 8340,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "el automáticamente nos va a mostrar un\ngith del cual podemos Descargar la",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 54840,
+    "dDurationMs": 6539,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "versión del envíen para el sistema\noperativo Windows por aquí en el clip",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 59699,
+    "dDurationMs": 6721,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "simplemente vamos a darles a última\nversiones vamos a buscar la versión",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 64199,
+    "dDurationMs": 8941,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "correspondiente al sistema operativo\nWindows que es el punto exe simplemente",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 70320,
+    "dDurationMs": 11060,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "le damos clic y la vamos a descargar\nvamos a descargar por aquí en la unidad",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 75240,
+    "dDurationMs": 6140,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de",
+      "acAsrConf": 242
+    }, {
+      "utf8": " guardar",
+      "acAsrConf": 234
+    }, {
+      "utf8": " y Esperamos que se",
+      "acAsrConf": 242
+    }, {
+      "utf8": " descargue",
+      "acAsrConf": 241
+    } ]
+  }, {
+    "tStartMs": 87320,
+    "dDurationMs": 7180,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Excelente muy bien luego de tenerlo\ndespejado lo vamos a ejecutar vamos a",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 92340,
+    "dDurationMs": 4340,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "esperar que se inicie el asistente de\ninstalación",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 99259,
+    "dDurationMs": 9341,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "por aquí tenemos ese asistente\nsimplemente aceptamos las condiciones le",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 105060,
+    "dDurationMs": 3540,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "damos instalar siguiente",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 109079,
+    "dDurationMs": 7921,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "siguiente\ny vamos a instalar",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 113820,
+    "dDurationMs": 8520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vamos a finalizar muy bien Vamos a\nverificar si esto quedó correctamente",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 118799,
+    "dDurationMs": 9781,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "instalado para esto\nvamos a abrir un programa que se llama",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 125520,
+    "dDurationMs": 10500,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "el Powers viene de versiones de Windows\n10 en adelante los que tengan una",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 131160,
+    "dDurationMs": 10560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "versión antigua pues podrán abrir el\nadministrador o la consola cmd vamos a",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 140040,
+    "dDurationMs": 7559,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "agitar",
+      "acAsrConf": 242
+    }, {
+      "utf8": " en",
+      "acAsrConf": 191
+    }, {
+      "utf8": " bien",
+      "acAsrConf": 196
+    }, {
+      "utf8": "\ny aquí ya podemos comprobar que está",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 144120,
+    "dDurationMs": 7380,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "listo podemos comprobar",
+      "acAsrConf": 242
+    }, {
+      "utf8": " con",
+      "acAsrConf": 140
+    }, {
+      "utf8": "\nbien",
+      "acAsrConf": 199
+    }, {
+      "utf8": " lst",
+      "acAsrConf": 220
+    } ]
+  }, {
+    "tStartMs": 157440,
+    "dDurationMs": 6120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "es",
+      "acAsrConf": 238
+    }, {
+      "utf8": " lts perdón",
+      "acAsrConf": 242
+    }, {
+      "utf8": "\nlts",
+      "acAsrConf": 229
+    } ]
+  }, {
+    "tStartMs": 175319,
+    "dDurationMs": 5601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vamos a revisar un momento",
+      "acAsrConf": 242
+    }, {
+      "utf8": " que",
+      "acAsrConf": 216
+    }, {
+      "utf8": " lo",
+      "acAsrConf": 239
+    }, {
+      "utf8": " que",
+      "acAsrConf": 242
+    }, {
+      "utf8": "\npasa",
+      "acAsrConf": 239
+    }, {
+      "utf8": " con este",
+      "acAsrConf": 242
+    }, {
+      "utf8": " comando",
+      "acAsrConf": 229
+    } ]
+  }, {
+    "tStartMs": 181700,
+    "dDurationMs": 9160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y que aquí tenía un pequeño error\nes ls",
+      "acAsrConf": 242
+    }, {
+      "utf8": " Remote",
+      "acAsrConf": 215
+    } ]
+  }, {
+    "tStartMs": 192180,
+    "dDurationMs": 2839,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "bien",
+      "acAsrConf": 192
+    } ]
+  }, {
+    "tStartMs": 197519,
+    "dDurationMs": 3741,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vamos a reconocer",
+      "acAsrConf": 193
+    }, {
+      "utf8": " instalación",
+      "acAsrConf": 238
+    } ]
+  }, {
+    "tStartMs": 201599,
+    "dDurationMs": 10801,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "porque muy bien Aquí revisando\ndocumentación alterna en el internet",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 208700,
+    "dDurationMs": 9819,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "para envíen para administrarlo en\nWindows Si queremos ver el listado de",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 216300,
+    "dDurationMs": 9060,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "las versiones disponibles como lo\nhacemos en Linux El Comando es en bien",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 221099,
+    "dDurationMs": 10560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "list evaluable Ok aquí nos aparece las\nversiones lts que tenemos la versión es",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 228599,
+    "dDurationMs": 9060,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "antiguas",
+      "acAsrConf": 242
+    }, {
+      "utf8": " y",
+      "acAsrConf": 196
+    }, {
+      "utf8": " estables y las antiguas que\nno son estables ahora vamos a proceder a",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 235319,
+    "dDurationMs": 6321,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "instalar una de esas versiones por\nejemplo vamos a instalar la versión",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 244400,
+    "dDurationMs": 4020,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ese hecho la 18",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 248959,
+    "dDurationMs": 8041,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "18.16.0 cómo hacemos Esto entonces\nsimplemente ejecutamos El Comando",
+      "acAsrConf": 242
+    }, {
+      "utf8": " en",
+      "acAsrConf": 224
+    } ]
+  }, {
+    "tStartMs": 254819,
+    "dDurationMs": 2181,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "bien",
+      "acAsrConf": 192
+    } ]
+  }, {
+    "tStartMs": 260519,
+    "dDurationMs": 2780,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "esta",
+      "acAsrConf": 202
+    }, {
+      "utf8": " versión",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 266120,
+    "dDurationMs": 7440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "18.16.0\nesperamos un momento que se descargue",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 279900,
+    "dDurationMs": 8780,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Perfecto entonces el automáticamente la\npone en uso ya que no tengo ninguna",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 284880,
+    "dDurationMs": 7640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "versión configurada entonces Simplemente\nno menos V",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 299699,
+    "dDurationMs": 5361,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "OK Vamos a ver",
+      "acAsrConf": 242
+    }, {
+      "utf8": " Note",
+      "acAsrConf": 231
+    }, {
+      "utf8": " menos menos",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 310020,
+    "dDurationMs": 9679,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "versión\nsonido que me dice El Comando dice",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 315800,
+    "dDurationMs": 3899,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "versión",
+      "acAsrConf": 238
+    }, {
+      "utf8": " no se reconoce",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 324979,
+    "dDurationMs": 3601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "bien",
+      "acAsrConf": 197
+    }, {
+      "utf8": " menos",
+      "acAsrConf": 242
+    }, {
+      "utf8": " V",
+      "acAsrConf": 235
+    } ]
+  }, {
+    "tStartMs": 331440,
+    "dDurationMs": 8880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vamos a poner",
+      "acAsrConf": 242
+    }, {
+      "utf8": " npn",
+      "acAsrConf": 226
+    }, {
+      "utf8": "\nWow",
+      "acAsrConf": 184
+    }, {
+      "utf8": " tenemos algún problema con la",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 337919,
+    "dDurationMs": 7581,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "exhalación al parecer\nAh",
+      "acAsrConf": 242
+    }, {
+      "utf8": " Okay",
+      "acAsrConf": 199
+    }, {
+      "utf8": " Vamos a darle",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 346460,
+    "dDurationMs": 8079,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y",
+      "acAsrConf": 242
+    }, {
+      "utf8": " vamos a darle",
+      "acAsrConf": 239
+    }, {
+      "utf8": " la versión al parecer no\nse seleccionó la 18.16.0",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 357419,
+    "dDurationMs": 8961,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "aquí me pide permiso lo voy a dar que sí\nAhora me dice sí que está usando ahora",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 363360,
+    "dDurationMs": 10320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sí vamos a darle menos V\nperfecto no lo habíamos seleccionado",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 369960,
+    "dDurationMs": 8400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "aquí en pie",
+      "acAsrConf": 242
+    }, {
+      "utf8": " menos",
+      "acAsrConf": 192
+    }, {
+      "utf8": " V\ny listo",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 375440,
+    "dDurationMs": 8800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "aquí ya nos está dando",
+      "acAsrConf": 242
+    }, {
+      "utf8": " las",
+      "acAsrConf": 207
+    }, {
+      "utf8": " diferentes\nversiones bien ahora",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 381900,
+    "dDurationMs": 8239,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a continuación lo que vamos a hacer es",
+      "acAsrConf": 242
+    }, {
+      "utf8": "\ncrearnos",
+      "acAsrConf": 220
+    }, {
+      "utf8": " un proyecto el cual vamos a",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 387180,
+    "dDurationMs": 8840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "utilizar en\neste momento para demostrar Cómo",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 392460,
+    "dDurationMs": 3560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "trabajan todos los elementos",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 401699,
+    "dDurationMs": 10500,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vamos a empezar a desarrollar nuestro\nproyecto pero vamos a vincularlo aquí",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 408360,
+    "dDurationMs": 11839,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vamos a estar por acá",
+      "acAsrConf": 242
+    }, {
+      "utf8": " y",
+      "acAsrConf": 222
+    }, {
+      "utf8": " aquí vemos que\ntenemos el giro instalado vamos a mirar",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 415880,
+    "dDurationMs": 11860,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que tengamos el",
+      "acAsrConf": 242
+    }, {
+      "utf8": " instalado",
+      "acAsrConf": 237
+    }, {
+      "utf8": "\neste",
+      "acAsrConf": 197
+    }, {
+      "utf8": " es la consola que nosotros vamos a",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 424800,
+    "dDurationMs": 7320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "utilizar para poder controlar todo\nnuestro",
+      "acAsrConf": 242
+    }, {
+      "utf8": " repositorios",
+      "acAsrConf": 241
+    } ]
+  }, {
+    "tStartMs": 429900,
+    "dDurationMs": 6859,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Entonces en este sentido pues vamos a\ncomenzar lo primero que voy a hacer es",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 434520,
+    "dDurationMs": 11360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "abrir navegador\nY en este navegador Vamos a ingresar",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 441960,
+    "dDurationMs": 3920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "la página oficial de",
+      "acAsrConf": 242
+    }, {
+      "utf8": " git",
+      "acAsrConf": 229
+    } ]
+  }, {
+    "tStartMs": 451199,
+    "dDurationMs": 3321,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vamos a",
+      "acAsrConf": 242
+    }, {
+      "utf8": " mirar",
+      "acAsrConf": 238
+    } ]
+  }, {
+    "tStartMs": 454860,
+    "dDurationMs": 3679,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vamos a loguearnos",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 459840,
+    "dDurationMs": 3440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vamos a mirar",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 467220,
+    "dDurationMs": 9740,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Si vemos acá\nComando Vamos a ingresar la contraseña",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 472400,
+    "dDurationMs": 4560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que lo difícil es la contraseña",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 478139,
+    "dDurationMs": 8180,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "para acordarnos\nOh my God vamos a esperar entonces voy a",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 483979,
+    "dDurationMs": 10120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "verificar la contraseña\nOk Listo ya puede acceder a mi cuenta",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 491180,
+    "dDurationMs": 8880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vamos a entrar a mi repositorio Aquí\ntengo n cantidad de elementos montados y",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 498060,
+    "dDurationMs": 9240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ahora a continuación\nlo que vamos a hacer es a verificar y",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 504180,
+    "dDurationMs": 9599,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vamos a crear nuestros nuestro\nrepositorio vamos a crear un repositorio",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 509580,
+    "dDurationMs": 7500,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "nuevo ya que pues el anterior estábamos\ntrabajando",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 514459,
+    "dDurationMs": 8140,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tuvimos el problema de que nuestro",
+      "acAsrConf": 242
+    }, {
+      "utf8": " video",
+      "acAsrConf": 196
+    }, {
+      "utf8": "\nno quedó",
+      "acAsrConf": 242
+    }, {
+      "utf8": " debidamente",
+      "acAsrConf": 227
+    }, {
+      "utf8": " grabado Entonces",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 519959,
+    "dDurationMs": 8121,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vamos a comenzar un proyecto desde cero\ndesde la administración en",
+      "acAsrConf": 242
+    }, {
+      "utf8": " github",
+      "acAsrConf": 239
+    }, {
+      "utf8": " hasta",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 526380,
+    "dDurationMs": 9860,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "el desarrollo",
+      "acAsrConf": 242
+    }, {
+      "utf8": "\ny",
+      "acAsrConf": 178
+    }, {
+      "utf8": " nuevo",
+      "acAsrConf": 202
+    }, {
+      "utf8": " y vamos",
+      "acAsrConf": 242
+    }, {
+      "utf8": " a",
+      "acAsrConf": 184
+    } ]
+  }, {
+    "tStartMs": 532140,
+    "dDurationMs": 9440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a vamos a indicar por acá el nombre\nno sé vamos a poner el",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 545240,
+    "dDurationMs": 3000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "arma",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 549800,
+    "dDurationMs": 9640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "aplicación para administrar una farmacia\nvamos a crear unos",
+      "acAsrConf": 242
+    }, {
+      "utf8": " para",
+      "acAsrConf": 183
+    }, {
+      "utf8": " la gestión de la",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 556320,
+    "dDurationMs": 6420,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "información y vamos a decirle que el",
+      "acAsrConf": 242
+    }, {
+      "utf8": "\nrepositorio",
+      "acAsrConf": 229
+    }, {
+      "utf8": " perfecto",
+      "acAsrConf": 183
+    } ]
+  }, {
+    "tStartMs": 563399,
+    "dDurationMs": 10401,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vamos entonces por aquí a copiar nuestro\nenlace y vamos ahora a proceder a abrir",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 570300,
+    "dDurationMs": 7820,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "el",
+      "acAsrConf": 242
+    }, {
+      "utf8": " gimnasio",
+      "acAsrConf": 221
+    }, {
+      "utf8": " recordemos que el git bash\nes nuestra",
+      "acAsrConf": 242
+    }, {
+      "utf8": " consola",
+      "acAsrConf": 226
+    } ]
+  }, {
+    "tStartMs": 580380,
+    "dDurationMs": 2780,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de",
+      "acAsrConf": 238
+    } ]
+  }, {
+    "tStartMs": 583800,
+    "dDurationMs": 7020,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "git que va a funcionar\nmaravillosamente entonces aquí le digo",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 588899,
+    "dDurationMs": 5721,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pw",
+      "acAsrConf": 236
+    }, {
+      "utf8": "\nd",
+      "acAsrConf": 240
+    }, {
+      "utf8": " estamos en desarrollo",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 592700,
+    "dDurationMs": 8160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Entonces\nnos vamos a Ubicar",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 597380,
+    "dDurationMs": 3480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "en el",
+      "acAsrConf": 242
+    }, {
+      "utf8": " de",
+      "acAsrConf": 189
+    } ]
+  }, {
+    "tStartMs": 609380,
+    "dDurationMs": 4019,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sale de Slash",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 613940,
+    "dDurationMs": 4920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "se ve",
+      "acAsrConf": 228
+    }, {
+      "utf8": " de",
+      "acAsrConf": 242
+    }, {
+      "utf8": " Slash",
+      "acAsrConf": 217
+    } ]
+  }, {
+    "tStartMs": 619380,
+    "dDurationMs": 4399,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Oh my God vamos a ver qué es lo que pasa",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 624560,
+    "dDurationMs": 11920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "punto\nes imposible se ve punto",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 630680,
+    "dDurationMs": 12120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "p",
+      "acAsrConf": 242
+    }, {
+      "utf8": " W",
+      "acAsrConf": 227
+    }, {
+      "utf8": " Vamos a darle ls\nAquí vamos a encontrarnos con la",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 640620,
+    "dDurationMs": 2180,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "información",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 643320,
+    "dDurationMs": 4199,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "la unidad entonces",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 649920,
+    "dDurationMs": 3440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "se",
+      "acAsrConf": 242
+    }, {
+      "utf8": " los",
+      "acAsrConf": 191
+    }, {
+      "utf8": " puntos",
+      "acAsrConf": 174
+    } ]
+  }, {
+    "tStartMs": 661519,
+    "dDurationMs": 11921,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "está bien Vamos a dar uno",
+      "acAsrConf": 242
+    }, {
+      "utf8": " de",
+      "acAsrConf": 236
+    }, {
+      "utf8": " ese",
+      "acAsrConf": 186
+    }, {
+      "utf8": "\nal parecer no me está dejando ingresar",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 670339,
+    "dDurationMs": 6101,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "es muy raro a la unidad",
+      "acAsrConf": 242
+    }, {
+      "utf8": " de",
+      "acAsrConf": 235
+    }, {
+      "utf8": " vamos a ver\nmensajes",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 677160,
+    "dDurationMs": 3609,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de\n[Música]",
+      "acAsrConf": 216
+    } ]
+  }, {
+    "tStartMs": 682079,
+    "dDurationMs": 8940,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "no vamos a revisar que lo que está\npasando muy bien aquí tenemos que para",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 688320,
+    "dDurationMs": 7560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "acceder a la carpeta o al disco duro de\nsi tienen varios discos duros hay que",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 693660,
+    "dDurationMs": 8780,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tomarlos como si fueran folders como\ncarpetas entonces acá tenemos ya vamos a",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 699899,
+    "dDurationMs": 2541,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "darle",
+      "acAsrConf": 242
+    }, {
+      "utf8": " ls",
+      "acAsrConf": 215
+    } ]
+  }, {
+    "tStartMs": 702959,
+    "dDurationMs": 8421,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que nos imprime ahí tenemos nuestro\ncontenido dls y demás",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 712040,
+    "dDurationMs": 5220,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Ok",
+      "acAsrConf": 178
+    }, {
+      "utf8": " Muy bien Entonces vamos a decirle",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 724140,
+    "dDurationMs": 3000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "proyectos",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 747720,
+    "dDurationMs": 3000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "js",
+      "acAsrConf": 186
+    } ]
+  }, {
+    "tStartMs": 751560,
+    "dDurationMs": 2779,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "7",
+      "acAsrConf": 193
+    } ]
+  }, {
+    "tStartMs": 756740,
+    "dDurationMs": 9839,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Entonces ahora sí vamos a establecer la\nclonación donde Terminamos",
+      "acAsrConf": 242
+    }, {
+      "utf8": " el",
+      "acAsrConf": 236
+    }, {
+      "utf8": " depósito",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 765360,
+    "dDurationMs": 8960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de ojo\nentonces voy a copiar el repositorio",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 770000,
+    "dDurationMs": 10600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "es muy importante tener en cuenta\nla configuración de nuestros elementos",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 777920,
+    "dDurationMs": 8159,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vamos",
+      "acAsrConf": 242
+    }, {
+      "utf8": " a",
+      "acAsrConf": 215
+    }, {
+      "utf8": " ver",
+      "acAsrConf": 239
+    }, {
+      "utf8": " acá\nsi está bien o nos pide la",
+      "acAsrConf": 242
+    }, {
+      "utf8": " autenticación",
+      "acAsrConf": 241
+    } ]
+  }, {
+    "tStartMs": 786540,
+    "dDurationMs": 3260,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Vamos a darle",
+      "acAsrConf": 180
+    } ]
+  }, {
+    "tStartMs": 791040,
+    "dDurationMs": 3560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "digamos",
+      "acAsrConf": 242
+    }, {
+      "utf8": " esto",
+      "acAsrConf": 240
+    }, {
+      "utf8": " acá",
+      "acAsrConf": 198
+    } ]
+  }, {
+    "tStartMs": 795480,
+    "dDurationMs": 3440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y",
+      "acAsrConf": 242
+    }, {
+      "utf8": " vemos",
+      "acAsrConf": 241
+    }, {
+      "utf8": " un",
+      "acAsrConf": 242
+    }, {
+      "utf8": " enter",
+      "acAsrConf": 214
+    } ]
+  }, {
+    "tStartMs": 799320,
+    "dDurationMs": 4740,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "al parecer ya quedó listo ls",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 806820,
+    "dDurationMs": 10620,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "d\napp perfecto y ahí estamos en nuestra",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 814500,
+    "dDurationMs": 9860,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "raíz principal en el Main o sea Ahí\nestamos muy bien correcto ahora sí vamos",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 820860,
+    "dDurationMs": 8820,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a decir aquí code espacio punto\ny aquí tenemos",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 826700,
+    "dDurationMs": 5280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "visual Studio",
+      "acAsrConf": 242
+    }, {
+      "utf8": " abierto",
+      "acAsrConf": 213
+    }, {
+      "utf8": " lo podemos\nobservar",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 832700,
+    "dDurationMs": 11340,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vamos",
+      "acAsrConf": 197
+    }, {
+      "utf8": " ahora a personalizar vamos a crear\nuna serie de carpetas que son necesarias",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 839940,
+    "dDurationMs": 11040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "para poder",
+      "acAsrConf": 242
+    }, {
+      "utf8": " gestionar",
+      "acAsrConf": 218
+    }, {
+      "utf8": " el proyecto\nSacaremos una carpeta llamada css para",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 847200,
+    "dDurationMs": 11819,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "almacenar nuestros estilos vamos a crear\nuna carpeta llamada js para almacenar",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 856279,
+    "dDurationMs": 8161,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vamos a crearnos una carpeta llamada\napis donde vamos a guardar nuestro",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 862620,
+    "dDurationMs": 9600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "javascript",
+      "acAsrConf": 236
+    }, {
+      "utf8": " para manipular\nlos apis o los elementos que vamos a",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 868920,
+    "dDurationMs": 5659,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "utilizar para hacer el pecho vamos a\nhacer las peticiones",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 878040,
+    "dDurationMs": 6960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vamos a generar los componentes los\ncomponentes los vamos a utilizar pues",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 882959,
+    "dDurationMs": 5901,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "para poder modularizar un poco más\nnuestro nuestro proyecto",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 891180,
+    "dDurationMs": 9740,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vamos por acá a crear otros",
+      "acAsrConf": 242
+    }, {
+      "utf8": " holders",
+      "acAsrConf": 225
+    }, {
+      "utf8": " el\ncual le vamos a llamar img para nuestras",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 898680,
+    "dDurationMs": 2240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "imágenes",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 902279,
+    "dDurationMs": 7761,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vamos a crear otro componente Pues si\ntenemos el espacio vamos a definir otro",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 909240,
+    "dDurationMs": 8339,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "componente\ny como vamos y cómo vamos a utilizar",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 914000,
+    "dDurationMs": 8680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Jason server Jason server nos pide que\ntengamos un archivo llamado db.json",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 920220,
+    "dDurationMs": 8940,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Entonces lo vamos a crear vamos a crear\nuna carpeta llamada",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 924800,
+    "dDurationMs": 10440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "la cual me almacenar los datos Y aquí de\nuna vez vamos a crear nuestro archivo",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 932160,
+    "dDurationMs": 3080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que se va a llamar",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 936380,
+    "dDurationMs": 8319,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "dv.jsú\nEse es el nombre que va a tener esa",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 942240,
+    "dDurationMs": 10380,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "carpeta Aquí vamos a crear un nuevo\narchivo se llama Index",
+      "acAsrConf": 242
+    }, {
+      "utf8": " punto",
+      "acAsrConf": 178
+    }, {
+      "utf8": " html",
+      "acAsrConf": 223
+    } ]
+  }, {
+    "tStartMs": 949800,
+    "dDurationMs": 10099,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "perfecto ya con eso es suficiente para\ncomenzar a trabajar",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 956220,
+    "dDurationMs": 3679,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Aquí vamos a crear",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 960779,
+    "dDurationMs": 4401,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "nuestros elementos del html",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 965339,
+    "dDurationMs": 8161,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Ok Perfecto entonces vamos a comenzar a\norganizar todo nuestro proyecto",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 970519,
+    "dDurationMs": 6060,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "inicialmente",
+      "acAsrConf": 242
+    }, {
+      "utf8": " Pues",
+      "acAsrConf": 183
+    }, {
+      "utf8": " aquí vamos a tener\nnuestro",
+      "acAsrConf": 242
+    }, {
+      "utf8": " header",
+      "acAsrConf": 235
+    } ]
+  }, {
+    "tStartMs": 977040,
+    "dDurationMs": 10159,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vamos a definir por acá nuestro nap\nvamos a definir por acá nuestro",
+      "acAsrConf": 242
+    }, {
+      "utf8": " Main",
+      "acAsrConf": 234
+    } ]
+  }, {
+    "tStartMs": 985440,
+    "dDurationMs": 12360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cuerpo principal\npor aquí vamos a definir nuestro footer",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 993540,
+    "dDurationMs": 9900,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Ok en ese poder pues vamos a guardar\ninformación que sea relevante para",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 999779,
+    "dDurationMs": 9120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "nosotros Muy bien Entonces ahora lo que\nvamos a hacer es empezar a construir",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1005839,
+    "dDurationMs": 9360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "nuestras plantillas La idea es poder\ntener los elementos debidamente",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1011420,
+    "dDurationMs": 8940,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "modularizados para esto es simplemente\nlo que vamos a hacer es a crear carpetas",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1017660,
+    "dDurationMs": 8899,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "para poder tener un mejor orden para\nesto vamos a crear nuestra",
+      "acAsrConf": 242
+    }, {
+      "utf8": " mini",
+      "acAsrConf": 239
+    }, {
+      "utf8": " carpeta",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1022699,
+    "dDurationMs": 3860,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "llamada",
+      "acAsrConf": 242
+    }, {
+      "utf8": " Main",
+      "acAsrConf": 190
+    }, {
+      "utf8": " menú",
+      "acAsrConf": 141
+    } ]
+  }, {
+    "tStartMs": 1026720,
+    "dDurationMs": 9199,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "esa carpeta y menú va a contener todas\nlas funcionalidad y va a tener el diseño",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1033559,
+    "dDurationMs": 8280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de nuestro menú principal",
+      "acAsrConf": 242
+    }, {
+      "utf8": " OK",
+      "acAsrConf": 228
+    }, {
+      "utf8": "\nVamos a crear otra",
+      "acAsrConf": 242
+    }, {
+      "utf8": " carpeta",
+      "acAsrConf": 235
+    }, {
+      "utf8": " en",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1039140,
+    "dDurationMs": 8520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "componentes",
+      "acAsrConf": 242
+    }, {
+      "utf8": " llamado",
+      "acAsrConf": 240
+    }, {
+      "utf8": "\nvamos a generar componentes de",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1045439,
+    "dDurationMs": 8161,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "formularios ya que van a ser muy útiles\nAl momento de trabajar ya que podemos",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1050860,
+    "dDurationMs": 7840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "instanciar o Llamar esos formularios en\ncualquier momento que los necesitamos y",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1056360,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "así no es necesario volverlos a\nconstruir",
+      "acAsrConf": 242
+    }, {
+      "utf8": " ok",
+      "acAsrConf": 214
+    } ]
+  }, {
+    "tStartMs": 1060679,
+    "dDurationMs": 5221,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ahora lo que vamos a hacer es a\nconfigurar",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1063700,
+    "dDurationMs": 6479,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vamos a traer un Booster de la página\noficial",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1067360,
+    "dDurationMs": 8199,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "realmente Pues aquí estoy muy sencillo\nsimplemente pues vamos a entrar a la",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1072919,
+    "dDurationMs": 9601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "página oficial de",
+      "acAsrConf": 242
+    }, {
+      "utf8": " butra",
+      "acAsrConf": 201
+    }, {
+      "utf8": " vamos a entrar\naquí a",
+      "acAsrConf": 242
+    }, {
+      "utf8": " mostrar",
+      "acAsrConf": 220
+    } ]
+  }, {
+    "tStartMs": 1078799,
+    "dDurationMs": 8341,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y acá Sencillamente entramos a la\nversión 5.2",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1084280,
+    "dDurationMs": 7500,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "es muy importante tener en cuenta las\nversiones",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1088640,
+    "dDurationMs": 9899,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "en ocasiones acá nos marca la versión\n5.02 estamos hablando con la versión 5.2",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1095500,
+    "dDurationMs": 7360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "en esta ocasión Entonces vamos a",
+      "acAsrConf": 242
+    }, {
+      "utf8": " decirle",
+      "acAsrConf": 229
+    }, {
+      "utf8": "\nDescargar y vamos a darle la primera",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1101120,
+    "dDurationMs": 5580,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "opción\nvamos a decirle que lo descargue en la",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1104960,
+    "dDurationMs": 9660,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "unidad de ya tenemos una versión\ndescargada Por eso nos está marcando",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1109539,
+    "dDurationMs": 9520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sale Mostrar carpeta y por aquí ya la\ntenemos",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1115840,
+    "dDurationMs": 6420,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vemos una serie de archivos por aquí\ntenemos",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1120340,
+    "dDurationMs": 7959,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "podemos\nBuscar la que ya tenemos",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1125200,
+    "dDurationMs": 8339,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "descomprimida y así no generar más vamos\na buscarla por acá por aquí está doble",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1131600,
+    "dDurationMs": 9680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "clic\neso no nos sirve porque es la versión no",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1137780,
+    "dDurationMs": 10399,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "comprimida vamos a mirar si está igual\nOk creo que",
+      "acAsrConf": 242
+    }, {
+      "utf8": " cometemos",
+      "acAsrConf": 222
+    }, {
+      "utf8": " un error Al",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1144200,
+    "dDurationMs": 7160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "momento de descargarla vamos a descargar\na",
+      "acAsrConf": 242
+    }, {
+      "utf8": " ver",
+      "acAsrConf": 236
+    } ]
+  }, {
+    "tStartMs": 1164620,
+    "dDurationMs": 9120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "distribución vamos a mirar acá y aquí\ntenemos entonces que tenemos que entrar",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1170780,
+    "dDurationMs": 2960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a",
+      "acAsrConf": 242
+    }, {
+      "utf8": " dish",
+      "acAsrConf": 238
+    } ]
+  }, {
+    "tStartMs": 1174320,
+    "dDurationMs": 6739,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y sencillamente vamos a\ncambiar de nombre",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1187520,
+    "dDurationMs": 10159,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Okay",
+      "acAsrConf": 193
+    }, {
+      "utf8": " vamos a",
+      "acAsrConf": 242
+    }, {
+      "utf8": " descomprimirla",
+      "acAsrConf": 232
+    }, {
+      "utf8": " usemos esta\ncss",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1195039,
+    "dDurationMs": 8520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Aquí está todo",
+      "acAsrConf": 242
+    }, {
+      "utf8": "\nentonces",
+      "acAsrConf": 199
+    }, {
+      "utf8": " Vamos a ponerle",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1201620,
+    "dDurationMs": 9500,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Mostrar\nla idea es poder tener",
+      "acAsrConf": 242
+    }, {
+      "utf8": " todo a la",
+      "acAsrConf": 235
+    }, {
+      "utf8": " mano",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1206440,
+    "dDurationMs": 13720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "recordemos que es muchísimo mejor tener\nla distribución o el paquete",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1214900,
+    "dDurationMs": 9360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "del css localmente Entonces vamos a\ncolocar aquí",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1222340,
+    "dDurationMs": 5100,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "proyectos\notra vez",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1227500,
+    "dDurationMs": 11760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y vamos a pegar la carpeta de voz\nperfecto Ahora sí lo que vamos a hacer",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1235780,
+    "dDurationMs": 12519,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "es arrepentir ese mismo proceso\nde esta ocasión con la carpeta de",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1244299,
+    "dDurationMs": 6961,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "javas carpeta de",
+      "acAsrConf": 242
+    }, {
+      "utf8": " javascript",
+      "acAsrConf": 223
+    }, {
+      "utf8": " o",
+      "acAsrConf": 242
+    }, {
+      "utf8": " La",
+      "acAsrConf": 240
+    }, {
+      "utf8": "\nbuscamos el",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1255820,
+    "dDurationMs": 3359,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Cala",
+      "acAsrConf": 242
+    }, {
+      "utf8": " de",
+      "acAsrConf": 235
+    }, {
+      "utf8": " nuevo",
+      "acAsrConf": 197
+    } ]
+  }, {
+    "tStartMs": 1263000,
+    "dDurationMs": 3260,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "la distribución",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1267220,
+    "dDurationMs": 11140,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "aquí y le ponemos el mismo nombre yo le\npongo el mismo nombre y busca",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1273340,
+    "dDurationMs": 11020,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "en perfecto Esto no es una imposición es\nuna recomendación de utilizar las",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1281480,
+    "dDurationMs": 9660,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "carpetas de esta forma pues La idea es\ntener un orden en nuestro proyecto vamos",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1287960,
+    "dDurationMs": 9060,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a mirar por acá y js y voy a pegar la\ninformación de Ok entonces con esto ya",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1293840,
+    "dDurationMs": 8240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tenemos la estructura del proyecto Si\nqueremos probar que es este funcionando",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1298940,
+    "dDurationMs": 8840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pues vamos a abrir visual Studio code\nSencillamente y vamos a incorporar por",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1306200,
+    "dDurationMs": 9180,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "aquí unos componentes\nvamos a mirar",
+      "acAsrConf": 242
+    }, {
+      "utf8": " estos",
+      "acAsrConf": 240
+    }, {
+      "utf8": " elementos",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1312400,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y lo vamos a incorporar es importante\ntener en cuenta que para que esto",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1317299,
+    "dDurationMs": 10941,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "funcione y se cargue correctamente\nnosotros debemos debemos Sí o sí",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1323299,
+    "dDurationMs": 12000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "incorporar o enlazar los estilos de css\nde bustra y las los archivos de",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1332780,
+    "dDurationMs": 8700,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "programación dinámica de javascript de\ngusta Ok entonces vamos a hacer eso",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1338559,
+    "dDurationMs": 9100,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "no tenemos no tenemos que se está\nimportando por acá la librería de",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1343700,
+    "dDurationMs": 10260,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "yequery vamos a colocar aquí en defir no\ntener conflictos Al momento de cargarla",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1349780,
+    "dDurationMs": 10240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "no la tenemos previamente Pero podemos",
+      "acAsrConf": 242
+    }, {
+      "utf8": "\ndescargarla",
+      "acAsrConf": 215
+    }, {
+      "utf8": " entonces Buscamos por acá la",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1357620,
+    "dDurationMs": 7919,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "versión de",
+      "acAsrConf": 242
+    }, {
+      "utf8": " yecuarey",
+      "acAsrConf": 233
+    }, {
+      "utf8": "\nno es necesario instalarla es una",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1363080,
+    "dDurationMs": 8040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "recomendación En caso que se necesite\ntener en nuestros proyectos aquí por",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1369260,
+    "dDurationMs": 6419,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ejemplo nos dice que la podemos instalar\ncon el bien pero por ahora no lo vamos a",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1373580,
+    "dDurationMs": 8000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hacer con el pie vamos a ir a la versión\ndescomprimida",
+      "acAsrConf": 242
+    }, {
+      "utf8": " clic",
+      "acAsrConf": 218
+    }, {
+      "utf8": " derecho",
+      "acAsrConf": 231
+    }, {
+      "utf8": " y simplemente",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1378440,
+    "dDurationMs": 7940,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "le vamos a decir guardar como\nvamos a buscar nuestra carpeta principal",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1384440,
+    "dDurationMs": 5900,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de proyectos\nvamos a buscar por acá",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1390580,
+    "dDurationMs": 6959,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "proyectos\njs",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1395140,
+    "dDurationMs": 9039,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que",
+      "acAsrConf": 236
+    }, {
+      "utf8": " la tenemos\nubicamos en js Lo importante es mantener",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1400460,
+    "dDurationMs": 10199,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ese orden en nuestra estructura acá\npodemos verificar y ya tenemos",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1406840,
+    "dDurationMs": 8339,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vamos a ejecutar el Live",
+      "acAsrConf": 242
+    }, {
+      "utf8": " server",
+      "acAsrConf": 239
+    }, {
+      "utf8": " a ver si\nya se carga de manera satisfactoria",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1416600,
+    "dDurationMs": 7319,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "aquí tenemos el resultado y como vemos\nse carga la página correctamente y ya",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1422000,
+    "dDurationMs": 6559,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tenemos cargada la librería de búsqueda\nmuy bien perfecto Ahora sí vamos a",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1427520,
+    "dDurationMs": 8779,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "comenzar\ncon nuestro trabajo lo primero que vamos",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1432020,
+    "dDurationMs": 10500,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a hacer es crearnos nuestro módulo\nnuestra clase nuestro template",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1439600,
+    "dDurationMs": 7199,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "nuestro componente preferiblemente\nnuestro componente el cual se va a",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1445700,
+    "dDurationMs": 6359,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "encargar de\nrenderizar el menú principal que vamos a",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1449600,
+    "dDurationMs": 8340,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "utilizar en nuestro en nuestro software",
+      "acAsrConf": 242
+    }, {
+      "utf8": "\nen",
+      "acAsrConf": 210
+    }, {
+      "utf8": " nuestra",
+      "acAsrConf": 238
+    }, {
+      "utf8": " aplicación Ok entonces para",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1455419,
+    "dDurationMs": 10380,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "esto vamos a comenzar creando nuestro\nmódulo archivo nuevo y vamos a llamarlo",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1461620,
+    "dDurationMs": 10360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Main raya menú\nes importante recordar que cuando",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1468200,
+    "dDurationMs": 10500,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "trabajemos con componentes con web\ncomponentes los nombres de los archivos",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1474080,
+    "dDurationMs": 9200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y las clases deben estar compuestos por\npalabras compuestas valga la redundancia",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1483700,
+    "dDurationMs": 10599,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Entonces",
+      "acAsrConf": 227
+    }, {
+      "utf8": " por aquí vamos a empezar a\ndefinir dicha clase Entonces como es un",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1490520,
+    "dDurationMs": 6740,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "módulo vamos a decirle Sport Class y\nvamos a colocar aquí",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1498620,
+    "dDurationMs": 4580,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y",
+      "acAsrConf": 228
+    }, {
+      "utf8": " este señor va a extender",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1503299,
+    "dDurationMs": 11641,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de html Element Ok Perfecto aquí ya con\nesto tenemos",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1510640,
+    "dDurationMs": 9539,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "la definición de la",
+      "acAsrConf": 242
+    }, {
+      "utf8": " de la",
+      "acAsrConf": 239
+    }, {
+      "utf8": " clase\npor aquí cuando finalice",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1517480,
+    "dDurationMs": 8679,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "con el custom elements\npunto de fine el cual tiene dos",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1524299,
+    "dDurationMs": 10681,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "parámetros el primer parámetro es el\nnombre que va a tener nuestro web",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1529880,
+    "dDurationMs": 11880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "compond en este caso Main raya menos el\ncual pues como les indica anteriormente",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1536900,
+    "dDurationMs": 11100,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "es compuesto de la clase a continuación\nvamos a tener una coma y vamos a poner",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1545000,
+    "dDurationMs": 9260,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "aquí Main menú es el nombre de la clase\nOk entonces por acá simplemente lo que",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1551659,
+    "dDurationMs": 7981,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vamos a hacer es\nhacer construyendo por acá vamos a",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1556760,
+    "dDurationMs": 8180,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "definir nuestro",
+      "acAsrConf": 242
+    }, {
+      "utf8": " constructor",
+      "acAsrConf": 235
+    }, {
+      "utf8": "\nconstructor",
+      "acAsrConf": 238
+    } ]
+  }, {
+    "tStartMs": 1562220,
+    "dDurationMs": 9660,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y aquí el constructor vamos a definir\nsúper recordemos que ese es súper se",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1568940,
+    "dDurationMs": 8900,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "utiliza cuando tengo una herencia cuando\nesté trabajando con herencia OK Vamos a",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1575360,
+    "dDurationMs": 7199,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "definir un método\nque se va a llamar render",
+      "acAsrConf": 242
+    }, {
+      "utf8": " este",
+      "acAsrConf": 227
+    }, {
+      "utf8": " método",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1580880,
+    "dDurationMs": 8580,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "puede llevar el nombre que ustedes\nquieran este método va a",
+      "acAsrConf": 242
+    }, {
+      "utf8": " contener",
+      "acAsrConf": 234
+    } ]
+  }, {
+    "tStartMs": 1586240,
+    "dDurationMs": 7179,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "todo ese código",
+      "acAsrConf": 242
+    }, {
+      "utf8": " html",
+      "acAsrConf": 240
+    }, {
+      "utf8": " todos esos\nelementos que quiero renderizar Al",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1591080,
+    "dDurationMs": 8940,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "momento de cargarlos en mis otras\npáginas entonces simplemente colocamos",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1596240,
+    "dDurationMs": 3780,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "10 punto",
+      "acAsrConf": 242
+    }, {
+      "utf8": " html",
+      "acAsrConf": 241
+    } ]
+  }, {
+    "tStartMs": 1600260,
+    "dDurationMs": 11779,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "igual\npodemos tener acá",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1605140,
+    "dDurationMs": 6899,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "html hacer y Aquí vamos a utilizar el",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1617080,
+    "dDurationMs": 9699,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "donde Aquí vamos a ubicar el html vamos\na mirar vamos a verificar primero que",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1623360,
+    "dDurationMs": 7319,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tengamos instalado este señor parece Así\nque está instalado",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1628240,
+    "dDurationMs": 9760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "en la extensión la extensión que me\npermite visualizar",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1632919,
+    "dDurationMs": 11880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "código html en un template literal esa\nextensión es",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1640360,
+    "dDurationMs": 13179,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "el S6 String html",
+      "acAsrConf": 242
+    }, {
+      "utf8": "\nEsa es la",
+      "acAsrConf": 193
+    }, {
+      "utf8": " extensión que utilizamos para",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1647419,
+    "dDurationMs": 12301,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "realizar ese",
+      "acAsrConf": 242
+    }, {
+      "utf8": " tipo",
+      "acAsrConf": 239
+    }, {
+      "utf8": " de",
+      "acAsrConf": 242
+    }, {
+      "utf8": " ejercicios",
+      "acAsrConf": 217
+    }, {
+      "utf8": " muy bien\nAhora aquí ya tenemos nuestro componente",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1656120,
+    "dDurationMs": 9600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ya tenemos definido todo ahora debemos\ntener un archivo principal recordemos",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1663799,
+    "dDurationMs": 8101,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que el objetivo de trabajar con los\nmódulos en web es poder integrar todos",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1669860,
+    "dDurationMs": 7980,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "nuestros javascript y simplificar la\nimportación en uno solo",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1674480,
+    "dDurationMs": 8520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vamos entonces acá no es un archivo que\nse va a llamar",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1679659,
+    "dDurationMs": 7801,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "app.js el cual va a contener las\nimportaciones de los",
+      "acAsrConf": 242
+    }, {
+      "utf8": " demás",
+      "acAsrConf": 182
+    }, {
+      "utf8": " módulos",
+      "acAsrConf": 209
+    } ]
+  }, {
+    "tStartMs": 1688460,
+    "dDurationMs": 5660,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ahora\ncómo importamos",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1692200,
+    "dDurationMs": 9180,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "este módulo\ndentro de nuestro js muy sencillo",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1697880,
+    "dDurationMs": 3500,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "simplemente hacemos",
+      "acAsrConf": 242
+    }, {
+      "utf8": " import",
+      "acAsrConf": 222
+    } ]
+  }, {
+    "tStartMs": 1702559,
+    "dDurationMs": 8181,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "punto Slash y nos vamos navegando en\neste caso componentes",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1712450,
+    "dDurationMs": 3059,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "[Música]"
+    } ]
+  }, {
+    "tStartMs": 1716080,
+    "dDurationMs": 8099,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vamos a colocarle punto js para evitar\nposibles ambigüedades y que no cargue",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1722140,
+    "dDurationMs": 9960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "nuestro\ncomponente Ok perfecto ahora en el Index",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1729260,
+    "dDurationMs": 10620,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cómo vamos a cargar ese\nesa librería es muy sencillo simplemente",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1736059,
+    "dDurationMs": 7961,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "es un Script de javascript donde\ncolocamos",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1741340,
+    "dDurationMs": 5219,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "incluso",
+      "acAsrConf": 234
+    }, {
+      "utf8": " no es necesario js porque está\nen la raíz",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1749919,
+    "dDurationMs": 10360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "le ponemos\nfin Pero es muy importante poner el",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1755539,
+    "dDurationMs": 4740,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "atributo",
+      "acAsrConf": 242
+    }, {
+      "utf8": " type",
+      "acAsrConf": 231
+    }, {
+      "utf8": " igual módulo",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1761640,
+    "dDurationMs": 3880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "[Música]"
+    }, {
+      "utf8": "\nacá",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1766240,
+    "dDurationMs": 11500,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y",
+      "acAsrConf": 238
+    }, {
+      "utf8": " lo",
+      "acAsrConf": 242
+    }, {
+      "utf8": " cogemos",
+      "acAsrConf": 139
+    }, {
+      "utf8": " por acá\nahora vamos a eliminar esto voy a borrar",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1774640,
+    "dDurationMs": 12220,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sencillo",
+      "acAsrConf": 231
+    }, {
+      "utf8": " lo eliminamos\ny lo que voy a hacer es ir a",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1782320,
+    "dDurationMs": 12640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y voy a buscar en los componentes\nel Nat",
+      "acAsrConf": 242
+    }, {
+      "utf8": " ya",
+      "acAsrConf": 183
+    }, {
+      "utf8": " creo que me equivoqué",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1790899,
+    "dDurationMs": 8561,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Ok perfecto y acá simplemente me voy a\nllevar esto",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1796179,
+    "dDurationMs": 7541,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Tal y como lo tengo acá\nsi tienen algún otro diseño pues ya",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1801559,
+    "dDurationMs": 7201,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ustedes implementarán el diseño que sea\nnecesario",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1806600,
+    "dDurationMs": 7860,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vamos",
+      "acAsrConf": 206
+    }, {
+      "utf8": " a",
+      "acAsrConf": 197
+    }, {
+      "utf8": " ver",
+      "acAsrConf": 194
+    }, {
+      "utf8": "\nvengo para mi componente y voy a pegar",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1812080,
+    "dDurationMs": 9880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "todo mi código",
+      "acAsrConf": 242
+    }, {
+      "utf8": " acá",
+      "acAsrConf": 231
+    }, {
+      "utf8": "\nlisto no hay ningún problema acá",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1817399,
+    "dDurationMs": 10381,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "importante y dentar es fundamental en la\nprogramación el orden",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1824620,
+    "dDurationMs": 3160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "[Música]"
+    } ]
+  }, {
+    "tStartMs": 1829039,
+    "dDurationMs": 9140,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "saber",
+      "acAsrConf": 222
+    }, {
+      "utf8": "\na",
+      "acAsrConf": 221
+    }, {
+      "utf8": " una hora",
+      "acAsrConf": 242
+    }, {
+      "utf8": " acá",
+      "acAsrConf": 198
+    } ]
+  }, {
+    "tStartMs": 1835100,
+    "dDurationMs": 10799,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "aquí por ejemplo este señor\nse",
+      "acAsrConf": 242
+    }, {
+      "utf8": " encierra",
+      "acAsrConf": 201
+    }, {
+      "utf8": " todo esto",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1841520,
+    "dDurationMs": 9659,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "perfecto vemos el botón y este señor\nencierra todo esto",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1848020,
+    "dDurationMs": 9340,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que",
+      "acAsrConf": 222
+    }, {
+      "utf8": " está muy bien el formulario no lo\nnecesitamos ahorita revisamos Qué hace",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1854240,
+    "dDurationMs": 9200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ese formulario",
+      "acAsrConf": 242
+    }, {
+      "utf8": " Ok",
+      "acAsrConf": 238
+    }, {
+      "utf8": " entonces\nsencillo vamos ahora a comprobar que",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1860840,
+    "dDurationMs": 8459,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "esto realmente",
+      "acAsrConf": 242
+    }, {
+      "utf8": " sí",
+      "acAsrConf": 162
+    }, {
+      "utf8": " funciona\npara esto",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1866480,
+    "dDurationMs": 7280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "voy a eliminar algunas cosas que no\nnecesito",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1871760,
+    "dDurationMs": 7819,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Pero antes de eliminar\nvamos a abrir por acá",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1876530,
+    "dDurationMs": 3049,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "[Música]"
+    } ]
+  }, {
+    "tStartMs": 1882679,
+    "dDurationMs": 5061,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vamos a mirar Qué problemas podemos\ntener",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1885640,
+    "dDurationMs": 9899,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tenemos acá\nnuestra importación módulo",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1890559,
+    "dDurationMs": 4980,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "experto",
+      "acAsrConf": 238
+    }, {
+      "utf8": " vamos entonces a darle aquí",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1896260,
+    "dDurationMs": 8200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "no lo está cargando vamos a",
+      "acAsrConf": 242
+    }, {
+      "utf8": " oprimir f12",
+      "acAsrConf": 240
+    }, {
+      "utf8": "\npara poder abrir",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1902140,
+    "dDurationMs": 9340,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "nuestra consola\nvamos aquí en la consola",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1907120,
+    "dDurationMs": 6779,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "perfecto que nos falta obviamente no lo\nhemos cargado",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1914720,
+    "dDurationMs": 2420,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "entonces",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1932080,
+    "dDurationMs": 4260,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Bueno",
+      "acAsrConf": 193
+    }, {
+      "utf8": " vamos a verificar",
+      "acAsrConf": 242
+    }, {
+      "utf8": " acá",
+      "acAsrConf": 237
+    } ]
+  }, {
+    "tStartMs": 1947860,
+    "dDurationMs": 8679,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "está bien Vamos a revisar a ver qué es\nlo que está pasando porque no nos carga",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1953600,
+    "dDurationMs": 5360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "va a detener",
+      "acAsrConf": 242
+    }, {
+      "utf8": " video",
+      "acAsrConf": 199
+    }, {
+      "utf8": " voy a revisar y ya\nLes comento",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1959480,
+    "dDurationMs": 7400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Ya sé que puede haber sucedido vamos a\nmirar si fue que no llame el método",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1964580,
+    "dDurationMs": 8520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "render obviamente\n10",
+      "acAsrConf": 242
+    }, {
+      "utf8": " punto",
+      "acAsrConf": 228
+    }, {
+      "utf8": " render",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1969580,
+    "dDurationMs": 10800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "punto y coma y ya esperamos un momento\nigual a ya se renderiza nuestro menú",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1976880,
+    "dDurationMs": 9600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "principal Ahora sí pues\npodemos por acá maximizar esto podemos",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1984080,
+    "dDurationMs": 9439,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "maximizar y podemos observar todo\nnuestro código ahora vamos a",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1989240,
+    "dDurationMs": 8840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "personalizarlo por ejemplo no necesito\neste elemento de búsqueda",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1998899,
+    "dDurationMs": 10520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "por acá No creo necesario este\nno necesito este menú desplegable",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2007200,
+    "dDurationMs": 9120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "no lo necesito\nTenemos aquí unos L y",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2013500,
+    "dDurationMs": 10240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vamos a darle tabulador\nesto se le corresponden a las opciones",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2019000,
+    "dDurationMs": 8419,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de menú les vamos a poner aquí clientes\nvamos a poner aquí productos",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2028260,
+    "dDurationMs": 12220,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "en",
+      "acAsrConf": 233
+    }, {
+      "utf8": " perfecto no hay ningún problema\nvamos a eliminar este active vamos a",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2037419,
+    "dDurationMs": 9240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "eliminar esto para que no sea\nde elemento actual",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2042360,
+    "dDurationMs": 9640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y volvemos a revisar por acá y ya\ntenemos acá nuestros elementos",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2048879,
+    "dDurationMs": 8341,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "personalizados perfecto vamos a dejar\neste vídeo hasta acá donde ya hemos",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2054220,
+    "dDurationMs": 7320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hecho la integración de un módulo Ya\nvimos Cómo se componen los módulos en el",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2060399,
+    "dDurationMs": 5661,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "siguiente",
+      "acAsrConf": 242
+    }, {
+      "utf8": " vídeo",
+      "acAsrConf": 175
+    }, {
+      "utf8": " vamos a seguir\nconstruyendo nuestra aplicación y",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2063280,
+    "dDurationMs": 2780,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "nuestros elementos",
+      "acAsrConf": 242
+    } ]
+  } ]
+}

@@ -45,3 +45,9 @@ Uso privado: material fuente, no se republica. Ver [[fuentes/video-podcast]] y [
 **[14:00]** patrocinar estos procesos educativos en esta zona del país, sembrando en una tierra fértil manchada por la sangre y el desplazamiento, la semilla de un futuro mejor. y nos encontramos una historia de vida iguales, incluso más complejas y más difíciles, pero con jóvenes que compartían eh la misma visión y y y tenían una ansiedad en conjunto y la ansiedad era salir adelante. Simplemente estaban buscando esa oportunidad y la encontraron. Entonces, Tibú nos terminó de de enseñar y de y de y de validar que lo que queríamos hacer era concentrarnos en esa población a la cual hoy no está accediendo la educación superior. Y segundo, nos enseñó que si lo hicimos en Tibú, lo podemos hacer en cualquier rincón de nuestro país y de nuestro continente. Este soñador, junto a su socio, sus mentores, patrocinadores y todo su equipo no descansará en la
 
 **[15:00]** [omitido: dato familiar o personal] 
+---
+## 🔗 Conexiones del Segundo Cerebro
+- **Persona:** [[people/diego-tarazona|Diego Tarazona]]
+- **Entidad:** [[areas/campuslands|Campuslands]]
+- **Dossier de Investigación:** [[investigacion/diego-tarazona/dossier|Dossier Diego Tarazona]]
+- **MOC Integral:** [[diego_investigacion/README|MOC Diego Tarazona]]

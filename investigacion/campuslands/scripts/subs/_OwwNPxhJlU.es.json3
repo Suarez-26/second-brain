@@ -1,0 +1,708 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  }, {
+    "mhModeHint": 2,
+    "juJustifCode": 0,
+    "sdScrollDir": 3
+  } ],
+  "wpWinPositions": [ {
+  
+  }, {
+    "apPoint": 6,
+    "ahHorPos": 20,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  } ],
+  "events": [ {
+    "tStartMs": 0,
+    "id": 1,
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 920,
+    "dDurationMs": 9440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "[Música]"
+    }, {
+      "utf8": "\nHola Mi nombre es lisel Patricia Moreno",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 5640,
+    "dDurationMs": 10760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "marrugo tengo 22 años soy de\nVenezuela tengo aproximadamente 6 años",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 13519,
+    "dDurationMs": 10520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "viviendo acá en Colombia la programación\nllegó a mi vida en un momento en el que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 19320,
+    "dDurationMs": 11279,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "no sabía qué hacer fue algo inesperado\nno lo tenía en mi en mis planes pero",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 27920,
+    "dDurationMs": 11040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "llegó y me gustó mucho el área\nme gustó el poder crear algo desde cero",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 34440,
+    "dDurationMs": 10680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y después que diera forma el hecho de\nque podamos crear algo y que personas la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 41440,
+    "dDurationMs": 10400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "puedan usar Es realmente algo bonito es\nalgo de mucha disciplina de mucha",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 48520,
+    "dDurationMs": 9839,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "constancia y en su momento fue algo\ndifícil pero lo he sabido llevar de la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 55039,
+    "dDurationMs": 10281,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mejor manera siempre nos ayudan a seguir\nmejorando clases de inglés clases de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 62680,
+    "dDurationMs": 7439,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "preparación oratoria clases de\ncontabilidad siempre están un paso más",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 68360,
+    "dDurationMs": 8000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "para que nosotros sigamos mejorando\ntanto a nivel profesional como a nivel",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 73080,
+    "dDurationMs": 9800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "personal y ese es el plus que le da la\nfundación a mi vida y sobre todo a la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 79280,
+    "dDurationMs": 9760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vida de mi familia que Por así\ndecirlo agradecen ese apoyo ese apoyo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 86600,
+    "dDurationMs": 9240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "incondicional bueno José David es un\njoven de años que viene de San Juan de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 91880,
+    "dDurationMs": 10160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "poroso Bolívar Lima finca en donde Bueno\nme dedicaba a todo lo que tenía que ver",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 97560,
+    "dDurationMs": 11599,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "con el campo dañaba barría y pues\naprendía muchas cosas pero",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 105000,
+    "dDurationMs": 11240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Eh mi meta era eh salir de ahí y\nproyectarme en un futuro Bueno un tiempo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 112960,
+    "dDurationMs": 8280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "una temporada para diciembre que bueno\nestábamos en en una tinca pero no",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 118479,
+    "dDurationMs": 8761,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "teníamos la las posibilidades de comprar\nropa incluso no teníamos solamente",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 124560,
+    "dDurationMs": 8560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "comimos el desayuno porque la muj no\nteníamos eso es o sea yo cuando recuerdo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 130679,
+    "dDurationMs": 9840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "eso me me da un poco de sentimiento\nporque ver como como mi padre eh en la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 137680,
+    "dDurationMs": 8839,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mañana se levantó apurado buscando la\nforma de darnos el poquito de almuerzo y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 143040,
+    "dDurationMs": 8839,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "se fue todo el día todo el día y regresó\ncomo no sé tipo och nueve con poito de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 150200,
+    "dDurationMs": 8840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "comida y nosotros felices con eso y todo\nel mundo tal vez al lado en la casa con",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 155400,
+    "dDurationMs": 10400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "fiesta disfrutando pero nosotros o sea\npasando necesidad pero gracias a Dios ya",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 161599,
+    "dDurationMs": 9681,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hoy con est con esta en la fundación eh\nYa veo la vida de otra manera Ya tengo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 168360,
+    "dDurationMs": 7720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "la la certeza de que puedo brindarle a\nmi papá y mi mamá un mejor futuro y esa",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 174319,
+    "dDurationMs": 6280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "es mi idea Esa es mi meta hacerlos\nsentir orgullosos a ellos que se sientan",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 178120,
+    "dDurationMs": 7600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "feliz y darle una mejor vida\nCómo surge fundación it fundación it",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 183519,
+    "dDurationMs": 6800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "surge bajo la premisa de generar\noportunidades de transformación Social",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 187720,
+    "dDurationMs": 8360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "para los jóvenes y para sus familias a\ntravés de estudio y de trabajo y por qué",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 193599,
+    "dDurationMs": 7401,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "estudio y trabajo porque hoy solamente\nen el Atlántico el 46 por de los jóvenes",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 198840,
+    "dDurationMs": 7840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tienen acceso a la educación superior\nhoy en nuestro país Colombia El 63 de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 203440,
+    "dDurationMs": 7600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "los jóvenes entre 17 y 28 años están\nbuscando la manera de migrar de nuestro",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 208480,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "país Buscando el dicho y anhelado sueño\namericano y Eso sin contar la tasa de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 213439,
+    "dDurationMs": 8880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "desempleo que está más o menos en el\n11.7 por solo en Barranquilla y el área",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 219000,
+    "dDurationMs": 9640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "metropolitana es importante que nuestros\njóvenes sepan que el sueño americano y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 225640,
+    "dDurationMs": 8439,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "el sueño europeo está aquí bajo la\nconstrucción de sus realidades de sus",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 231120,
+    "dDurationMs": 9199,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "entornos de su localidad de su región y\nde su país con una visión completamente",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 237239,
+    "dDurationMs": 8840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "internacional no es necesario\nemigrar para poder conseguir ese",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 242560,
+    "dDurationMs": 8000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "anhelado sueño y es muy importante tener\noportunidades y es por esto que a partir",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 248360,
+    "dDurationMs": 8839,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "entre de entre toda esa\nconvergencia no solo mía sino también de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 253000,
+    "dDurationMs": 8280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "esos fundadores que han entendido que\nque las oportunidades se dan realmente",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 259519,
+    "dDurationMs": 7561,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cuando se le brinda la mano a alguien\npara salir adelante porque ellos son fei",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 263639,
+    "dDurationMs": 8120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "testimonio real de eso son personas que\nque han hecho un trayecto y que han",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 269880,
+    "dDurationMs": 6280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "conseguido sus objetivos a través de\ntrabajo de disciplina de constancia y de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 274639,
+    "dDurationMs": 6081,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "una oportunidad que han sabido\naprovechar y eso es lo que ellos quieren",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 277880,
+    "dDurationMs": 10080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ser para estos chicos una mano que les\napoye a impulsarse Y por supuesto desde",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 283800,
+    "dDurationMs": 8839,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mi parte ser ese ejemplo Y ser ese canal\nde replicación que apoye a que este",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 290600,
+    "dDurationMs": 7520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "proyecto que nuestros jóvenes puedan\nproyectarse bueno esta oportunidad para",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 295320,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mí digamos que en un momento de mi vida\nfue de oro",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 301800,
+    "dDurationMs": 7000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "porque estaba como en un\nmomento se puede decir estancado",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 306840,
+    "dDurationMs": 7880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "laboralmente\ny al enterarme de esta oportunidad de lo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 311800,
+    "dDurationMs": 10640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que me podría ofrecer yo no lo pensé dos\nveces tomé la decisión para entrar ahí y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 319639,
+    "dDurationMs": 8041,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de verdad ha sido una de las mejores y\nno la mejor decisión que yo he tomado en",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 324000,
+    "dDurationMs": 10199,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mi vida ahora mismo cuento con una\nestabilidad laboral",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 330319,
+    "dDurationMs": 7481,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "e y esto ha sido parte de mi crecimiento\ncomo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 335120,
+    "dDurationMs": 8720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "persona este proceso ha sido muy\ngratificante para mi vida porque me ha",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 340720,
+    "dDurationMs": 11199,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ayudado a crecer no solamente de manera\nprofesional sino también de manera",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 347639,
+    "dDurationMs": 8441,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "personal Entonces esto haid yo estoy\neternamente pues agradecido con la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 354000,
+    "dDurationMs": 7560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "fundación por la oportunidad que me\nbrindó Bueno mi nombre",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 358479,
+    "dDurationMs": 8201,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "es ente soy programador Junior en\nfundación I en el área de backing Bueno",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 364360,
+    "dDurationMs": 7279,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ahora que estoy en el proceso productivo\nsoy un aporte más en mi casa eh genero",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 369880,
+    "dDurationMs": 5920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ingresos para mi familia y también\nGracias al apoyo de la fundación puedo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 373800,
+    "dDurationMs": 5440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ir escalando profesionalmente en el área\nde la programación la fundación nos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 378000,
+    "dDurationMs": 8440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "brinda la oportunidad de escalar\nsalarialmente también bueno el cambio",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 382720,
+    "dDurationMs": 8800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "principal y positivo que he visto es\norientación en mi vida yo he sentido que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 389520,
+    "dDurationMs": 6799,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mientras estaba en la fundación I he\norientado mi vida a un propósito mayor",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 393800,
+    "dDurationMs": 8280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "he empezado a trabajar por mis sueños y\ntambién he empezado a desarrollar y a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 399720,
+    "dDurationMs": 7000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ver el mundo de la tecnología como lo\nque realmente es como el futuro al cual",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 404120,
+    "dDurationMs": 8160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "nosotros debemos avanzar y pienso que es\nuna gran oportunidad para mí y para",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 409240,
+    "dDurationMs": 5320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "muchas otras personas para que crezcan\nse",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 418400,
+    "dDurationMs": 7239,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "globalicemos es ver a estos jóvenes\nproyectarse como profesionales es ver",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 423479,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que estos jóvenes llegaron muchos de\nellos sin siquiera conocer el mundo de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 427759,
+    "dDurationMs": 7120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "la programación y darse cuenta que los\nlímites solamente los tenían aquí en la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 431919,
+    "dDurationMs": 7161,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mente así hemos podido impactar a más de\n200 jóvenes con este programa de becas a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 437479,
+    "dDurationMs": 6881,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "través de la alianza estratégica con el\nsector académico a través de becas para",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 441440,
+    "dDurationMs": 7199,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "su profesionalización y alianzas también\ncon el sector privado a partir de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 446599,
+    "dDurationMs": 6401,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "oportunidades con más de 20 empresas de\nla región hoy por hoy tengo el honor de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 451000,
+    "dDurationMs": 6599,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ser embajadora y presidente del Consejo\nde juventudes del comité ngoo de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 455160,
+    "dDurationMs": 7640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Naciones Unidas un honor y una\nresponsabilidad que me permite ser voz y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 459720,
+    "dDurationMs": 9260,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "voto en este importante organismo\ninternacional los sueños no se cumplen",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 466199,
+    "dDurationMs": 8161,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "los sueños se\n[Música]",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 471360,
+    "dDurationMs": 3000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "trabajan",
+      "acAsrConf": 0
+    } ]
+  } ]
+}

@@ -53,3 +53,10 @@ Uso privado: material fuente, no se republica. Ver [[fuentes/video-podcast]] y [
 **[16:01]** este esfuerzo y lo tienen dentro de su plan de trabajo. Eh y los el impacto es inmediato, o sea, no lo ven en seis meses, no lo ven una vez termina la formación a la semana. Y lo segundo es dentro de sus nóminas tienen que empezar a tener personas que se dediquen solo a automatizar sus procesos, automatizar el cargo del gerente, automatizar el cargo del contador, del abogado. Entonces, la pregunta es, ¿cuántas personas hoy no son de ti, no? ¿Cuántos programadores junior, semicior, Conía o programadores de la nueva generación están todos los días automatizando los procesos que tienen hoy normalmente con formatos y procedimientos en un Excel? Si no los tienen, tienen que empezarlos a incorporar. Muy bien, Diego, gracias por atenderme, por darme estos minutos aquí en en Campusland y como esto esta conversación fue rápida y todo el tema de la
 
 **[17:00]** tecnología avanza tan rápido, muy pronto estaré otra vez acá en esta conversación. Muchas gracias. No, no, no, Javier, muchas gracias a usted y encantado de tenerlos acá y el único consejo es aventémonos, aventémonos que esto solamente trae cosas buenas. Gracias, Diego. Y a ustedes también muchas gracias por estar siempre conectados con nosotros. ¿Qué opinan de esta conversación y de lo que está pasando en el mundo de la tecnología? Los leo en los comentarios.
+
+---
+## 🔗 Conexiones del Segundo Cerebro
+- **Persona:** [[people/diego-tarazona|Diego Tarazona]]
+- **Entidad:** [[areas/campuslands|Campuslands]]
+- **Dossier de Investigación:** [[investigacion/diego-tarazona/dossier|Dossier Diego Tarazona]]
+- **MOC Integral:** [[diego_investigacion/README|MOC Diego Tarazona]]

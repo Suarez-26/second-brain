@@ -1,0 +1,846 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  }, {
+    "mhModeHint": 2,
+    "juJustifCode": 0,
+    "sdScrollDir": 3
+  } ],
+  "wpWinPositions": [ {
+  
+  }, {
+    "apPoint": 6,
+    "ahHorPos": 20,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  } ],
+  "events": [ {
+    "tStartMs": 0,
+    "id": 1,
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1350,
+    "dDurationMs": 8650,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "[Música]"
+    }, {
+      "utf8": "\nGiovanni en radio Santa Fe Giovanni en",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 7240,
+    "dDurationMs": 7160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "radio Santa Fe con la presentación de\nGiovanni Sepúlveda radio Santa Fe me",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 13160,
+    "dDurationMs": 7959,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "gusta\nmás esta noche a través de radio Santa",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 17320,
+    "dDurationMs": 10359,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Fe estamos con Diego Gómez Roa director\nde Educación continua de an y también",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 24199,
+    "dDurationMs": 8560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "director del proyecto de ean campus Lan\nbienvenido buenas noches cuéntenos este",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 30199,
+    "dDurationMs": 6481,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "proyecto tan maravilloso que nos está\npresentando bueno muchas gracias buenas",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 34640,
+    "dDurationMs": 8680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "noches gracias por invitarme a conversar\ncontigo estamos desarrollando un",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 39079,
+    "dDurationMs": 7761,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "proyecto que es e traer 140 muchachos a\ndesarrollar programación inglés y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 44719,
+    "dDurationMs": 7121,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "habilidades blandas en un campus que\nhemos creado para ellos en la alianza de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 49199,
+    "dDurationMs": 6641,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "eani de campus Land eh va a ser un\nbootcamp un entrenamiento intensivo un",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 54199,
+    "dDurationMs": 6081,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "centro de entrenamiento intensivo\ndurante 10 meses que va a involucrar",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 58320,
+    "dDurationMs": 5680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "estas disciplinas y que busca que 10\nmeses estos muchachos terminen",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 62039,
+    "dDurationMs": 5641,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "certificados para poder salir fácilmente\nal mundo laboral dentro de ese ejercicio",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 65880,
+    "dDurationMs": 6120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que te estoy comentando nosotros vamos a\ntrabajar en ese proceso de empleabilidad",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 70080,
+    "dDurationMs": 6840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "para los muchachos en los últimos meses\nde de su estudio empezamos a buscarles y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 74640,
+    "dDurationMs": 8839,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a guiarles y a buscar las oportunidades\nlaborales para que terminen eh a los 14",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 80759,
+    "dDurationMs": 5441,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "15 meses como máximo empleados ya sea de\nmanera remota en cualquier parte del",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 84920,
+    "dDurationMs": 5400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mundo que es lo que pasa mucho con los\ndesarrollados de software o incluso con",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 88479,
+    "dDurationMs": 6481,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "empresas aliadas que tenemos en Colombia\nque nos están demandando ese capital",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 92000,
+    "dDurationMs": 7759,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "humano lo más interesante de este\nproyecto aparte del objetivo que buscan",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 97560,
+    "dDurationMs": 8239,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que es que los jóvenes salgan de la\npobreza es que va enfocado a jóvenes que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 103799,
+    "dDurationMs": 5600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "no tienen oportunidades muchas festas y\nque no tienen la parte económica para",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 107960,
+    "dDurationMs": 8600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pagar\nuna un un estudio en una universidad o o",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 114360,
+    "dDurationMs": 9600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "decir Bueno yo cómo salgo para para que\nse dé la oportunidad ustedes están",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 119200,
+    "dDurationMs": 9640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "brindando esta oportunidad y es 100%\ncubren todo lo que ellos necesitan eh",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 126840,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "correcto en esta oportunidad e quiero\nhacer una aclaración todos son",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 131360,
+    "dDurationMs": 5959,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "bienvenidos Nosotros somos una\nuniversidad que es 100% incluyente",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 136000,
+    "dDurationMs": 4480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Entonces le damos la bienvenida a\ncualquier nivel socioeconómico cualquier",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 139239,
+    "dDurationMs": 5321,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "individuo que quiera estar con nosotros\nle vamos a dar la bienvenida para llegar",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 142120,
+    "dDurationMs": 8280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a campus l tienes que tener mínimo 17\naños de edad nada más a partir de ahí",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 147560,
+    "dDurationMs": 6360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "nuestro foco está los niveles\nsocioeconómicos más bajos no quiere",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 152319,
+    "dDurationMs": 4761,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "decir que los demás no pero si nos\nenfocamos en los más bajos porque",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 155000,
+    "dDurationMs": 6920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sabemos que la oportunidad de poder\nsurgir y estudiar es más difícil va a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 159959,
+    "dDurationMs": 6360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ser más complejo para ellos Entonces\nvamos a enfocarnos en que ellos nos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 164040,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "puedan acompañar en mayor proporción en\nel campus pero como es un ejercicio",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 168640,
+    "dDurationMs": 7800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "donde tú haces un examen para poder\npasar digamos que vamos a poder",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 173800,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "recibir distintos perfiles y vamos a\nintegrarlos Porque además la educación",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 178480,
+    "dDurationMs": 6800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "nos da esa oportunidad Y es en el aula\nde clase todos somos iguales y eso es un",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 183200,
+    "dDurationMs": 5599,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "parte de los principios básicos a los\nque les queremos apostar pero no No",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 186920,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "dejando de lado lo que enunci y es el\nfoco va a estar en los niveles más bajos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 191000,
+    "dDurationMs": 7680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "para poder invitarlos al ejercicio bueno\neste proyecto lo tienen ya en",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 195120,
+    "dDurationMs": 8520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "bucaramanga Bogotá y en tibu norte de\nSantander Yo quiero Resaltar tibu porque",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 201640,
+    "dDurationMs": 7400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "es que de verdad que se habla mucho de\nlas regiones apartadas del país regiones",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 206440,
+    "dDurationMs": 7560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "donde muchas veces no tienen internet\ndonde muchas veces tener las",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 212560,
+    "dDurationMs": 5120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "oportunidades que tenemos en las\ncapitales cómo les ha ido en el proyecto",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 215959,
+    "dDurationMs": 8000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "en tibú norte de\nSantander muy bien porque este es un",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 219840,
+    "dDurationMs": 8520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "proyecto que va a la inversa es como un\nimán ellos los muchachos llegan aman la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 226560,
+    "dDurationMs": 6280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "programación aman el mundo digital eso\nes una condición del del joven de hoy",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 230599,
+    "dDurationMs": 6161,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Entonces es un proyecto que fluye muy\nfácilmente porque ellos quieren saber y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 234560,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "quieren enterarse y quieren aprender de\nlo que está pasando entonces son",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 238640,
+    "dDurationMs": 7080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "proyectos que arrancan en pequeño 40\nestudiantes que en la siguiente grupo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 242599,
+    "dDurationMs": 7280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que entre serán 60 80 100 pero que\nqueremos ir magnificando a medida de que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 247360,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "van avanzando viendo cómo ellos van\nrecibiendo y van integrando eso algo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 252000,
+    "dDurationMs": 5759,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "bonito de de tibú o de cualquier\nmunicipio donde podamos llegar es cómo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 256040,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cómo se da uno cuenta que esos talentos\nestán allá y si no los descubres se",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 260479,
+    "dDurationMs": 7000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "quedan allá Es cuando tú llegas y los\nencuentras dice tremendo muchacho",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 264880,
+    "dDurationMs": 6280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tremendas capacidades tremenda capacidad\nintelectual afortunadamente lo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 269320,
+    "dDurationMs": 6159,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "encontramos eso es un poco lo que nos\nestá pasando Bueno entonces ya no le",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 273560,
+    "dDurationMs": 7160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "podemos decir a los jóvenes por favor\ndeje el celular por favor deje la tablet",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 278440,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "deje de estar pegado todo el tiempo\nporque de verdad es una lucha parece que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 283080,
+    "dDurationMs": 6360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "es que estamos enfrentados a una lucha\nde tecnología yo le estaba escuchando a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 287120,
+    "dDurationMs": 6799,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "usted que que los jóvenes ahora nacieron\ncon ese ADN sí somos generaciones",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 292039,
+    "dDurationMs": 6961,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "distintas y debemos reconocerlo no\npodemos pelear contra un mundo que se",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 296639,
+    "dDurationMs": 7280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "digital no que se va a digitalizar sino\nque se y que las nuevas generaciones han",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 301680,
+    "dDurationMs": 6959,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "integrado lo que para a su vida normal\nlo que para nosotros fue innovador",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 306320,
+    "dDurationMs": 6800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "acceso a internet para ellos es como\nabir la llave del agua para nosotros no",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 310919,
+    "dDurationMs": 5881,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "lo fue para nosotros fue conéctese a\ninternet fíjate la diferencia ellos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 314520,
+    "dDurationMs": 5519,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "abren el computador ya está conectado a\ninternet Entonces tenemos que entender",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 318240,
+    "dDurationMs": 6040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "queé eso que hace pues que piensen\ndistinto que interactúen distinto que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 322319,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "generen contextos sociales con sus\namigos distintos qué hay que hacer hay",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 327120,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que acoplarse al mundo de hoy no podemos\nesperar ofrecerles lo que queremos que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 331680,
+    "dDurationMs": 6920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hagan porque creemos que es lo correcto\ncuando ellos funcionan con un ADN",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 335120,
+    "dDurationMs": 9560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "distinto al nuestro este proyecto Además\nestá haciendo alianzas con empresas",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 341840,
+    "dDurationMs": 8320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "haciendo las alianzas necesarias para\nque cuando los jóvenes terminen ya",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 347319,
+    "dDurationMs": 8561,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "puedan estar trabajando busquen su\nempleo Así es hay 49 empresas que en",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 352960,
+    "dDurationMs": 7440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "este momento están ya eh asociadas al\nproyecto bajo esa estructura que acabas",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 357880,
+    "dDurationMs": 6120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de anunciar son 49 empresas a las que\nles decimos sale una nueva corte una",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 362360,
+    "dDurationMs": 7200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "nueva corte es un grupo de egresados\npara que me lo entiendas sale una nueva",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 365919,
+    "dDurationMs": 7321,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "corte en octubre Cuántos estás\nnecesitando ellos te van a decir",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 371560,
+    "dDurationMs": 6840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "necesito 12 desarrolladores para el\nproyecto ABC que tengo listo Yo te los",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 376080,
+    "dDurationMs": 6280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hago llegar ya se entrevistan hacen\npruebas ayudamos a Los pelados en ese",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 380639,
+    "dDurationMs": 5601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "proceso para que cuando hagan una prueba\npsicotécnica o un examen de ingreso una",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 384120,
+    "dDurationMs": 6600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "compañía no vayan a ojos cerrados sin no\nsepan cómo funciona eso porque tienen",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 388160,
+    "dDurationMs": 6360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "por qué saberlo y de es manera asegurar\nque se conecten rápidamente al mundo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 392639,
+    "dDurationMs": 6241,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "laboral como campus l Les enseña también\nhabilidades blandas Entonces qué pasa",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 396479,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Ahí queremos que sepan Cómo se trabaja\nen equipo Cómo interactuar con un",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 400440,
+    "dDurationMs": 5319,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "compañero de trabajo que es distinto a\nalgo que nunca han hecho en su vida",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 403639,
+    "dDurationMs": 5960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "nunca han trabajado el 99% los que\nllegan nunca han trabajado entonces hay",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 407639,
+    "dDurationMs": 6641,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que decirles mira encaja bien y para que\nte sientas bien trabaja en equipo sé",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 412280,
+    "dDurationMs": 7359,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "diligente ASUME estas cualidades de\nLiderazgo Y de esa manera impulsamos que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 417400,
+    "dDurationMs": 6760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cuando se da la contratación además\npermanezca es parte del ejercicio que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 421960,
+    "dDurationMs": 6519,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hacemos previo a que terminen campus con\nnosotros Bueno pues muchas gracias por",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 426560,
+    "dDurationMs": 7039,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "acompañarnos Gracias por estar esta\nnoche a través de radio Santa Fe me",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 430560,
+    "dDurationMs": 7600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "encanta este proyecto porque lo que\nbusca es ayudar a los jóvenes lo que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 435800,
+    "dDurationMs": 5600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "busca es darles la oportunidad a ellos\nExactamente esa es invitarlos a que nos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 440280,
+    "dDurationMs": 4039,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "acompañen la mejor manera de\nacompañarnos es que nos hagan",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 442560,
+    "dDurationMs": 5400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "reconocidos y que le contemos a todo el\npaís lo que estamos haciendo esa es la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 446240,
+    "dDurationMs": 5920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mejor manera porque a medida que lo\ncontemos Yo sé que la gente se va",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 450120,
+    "dDurationMs": 4919,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y nos va acompañar seguramente de una u\notra",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 452860,
+    "dDurationMs": 9779,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "[Música]"
+    }, {
+      "utf8": "\nmanera en radio Santa",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 457560,
+    "dDurationMs": 5079,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Fe en radio Santa Fe",
+      "acAsrConf": 0
+    } ]
+  } ]
+}

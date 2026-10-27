@@ -1,0 +1,1489 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  }, {
+    "mhModeHint": 2,
+    "juJustifCode": 0,
+    "sdScrollDir": 3
+  } ],
+  "wpWinPositions": [ {
+  
+  }, {
+    "apPoint": 6,
+    "ahHorPos": 20,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  } ],
+  "events": [ {
+    "tStartMs": 0,
+    "id": 1,
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1360,
+    "dDurationMs": 4640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Welcome to the podcast, the human.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 7080,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Hola a todos. Hoy queremos compartir con\nustedes una información muy pero muy",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 11679,
+    "dDurationMs": 5161,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "importante, no solo para los jóvenes de\nnuestra región, sino también para los",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 14960,
+    "dDurationMs": 6520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "papás. Y es que una de las decisiones\nmás difíciles que debemos tomar todos en",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 19760,
+    "dDurationMs": 7279,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "nuestra vida es que vamos a hacer\ndespués del colegio. Y esta decisión la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 23840,
+    "dDurationMs": 7439,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tenemos que tomar entre los 16, 17 y 18\naños. Y hoy quiero compartirles una",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 29439,
+    "dDurationMs": 8481,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "oportunidad que si yo lo hubiese\nconocido en mi época, muy seguramente me",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 34200,
+    "dDurationMs": 9519,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hubiese eh llevado a tomar eh otro tipo\nde decisiones. Y para eso quiero",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 40640,
+    "dDurationMs": 8759,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hablarles de Campus Land y está aquí\nFelipe Ramírez, quien nos va a contar un",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 46840,
+    "dDurationMs": 6800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "poco en qué consiste, para quiénes va\ndirigido y qué tienen que hacer las",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 51559,
+    "dDurationMs": 9640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "personas que están ahí pendientes de\nesta información para ser parte de esta",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 57199,
+    "dDurationMs": 11121,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "nueva ola de educación que desde un\ntiempo menor, un precio menor, puede eh",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 65360,
+    "dDurationMs": 8200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "lograr que cualquiera que se gradúe\nencuentre el trabajo de sus sueños con",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 70880,
+    "dDurationMs": 7599,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cualquier multinacional en el mundo y\nganando incluso hasta en dólares.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 75439,
+    "dDurationMs": 7241,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Exacto. Delis, muchas gracias por esta\neh introducción, como tú muy bien lo",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 80520,
+    "dDurationMs": 7120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "dices, Campus Trans. Nosotros somos una\nfábrica de talento ti en un mundo que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 84799,
+    "dDurationMs": 8000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "apenas está iniciando. Eh, nosotros\nformamos jóvenes desde los 16 años como",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 90520,
+    "dDurationMs": 6919,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tal. No tenemos un límite de edad. De\nhecho, tenemos un estudiante, el mayor",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 94399,
+    "dDurationMs": 8841,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de nuestros estudiantes, tiene 51 años,\nactualmente está en la jornada nocturna",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 99520,
+    "dDurationMs": 8000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "en Bucaramanga. Sí, hoy en día pues hay\nmuchos jóvenes que no saben realmente",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 104719,
+    "dDurationMs": 7720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "qué estudiar, qué hacer. A veces pasan\nhasta un 2 3 años probando y al fin no",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 110439,
+    "dDurationMs": 6881,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "es lo que ellos quieren como tal.\nNuestro programa tiene una duración de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 114680,
+    "dDurationMs": 7359,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "10 meses si es jornada diurna o de 13\nmeses si es una jornada nocturna. Y al",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 119799,
+    "dDurationMs": 8041,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "finalizar nosotros en un periodo máximo\nde 3 meses, le vamos a garantizar 100%",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 125200,
+    "dDurationMs": 6600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "empleabilidad, que es lo que actualmente\nmuchos jóvenes o muchas personas salen",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 129840,
+    "dDurationMs": 5759,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de estudiar y a veces duran hasta uno o\ndos años buscando y nunca encuentran.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 133800,
+    "dDurationMs": 5120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Y salir a ganarse el mínimo, ¿no? Que es\no a eso es hasta menos. Esa es la",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 137319,
+    "dDurationMs": 5881,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "realidad. Esa es la realidad.\nExacto. Con nosotros pues nosotros les",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 140400,
+    "dDurationMs": 6960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "garantizamos un salario eh superior al\nmínimo como tal. Y como tú muy bien lo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 145319,
+    "dDurationMs": 5920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "decías, tenemos actualmente convenio con\nmás de 200 empresas, no solamente a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 150000,
+    "dDurationMs": 5920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "nivel nacional, sino también\ninternacional. Tenemos estudiantes",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 153200,
+    "dDurationMs": 7560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "nuestros egresados que actualmente ganan\nen dólares, trabajan desde casa, les",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 158599,
+    "dDurationMs": 5360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "gusta viajar. La nueva generación\nactualmente lo que quier es estar",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 162040,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "viajando, paseando, no quieren tener un\njefe encima, sino estar trabajando desde",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 166159,
+    "dDurationMs": 5281,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "casa o de cualquier parte del mundo. Si\neso es lo que tú quieres, esta es la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 169800,
+    "dDurationMs": 3920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "opción que te va a llevar a conseguir\neso.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 171959,
+    "dDurationMs": 5721,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Bueno, pero vamos super adelantados.\nFelipe, contemos qué estudiamos en",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 175560,
+    "dDurationMs": 7560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Campusland. Bueno, nosotros acá en\nCampuslands formamos programadores desde",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 180640,
+    "dDurationMs": 7000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cero. Van a ver programación de software\ne inteligencia artificial aplicado. Es",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 185480,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "un programa que incluye 16 horas de\nprogramación con inteligencia",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 189440,
+    "dDurationMs": 6159,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "artificial, 300 horas de inglés\nconversacional y 200 horas de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 194159,
+    "dDurationMs": 4720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "habilidades adaptativas.\n¿Qué son habilidades adaptativas? Esto,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 197360,
+    "dDurationMs": 6200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "esto, digamos, es como de mis partes\nfavoritas. Inteligencia emocional, ¿sí?",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 201640,
+    "dDurationMs": 6239,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que jamás en la vida, por lo menos a mí,\nme han dictado en una universidad eh o",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 205760,
+    "dDurationMs": 6800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "en un posgrado, inteligencia emocional,\ninteligencia financiera.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 209720,
+    "dDurationMs": 6799,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Sí, porque muchas veces podrán ganar\nmillones y millones de pesos, pero al",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 214680,
+    "dDurationMs": 4800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "final de mes no hay no alcanza el\nsueldo, por decirlo de alguna manera.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 218040,
+    "dDurationMs": 5919,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Entonces, aprender a invertir, aprender\na ahorrar, también, por ejemplo, hablar",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 221560,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "en público, superimportante para los\naltos ejecutivos, para cualquier",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 225560,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "representante de una empresa,\nhabilidades blandas,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 229560,
+    "dDurationMs": 7440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "manejo de la frustración, los preparamos\npara el éxito. También les enseñamos",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 234400,
+    "dDurationMs": 6440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "desde cómo presentar una entrevista,\nincluso cómo formular una hoja de vida.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 239360,
+    "dDurationMs": 5439,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Realmente lo que nosotros buscamos es\nque nuestros estudiantes salgan ya",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 243120,
+    "dDurationMs": 5839,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "listos para el mercado laboral, como si\ntuvieran experiencia de más de 3 5 años.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 247840,
+    "dDurationMs": 6959,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "en este mercado.\nBueno, yo tengo en este momento eh 16 17",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 253280,
+    "dDurationMs": 7359,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "años, salgo del colegio ahorita en\ndiciembre eh o si quiero empezar antes",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 258479,
+    "dDurationMs": 4720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "estando en el colegio en estos momentos,\npuedo hacerlo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 261519,
+    "dDurationMs": 6761,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "totalmente y me parece que es la mejor\nopción, de modo que en 10 meses o 13",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 266479,
+    "dDurationMs": 6241,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "meses, si es la jornada nocturna, cuando\nse vayan graduando, tengan tan solo cco",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 271240,
+    "dDurationMs": 5840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "o se meses de haberse graduado el\ncolegio y ya estén ganando muy bien,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 275160,
+    "dDurationMs": 5800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "¿sí? Trabajando desde casa. Y lo mejor\nde todo, que fue una de las apuestas por",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 278520,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "las que llegamos a Sanill y es que nos\nllega mucho estudiante de Bucaramanga,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 282639,
+    "dDurationMs": 4801,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "la zona franca de Santander,\ndel sur de Santander,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 285280,
+    "dDurationMs": 7199,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "del sur de Santander. Y tienen que dejar\nsu casa, su familia. Nuestra gran",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 289800,
+    "dDurationMs": 6600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "apuesta es, ven ahora sin que salgas de\ntu municipio, porque también tenemos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 293880,
+    "dDurationMs": 6080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "estudiantes de Curití, Socorro y demás,\nles tenemos un campus en Cajazán de San",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 299560,
+    "dDurationMs": 2840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Hill,\nen el centro comercial del Puente.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 301120,
+    "dDurationMs": 4840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "El centro comercial El Puente. No es\nnecesario que salgan, sino que ya",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 304240,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "estamos acá, aprovechen esta gran\noportunidad.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 307240,
+    "dDurationMs": 6920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Bueno, si de todas maneras eh no estás,\no sea, como por ejemplo, de pronto yo",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 312639,
+    "dDurationMs": 4881,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "venía pensando decir, no, yo hubiese\nconocido esta oportunidad, me hubiese",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 315440,
+    "dDurationMs": 7800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sido, me hubiese parecido espectacular.\nVeo estudiantes de más años,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 320639,
+    "dDurationMs": 7321,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "empresarios, microempresarios de 40\naños. Acabas de mencionar una persona de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 325560,
+    "dDurationMs": 7720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "50 años que hace parte en de Campus\nLands, es decir, cualquier persona que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 330160,
+    "dDurationMs": 8640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "le guste la programación y que entienda\nque el mundo y la empleabilidad va hacia",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 336240,
+    "dDurationMs": 9000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "allá, porque estaba leyendo ahorita que\neh según el Foro eh Mundial de Economía,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 343240,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "en los próximos 30 años se van a crear\nmás de 170 millones de empleos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 347520,
+    "dDurationMs": 5640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "relacionados con tecnología,\ninteligencia artificial y asimismo se",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 351520,
+    "dDurationMs": 4320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "van a perder más de 90 millones de\nempleos.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 354039,
+    "dDurationMs": 6440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Entonces, eso es una realidad. Estamos\nen una revolución eh del empleo y los",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 358680,
+    "dDurationMs": 6120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "papás, que son los que van a sacar la\nplata para pagar el estudio de los",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 362919,
+    "dDurationMs": 5961,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "jóvenes, de los chicos, tienen que\ntambién eh empezar a ver esto. Y es una",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 367240,
+    "dDurationMs": 4920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "oportunidad que me encanta. Y quiero\ncontarle una anécdota. Una vez teníamos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 370800,
+    "dDurationMs": 5399,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "la oportunidad de hablar con un rector\nde una universidad y ellos decían que le",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 374240,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hacían la encuesta a los jóvenes de qué\nquerían estudiar, cómo era el la carrera",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 378840,
+    "dDurationMs": 7759,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "perfecta y la respuesta de los jóvenes\nde esta nueva generación que mencionas.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 383199,
+    "dDurationMs": 9400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "era que sea corta, o sea, que sea poco\ntiempo y que salga ganando mucho. Y esto",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 390080,
+    "dDurationMs": 7880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "realmente es la respuesta. Es Campus LS.\nEntonces, estudio un año en promedio",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 395000,
+    "dDurationMs": 7440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "entre 10 y 13 meses. Debo tener mínimo\n16 años, pero puedo tener hasta 90.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 400759,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Sí, no hay ningún límite de\nsi te gusta la programación, quieres",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 404880,
+    "dDurationMs": 7800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "aprender de inteligencia artificial, que\nes algo que está moviendo al mundo. Sí.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 409880,
+    "dDurationMs": 8400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y salir en este tiempo ya con una\noportunidad laboral supergre. Y quiero",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 415319,
+    "dDurationMs": 7041,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que hablemos precisamente de esos casos\nde éxito que creo que son la mayoría,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 420319,
+    "dDurationMs": 6121,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pero como dos puntuales, tres que nos\npuedas compartir que en este momento",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 424360,
+    "dDurationMs": 7200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sean egresados de ustedes o que estén\nestudiando todavía y ya están eh ya han",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 429479,
+    "dDurationMs": 5081,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sido contratados. Por ejemplo,\n¿qué nos puedes compartir?",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 432479,
+    "dDurationMs": 7921,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Cont. Tenemos un chico recién egresado\nen noviembre del año 2025. Actualmente",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 437759,
+    "dDurationMs": 8521,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "trabaja para una empresa llamada Glob,\n¿sí? Con un salario por encima con 19",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 443560,
+    "dDurationMs": 6960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "años. Sí. Y un salario por encima de\n8,500,000",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 447919,
+    "dDurationMs": 7321,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "trabajando desde casa. Es una empresa\nque desde Bucaramanga es una empresa que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 452919,
+    "dDurationMs": 8241,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "les da su buen computador,\neh su móvil de última tecnología, silla",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 458639,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tipo gamer, escritorio, computador, o\nsea, tienen absolutamente les dan todo.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 463199,
+    "dDurationMs": 5761,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Y lo mejor es que trabajan desde casa.\nDesde casa. Este es uno de nuestros",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 466960,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "casos de éxito que nosotros tenemos.\nTambién tenemos una persona eh de 27",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 471599,
+    "dDurationMs": 6481,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "años en este momento, trabaja para una\nempresa del Reino Unido como tal,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 475639,
+    "dDurationMs": 7240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "trabaja desde casa y esta persona como\ntal gana en dólares, sí, gana un",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 480720,
+    "dDurationMs": 7599,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "aproximado en pesos colombianos haciendo\nla conversión alrededor de 10 a 11",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 485360,
+    "dDurationMs": 7799,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "millones de pesos. Y lo mejor de todo es\nque sin salir de casa, trabajando, sea",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 491199,
+    "dDurationMs": 6161,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "en su propia tierra, en su país y\nganando muy muy bien. Y algo que de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 495199,
+    "dDurationMs": 5960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pronto no mencioné, porque de pronto\nhabrán personas que dicen, \"Ven, yo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 498560,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tengo x cantidad de años, ¿cómo es?\n¿Cómo será para mí el tema laboral?\"",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 503800,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Algo muy importante y es que en el mundo\nde la programación lo que destaca las",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 507960,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "personas es las habilidades que tengan o\ndesarrollen, que es lo que nosotros les",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 512080,
+    "dDurationMs": 5600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vamos a ayudar. ¿Sí? Entonces, una\npersona con buenas habilidades en todo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 515719,
+    "dDurationMs": 5721,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "el tema de programación,\ninteligencia artificial y demás. Para",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 519560,
+    "dDurationMs": 6800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "una empresa es irrelevante la edad.\nTenemos también estudiantes egresados",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 523640,
+    "dDurationMs": 9080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "nuestros con 40 años. Tenemos un chico\nde 42 años que trabaja para una empresa",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 529640,
+    "dDurationMs": 8520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "eh española y pues gana un muy buen\nsalario, no recuerdo muy bien en este",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 534320,
+    "dDurationMs": 8079,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "momento si es de 5,500 a 6,500 entre esa\nopina, pero pues es un buen salario para",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 540079,
+    "dDurationMs": 6760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "lo que actualmente hay en el mercado.\nListo, me encanta eso y también veo o",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 544760,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "estamos hablando acá mucho de conseguir\nempleo, pero es también aprender",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 549160,
+    "dDurationMs": 6359,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "programación para nosotros crear nuestra\npropia empresa. Y veo casas acá de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 553279,
+    "dDurationMs": 6201,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "personas, como les decía, empresarios,\nque que dijeron, \"No, yo quiero aprender",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 557440,
+    "dDurationMs": 5040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "programación. Es un año que le voy a\ndedicar a esto. 4 horas al día, 6 horas",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 561880,
+    "dDurationMs": 4240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "al día.\n6 horas. Si es una jornada diurna, 4",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 564680,
+    "dDurationMs": 4640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "horas es una jornada nocturna.\nBueno, hagamos lo que es jornada",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 567600,
+    "dDurationMs": 6359,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "nocturna porque es alguien que trabaja\ntodo el día, entonces le dedica 4 horas",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 571120,
+    "dDurationMs": 7640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "en la noche, eh aprende programación.\nEh, y no es solamente para buscar",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 575800,
+    "dDurationMs": 7560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "empleo, es también para empezar a cómo\ninvolucro o evoluciono mi empresa con lo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 581880,
+    "dDurationMs": 5959,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que está pidiendo el mundo, que es\ninteligencia artificial. O sea, hoy el",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 585600,
+    "dDurationMs": 7080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que no conozca, el que no quiera ver\nesto se va a quedar. está fuera del",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 589680,
+    "dDurationMs": 7360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mercado totalmente. Un caso que sacó\nhace 2 meses y medio la consultoría",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 595040,
+    "dDurationMs": 7799,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Mackense, una empresa consultora de\nEstados Unidos con más de 65 años en el",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 599519,
+    "dDurationMs": 8681,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mercado, eh es que para el año 2035\nentre el 40 y el 60% las profesiones",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 605519,
+    "dDurationMs": 6801,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "actuales van a quedar obsoletas y en\nalgunos casos van a tender a desaparecer",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 610560,
+    "dDurationMs": 5600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ya el mercado. De hecho, nosotros\nhacemos estudios de mercado donde nos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 614640,
+    "dDurationMs": 5240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "damos cuenta que muchas universidades\nahorita ya están cerrando programas",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 618399,
+    "dDurationMs": 6601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "porque la gente ya ahorita no quiere ir\na estudiar 5 6 años, en muchos casos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 622839,
+    "dDurationMs": 6361,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "salir a no conseguir empleo, sino quiere\ndesarrollar habilidades que rápidamente",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 626680,
+    "dDurationMs": 6680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "les permita devengar un salario.\nLa educación definitivamente como la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 630920,
+    "dDurationMs": 7000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "conocemos tiene que transformarse, tiene\nque evolucionar. Eso es una realidad.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 635519,
+    "dDurationMs": 7201,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Sí. y Campuslands definitivamente como\nque ha entendido o entendió",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 639440,
+    "dDurationMs": 7040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "perfectamente este eh como este\nconcepto. Quiero decir algo muy",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 645079,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "importante para todas las personas que\nestán viendo el video. Eh para la gente",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 649000,
+    "dDurationMs": 6440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de región, para la gente de provincia\ncomo yo, a veces las oportunidades de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 653000,
+    "dDurationMs": 5959,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "estudiar son bastante limitadas. están\nlas universidades que tenemos acá,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 657240,
+    "dDurationMs": 6360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "porque si nuestros papás tienen para\npagarnos el semestre, muy probablemente",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 661240,
+    "dDurationMs": 6200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "no tienen para mantenernos en en este\ncaso en en la capital santanderiana, que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 665760,
+    "dDurationMs": 5800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "es lo más cerca que de pronto llegamos a\ntener. Qué rico que haya llegado a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 669920,
+    "dDurationMs": 7080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Sanilidad\nque le brinda y ahora con beca, ¿no? Por",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 674839,
+    "dDurationMs": 6161,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "el programa tiene un costo de 20\n23 millones de pesos si es jornada",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 678920,
+    "dDurationMs": 7800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "diurna o 22 millones de pesos si es\njornada nocturna. Ojo, hay oportunidad",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 683399,
+    "dDurationMs": 10000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de beca porque las empresas patrocinan\nestos cupos y en estos momentos hay",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 689880,
+    "dDurationMs": 8280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tenemos cupos disponibles ya con el 45%\npago.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 694480,
+    "dDurationMs": 8039,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Entonces queda pagar usted un año de\nestudio, que son 12 millones de pesos.",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 700440,
+    "dDurationMs": 6600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "12 millones de pesos jornada nocturna o\n13 millones de pesos jornada diurna.",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 704360,
+    "dDurationMs": 7560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "plan de financiación directo con Campus\nL o con cualquier entidad en este",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 710040,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "momento en el mercado. ¿Para qué? Para\nque usted en un año salga ya graduado,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 714920,
+    "dDurationMs": 7800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "aprendiendo inglés, aprendiendo\nprogramación, trabajando y siendo parte",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 720519,
+    "dDurationMs": 5401,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de la solución. Y qué rico que sea en\nColombia, o sea, no solo en San Gil, en",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 724920,
+    "dDurationMs": 5560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "el sur de Santandera, en el\ndepartamento, sino en el país el que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 727760,
+    "dDurationMs": 7480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "llegue a ser líder en programación y que\nexportemos talento de programación para",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 733160,
+    "dDurationMs": 7520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "el mundo, ¿no? Que también es algo super\nimportante eh que está sucediendo en",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 738199,
+    "dDurationMs": 7080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "temas eh de empleos. En ese momento,\n¿quién es el primero que más genera eh",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 743199,
+    "dDurationMs": 6841,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "talentos programadores?\nEn ese momento en el ranking está eh la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 747800,
+    "dDurationMs": 6479,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "India como tal, como los número uno. De\nhecho, es un modelo nuestro eh que viene",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 753160,
+    "dDurationMs": 6600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de la India.\nBueno, entonces, Felipe, gracias por el",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 756000,
+    "dDurationMs": 8360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "espacio. Esperamos que de verdad eh si\nlogramos que con este video y con esta",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 761639,
+    "dDurationMs": 7921,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "información por lo menos a una persona\nle cambien la visión, le cambiemos la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 766760,
+    "dDurationMs": 7079,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vida y vea la oportunidad que tenemos en\neste momento en San Hil. Gracias también",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 771160,
+    "dDurationMs": 8960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a Cajassan, por supuesto, eh, que ha\npermitido este espacio eh y y traer",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 776560,
+    "dDurationMs": 7959,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "traer a Campus Ls. Me encanta. E espero\nque de verdad puedan tener más",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 782240,
+    "dDurationMs": 5159,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "información viniendo a Cajassá o\nentrando de pronto a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 785720,
+    "dDurationMs": 5840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Sí, nosotros acá les vamos a dejar el\nnúmero para que se comuniquen allí.",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 789399,
+    "dDurationMs": 6120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Nosotros eh le vamos a hacer les vamos a\nexplicar cómo es el proceso, en qué",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 793120,
+    "dDurationMs": 8519,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "consiste. Ojo, todavía tenemos cupos.\nVamos con cupos hasta el día 16 de julio",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 799440,
+    "dDurationMs": 4959,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y estamos próximos a arrancar el 21 de\njulio.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 802600,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Ahí está la oportunidad para todos.\nMuchas gracias. Gracias Felipe y",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 806760,
+    "dDurationMs": 7519,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "esperamos que puedan recibir más\ninformación y hacer parte de este cambio",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 812240,
+    "dDurationMs": 6959,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "revolucionario para no solo para\nColombia sino para el mundo. desde Sani.",
+      "acAsrConf": 0
+    } ]
+  } ]
+}

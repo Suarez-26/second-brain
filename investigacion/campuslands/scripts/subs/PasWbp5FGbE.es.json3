@@ -1,0 +1,180 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  }, {
+    "mhModeHint": 2,
+    "juJustifCode": 0,
+    "sdScrollDir": 3
+  } ],
+  "wpWinPositions": [ {
+  
+  }, {
+    "apPoint": 6,
+    "ahHorPos": 20,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  } ],
+  "events": [ {
+    "tStartMs": 0,
+    "id": 1,
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 710,
+    "dDurationMs": 11950,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "[Música]"
+    }, {
+      "utf8": "\nla secretaría competitividad estamos muy",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 9480,
+    "dDurationMs": 7500,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "felices de lograr generar esta sinergia\ncon estas grandes empresas nuestra",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 14519,
+    "dDurationMs": 6840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "apuesta hoy es formar mil jóvenes por\naño y estos",
+      "acAsrConf": 242
+    }, {
+      "utf8": " mil",
+      "acAsrConf": 197
+    }, {
+      "utf8": " jóvenes le van a",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 19380,
+    "dDurationMs": 6500,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "representar a esta ciudad más de un\nmillón de dólares mensuales en el primer",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 23699,
+    "dDurationMs": 2181,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "año",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 26460,
+    "dDurationMs": 6119,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "por eso un proyecto como campus\nrealmente nos emociona de sobremanera y",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 30480,
+    "dDurationMs": 5280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "es muy importante porque hace que\nestemos dentro del mapa para que",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 33960,
+    "dDurationMs": 5460,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "inversionistas nacionales e\ninternacionales sepan que tenemos como",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 37559,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "suplir la gran demanda de capital humano\nque tienen las empresas queremos seguir",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 42180,
+    "dDurationMs": 6300,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "invitando a los empresarios a que le\napuesten a esta iniciativa a que sigamos",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 46500,
+    "dDurationMs": 5219,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "trabajando en procesos de colaboración y\na que encuentren en zona franca",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 50280,
+    "dDurationMs": 5939,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Santander la mejor opción para la\ninstalación de sus inversiones",
+      "acAsrConf": 242
+    }, {
+      "utf8": " los",
+      "acAsrConf": 222
+    } ]
+  }, {
+    "tStartMs": 53579,
+    "dDurationMs": 8841,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "invitamos a ustedes",
+      "acAsrConf": 242
+    }, {
+      "utf8": " también",
+      "acAsrConf": 240
+    }, {
+      "utf8": "\na",
+      "acAsrConf": 241
+    }, {
+      "utf8": " creer a creer en zona franca Santander",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 58680,
+    "dDurationMs": 3740,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "para",
+      "acAsrConf": 242
+    }, {
+      "utf8": " exportar",
+      "acAsrConf": 236
+    }, {
+      "utf8": " sus servicios",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 64619,
+    "dDurationMs": 5781,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "en zona franca Santander los jóvenes\nestamos construyendo una nueva región",
+      "acAsrConf": 242
+    } ]
+  } ]
+}

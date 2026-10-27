@@ -1,0 +1,233 @@
+{
+  "main": {
+    "id": "7956cd8c725b1231",
+    "type": "split",
+    "children": [
+      {
+        "id": "4fd48e9fb72b1519",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1784790e9b6f8de9",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5bba8853e5ccd059",
+    "type": "split",
+    "children": [
+      {
+        "id": "61232e7d22649480",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dacda19455139afb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "24bba2f8ff733b48",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "da3e48cdafd6c4b0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "05d32d0de673ca33",
+    "type": "split",
+    "children": [
+      {
+        "id": "0e452693eb048482",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ace57e1426445a6b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes"
+            }
+          },
+          {
+            "id": "549c4b059669ea93",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes"
+            }
+          },
+          {
+            "id": "d6d7a91738280c0c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "f81c284894224694",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
+            }
+          },
+          {
+            "id": "f67870aa2e36799a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false
+    }
+  },
+  "active": "1784790e9b6f8de9",
+  "lastOpenFiles": [
+    "journal/2026-10-24.md",
+    "inbox/whatsapp/573247571239.md",
+    "investigacion/campuslands/corpus_youtube_podcasts/2026-00-00-jCJ4MWqgD_U-CampusLand.md",
+    "areas/cultura-camper.md",
+    "people/diego-tarazona.md",
+    "file:C:/Users/tomas/prueba/.agents/skills/gastos-personales/SKILL.md",
+    "projects/ahorro-portatil-2026.md",
+    "diego_investigacion/05_transcripciones/campuslands_062_transcripcion.md",
+    "diego_investigacion/05_transcripciones/campuslands_054_transcripcion.md",
+    "diego_investigacion/05_transcripciones/campuslands_053_transcripcion.md",
+    "diego_investigacion/05_transcripciones/campuslands_052_transcripcion.md",
+    "diego_investigacion/05_transcripciones/campuslands_051_transcripcion.md",
+    "diego_investigacion/05_transcripciones/campuslands_044_transcripcion.md",
+    "diego_investigacion/05_transcripciones/campuslands_036_transcripcion.md",
+    "diego_investigacion/05_transcripciones/campuslands_033_transcripcion.md",
+    "diego_investigacion/05_transcripciones/campuslands_026_transcripcion.md",
+    "diego_investigacion/05_transcripciones/campuslands_025_transcripcion.md",
+    "diego_instagram/README.md",
+    "diego_investigacion/04_videos_y_audios/campuslands_025_frames/frame_017.jpg",
+    "diego_investigacion/04_videos_y_audios/campuslands_025_frames/frame_016.jpg",
+    "diego_investigacion/04_videos_y_audios/campuslands_025_frames/frame_015.jpg",
+    "diego_investigacion/04_videos_y_audios/campuslands_025_frames/frame_014.jpg",
+    "diego_investigacion/04_videos_y_audios/campuslands_025_frames/frame_013.jpg",
+    "diego_investigacion/04_videos_y_audios/campuslands_025_frames/frame_012.jpg",
+    "diego_investigacion/04_videos_y_audios/campuslands_025_frames/frame_011.jpg",
+    "diego_investigacion/04_videos_y_audios/campuslands_025_frames/frame_010.jpg",
+    "diego_investigacion/04_videos_y_audios/campuslands_025_frames/frame_009.jpg",
+    "diego_investigacion/04_videos_y_audios/campuslands_025_frames/frame_008.jpg",
+    "sources/presentaciones/campus-magazine-may-2026-canva.md",
+    "sources/presentaciones",
+    "presentaciones/canva_slides/paginas",
+    "presentaciones/canva_slides/textos_crudos.json",
+    "presentaciones/canva_slides",
+    "automation/extract_canva.py",
+    "canva_raw_edit.txt",
+    "canva_raw_view.txt",
+    "linkedin/voz-diego/logica-de-razonamiento-diego.md",
+    "linkedin/banco-de-contenido/2026-10-20-ia-y-programadores-junior.md",
+    "people/_plantilla.md",
+    "diego_investigacion/README.md",
+    "automation/cloudflared.exe",
+    "automation/whatsapp_webhook_server.py",
+    "diego_investigacion/scripts/conectar_todo_el_grafo.py",
+    "organizaciones/README.md",
+    "organizaciones/cenisoft.md",
+    "organizaciones/procolombia.md"
+  ]
+}

@@ -1,0 +1,217 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  }, {
+    "mhModeHint": 2,
+    "juJustifCode": 0,
+    "sdScrollDir": 3
+  } ],
+  "wpWinPositions": [ {
+  
+  }, {
+    "apPoint": 6,
+    "ahHorPos": 20,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  } ],
+  "events": [ {
+    "tStartMs": 0,
+    "id": 1,
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 320,
+    "dDurationMs": 5320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Hola Nosotros somos campus L y el día de\nhoy queremos compartir con el consejo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 4160,
+    "dDurationMs": 5479,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "privado de competitividad en la\nuniversidad de Rosario nuestra",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 7440,
+    "dDurationMs": 6399,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "iniciativa nuestra iniciativa es un\nmodelo de movilidad social que se basa",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 11759,
+    "dDurationMs": 7081,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "en la educación de jóvenes en desarrollo\nde software habilidades blandas e inglés",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 16160,
+    "dDurationMs": 6520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "con miras a la ampliaba la iniciativa\ntiene que ver con la competitividad del",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 20359,
+    "dDurationMs": 5840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "territorio uno porque apoya la adopción\ntic jóvenes que tenían base cero",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 24760,
+    "dDurationMs": 5599,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "programación una vez se grabando el\ncolegio ingresen a nuestro programa de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 28000,
+    "dDurationMs": 7079,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "formación y en 10 meses están listos\npara el segundo Pilar que es la ampliaba",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 32559,
+    "dDurationMs": 6561,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y tercero en la internacionalización del\nterritorio y mercados porque estamos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 37520,
+    "dDurationMs": 5600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "trayendo empresas nacionales e\ninternacionales a que contraten nuestro",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 40879,
+    "dDurationMs": 7041,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "talento en los resultados registrados ya\nContamos con 120 jóvenes que se",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 45079,
+    "dDurationMs": 7041,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "contrataron en el año 2023 y 90 que ya\nhan contratado 35 empresas nacionales e",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 50440,
+    "dDurationMs": 5160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "internacionales en lo que va a corrido\ndel año el mayor reto en la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 53840,
+    "dDurationMs": 5640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "implementación es definitivamente la\nfinanciación de esta iniciativa social",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 57719,
+    "dDurationMs": 5840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hemos buscado patrocinadores a nivel\nnacional internacional Contamos con",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 61840,
+    "dDurationMs": 6760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "algunos de ellos pero siempre estamos\nbuscando más para ampliar la cobertura",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 65400,
+    "dDurationMs": 6399,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de nuestro programa es replicable en\notras regiones debido a que a hoy ya",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 70400,
+    "dDurationMs": 4800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Contamos con jóvenes de todo el\nterritorio nacional que toman la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 73320,
+    "dDurationMs": 6159,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "decisión de cruzar el país y venirse por\nun cupo de estas 400 sillas en campus l",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 77920,
+    "dDurationMs": 5680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "queremos replicarlo y ya tenemos un\nmodelo estructurado que se llama red",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 81560,
+    "dDurationMs": 7360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "campus Ah hoy tenemos uno en tib norte\nde Santander con 70 jóvenes y queremos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 85840,
+    "dDurationMs": 7040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "llegar con muchos más a los\nterritorios for",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 94030,
+    "dDurationMs": 4480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "[Música]"
+    } ]
+  } ]
+}

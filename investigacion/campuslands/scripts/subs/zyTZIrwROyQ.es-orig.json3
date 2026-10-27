@@ -1,0 +1,4451 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  }, {
+    "mhModeHint": 2,
+    "juJustifCode": 0,
+    "sdScrollDir": 3
+  } ],
+  "wpWinPositions": [ {
+  
+  }, {
+    "apPoint": 6,
+    "ahHorPos": 20,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  } ],
+  "events": [ {
+    "tStartMs": 0,
+    "id": 1,
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 0,
+    "dDurationMs": 6200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Es lo que como les decía al principio,\nhoy vamos a estar hablando sobre Cloud,"
+    } ]
+  }, {
+    "tStartMs": 4160,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Cloud AI, una inteligencia artificial\nque en los últimos días y también en los"
+    } ]
+  }, {
+    "tStartMs": 8240,
+    "dDurationMs": 7120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "últimos meses se ha vuelto super popular\nporque pues más allá de ser una"
+    } ]
+  }, {
+    "tStartMs": 13200,
+    "dDurationMs": 7840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "inteligencia artificial de toda la vida,\n¿cierto? Un chat, ya todos lo sabemos,"
+    } ]
+  }, {
+    "tStartMs": 18080,
+    "dDurationMs": 7640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "un chat donde yo me meto, eh la IA me\nresponde, ¿cierto? Además de eso ya en"
+    } ]
+  }, {
+    "tStartMs": 24000,
+    "dDurationMs": 5800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "clases pasadas hemos visto que podemos\ncrear agentes, que podemos crear"
+    } ]
+  }, {
+    "tStartMs": 27640,
+    "dDurationMs": 8760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "proyectos, que podemos, bueno, hacer\ndiferentes tipos de tareas, pero con la"
+    } ]
+  }, {
+    "tStartMs": 33840,
+    "dDurationMs": 7080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "con la limitación de que siempre es\ndentro del chat, ¿listo? Siempre es"
+    } ]
+  }, {
+    "tStartMs": 38640,
+    "dDurationMs": 6280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "dentro del chat. Entonces,\nllega a nosotros una inteligencia"
+    } ]
+  }, {
+    "tStartMs": 42600,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "artificial que se llama Cloud y los\ninvito a que ingresen todos y se creen"
+    } ]
+  }, {
+    "tStartMs": 47320,
+    "dDurationMs": 5560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "una cuenta, de pronto las personas que\nno tengan cuenta se los voy a compartir"
+    } ]
+  }, {
+    "tStartMs": 50600,
+    "dDurationMs": 8640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "aquí rápidamente por el chat.\nEl chat, ¿dónde está?"
+    } ]
+  }, {
+    "tStartMs": 56320,
+    "dDurationMs": 2920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "No veo el chat."
+    } ]
+  }, {
+    "tStartMs": 61600,
+    "dDurationMs": 6800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "No veo el chat, ¿qué pasa?\nTenemos problemas para actualizar."
+    } ]
+  }, {
+    "tStartMs": 66960,
+    "dDurationMs": 8280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Bueno, alguien del equipo, porfa, me\ncolabora ahí enviándoles"
+    } ]
+  }, {
+    "tStartMs": 71200,
+    "dDurationMs": 8360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "por el chat el link de Cloud, por favor.\nQue no sé qué pasa que no me deja, pero"
+    } ]
+  }, {
+    "tStartMs": 77360,
+    "dDurationMs": 7360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "bueno, entonces, lo que nos compete.\nProbablemente muchas muchos de ustedes"
+    } ]
+  }, {
+    "tStartMs": 81840,
+    "dDurationMs": 7600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "no tengan Cloud pago, obviamente,\nprobablemente un muy poco porcentaje de"
+    } ]
+  }, {
+    "tStartMs": 87960,
+    "dDurationMs": 7800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "las personas que utilizan inteligencia\nartificial sepan la el verdadero alcance"
+    } ]
+  }, {
+    "tStartMs": 92800,
+    "dDurationMs": 7560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que tiene esta herramienta. Y es que más\nallá de lo que simplemente me ofrece"
+    } ]
+  }, {
+    "tStartMs": 98280,
+    "dDurationMs": 8160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "dentro de la plataforma online, ¿cierto?\nDe Cloud.ai,"
+    } ]
+  }, {
+    "tStartMs": 103040,
+    "dDurationMs": 7840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Cloud nos ofrece un ecosistema completo\nde funcionalidades que integran los"
+    } ]
+  }, {
+    "tStartMs": 109280,
+    "dDurationMs": 6520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "modelos de inteligencia artificial de\nCloud. Entonces, para eso yo voy a estar"
+    } ]
+  }, {
+    "tStartMs": 113200,
+    "dDurationMs": 7480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "trabajando desde la aplicación web,\ndesde la, perdón, desde la aplicación de"
+    } ]
+  }, {
+    "tStartMs": 117760,
+    "dDurationMs": 6719,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "escritorio de Cloud, ¿listo? Entonces,\nmuy sencillo"
+    } ]
+  }, {
+    "tStartMs": 122200,
+    "dDurationMs": 7960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "para todas las personas,\nsimplemente con su cuenta de Cloud, eh"
+    } ]
+  }, {
+    "tStartMs": 127680,
+    "dDurationMs": 6760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "en la sección de configuración, van a\ncon, van a encontrar aquí la opción,"
+    } ]
+  }, {
+    "tStartMs": 133040,
+    "dDurationMs": 6280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "bueno,\npara eh instalar, ¿cierto? Bueno, no,"
+    } ]
+  }, {
+    "tStartMs": 137760,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "esto me metí por acá a un sitio\nsupertécnico, pero bueno."
+    } ]
+  }, {
+    "tStartMs": 141560,
+    "dDurationMs": 2680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Eh"
+    } ]
+  }, {
+    "tStartMs": 144520,
+    "dDurationMs": 4680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "O bueno, simplemente para que no se\nenreden,"
+    } ]
+  }, {
+    "tStartMs": 147480,
+    "dDurationMs": 5840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "podemos ir a buscar en el navegador\nCloud"
+    } ]
+  }, {
+    "tStartMs": 150440,
+    "dDurationMs": 5600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "desktop o Cloud escritorio, Cloud de\nescritorio."
+    } ]
+  }, {
+    "tStartMs": 156959,
+    "dDurationMs": 6681,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "¿Listo?\nY aquí nos va a salir como primera"
+    } ]
+  }, {
+    "tStartMs": 160600,
+    "dDurationMs": 7320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "opción para entrar a la, al link de\ncloud.com/download,"
+    } ]
+  }, {
+    "tStartMs": 165680,
+    "dDurationMs": 7120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que es donde nos permite descargar la\naplicación, ¿listo? Pero entonces,"
+    } ]
+  }, {
+    "tStartMs": 169920,
+    "dDurationMs": 7160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "venga, Santiago, ¿qué es lo que a mí me\npermite, o bueno, lo que las"
+    } ]
+  }, {
+    "tStartMs": 174720,
+    "dDurationMs": 6360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "funcionalidades que a mí me trae, pues\neso, la posibilidad de yo descargar"
+    } ]
+  }, {
+    "tStartMs": 178959,
+    "dDurationMs": 5921,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Cloud en mi computador? Y son\nmuchísimas, son muchísimas porque, como"
+    } ]
+  }, {
+    "tStartMs": 183080,
+    "dDurationMs": 5080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "les digo al principio, Cloud es mucho\nmás allá que un simple chat al que tú le"
+    } ]
+  }, {
+    "tStartMs": 186440,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "preguntas y te responde. Cloud es una\ninteligencia artificial que tiene la"
+    } ]
+  }, {
+    "tStartMs": 189920,
+    "dDurationMs": 7440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "capacidad, por medio de ciertas eh\nherramientas, de convertirse en un"
+    } ]
+  }, {
+    "tStartMs": 195239,
+    "dDurationMs": 6241,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ecosistema completo. Entonces, vamos a\niniciar muy rápido y de, de pronto, no"
+    } ]
+  }, {
+    "tStartMs": 200080,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "todos, como les digo, no todos van a\npoder acceder a eh utilizar las"
+    } ]
+  }, {
+    "tStartMs": 204959,
+    "dDurationMs": 6161,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "funcionalidades que vamos a utilizar,\nporque son funcionalidades que requieren"
+    } ]
+  }, {
+    "tStartMs": 208160,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "el plan pago. Pero el objetivo de esta\nclase del día de hoy no es tanto que"
+    } ]
+  }, {
+    "tStartMs": 213160,
+    "dDurationMs": 5960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "todos ustedes\nlo hagan, porque precisamente, como les"
+    } ]
+  }, {
+    "tStartMs": 217280,
+    "dDurationMs": 6440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "digo, es, es una IA que no es muy\npopular para gente del día a día que la"
+    } ]
+  }, {
+    "tStartMs": 221519,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pague, pero se requiere que ustedes\nempiecen a pensar en hacer ese gasto."
+    } ]
+  }, {
+    "tStartMs": 226280,
+    "dDurationMs": 6760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Y eso, eso es algo que hay que tener\ndesde ya claro. Las personas que, de"
+    } ]
+  }, {
+    "tStartMs": 231200,
+    "dDurationMs": 7400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pronto, aquí estén en desacuerdo, y esto\nva a sonar duro, pero yo soy así. Pero"
+    } ]
+  }, {
+    "tStartMs": 235440,
+    "dDurationMs": 7080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "entonces, las personas que acá crean que\npagar inteligencia artificial es un"
+    } ]
+  }, {
+    "tStartMs": 240560,
+    "dDurationMs": 5640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "lujo, que pagar inteligencia artificial\nes botar la plata o que pagar"
+    } ]
+  }, {
+    "tStartMs": 244440,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "inteligencia artificial simplemente es\nun gasto más, por por favor, denle al"
+    } ]
+  }, {
+    "tStartMs": 248680,
+    "dDurationMs": 6279,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "botón de salir de la llamada, porque\naquí quiero que haya solo personas que"
+    } ]
+  }, {
+    "tStartMs": 252840,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "entiendan ese valor que nos entrega la\ninteligencia artificial a diario para"
+    } ]
+  }, {
+    "tStartMs": 257120,
+    "dDurationMs": 7360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "nuestro trabajo y que realmente esos 20\ndólares que cuesta esta herramienta no"
+    } ]
+  }, {
+    "tStartMs": 261519,
+    "dDurationMs": 6961,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sé no no equivalen para nada a la\ncantidad de funcionalidades y cantidad"
+    } ]
+  }, {
+    "tStartMs": 266240,
+    "dDurationMs": 5520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de cosas que yo puedo empezar a hacer en\nmi día a día, pues, en el trabajo."
+    } ]
+  }, {
+    "tStartMs": 270120,
+    "dDurationMs": 6200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "¿Listo? Entonces,\ncuando ustedes vengan y descarguen eh la"
+    } ]
+  }, {
+    "tStartMs": 274440,
+    "dDurationMs": 5400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "aplicación de Cloud, van a encontrar en\nla parte superior izquierda una barra de"
+    } ]
+  }, {
+    "tStartMs": 278520,
+    "dDurationMs": 4720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "navegación, ¿cierto? Como todas las\ninteligencias artificiales, a la"
+    } ]
+  }, {
+    "tStartMs": 281720,
+    "dDurationMs": 5680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "izquierda siempre está la barra de\nnavegación, en el centro tenemos el"
+    } ]
+  }, {
+    "tStartMs": 285480,
+    "dDurationMs": 7000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "chat. Pero entonces, aquí en esta barra\nde navegación, en la parte superior"
+    } ]
+  }, {
+    "tStartMs": 289960,
+    "dDurationMs": 6959,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "izquierda, tenemos tres botoncitos,\n¿cierto? Tenemos el botón de chat, que"
+    } ]
+  }, {
+    "tStartMs": 294800,
+    "dDurationMs": 5480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "es el chat de toda la vida. Tenemos el\nsegundo, la segunda opción que nos dice"
+    } ]
+  }, {
+    "tStartMs": 298880,
+    "dDurationMs": 6080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Cowork.\nCowork, nos dice Cloud Cowork, y luego"
+    } ]
+  }, {
+    "tStartMs": 302880,
+    "dDurationMs": 8320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tenemos la tercera opción que nos dice\nCloud Code. Entonces, vemos que al yo"
+    } ]
+  }, {
+    "tStartMs": 308440,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pagar mi suscripción de 20 dólares de\nCloud, ellos me entregan a mí no solo un"
+    } ]
+  }, {
+    "tStartMs": 313240,
+    "dDurationMs": 4920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "chat, sino me entregan dos\nfuncionalidades más de inteligencia"
+    } ]
+  }, {
+    "tStartMs": 316560,
+    "dDurationMs": 5280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "artificial que me permiten a mí\nexpandirme. Ojo, ¿qué puedo hacer yo con"
+    } ]
+  }, {
+    "tStartMs": 320560,
+    "dDurationMs": 5160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "esta IA?\nEntonces,"
+    } ]
+  }, {
+    "tStartMs": 323520,
+    "dDurationMs": 7280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vemos que ya no es solo un producto, no\nes solo Cloud, ¿cierto? Es Cloud Chat,"
+    } ]
+  }, {
+    "tStartMs": 328840,
+    "dDurationMs": 7320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "un chat como el ChatGPT de toda la vida\nque ustedes conocen. Luego tenemos Cloud"
+    } ]
+  }, {
+    "tStartMs": 333600,
+    "dDurationMs": 7240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Cowork, que también es un chat, pero que\nla diferencia, ojo muy bien acá, la"
+    } ]
+  }, {
+    "tStartMs": 338320,
+    "dDurationMs": 8000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "diferencia de este chat es que este chat\ntiene acceso a los archivos que nosotros"
+    } ]
+  }, {
+    "tStartMs": 344440,
+    "dDurationMs": 6120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tengamos en nuestro computador. ¿Cómo\nfunciona esto? Si ustedes se fijan,"
+    } ]
+  }, {
+    "tStartMs": 347720,
+    "dDurationMs": 7480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "estoy en la en la pantalla inicial de\nCloud Cowork, donde estoy recuerden que"
+    } ]
+  }, {
+    "tStartMs": 353400,
+    "dDurationMs": 7000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "no estoy desde la página, estoy desde la\naplicación de Cloud y ojo, estén todos"
+    } ]
+  }, {
+    "tStartMs": 358480,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "muy pendientes a mi pantalla para que\nustedes vean todas estas"
+    } ]
+  }, {
+    "tStartMs": 361880,
+    "dDurationMs": 6120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "funcionalidades, porque como les digo,\nlo importante de aquí es que ustedes"
+    } ]
+  }, {
+    "tStartMs": 365800,
+    "dDurationMs": 5840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vean y entiendan el alcance que puede\nllegar a tener esto para que ustedes"
+    } ]
+  }, {
+    "tStartMs": 369560,
+    "dDurationMs": 5320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "piensen en comprarlo y también piensen\nen adquirir unas de nuestras formaciones"
+    } ]
+  }, {
+    "tStartMs": 373480,
+    "dDurationMs": 6360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "especializadas nuevas que estamos\nsacando en Cloud para que ustedes no se"
+    } ]
+  }, {
+    "tStartMs": 376720,
+    "dDurationMs": 7840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "queden atrás. Entonces, Cloud ya sabemos\nson tres, es un ecosistema de tres"
+    } ]
+  }, {
+    "tStartMs": 381480,
+    "dDurationMs": 8400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "funcionalidades clave, son Cloud Chat de\ntoda la vida, Cloud Cowork y luego"
+    } ]
+  }, {
+    "tStartMs": 387320,
+    "dDurationMs": 8160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tenemos Cloud Code, pero entonces vamos\na ver cuál es esa diferencia de Cloud"
+    } ]
+  }, {
+    "tStartMs": 392400,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Cowork con mi Cloud de toda la vida. Y\nsi ustedes se fijan acá, debajo del"
+    } ]
+  }, {
+    "tStartMs": 397320,
+    "dDurationMs": 5720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "chat, tengo un botoncito que me dice\ntrabajar en un proyecto. De pronto las"
+    } ]
+  }, {
+    "tStartMs": 401600,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "personas que ya han asistido a otras de\nmis capacitaciones ya tienen una noción"
+    } ]
+  }, {
+    "tStartMs": 405720,
+    "dDurationMs": 7120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de qué es un proyecto, no vamos a\nindagar mucho en eso, pero un proyecto"
+    } ]
+  }, {
+    "tStartMs": 410200,
+    "dDurationMs": 9480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "es para un tema, ¿cierto? Para\ncotizaciones, eh propuestas, em no sé,"
+    } ]
+  }, {
+    "tStartMs": 418120,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "bueno, para temas específicos de mi\ntrabajo. No quiero extenderme mucho"
+    } ]
+  }, {
+    "tStartMs": 421840,
+    "dDurationMs": 8360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "porque la idea es recorrer Cloud,\n¿listo? Entonces, yo puedo trabajar con"
+    } ]
+  }, {
+    "tStartMs": 427040,
+    "dDurationMs": 8000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "proyectos que yo tenga creados dentro de\nCloud, recordemos que una de las"
+    } ]
+  }, {
+    "tStartMs": 431960,
+    "dDurationMs": 7840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "funcionalidades básicas de Cloud y esta\nsí tenemos acceso desde el panel web,"
+    } ]
+  }, {
+    "tStartMs": 437240,
+    "dDurationMs": 7240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "aquí estoy en la web, si se fijan, a la\nizquierda tenemos los proyectos."
+    } ]
+  }, {
+    "tStartMs": 442200,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Entonces, aquí es donde yo creo los\ndiferentes proyectos en los que yo"
+    } ]
+  }, {
+    "tStartMs": 445960,
+    "dDurationMs": 8280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "trabajo. Como les digo, si cuando yo me\nvoy vengo a crear un nuevo proyecto, por"
+    } ]
+  }, {
+    "tStartMs": 450200,
+    "dDurationMs": 9560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ejemplo, eh inversiones,\n¿listo? Eh mmm un asistente"
+    } ]
+  }, {
+    "tStartMs": 458440,
+    "dDurationMs": 6840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "para\neh que me ayude?"
+    } ]
+  }, {
+    "tStartMs": 462640,
+    "dDurationMs": 5880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "A tomar decisiones\nEh, financieras."
+    } ]
+  }, {
+    "tStartMs": 471360,
+    "dDurationMs": 6520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Es a\nVersión. ¿Listo? Entonces, me creo un"
+    } ]
+  }, {
+    "tStartMs": 476000,
+    "dDurationMs": 6800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "nuevo proyecto y así como recordareis\nrápido, un proyecto es un chat, pero con"
+    } ]
+  }, {
+    "tStartMs": 480440,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "la diferencia de que ese chat, ojo, tres\ncosas. Número uno, diferencia de los"
+    } ]
+  }, {
+    "tStartMs": 484760,
+    "dDurationMs": 5440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "proyectos con el chat normal.\nEl proyecto yo le puedo poner unas"
+    } ]
+  }, {
+    "tStartMs": 488600,
+    "dDurationMs": 5280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "instrucciones\n¿Cierto? ¿Qué hago con estas"
+    } ]
+  }, {
+    "tStartMs": 491560,
+    "dDurationMs": 6840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "instrucciones? Puedo centrar a la IA que\nhaga lo que yo quiera. O sea, que"
+    } ]
+  }, {
+    "tStartMs": 496360,
+    "dDurationMs": 6360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "responda como yo quiero, que siga el\npaso a paso que yo quiero, que tenga la"
+    } ]
+  }, {
+    "tStartMs": 500640,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "personalidad que yo quiero. Entonces, yo\nle puedo dar las instrucciones para que"
+    } ]
+  }, {
+    "tStartMs": 504480,
+    "dDurationMs": 6960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ella haga lo que yo quiero. Entonces,\nesto es como el cerebro literalmente de"
+    } ]
+  }, {
+    "tStartMs": 509280,
+    "dDurationMs": 6680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "la IA. Ya no es una IA generalista, sino\nque es una IA con unas instrucciones. Y"
+    } ]
+  }, {
+    "tStartMs": 513840,
+    "dDurationMs": 7319,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "más allá de eso, tengo los archivos que\nme permiten a mí darle contexto sobre"
+    } ]
+  }, {
+    "tStartMs": 518719,
+    "dDurationMs": 6401,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ese trabajo. Entonces, En este caso, que\nyo voy a hacer inversiones, ¿qué podría"
+    } ]
+  }, {
+    "tStartMs": 523200,
+    "dDurationMs": 6520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "yo cargar acá? Por ejemplo, si tengo un\nproyecto de emprendimiento, yo cargaría"
+    } ]
+  }, {
+    "tStartMs": 527480,
+    "dDurationMs": 5200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ahí, en este caso, archivos que tengan\nque ver con ese proyecto de"
+    } ]
+  }, {
+    "tStartMs": 530920,
+    "dDurationMs": 6919,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "emprendimiento, para que la IA lo\nutilice como contexto. Entonces, estos"
+    } ]
+  }, {
+    "tStartMs": 535280,
+    "dDurationMs": 7559,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "son los proyectos, ¿no? Voy a enfatizar\nmucho, porque eso es tema que ha sido de"
+    } ]
+  }, {
+    "tStartMs": 539720,
+    "dDurationMs": 6800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "otras capacitaciones, pero entonces,\nVolviendo y regresando a Cloud CoWork,"
+    } ]
+  }, {
+    "tStartMs": 545400,
+    "dDurationMs": 4720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "si ustedes se fijan, me voy a la\nizquierda siempre, al botoncito de Cloud"
+    } ]
+  }, {
+    "tStartMs": 549040,
+    "dDurationMs": 4160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "CoWork.\n¿Listo?"
+    } ]
+  }, {
+    "tStartMs": 551200,
+    "dDurationMs": 7800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Entonces, volvemos. Aquí me permite a mí\nelegir un proyecto en el que yo quiero"
+    } ]
+  }, {
+    "tStartMs": 555920,
+    "dDurationMs": 6840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Trabajar, ¿cierto? Pero más allá de eso,\nyo puedo elegir una carpeta de mi"
+    } ]
+  }, {
+    "tStartMs": 561240,
+    "dDurationMs": 5680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "computador\nEn la cual yo quiero que Cloud tenga"
+    } ]
+  }, {
+    "tStartMs": 564839,
+    "dDurationMs": 6721,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "acceso. Por ejemplo, aquí le voy a dar\nacceso a Cloud a mi carpeta de"
+    } ]
+  }, {
+    "tStartMs": 569440,
+    "dDurationMs": 7880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "descargas. Entonces, aquí me dice,\n\"¿Permitir que Cloud modifique archivos"
+    } ]
+  }, {
+    "tStartMs": 573640,
+    "dDurationMs": 6520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "en descargas?\" En este caso, eh, toda la\ninformación"
+    } ]
+  }, {
+    "tStartMs": 578760,
+    "dDurationMs": 5320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a el el va a tener acceso,\nevidentemente."
+    } ]
+  }, {
+    "tStartMs": 581640,
+    "dDurationMs": 5600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Pues es algo que me da a mí muchísimo\nmás caso de uso. Vamos a imaginarnos un"
+    } ]
+  }, {
+    "tStartMs": 586120,
+    "dDurationMs": 5680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "caso de uso.\nUsted en su carpeta de descargas tiene"
+    } ]
+  }, {
+    "tStartMs": 589800,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "un montón de facturas. Yo de hecho tengo\nesta esta este ejemplo para que lo"
+    } ]
+  }, {
+    "tStartMs": 594040,
+    "dDurationMs": 5160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hagamos aquí rápidamente.\nVoy a buscar unas facturas que tengo"
+    } ]
+  }, {
+    "tStartMs": 597600,
+    "dDurationMs": 4560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "escaneadas por acá. Mira, por ejemplo,\nesto."
+    } ]
+  }, {
+    "tStartMs": 600280,
+    "dDurationMs": 7680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Ahí creo que sí se ve.\nEsto es un tiquete que lo tengo"
+    } ]
+  }, {
+    "tStartMs": 605200,
+    "dDurationMs": 7120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "escaneado. ¿Qué necesitaría yo? Hagamos\nde cuenta, yo tengo en mi carpeta de"
+    } ]
+  }, {
+    "tStartMs": 609800,
+    "dDurationMs": 7360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "descargas 20 facturas y yo esas 20\nfacturas necesito convertirlas, bueno,"
+    } ]
+  }, {
+    "tStartMs": 615040,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pasarlas o redactarlas en un Excel,\n¿cierto? Con los diferentes registros,"
+    } ]
+  }, {
+    "tStartMs": 619160,
+    "dDurationMs": 8440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "lo cuánto fue el monto del pago. Yo\npuedo utilizar Cloud CoWork para esto."
+    } ]
+  }, {
+    "tStartMs": 624720,
+    "dDurationMs": 6600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Entonces, ahí vemos el ya el alcance de\nmás que me da Cloud CoWork. No solo"
+    } ]
+  }, {
+    "tStartMs": 629760,
+    "dDurationMs": 5320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "puedo trabajar en un chat que está en\nuna página web, sino que además ahora"
+    } ]
+  }, {
+    "tStartMs": 633840,
+    "dDurationMs": 4880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "puedo hacer que la inteligencia\ninteligencia artificial tenga acceso a"
+    } ]
+  }, {
+    "tStartMs": 637120,
+    "dDurationMs": 5120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mis documentos. Entonces, voy a hacer el\nejemplo."
+    } ]
+  }, {
+    "tStartMs": 640000,
+    "dDurationMs": 7400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Le voy a decir, estos son principios\nbásicos de prompting, pero como ya les"
+    } ]
+  }, {
+    "tStartMs": 643920,
+    "dDurationMs": 9120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "he dicho, los prompts inicien siempre no\ncon hola, buenos días, no con ¿me puedes"
+    } ]
+  }, {
+    "tStartMs": 650080,
+    "dDurationMs": 7000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ayudar con tal cosa? No con, eh,\npidiendo favor, buenos días, hola. Con"
+    } ]
+  }, {
+    "tStartMs": 655040,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "todas esas cosas de humanos no nos\ninteresan acá. Las indicaciones para"
+    } ]
+  }, {
+    "tStartMs": 659000,
+    "dDurationMs": 5680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "inteligencia artificial, o llévense\nesto, empiezan siempre con un verbo."
+    } ]
+  }, {
+    "tStartMs": 663240,
+    "dDurationMs": 4680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Entonces, en este caso, ¿qué es lo que\ntenemos que hacer? Una acción que es"
+    } ]
+  }, {
+    "tStartMs": 666320,
+    "dDurationMs": 7200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "analizar. Entonces, le voy a decir yo,\nanaliza mi carpeta"
+    } ]
+  }, {
+    "tStartMs": 670640,
+    "dDurationMs": 7880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de descargas.\nEm,"
+    } ]
+  }, {
+    "tStartMs": 675720,
+    "dDurationMs": 7119,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "voy a decirle que\nti ti ti ti ti ti tin."
+    } ]
+  }, {
+    "tStartMs": 681200,
+    "dDurationMs": 5080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Yo tenía unas que eran que eran con\nnombre"
+    } ]
+  }, {
+    "tStartMs": 684120,
+    "dDurationMs": 5120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "por aquí. Regálenme un segundo, las\nbusco."
+    } ]
+  }, {
+    "tStartMs": 687400,
+    "dDurationMs": 6080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Rápidamente. Qué pena ahí yo\nmostrándoles a todos mi carpeta de"
+    } ]
+  }, {
+    "tStartMs": 690840,
+    "dDurationMs": 2640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "descargas."
+    } ]
+  }, {
+    "tStartMs": 693560,
+    "dDurationMs": 4440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Pero\nvamos a ver. Entonces,"
+    } ]
+  }, {
+    "tStartMs": 696560,
+    "dDurationMs": 4600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mmm\npara que no se demore tanto, porque si"
+    } ]
+  }, {
+    "tStartMs": 699520,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "no se va a demorar un montón,\nvoy a pasarle directamente el"
+    } ]
+  }, {
+    "tStartMs": 703760,
+    "dDurationMs": 5360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "el nombre, ¿sí? Pero para que hagamos el\nejemplo, yo esto lo podría hacer con 20"
+    } ]
+  }, {
+    "tStartMs": 707720,
+    "dDurationMs": 4200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "facturas. Por ejemplo, si tienes una\ncarpeta donde están las 20 facturas"
+    } ]
+  }, {
+    "tStartMs": 710840,
+    "dDurationMs": 4240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "metidas,\no bueno, vamos a hacer eso. Voy a"
+    } ]
+  }, {
+    "tStartMs": 713400,
+    "dDurationMs": 6440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "crearme una carpetica\ndonde"
+    } ]
+  }, {
+    "tStartMs": 716440,
+    "dDurationMs": 3400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "dentro de descargas"
+    } ]
+  }, {
+    "tStartMs": 721560,
+    "dDurationMs": 7360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "e-facturas.\n¿Listo? Y aquí tengo mis facturas"
+    } ]
+  }, {
+    "tStartMs": 726520,
+    "dDurationMs": 6440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "escaneadas, ¿cierto? Son imágenes, no\nson PDFs ni nada."
+    } ]
+  }, {
+    "tStartMs": 731080,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "¿Qué voy a hacer? En Cloud\nvoy a venir"
+    } ]
+  }, {
+    "tStartMs": 734160,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y voy a\na seleccionar la carpeta en la que voy a"
+    } ]
+  }, {
+    "tStartMs": 739240,
+    "dDurationMs": 5320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "trabajar, ¿listo? Entonces, descargas,\nen este caso facturas, voy a"
+    } ]
+  }, {
+    "tStartMs": 742440,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "seleccionarla. Ya ahí, en este caso,\nCloud CoWork"
+    } ]
+  }, {
+    "tStartMs": 746160,
+    "dDurationMs": 5960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "eh\nentonces, tiene acceso a mi carpeta de"
+    } ]
+  }, {
+    "tStartMs": 750640,
+    "dDurationMs": 4480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "facturas. En\neste caso, analiza mi carpeta de"
+    } ]
+  }, {
+    "tStartMs": 753560,
+    "dDurationMs": 5800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "facturas\neh una por una,"
+    } ]
+  }, {
+    "tStartMs": 758160,
+    "dDurationMs": 4480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "su objetivo\nes"
+    } ]
+  }, {
+    "tStartMs": 761200,
+    "dDurationMs": 4880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "construir\nmmm una hoja Excel"
+    } ]
+  }, {
+    "tStartMs": 766360,
+    "dDurationMs": 9240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "con eh un registro\npor cada factura encontrada."
+    } ]
+  }, {
+    "tStartMs": 774280,
+    "dDurationMs": 4360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "¿Listo? Pero entonces, no solo le voy a\ndecir eso, además tengo que darle más"
+    } ]
+  }, {
+    "tStartMs": 777160,
+    "dDurationMs": 9560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "detalles de cómo quiero ese Excel.\nEntonces, quiero eh en las columnas"
+    } ]
+  }, {
+    "tStartMs": 783200,
+    "dDurationMs": 7600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "eh número de factura,\nnúmero de factura, ¿qué más? Eh detalle,"
+    } ]
+  }, {
+    "tStartMs": 789480,
+    "dDurationMs": 5200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "puede ser,\nmmm establecimiento,"
+    } ]
+  }, {
+    "tStartMs": 795240,
+    "dDurationMs": 5720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "eh valor,\nvalor total"
+    } ]
+  }, {
+    "tStartMs": 798800,
+    "dDurationMs": 4360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y fecha, vamos a poner la fecha.\n¿Listo?"
+    } ]
+  }, {
+    "tStartMs": 802360,
+    "dDurationMs": 3080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Fecha.\nEntonces,"
+    } ]
+  }, {
+    "tStartMs": 804080,
+    "dDurationMs": 4880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ahí voy a enviar ese prompt, muy\nsencillo."
+    } ]
+  }, {
+    "tStartMs": 806560,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Recordemos que tenemos tres modelos de\ninteligencia artificial que yo puedo"
+    } ]
+  }, {
+    "tStartMs": 810160,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "utilizar con Cloud. Eso es una analogía\nque hago siempre. Los modelos de"
+    } ]
+  }, {
+    "tStartMs": 814320,
+    "dDurationMs": 5960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "inteligencia artificial en todas las IAs\nvamos a encontrar tres, uno básico, uno"
+    } ]
+  }, {
+    "tStartMs": 818800,
+    "dDurationMs": 6360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "intermedio, que es el que hay que usar\nen el día a día, y uno pro, que es el"
+    } ]
+  }, {
+    "tStartMs": 822480,
+    "dDurationMs": 5920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que hay que usar para esas tareas que\nson de que requieren más capacidad de"
+    } ]
+  }, {
+    "tStartMs": 826800,
+    "dDurationMs": 6960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "análisis, que requieren más detalle. En\neste caso voy a utilizar Sonnet 4.6, que"
+    } ]
+  }, {
+    "tStartMs": 831440,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "es el modelo de medio. Es un modelo muy\nbueno, es un modelo muy potente, pero es"
+    } ]
+  }, {
+    "tStartMs": 835840,
+    "dDurationMs": 6680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "un modelo que está bien para tareas de\nese estilo, tareas que no requieren"
+    } ]
+  }, {
+    "tStartMs": 839360,
+    "dDurationMs": 6800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tantísimo poder porque\npues obvio, es como entregar un"
+    } ]
+  }, {
+    "tStartMs": 844280,
+    "dDurationMs": 4840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "domicilio en una camioneta. Pues\nobviamente no lo vamos a hacer, ¿no? Los"
+    } ]
+  }, {
+    "tStartMs": 847920,
+    "dDurationMs": 4640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "domicilios pues los entregamos en una\nmoto. Entonces no es necesario una"
+    } ]
+  }, {
+    "tStartMs": 850720,
+    "dDurationMs": 6200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "camioneta para entregar un domicilio. En\neste caso no es necesario un modelo tan"
+    } ]
+  }, {
+    "tStartMs": 854280,
+    "dDurationMs": 7320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "potente para una tarea tan, en este\ncaso, normal. Entonces utilizamos el"
+    } ]
+  }, {
+    "tStartMs": 858960,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "modelo Sonnet 4.6. Siempre van a\nencontrar tres modelos en la IA que"
+    } ]
+  }, {
+    "tStartMs": 863200,
+    "dDurationMs": 7680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "utilicen, pero pues dependiendo de la\ntarea, ese ese eh hay que desarrollar"
+    } ]
+  }, {
+    "tStartMs": 868560,
+    "dDurationMs": 6800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ese ese conocimiento de saber qué modelo\nutilizo, en qué tareas, ¿no? Esa es otra"
+    } ]
+  }, {
+    "tStartMs": 873280,
+    "dDurationMs": 5320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cosa que hay que tener en cuenta. No es\nsolo hablar con la IA, si ustedes se"
+    } ]
+  }, {
+    "tStartMs": 876640,
+    "dDurationMs": 8560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "fijan, no es solo escribir prompts\nbonitos, sino también es encontrar"
+    } ]
+  }, {
+    "tStartMs": 881680,
+    "dDurationMs": 8720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "esos casos de uso preciso en en los que\ncierta cierto modelo me puede ayudar"
+    } ]
+  }, {
+    "tStartMs": 887040,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mejor que otro modelo, ¿listo? Entonces\nen este caso, pues como les digo, esto"
+    } ]
+  }, {
+    "tStartMs": 891880,
+    "dDurationMs": 6200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "es una demostración rápida con el fin de\nmostrarles a ustedes el alcance."
+    } ]
+  }, {
+    "tStartMs": 895440,
+    "dDurationMs": 7520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Entonces, número uno, ya lo vimos, Cloud\nCode Work tiene acceso a mis documentos"
+    } ]
+  }, {
+    "tStartMs": 901120,
+    "dDurationMs": 6280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y yo lo puedo dejar ahí trabajando y\nexplicarles a ustedes más de lo que me"
+    } ]
+  }, {
+    "tStartMs": 905640,
+    "dDurationMs": 7480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "puede ayudar Cloud Code Work. Esto es\nuna tarea simple, pero lo que lleva"
+    } ]
+  }, {
+    "tStartMs": 910480,
+    "dDurationMs": 7359,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Cloud Code Work al siguiente nivel, nos\nvamos a la car eh perdón, al panel de"
+    } ]
+  }, {
+    "tStartMs": 915839,
+    "dDurationMs": 6201,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "navegación izquierdo, ya lo conocemos,\nRaquel, te conocemos, ¿cierto? Hay una"
+    } ]
+  }, {
+    "tStartMs": 919640,
+    "dDurationMs": 6960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pestañita que dice Customize o\ncustomizar, personalizar Cloud. Si nos"
+    } ]
+  }, {
+    "tStartMs": 924640,
+    "dDurationMs": 7320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vamos aquí a la izquierda vemos dos\ncosas muy muy importantes y muy"
+    } ]
+  }, {
+    "tStartMs": 928680,
+    "dDurationMs": 8560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "interesantes y que de verdad le dan el\ndiferenciador a Cloud. Una de ellas son"
+    } ]
+  }, {
+    "tStartMs": 933840,
+    "dDurationMs": 7640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "los conectores, ¿listo? Los conectores.\nY esto no lo tiene prácticamente ninguna"
+    } ]
+  }, {
+    "tStartMs": 939640,
+    "dDurationMs": 7160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "otra inteligencia artificial, es algo\nnovedoso de Cloud y no solo es novedoso"
+    } ]
+  }, {
+    "tStartMs": 944400,
+    "dDurationMs": 7040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "el hecho de conectores, sino también\npues el hecho de cómo funciona, lo bien"
+    } ]
+  }, {
+    "tStartMs": 949440,
+    "dDurationMs": 7080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que funciona. Entonces, ¿qué son esos\nconectores? Bueno, como dice la palabra,"
+    } ]
+  }, {
+    "tStartMs": 953680,
+    "dDurationMs": 7320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "conectan a Cloud con diferentes\naplicaciones que yo utilizo en mi día a"
+    } ]
+  }, {
+    "tStartMs": 959040,
+    "dDurationMs": 7440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "día. Entonces, si vengo acá a explorar\nconectores, aquí me salen todos los"
+    } ]
+  }, {
+    "tStartMs": 963480,
+    "dDurationMs": 7960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "conectores que puede utilizar Cloud.\n¿Qué significa eso? Que usted puede"
+    } ]
+  }, {
+    "tStartMs": 968960,
+    "dDurationMs": 8240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "conectar la inteligencia artificial que\nusted tiene con ese servicio que usted"
+    } ]
+  }, {
+    "tStartMs": 974160,
+    "dDurationMs": 7640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "utiliza todos los días. No, yo respondo\ncorreos todos los días, entonces"
+    } ]
+  }, {
+    "tStartMs": 979400,
+    "dDurationMs": 6439,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "conéctelo con Gmail. No, yo quiero que\nme organice el Google Drive, conéctelo"
+    } ]
+  }, {
+    "tStartMs": 983440,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "con Google Drive. Y así hay un montón,\npor ejemplo, para la gente que utiliza"
+    } ]
+  }, {
+    "tStartMs": 987280,
+    "dDurationMs": 6800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "no Google, sino utiliza Microsoft 365,\ntambién tienen un conector para"
+    } ]
+  }, {
+    "tStartMs": 992440,
+    "dDurationMs": 5280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "conectarlo precisamente con todas las\nfuncionalidades del ecosistema de"
+    } ]
+  }, {
+    "tStartMs": 995520,
+    "dDurationMs": 7200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Microsoft, como Teams, como tu agenda,\ncomo Outlook, como dice acá, SharePoint,"
+    } ]
+  }, {
+    "tStartMs": 1000360,
+    "dDurationMs": 7240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "OneDrive, todo el ecosistema, en este\ncaso, de Microsoft 365. ¿Listo?"
+    } ]
+  }, {
+    "tStartMs": 1005120,
+    "dDurationMs": 8040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Entonces, imagínese usted poder pedirle\na Cloud que vaya y le traiga el resumen"
+    } ]
+  }, {
+    "tStartMs": 1011040,
+    "dDurationMs": 7760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de sus últimos 10 correos. O, por\nejemplo, gente que trabaja en tema de"
+    } ]
+  }, {
+    "tStartMs": 1015200,
+    "dDurationMs": 9759,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "recursos humanos, ¿cierto? Que reci- que\nresuelve como eh consultas, ¿cierto?"
+    } ]
+  }, {
+    "tStartMs": 1021800,
+    "dDurationMs": 6840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Tickets. Entonces, se arman muchas veces\nunos correos que son unos hilos,"
+    } ]
+  }, {
+    "tStartMs": 1027240,
+    "dDurationMs": 5680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "entonces la persona tiene que leer el\ncorreo entero para saber qué responder."
+    } ]
+  }, {
+    "tStartMs": 1030640,
+    "dDurationMs": 7679,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "En este caso, se podría conectarlo con\nsu correo y pedirle que le resuma esos"
+    } ]
+  }, {
+    "tStartMs": 1035600,
+    "dDurationMs": 7440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ese hilo de 20 mensajes y le diga qué\nresponder. Entonces, eh los conectores"
+    } ]
+  }, {
+    "tStartMs": 1040800,
+    "dDurationMs": 5840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "me permiten a mí, precisamente,\nconectarme, hacer un puente con esas"
+    } ]
+  }, {
+    "tStartMs": 1044560,
+    "dDurationMs": 6520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "aplicaciones que yo uso todos los días\npara que la IA haga ese trabajo por mí."
+    } ]
+  }, {
+    "tStartMs": 1049200,
+    "dDurationMs": 6760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Y ya vamos a ver un caso de uso\nespecífico, por ejemplo, con, en este"
+    } ]
+  }, {
+    "tStartMs": 1054000,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "caso, el Google Drive, ¿cierto?\nEntonces, ¿qué voy a hacer acá?"
+    } ]
+  }, {
+    "tStartMs": 1058440,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Primero vamos a ver el resultado\nde lo que hicimos ahorita."
+    } ]
+  }, {
+    "tStartMs": 1062360,
+    "dDurationMs": 5680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Vamos a ver qué nos dijo. Listo, el\narchivo está guardado en tu carpeta de"
+    } ]
+  }, {
+    "tStartMs": 1066440,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "facturas.\nOjo acá, lo que acaba de pasar."
+    } ]
+  }, {
+    "tStartMs": 1070040,
+    "dDurationMs": 7440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "No solo me analizó imagen por imagen,\nno solo me creó una hoja de Excel, sino"
+    } ]
+  }, {
+    "tStartMs": 1075800,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que ya me quedó guardada directamente\naquí, en mi, en mi, en mi carpeta."
+    } ]
+  }, {
+    "tStartMs": 1081080,
+    "dDurationMs": 7200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "O sea, ya ni siquiera yo tengo que darle\nal botón de descargar o o como hacíamos"
+    } ]
+  }, {
+    "tStartMs": 1085520,
+    "dDurationMs": 7360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "antes, que era ir a ChatGPT, pedir algo,\ncopiar y pegar y ahí sí terminar el"
+    } ]
+  }, {
+    "tStartMs": 1090240,
+    "dDurationMs": 7560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "trabajo. Ya nos deja el archivo\nliteralmente listo para utilizarlo. Lo"
+    } ]
+  }, {
+    "tStartMs": 1095160,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "voy a abrir desde acá para no tener que\nabrir Excel, pero aquí hay, él me"
+    } ]
+  }, {
+    "tStartMs": 1100440,
+    "dDurationMs": 4360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "muestra como una previsualización, ¿no?\nEntonces,"
+    } ]
+  }, {
+    "tStartMs": 1103240,
+    "dDurationMs": 7760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mire que él me creó, inclusive se veía\nhasta bonito y todo, una lista"
+    } ]
+  }, {
+    "tStartMs": 1107920,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "con cada factura. Entonces, dice,\neh número,"
+    } ]
+  }, {
+    "tStartMs": 1113120,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "voy a abrirla en Google Drive, a ver si\npuedo rápidamente."
+    } ]
+  }, {
+    "tStartMs": 1117240,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Aquí tengo la opción para yo abrirla\ndesde mi cuenta de Google Drive,"
+    } ]
+  }, {
+    "tStartMs": 1121800,
+    "dDurationMs": 6200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "¿por qué? Porque tengo el conector. ¿Sí\nse dan cuenta que el hecho de yo tener"
+    } ]
+  }, {
+    "tStartMs": 1124760,
+    "dDurationMs": 7720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "el conector a Cloud le da un montón de\neh pues funcionalidades? Entonces, vamos"
+    } ]
+  }, {
+    "tStartMs": 1130080,
+    "dDurationMs": 6080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a ver qué fue lo que hizo. Mire, de cada\nuna de las facturas que yo tenía,"
+    } ]
+  }, {
+    "tStartMs": 1134600,
+    "dDurationMs": 6520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "puso la fecha, el detalle, el\nestablecimiento en el que yo pagué eso,"
+    } ]
+  }, {
+    "tStartMs": 1138400,
+    "dDurationMs": 7880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "el valor total y una observación en este\ncaso. Ahí encontró que hay dos facturas"
+    } ]
+  }, {
+    "tStartMs": 1144000,
+    "dDurationMs": 7080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "duplicadas y me está diciendo, \"Venga,\nesta factura es un duplicado de esta.\""
+    } ]
+  }, {
+    "tStartMs": 1149120,
+    "dDurationMs": 6080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Entonces, ojo con eso, ¿cierto?\nEntonces,"
+    } ]
+  }, {
+    "tStartMs": 1152240,
+    "dDurationMs": 8760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "muy interesante porque no solo me ayudó\na pues crear esto. Imagínese que usted"
+    } ]
+  }, {
+    "tStartMs": 1157520,
+    "dDurationMs": 10080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tiene un em un archivo que es suyo, que\ntiene que llenarlo en esa en ese"
+    } ]
+  }, {
+    "tStartMs": 1164680,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "en esa en esa estructura, en esa\nplantilla que usted ya tiene hecha"
+    } ]
+  }, {
+    "tStartMs": 1169240,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Excel, pues muy sencillo. Entonces,\nusted compártesela y dígale, \"Mire,"
+    } ]
+  }, {
+    "tStartMs": 1173320,
+    "dDurationMs": 5320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tiene que llenarlo en este Excel.\" En\neste caso, yo se lo pedí para hacer la"
+    } ]
+  }, {
+    "tStartMs": 1176880,
+    "dDurationMs": 6520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "prueba rápida y lo hizo pues en este\ncaso lo hizo muy bien, pero ahí es donde"
+    } ]
+  }, {
+    "tStartMs": 1181280,
+    "dDurationMs": 6920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "entra el caso de uso de cada uno. Ah,\nno, que yo necesito analizar eh un"
+    } ]
+  }, {
+    "tStartMs": 1185800,
+    "dDurationMs": 8160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "montón de facturas de mis clientes,\nvenga, ¿cuánto se demora usted digitando"
+    } ]
+  }, {
+    "tStartMs": 1191720,
+    "dDurationMs": 6800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "factura por factura? ¿Se demora más\nusted digitándolas o se demora más usted"
+    } ]
+  }, {
+    "tStartMs": 1196360,
+    "dDurationMs": 6800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "con cogiendo su celular, que no creo que\naquí haya una persona que no tenga un"
+    } ]
+  }, {
+    "tStartMs": 1199920,
+    "dDurationMs": 7200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "smartphone, coja su celular, escanee ese\ndocumento y páseselo a Cloud y que Cloud"
+    } ]
+  }, {
+    "tStartMs": 1205640,
+    "dDurationMs": 7280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "se lo\nse lo redacte. Entonces, esos tipos de"
+    } ]
+  }, {
+    "tStartMs": 1210400,
+    "dDurationMs": 7360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "casos de uso son muy valiosos y uno no\nse da cuenta, pero ahí es donde está la"
+    } ]
+  }, {
+    "tStartMs": 1214680,
+    "dDurationMs": 8160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "real productividad. ¿Listo? Entonces,\nesto es un ejemplo muy sencillo y es el"
+    } ]
+  }, {
+    "tStartMs": 1219840,
+    "dDurationMs": 6440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "uso básico de Cloud CoWork en este caso,\n¿listo? Pero entonces, volviendo a lo"
+    } ]
+  }, {
+    "tStartMs": 1225120,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que estábamos hablando de los\nconectores, ayer vimos un ejemplo, pero"
+    } ]
+  }, {
+    "tStartMs": 1228800,
+    "dDurationMs": 7040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "por ejemplo, acá yo puedo decirle eh\nanaliza mi"
+    } ]
+  }, {
+    "tStartMs": 1233680,
+    "dDurationMs": 8600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "eh mis últimos\neh 10 correos recibidos,"
+    } ]
+  }, {
+    "tStartMs": 1239240,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "por ejemplo, em\nentrégame"
+    } ]
+  }, {
+    "tStartMs": 1243840,
+    "dDurationMs": 7920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "un resumen\nrápido de lo que tenga"
+    } ]
+  }, {
+    "tStartMs": 1249120,
+    "dDurationMs": 4920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sin leer.\n¿Listo?"
+    } ]
+  }, {
+    "tStartMs": 1252880,
+    "dDurationMs": 5560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "De nuevo,\nprompt muy sencillo, yo no le estoy"
+    } ]
+  }, {
+    "tStartMs": 1255840,
+    "dDurationMs": 7760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "diciendo absolutamente nada más. Fíjese\nque con simplemente él ya tener el"
+    } ]
+  }, {
+    "tStartMs": 1260880,
+    "dDurationMs": 9440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "conector activado, yo no tengo que hacer\nabsolutamente nada más sino esperar a"
+    } ]
+  }, {
+    "tStartMs": 1267360,
+    "dDurationMs": 7760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tener mi resultado. Entonces,\nuna locura. Mira, ¿cuánto se demoró"
+    } ]
+  }, {
+    "tStartMs": 1272440,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "haciendo esto? 10 segundos.\nEntonces, dice que tengo correos"
+    } ]
+  }, {
+    "tStartMs": 1276560,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "urgentes de ManyChat, que tengo una\nsuscripción caducada. Ay, Dios mío,"
+    } ]
+  }, {
+    "tStartMs": 1280280,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "equipo, ¿qué está pasando por ahí?\nManyChat, un pago fallido. Ay, Dios mío,"
+    } ]
+  }, {
+    "tStartMs": 1285080,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "equipo, ¿qué está pasando por ahí? De\nOpenAI, una actualización. De Meta"
+    } ]
+  }, {
+    "tStartMs": 1289480,
+    "dDurationMs": 6520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Developers, cambios. Bueno, entonces,\nahí tenemos las diferentes"
+    } ]
+  }, {
+    "tStartMs": 1294120,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pues cosas que yo tengo en el correo,\npues en el cual tengo esto conectado,"
+    } ]
+  }, {
+    "tStartMs": 1297960,
+    "dDurationMs": 4960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "¿no? Pero entonces, no solo se limita al\ncorreo. Le va a decir, \"Venga, usted"
+    } ]
+  }, {
+    "tStartMs": 1301400,
+    "dDurationMs": 7360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tiene\ntienes acceso"
+    } ]
+  }, {
+    "tStartMs": 1305000,
+    "dDurationMs": 9280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a mi carpeta de Drive.\nEstoy buscando"
+    } ]
+  }, {
+    "tStartMs": 1310960,
+    "dDurationMs": 3320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "eh una propuesta"
+    } ]
+  }, {
+    "tStartMs": 1314680,
+    "dDurationMs": 7920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "eh de formación\npara creación"
+    } ]
+  }, {
+    "tStartMs": 1320320,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de contenido.\nEstoy buscando un archivo, pero no lo"
+    } ]
+  }, {
+    "tStartMs": 1324000,
+    "dDurationMs": 7000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "encuentro.\nEntonces, él está ahí, va a buscar en"
+    } ]
+  }, {
+    "tStartMs": 1328760,
+    "dDurationMs": 6960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mis archivos de Drive porque yo tengo el\nconector. Pero entonces, imagínese esto"
+    } ]
+  }, {
+    "tStartMs": 1333720,
+    "dDurationMs": 5120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "con un Sigo.\nImagínese que usted no tenga que digitar"
+    } ]
+  }, {
+    "tStartMs": 1337560,
+    "dDurationMs": 4960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "en Sigo, por ejemplo, me estoy\ninventando el caso de uso, pero"
+    } ]
+  }, {
+    "tStartMs": 1340920,
+    "dDurationMs": 6840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "imagínese que usted conecta eso con su\nERP, con su sistema que que utiliza"
+    } ]
+  }, {
+    "tStartMs": 1345480,
+    "dDurationMs": 5920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "todos los días para digitar, para crear\nun producto por un producto o, por"
+    } ]
+  }, {
+    "tStartMs": 1349800,
+    "dDurationMs": 5920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ejemplo, para hacer una conciliación\nbancaria, sacar un dato de algún lado y"
+    } ]
+  }, {
+    "tStartMs": 1353840,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "traerlo a otro lado. ¿Listo? Entonces,\nesto me lo permite hacer Cloud Cowork,"
+    } ]
+  }, {
+    "tStartMs": 1358600,
+    "dDurationMs": 5440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "¿listo? Pero entonces, Cloud Cowork ya\nno solo se limita a todo esto que"
+    } ]
+  }, {
+    "tStartMs": 1362240,
+    "dDurationMs": 6360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "acabamos de ver, sino que además tiene\notra cosa más que me permite a mí ser"
+    } ]
+  }, {
+    "tStartMs": 1366560,
+    "dDurationMs": 6520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "más productivo. Y nos vamos a ir a la\nparte izquierda, donde dice nuestro"
+    } ]
+  }, {
+    "tStartMs": 1370080,
+    "dDurationMs": 7440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "nombre, la cuenta, configuración, aquí\nsí, y vamos a ver que aquí en a la"
+    } ]
+  }, {
+    "tStartMs": 1375120,
+    "dDurationMs": 9040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "izquierda me aparecía a mí Cloud en\nChrome. Cloud en Chrome. ¿Qué significa"
+    } ]
+  }, {
+    "tStartMs": 1380720,
+    "dDurationMs": 7960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "esto? Que yo puedo en Chrome instalarme\nla extensión de Cloud para que él pueda"
+    } ]
+  }, {
+    "tStartMs": 1386520,
+    "dDurationMs": 5680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "acceder a lo que yo haga en mi\nnavegador. ¿Listo? Entonces, ¿cómo se ve"
+    } ]
+  }, {
+    "tStartMs": 1390680,
+    "dDurationMs": 5640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "esto en la práctica? Si ustedes se\nfijan, en la parte superior de cualquier"
+    } ]
+  }, {
+    "tStartMs": 1393920,
+    "dDurationMs": 7720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "navegador, tenemos a la derecha esta\nfichita de de rompecabezas, que eso nos"
+    } ]
+  }, {
+    "tStartMs": 1399840,
+    "dDurationMs": 6360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "muestra las extensiones que tenemos\ninstaladas en mi navegador. Entonces,"
+    } ]
+  }, {
+    "tStartMs": 1403800,
+    "dDurationMs": 7400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "una de esas extensiones es Cloud. Yo ya\nla tengo instalada, ¿cierto?"
+    } ]
+  }, {
+    "tStartMs": 1408680,
+    "dDurationMs": 7320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Y él puede tener acceso a cualquier cosa\nque yo tenga en mi navegador. Vuelvo y"
+    } ]
+  }, {
+    "tStartMs": 1413280,
+    "dDurationMs": 6280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "digo, imagínense que esto es un Sigo,\nimagínense que esto es su ERP,"
+    } ]
+  }, {
+    "tStartMs": 1417840,
+    "dDurationMs": 5080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "imagínense que esto es el programa ese\nen el que usted tiene que digitar todos"
+    } ]
+  }, {
+    "tStartMs": 1420960,
+    "dDurationMs": 7120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "los días o descargar archivos todos los\ndías o hacer alguna conciliación de dos"
+    } ]
+  }, {
+    "tStartMs": 1425400,
+    "dDurationMs": 7080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "datos, ¿sí? Todos los días, ¿listo?\nEntonces, por ejemplo,"
+    } ]
+  }, {
+    "tStartMs": 1430400,
+    "dDurationMs": 7000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "eh aquí podría yo\neh aquí nos demuestra unas acciones"
+    } ]
+  }, {
+    "tStartMs": 1434920,
+    "dDurationMs": 7280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "rápidas para que él pueda utilizarlo.\nEntonces, le voy a decir, em"
+    } ]
+  }, {
+    "tStartMs": 1440640,
+    "dDurationMs": 4880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "analiza\nel contenido"
+    } ]
+  }, {
+    "tStartMs": 1443800,
+    "dDurationMs": 4720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "del archivo.\nEm"
+    } ]
+  }, {
+    "tStartMs": 1448560,
+    "dDurationMs": 8160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y\nentrégame un informe"
+    } ]
+  }, {
+    "tStartMs": 1453000,
+    "dDurationMs": 9200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "rápido de lo que haya. ¿Listo? Vamos a\nhacer el ejemplo ahí rápidamente."
+    } ]
+  }, {
+    "tStartMs": 1459640,
+    "dDurationMs": 7600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Entonces, él ahí, si ustedes se fijan,\nme muestra, me va a mostrar el plan de"
+    } ]
+  }, {
+    "tStartMs": 1464720,
+    "dDurationMs": 7080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "lo que va a hacer dentro, va a pro, voy\na probar el plan para que él pueda"
+    } ]
+  }, {
+    "tStartMs": 1469080,
+    "dDurationMs": 8360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hacerlo y, si ustedes se fijan, él ya\nahí coge el control de mi, en este caso,"
+    } ]
+  }, {
+    "tStartMs": 1474960,
+    "dDurationMs": 6840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de mi navegador. Y lo que vas, ahí se\nmovió hacia la derecha, si ustedes"
+    } ]
+  }, {
+    "tStartMs": 1478800,
+    "dDurationMs": 7880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vieron, ahí hace zoom, saca capturas de\npantalla, él se mueve por toda la página"
+    } ]
+  }, {
+    "tStartMs": 1484320,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y me puede hacer lo que yo quiera. Voy a\ndecirle que cambie el color de la de la"
+    } ]
+  }, {
+    "tStartMs": 1488720,
+    "dDurationMs": 6080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tabla. O sea, esto es un caso de un muy\nsencillo, señores,"
+    } ]
+  }, {
+    "tStartMs": 1492480,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pero es para simplemente demostrar la\ncapacidad de controlar que tiene la IA"
+    } ]
+  }, {
+    "tStartMs": 1497120,
+    "dDurationMs": 8560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mi navegador. O sea,\ncontrola mi navegador, puede cambiar"
+    } ]
+  }, {
+    "tStartMs": 1501320,
+    "dDurationMs": 8520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cosas, hacer clics, desplegar eh menús,\ntodo esto. Aquí en este caso ya hizo el"
+    } ]
+  }, {
+    "tStartMs": 1507800,
+    "dDurationMs": 8720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "resumen y aquí me lo entregó, pues no me\ninteresa porque ya ya yo sé qué es. Le"
+    } ]
+  }, {
+    "tStartMs": 1512400,
+    "dDurationMs": 10840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "voy a decir que em mejora la tabla.\nEh haz algo más conciso, más financiero,"
+    } ]
+  }, {
+    "tStartMs": 1521320,
+    "dDurationMs": 8000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sin colores.\nEl eh lo voy a decir,"
+    } ]
+  }, {
+    "tStartMs": 1526200,
+    "dDurationMs": 8440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "elimina la factura\nduplicada,"
+    } ]
+  }, {
+    "tStartMs": 1532040,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "eh\ncorrige"
+    } ]
+  }, {
+    "tStartMs": 1536680,
+    "dDurationMs": 5000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "los errores\nde digitación."
+    } ]
+  }, {
+    "tStartMs": 1542400,
+    "dDurationMs": 7560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Listo, algo rápido. Entonces,\nahí yo lo mandé hacer cambios en la"
+    } ]
+  }, {
+    "tStartMs": 1547560,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tabla que tengo abierta. ¿Listo?\nNuevamente, siempre les va a aparecer"
+    } ]
+  }, {
+    "tStartMs": 1551640,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "esto, que les muestra el plan, el plan\nque tiene es el de que el plan que va a"
+    } ]
+  }, {
+    "tStartMs": 1556160,
+    "dDurationMs": 7240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "seguir, ¿no? Ojo que él puede eliminar\ncosas, él puede modificar cosas, él"
+    } ]
+  }, {
+    "tStartMs": 1560080,
+    "dDurationMs": 6760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "puede hacer eh cualquier cosa dentro si\nyo le doy el control. Entonces, por eso"
+    } ]
+  }, {
+    "tStartMs": 1565160,
+    "dDurationMs": 5800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "él siempre me pide permiso, \"Mire, voy a\nhacer esto, apruebe o rechace antes de"
+    } ]
+  }, {
+    "tStartMs": 1569280,
+    "dDurationMs": 3920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que yo empiece.\" Porque cuando yo\neliminé algo,"
+    } ]
+  }, {
+    "tStartMs": 1572360,
+    "dDurationMs": 4680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pues\nproblemas. Entonces, vamos a ver cómo él"
+    } ]
+  }, {
+    "tStartMs": 1575360,
+    "dDurationMs": 5160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "empieza, no estoy tocando yo el\ncomputador y se va a empezar a mover, va"
+    } ]
+  }, {
+    "tStartMs": 1578680,
+    "dDurationMs": 5560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a empezar a cambiar cosas.\nSí, a veces le cuesta un poquito. Esto"
+    } ]
+  }, {
+    "tStartMs": 1582920,
+    "dDurationMs": 7200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "es una beta, esto es algo que ni\nsiquiera está terminado, pero esto es"
+    } ]
+  }, {
+    "tStartMs": 1587120,
+    "dDurationMs": 6200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "algo que imagínese si en este momento\nfunciona como funciona, que no es"
+    } ]
+  }, {
+    "tStartMs": 1591480,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "perfecto evidentemente, imagínese cómo\nva a ser en unos meses. Mira, ahí le dio"
+    } ]
+  }, {
+    "tStartMs": 1595440,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "clic al panel de herramientas y abrió un\ndesplegable ahí, no sé qué es qué es lo"
+    } ]
+  }, {
+    "tStartMs": 1600480,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que vaya a hacer.\nAl parecer ya no sé se arrepintió, ahora"
+    } ]
+  }, {
+    "tStartMs": 1603640,
+    "dDurationMs": 7800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "abrió el de extensiones, está mirando\nem cosa por cosa a ver qué es lo que"
+    } ]
+  }, {
+    "tStartMs": 1608920,
+    "dDurationMs": 2520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "puede hacer."
+    } ]
+  }, {
+    "tStartMs": 1613840,
+    "dDurationMs": 5640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Ahí abrió una página, supongo que no,\neso fue un error, supongo que ahí la va"
+    } ]
+  }, {
+    "tStartMs": 1617840,
+    "dDurationMs": 6280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a cerrar.\nÉl sí ya ha trabajado, yo no estoy"
+    } ]
+  }, {
+    "tStartMs": 1620840,
+    "dDurationMs": 3280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cambiando absolutamente nada."
+    } ]
+  }, {
+    "tStartMs": 1624480,
+    "dDurationMs": 4440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Vamos a cerrar esto.\nQue siga trabajando."
+    } ]
+  }, {
+    "tStartMs": 1630800,
+    "dDurationMs": 6600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Y voy a ver cómo va mi otro amigo, mi\namigo de acá de la"
+    } ]
+  }, {
+    "tStartMs": 1636280,
+    "dDurationMs": 4480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Ah, no, mentira, aquí no lo habíamos\nmandado a hacer nada, ¿no? ¿O sí? Sí, yo"
+    } ]
+  }, {
+    "tStartMs": 1639440,
+    "dDurationMs": 4680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "lo había mandado a hacer algo. ¿Qué\npasó?"
+    } ]
+  }, {
+    "tStartMs": 1642600,
+    "dDurationMs": 5000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Ah, los correos sin leer que ya estaban\nlistos, pero bueno. Entonces,"
+    } ]
+  }, {
+    "tStartMs": 1646000,
+    "dDurationMs": 6960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "continuando acá, mira, ahí ya estaba\nabriendo un menú, ahí hizo algún clic."
+    } ]
+  }, {
+    "tStartMs": 1651040,
+    "dDurationMs": 5560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Ya ahí eliminó algo, ya algo ahí cambió,\nno sé qué cambió, pero algo cambió."
+    } ]
+  }, {
+    "tStartMs": 1656720,
+    "dDurationMs": 5680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Entonces, ¿qué pasa? Aquí nos estamos\nquedando mirándolo, pero aquí la idea"
+    } ]
+  }, {
+    "tStartMs": 1660440,
+    "dDurationMs": 5240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sería que yo lo ponga a hacer eso, que\nyo me ponga a hacer otra cosa y yo me"
+    } ]
+  }, {
+    "tStartMs": 1664200,
+    "dDurationMs": 5160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vuelva más productivo haciendo otra\ncosa, en este caso, poniendo a Cloud"
+    } ]
+  }, {
+    "tStartMs": 1667720,
+    "dDurationMs": 6280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "haciendo esa tarea operativa. Pero\nimagínese que es eso, que usted tiene"
+    } ]
+  }, {
+    "tStartMs": 1670960,
+    "dDurationMs": 7240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que redactar o crear un producto, crear\nproducto por producto o actualizar un"
+    } ]
+  }, {
+    "tStartMs": 1676160,
+    "dDurationMs": 5560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "inventario, esas tareas que son muy\noperativas y que son de cada uno de"
+    } ]
+  }, {
+    "tStartMs": 1680240,
+    "dDurationMs": 4880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ustedes que están acá conectados y que\ncada uno de ustedes debe estar pensando,"
+    } ]
+  }, {
+    "tStartMs": 1683120,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "oiga, imagínese si yo lo pongo a hacer\nesto, cómo me servirá. O imagínese si yo"
+    } ]
+  }, {
+    "tStartMs": 1687400,
+    "dDurationMs": 7480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "lo pongo a hacer esto, o sea,\ntodos estos casos de uso sencillos son"
+    } ]
+  }, {
+    "tStartMs": 1692120,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "para simplemente mostrar esa capacidad\nque tiene, en este caso, Cloud Cowork."
+    } ]
+  }, {
+    "tStartMs": 1697080,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Vemos que no solamente tiene acceso a\nmis documentos, no solamente puede"
+    } ]
+  }, {
+    "tStartMs": 1700800,
+    "dDurationMs": 6920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cambiar, reorganizar cosas, sino que\nademás puede tener acceso a mi navegador"
+    } ]
+  }, {
+    "tStartMs": 1705840,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y empezar a hacer cosas ahí\ndirectamente, ¿listo? Entonces,"
+    } ]
+  }, {
+    "tStartMs": 1710120,
+    "dDurationMs": 5840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ya vemos que él puede hacer tareas.\nY digamos que usted tiene un proceso muy"
+    } ]
+  }, {
+    "tStartMs": 1714440,
+    "dDurationMs": 7480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "manual donde\ntodos los jueves tiene que entrar a una"
+    } ]
+  }, {
+    "tStartMs": 1718040,
+    "dDurationMs": 7480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "plataforma de su empresa y hacer un\nretiro, por ejemplo, del saldo que"
+    } ]
+  }, {
+    "tStartMs": 1724000,
+    "dDurationMs": 5480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tenga. Digamos me lo estoy inventando,\npero entonces eso tiene que hacerlo"
+    } ]
+  }, {
+    "tStartMs": 1726800,
+    "dDurationMs": 5880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "usted todos los jueves. O digamos que\nusted todos los jueves"
+    } ]
+  }, {
+    "tStartMs": 1731040,
+    "dDurationMs": 5640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tiene que preparar un informe\nprecisamente en una hoja de Excel, es"
+    } ]
+  }, {
+    "tStartMs": 1734720,
+    "dDurationMs": 3840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "algo muy común que todo el mundo hace,\nentonces,"
+    } ]
+  }, {
+    "tStartMs": 1737640,
+    "dDurationMs": 4360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "entonces,\neso sería una tarea que usted haría,"
+    } ]
+  }, {
+    "tStartMs": 1740040,
+    "dDurationMs": 7000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "eso, repetitivamente. Entonces, ¿qué nos\npermite hacer Cloud? Y este es, eh, voy"
+    } ]
+  }, {
+    "tStartMs": 1745920,
+    "dDurationMs": 4840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a volver al menú donde estábamos\nahorita, Customize, recordemos a la"
+    } ]
+  }, {
+    "tStartMs": 1748560,
+    "dDurationMs": 7640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "izquierda, en el panel de navegación\nizquierdo, Customize o personalización."
+    } ]
+  }, {
+    "tStartMs": 1754160,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Entonces, aquí ya hablamos que teníamos\nlos conectores, muy valiosos, en este"
+    } ]
+  }, {
+    "tStartMs": 1758120,
+    "dDurationMs": 7920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "caso yo tengo Gmail, Google Drive y\nNotion, pero veíamos que hay un montón"
+    } ]
+  }, {
+    "tStartMs": 1762760,
+    "dDurationMs": 8080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de conectores que yo puedo buscar con\nmis diferentes aplicaciones que yo"
+    } ]
+  }, {
+    "tStartMs": 1767840,
+    "dDurationMs": 5880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tenga, ¿listo? Esto, muy interesante.\nPero, ¿qué más allá me permite hacer"
+    } ]
+  }, {
+    "tStartMs": 1772640,
+    "dDurationMs": 5000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "esto?\nSi ustedes se fijan, inteligencia"
+    } ]
+  }, {
+    "tStartMs": 1775160,
+    "dDurationMs": 7120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "artificial se basa a\nsaber delegar, a dar unas instrucciones."
+    } ]
+  }, {
+    "tStartMs": 1780080,
+    "dDurationMs": 6200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Todo es por medio de estos prompts que\nque que escribimos día a día, pero ahí"
+    } ]
+  }, {
+    "tStartMs": 1784680,
+    "dDurationMs": 4520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vuelve el caso cuando yo les decía, que\nusted tiene que hacer una tarea todos"
+    } ]
+  }, {
+    "tStartMs": 1787400,
+    "dDurationMs": 4200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "los jueves, entonces, no la haga todos\nlos jueves, todos los jueves no le"
+    } ]
+  }, {
+    "tStartMs": 1790360,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "explique a la IA, \"Venga, tengo que\nhacer esto y esto y esto.\" Ya no"
+    } ]
+  }, {
+    "tStartMs": 1793360,
+    "dDurationMs": 8440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "funciona así. Nos da Cloud la\nposibilidad de crear habilidades o"
+    } ]
+  }, {
+    "tStartMs": 1799160,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "skills, como los llaman ellos en inglés.\n¿Qué son esas habilidades? Básicamente"
+    } ]
+  }, {
+    "tStartMs": 1803960,
+    "dDurationMs": 6840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "son unas instrucciones, si ustedes se\nfijan acá, estos son unas instrucciones"
+    } ]
+  }, {
+    "tStartMs": 1807600,
+    "dDurationMs": 9240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "muy detalladas de una tarea que él tiene\nque cumplir, pero entonces, imagínese,"
+    } ]
+  }, {
+    "tStartMs": 1814000,
+    "dDurationMs": 7560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "crear reporte de los jueves, usted se\ncrea una skill, una habilidad donde"
+    } ]
+  }, {
+    "tStartMs": 1818960,
+    "dDurationMs": 8040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Cloud ya sepa hacer eso,\no una cotización,"
+    } ]
+  }, {
+    "tStartMs": 1823320,
+    "dDurationMs": 8040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "o una conciliación bancaria, o una\nredacción en una página. Es una"
+    } ]
+  }, {
+    "tStartMs": 1829160,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "habilidad que usted le explica una vez y\nse demora explicándosela una vez y él ya"
+    } ]
+  }, {
+    "tStartMs": 1833760,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "va a aprender a hacerla, ¿listo?\nEntonces, esto es otra cosa que a mí me"
+    } ]
+  }, {
+    "tStartMs": 1837480,
+    "dDurationMs": 7960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "permite también ahorrar tiempo, ya no\nsolo en hacer la tarea, sino también en"
+    } ]
+  }, {
+    "tStartMs": 1842600,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "explicarle a la IA, venga, se hace así,\nse hace así con estos parámetros, porque"
+    } ]
+  }, {
+    "tStartMs": 1847520,
+    "dDurationMs": 5640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "nadie sabe mejor hacer esa tarea que\nusted, que es el la persona que la hace"
+    } ]
+  }, {
+    "tStartMs": 1850760,
+    "dDurationMs": 6800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "todos los días. Pero entonces, no se\ndemore explicándosela a la IA una vez,"
+    } ]
+  }, {
+    "tStartMs": 1855640,
+    "dDurationMs": 8920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "otra vez, otra vez, otra vez, sino más\nbien dedique tiempo a explicársela una"
+    } ]
+  }, {
+    "tStartMs": 1860960,
+    "dDurationMs": 8320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vez creando una habilidad, una skill de\nCloud que va a poder usted reutilizar."
+    } ]
+  }, {
+    "tStartMs": 1867400,
+    "dDurationMs": 7400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Por ejemplo, acá\nesto es una skill que tiene creado acá"
+    } ]
+  }, {
+    "tStartMs": 1872120,
+    "dDurationMs": 8320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "el equipo que es para crear carruseles\nde Instagram, estas estas post que pues"
+    } ]
+  }, {
+    "tStartMs": 1878400,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "son para tú deslizar hacia la izquierda.\nEntonces, esos carruseles ellos ya"
+    } ]
+  }, {
+    "tStartMs": 1881760,
+    "dDurationMs": 7400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tienen un skill ahí para ya no tener que\nexplicarle a Cloud cómo es que se crean"
+    } ]
+  }, {
+    "tStartMs": 1886760,
+    "dDurationMs": 5560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "esos carruseles, sino que le dice,\nvenga, quiero un carrusel sobre tal tema"
+    } ]
+  }, {
+    "tStartMs": 1891200,
+    "dDurationMs": 5320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y Cloud ya se lo va a hacer\nprácticamente listo. Entonces,"
+    } ]
+  }, {
+    "tStartMs": 1894360,
+    "dDurationMs": 7360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "habilidades, yo puedo darle una tarea a\nCloud para que Cloud aprenda a hacerla"
+    } ]
+  }, {
+    "tStartMs": 1898560,
+    "dDurationMs": 8160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "una vez y de ahí en adelante ya siga\nhaciéndola, ¿listo? Entonces, imagínese"
+    } ]
+  }, {
+    "tStartMs": 1904320,
+    "dDurationMs": 7760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "estas habilidades, imagínese Cloud\nCowork, imagínese los proyectos,"
+    } ]
+  }, {
+    "tStartMs": 1909840,
+    "dDurationMs": 5560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "imagínese usted empezando a utilizar\ntodas estas funcionalidades que yo le"
+    } ]
+  }, {
+    "tStartMs": 1913520,
+    "dDurationMs": 6440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "estoy mostrando hoy en su día a día.\nUsted, primero, se va a volver más"
+    } ]
+  }, {
+    "tStartMs": 1917680,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "productivo, ¿listo?\nSegundo, se va a tener que esforzar"
+    } ]
+  }, {
+    "tStartMs": 1921480,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "menos, ¿por qué? Porque ya va a haber\nuna IA a la que sí le creo, tal vez"
+    } ]
+  }, {
+    "tStartMs": 1925920,
+    "dDurationMs": 6800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "usted va a tener que\nsentarse y dedicar su tiempo a"
+    } ]
+  }, {
+    "tStartMs": 1930960,
+    "dDurationMs": 8520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "actualizarse en todo este tema de la\ninteligencia artificial y aprender todos"
+    } ]
+  }, {
+    "tStartMs": 1935520,
+    "dDurationMs": 8360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "estos conceptos y detalles que\npues que eso, que que tiene uno que"
+    } ]
+  }, {
+    "tStartMs": 1941040,
+    "dDurationMs": 7360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tener presentes a la hora de utilizarlo,\nya nos dimos cuenta y espero que se lo"
+    } ]
+  }, {
+    "tStartMs": 1946600,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "lleven el día hoy, no es solo dar\nprompts, no es solo escribir y que la IA"
+    } ]
+  }, {
+    "tStartMs": 1950600,
+    "dDurationMs": 6800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "se equivoque e investigue, no, hay un\nmundo completo donde esos $20 que yo les"
+    } ]
+  }, {
+    "tStartMs": 1955320,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "decía al principio les va a representar\na ustedes menos esfuerzo laboral, menos"
+    } ]
+  }, {
+    "tStartMs": 1959880,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mataderas de cabeza haciendo procesos\nrepetitivos, operativos, ¿cierto? Se va"
+    } ]
+  }, {
+    "tStartMs": 1964800,
+    "dDurationMs": 5520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a volver usted más productivo, va a\ntener más tiempo usted para otras cosas"
+    } ]
+  }, {
+    "tStartMs": 1968560,
+    "dDurationMs": 6040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "o simplemente para estar menos estallado\nde trabajo, simplemente para eso. Y"
+    } ]
+  }, {
+    "tStartMs": 1972720,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "entonces esos 20 dólares, esos 100.000\npesos es una inversión que no hay que"
+    } ]
+  }, {
+    "tStartMs": 1977480,
+    "dDurationMs": 5840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tenerle miedo. Como yo decía en una\ncapacitación hace unos hace unos como 2"
+    } ]
+  }, {
+    "tStartMs": 1981680,
+    "dDurationMs": 5400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "semanas decía yo\nen Latinoamérica tenemos que pensar"
+    } ]
+  }, {
+    "tStartMs": 1984800,
+    "dDurationMs": 7080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tenemos que dejar de pensar que pagar\nsoftware, que pagar por una IA es lujo,"
+    } ]
+  }, {
+    "tStartMs": 1989600,
+    "dDurationMs": 6280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que pagar esos 100.000 pesos es caro, no\nes caro, porque mire todas las cosas en"
+    } ]
+  }, {
+    "tStartMs": 1993840,
+    "dDurationMs": 7040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "las que puede ayudarlo usted en este\ncaso en este caso pues Cloud Cowork."
+    } ]
+  }, {
+    "tStartMs": 1998800,
+    "dDurationMs": 7880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Mira aquí ya está terminando y mira como\nla tabla cambió, quitó el el duplicado,"
+    } ]
+  }, {
+    "tStartMs": 2004560,
+    "dDurationMs": 5320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "le quitó bueno, ahí no ha terminado,\npero le va a seguir cambiando los"
+    } ]
+  }, {
+    "tStartMs": 2008200,
+    "dDurationMs": 5400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "colores, me imagino. Yo no le di unas\nindicaciones muy claras, porque"
+    } ]
+  }, {
+    "tStartMs": 2011400,
+    "dDurationMs": 8000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "simplemente el ejemplo de hoy, pero ahí\nes donde vamos, ahí es donde vamos que"
+    } ]
+  }, {
+    "tStartMs": 2015520,
+    "dDurationMs": 9240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "usted le le le enseñe esa tarea una vez\nuna una primera vez bien y ya después se"
+    } ]
+  }, {
+    "tStartMs": 2022360,
+    "dDurationMs": 7400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pueda hacerla, ¿listo? Pues entonces una\núltima cosa que les quiero mostrar es"
+    } ]
+  }, {
+    "tStartMs": 2026800,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que además de todo esto que ya vimos,\nademás de que él puede tener acceso a mi"
+    } ]
+  }, {
+    "tStartMs": 2031320,
+    "dDurationMs": 6440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "computador, ¿cierto? Primero, puede\nhacer cosas dentro de mi computador,"
+    } ]
+  }, {
+    "tStartMs": 2034880,
+    "dDurationMs": 6120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "analizar, redactar, crear archivos,\npodemos tenerle conectores para que él"
+    } ]
+  }, {
+    "tStartMs": 2039600,
+    "dDurationMs": 4720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "se conecte con herramientas que yo\nutilizo todos los días, por ejemplo,"
+    } ]
+  }, {
+    "tStartMs": 2042560,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "para que me lleve el calendario, para\nque todos los días a las 8 de la mañana"
+    } ]
+  }, {
+    "tStartMs": 2046320,
+    "dDurationMs": 7520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "me me diga, venga, hoy tienes tales\nreuniones, ¿sí? Por ejemplo. Entonces,"
+    } ]
+  }, {
+    "tStartMs": 2051720,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "¿qué me permite hacer además de eso?\nVolvemos a la parte izquierda, en la"
+    } ]
+  }, {
+    "tStartMs": 2056040,
+    "dDurationMs": 6879,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "barra de navegación, tenemos la tercera\nopción que me sale schedule y aquí,"
+    } ]
+  }, {
+    "tStartMs": 2060879,
+    "dDurationMs": 8760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "bueno, esto lo tenemos en inglés, pero\nesto son tareas programadas."
+    } ]
+  }, {
+    "tStartMs": 2066399,
+    "dDurationMs": 9321,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Ojo, y esto vuela cabezas, porque aquí\nyo puedo enseñarle nuevamente a Cloud"
+    } ]
+  }, {
+    "tStartMs": 2072679,
+    "dDurationMs": 8681,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "una tarea una vez y decirle venga Cloud\nhágala todos los lunes a las 8 de la"
+    } ]
+  }, {
+    "tStartMs": 2077720,
+    "dDurationMs": 8439,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mañana. Hágala eh manual cuando yo se la\npida, hágala cada hora, hágala diario"
+    } ]
+  }, {
+    "tStartMs": 2084360,
+    "dDurationMs": 6120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "todos los días, hágala semanal, hágala\nentre semana. ¿Puedo yo darle una tarea"
+    } ]
+  }, {
+    "tStartMs": 2088320,
+    "dDurationMs": 6319,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a Cloud para que Cloud la haga\nautomáticamente ese día, esa hora, en"
+    } ]
+  }, {
+    "tStartMs": 2092879,
+    "dDurationMs": 6401,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ese momento? Entonces, ahí vuelvo,\nimagínese usted todos los días a las 8"
+    } ]
+  }, {
+    "tStartMs": 2096840,
+    "dDurationMs": 6920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de la mañana que Cloud le entregue a\nusted su resumen del día, cuáles son las"
+    } ]
+  }, {
+    "tStartMs": 2101760,
+    "dDurationMs": 4880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "reuniones que tiene que hacer hoy, cómo\nmanejar los tiempos, por ejemplo, si"
+    } ]
+  }, {
+    "tStartMs": 2105080,
+    "dDurationMs": 6120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "usted es una persona que maneja muy bien\nsu agenda, en su Teams, en su Calendar,"
+    } ]
+  }, {
+    "tStartMs": 2109840,
+    "dDurationMs": 5720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que le mire la agenda y que le diga,\nmire, hoy tienes esto y esto y esto y"
+    } ]
+  }, {
+    "tStartMs": 2113160,
+    "dDurationMs": 6360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "esto. Tienes estas reuniones. ¿Cierto?\nQue se conecte con su correo y le"
+    } ]
+  }, {
+    "tStartMs": 2117040,
+    "dDurationMs": 7400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "traiga, venga, le enviaron este correo\nimportante, puede responder esto."
+    } ]
+  }, {
+    "tStartMs": 2121560,
+    "dDurationMs": 8400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Entonces, es crear y empezar a utilizar\nesta herramienta Cloud y ese ecosistema"
+    } ]
+  }, {
+    "tStartMs": 2126880,
+    "dDurationMs": 7320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que me permite crear con las cosas que\nlleva con el día a día."
+    } ]
+  }, {
+    "tStartMs": 2131320,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Y esto es una locura. O sea, yo aquí no\nestoy mostrando absolutamente ningún"
+    } ]
+  }, {
+    "tStartMs": 2135760,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "caso de uso, lo que estoy haciendo es\nmostrarles a ustedes las diferentes"
+    } ]
+  }, {
+    "tStartMs": 2139760,
+    "dDurationMs": 6760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "funcionalidades que me ofrece a mí el\nhecho de gastarme esos $20 diarios."
+    } ]
+  }, {
+    "tStartMs": 2144360,
+    "dDurationMs": 5920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Perdón, eso diario no, eso es $20\nmensuales. Entonces,"
+    } ]
+  }, {
+    "tStartMs": 2148800,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "archivos en mi computador, crear\narchivos, modificar cosas, organizar"
+    } ]
+  }, {
+    "tStartMs": 2152120,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "carpetas, conectarme con aplicaciones,\nem"
+    } ]
+  }, {
+    "tStartMs": 2156480,
+    "dDurationMs": 6520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "programar tareas en específico que yo\nquiero, ¿cierto?"
+    } ]
+  }, {
+    "tStartMs": 2160640,
+    "dDurationMs": 7480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Todos los días a las 8 de la mañana.\nAdemás de eso, crear proyectos,"
+    } ]
+  }, {
+    "tStartMs": 2165600,
+    "dDurationMs": 7760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "almacenar memoria, todos estos detalles\nque no me alcanza hoy el tiempo para"
+    } ]
+  }, {
+    "tStartMs": 2170000,
+    "dDurationMs": 8120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "dárselos, pero esta es una capacitación\ndiferente, no es tan práctica, es más"
+    } ]
+  }, {
+    "tStartMs": 2175760,
+    "dDurationMs": 7080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "demostrativa, pero queríamos hacerla\nporque Cloud es el futuro y no, perdón,"
+    } ]
+  }, {
+    "tStartMs": 2181080,
+    "dDurationMs": 5960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Cloud no es el futuro, es el presente,\npero es el presente y no solo el"
+    } ]
+  }, {
+    "tStartMs": 2184440,
+    "dDurationMs": 7120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "presente, sino todo lo que viene ahí\nademás, porque no alcancé a mostrárselos"
+    } ]
+  }, {
+    "tStartMs": 2189760,
+    "dDurationMs": 7360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hoy, pero ya vimos que Cloud tiene tres\ncosas. Cloud chat, de toda la vida, como"
+    } ]
+  }, {
+    "tStartMs": 2194360,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "chat GPT. Tenemos Cloud Cowork, que\nsigue siendo un chat, pero me permite"
+    } ]
+  }, {
+    "tStartMs": 2199200,
+    "dDurationMs": 5440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hacer más cosas, me permite conectarme,\netcétera. Tenemos Cloud Code, que me"
+    } ]
+  }, {
+    "tStartMs": 2203360,
+    "dDurationMs": 6080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "permite\nuf, no, ustedes supieran, un montón de"
+    } ]
+  }, {
+    "tStartMs": 2206600,
+    "dDurationMs": 7520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cosas más técnicas y más avanzadas que\nsi me pongo a explicárselas, ustedes van"
+    } ]
+  }, {
+    "tStartMs": 2210960,
+    "dDurationMs": 6800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a quedar más perdidos que no sé, pero el\ntema es"
+    } ]
+  }, {
+    "tStartMs": 2215560,
+    "dDurationMs": 7640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "esto es una plataforma que a mí me\npermite hacer un montón de cosas. Y así"
+    } ]
+  }, {
+    "tStartMs": 2220360,
+    "dDurationMs": 9000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "como está ya, existe Cloud chat, Cloud\nCowork, Cloud Code, sacó eh pues"
+    } ]
+  }, {
+    "tStartMs": 2227400,
+    "dDurationMs": 5680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Anthropic, que es la desarrolladora de\nCloud, una nueva funcionalidad que se"
+    } ]
+  }, {
+    "tStartMs": 2230960,
+    "dDurationMs": 5680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "llama Cloud Design.\nLo tenemos por acá."
+    } ]
+  }, {
+    "tStartMs": 2235480,
+    "dDurationMs": 6920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Salió\nla semana pasada, literalmente."
+    } ]
+  }, {
+    "tStartMs": 2238880,
+    "dDurationMs": 7720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Cloud Design, y es Cloud para diseño.\nEntonces, tú aquí puedes crear toda tu"
+    } ]
+  }, {
+    "tStartMs": 2244440,
+    "dDurationMs": 7560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "imagen de marca, subir información sobre\ntu empresa, bueno, como ahí me lo está"
+    } ]
+  }, {
+    "tStartMs": 2248880,
+    "dDurationMs": 10760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mostrando, crear prototipos de páginas\nweb, de presentaciones, de diseños de"
+    } ]
+  }, {
+    "tStartMs": 2256000,
+    "dDurationMs": 8120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "aplicaciones, Cloud para diseñar.\nEsto mata Canva, esto mata Figma, esto"
+    } ]
+  }, {
+    "tStartMs": 2262240,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mata Photoshop, esto mata cualquier\ncosa, porque ya usted puede utilizar esa"
+    } ]
+  }, {
+    "tStartMs": 2267000,
+    "dDurationMs": 6120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "misma inteligencia artificial que ya\ndijimos que es superpoderosa para darle"
+    } ]
+  }, {
+    "tStartMs": 2270680,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "toda la información sobre su empresa y\nque ella ya sepa cuáles son los colores"
+    } ]
+  }, {
+    "tStartMs": 2274720,
+    "dDurationMs": 7520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que usa su empresa, cuál es su logo,\ncuál es eso, su imagen de marca, poder"
+    } ]
+  }, {
+    "tStartMs": 2279880,
+    "dDurationMs": 7280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "crear una página web, poder crear una\nherramienta, poder crear cualquier cosa"
+    } ]
+  }, {
+    "tStartMs": 2285000,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "desde acá. Entonces,\naquí lo vemos, eh esto es para crear"
+    } ]
+  }, {
+    "tStartMs": 2289360,
+    "dDurationMs": 6680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "prototipos, luego tenemos para crear\npresentaciones, luego tenemos para"
+    } ]
+  }, {
+    "tStartMs": 2293840,
+    "dDurationMs": 6080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "alguna\nalguna template, ¿cómo se llama eso?"
+    } ]
+  }, {
+    "tStartMs": 2297680,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Alguna plantilla que yo pueda tener,\nluego tenemos para crear yo desde cero,"
+    } ]
+  }, {
+    "tStartMs": 2302360,
+    "dDurationMs": 6440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y aquí a la derecha nos muestra algunos\nejemplos de cosas que se pueden lograr"
+    } ]
+  }, {
+    "tStartMs": 2306800,
+    "dDurationMs": 7160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "con, en este caso, con Cloud. Esto es\nuna página para el tema de los planetas."
+    } ]
+  }, {
+    "tStartMs": 2311800,
+    "dDurationMs": 7080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Esto, por ejemplo, es un un globo, un\nglobo terráqueo, una cosita de cargar"
+    } ]
+  }, {
+    "tStartMs": 2316320,
+    "dDurationMs": 7720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "con el globo terráqueo, una aplicación\ncompleta. Señores, una aplicación"
+    } ]
+  }, {
+    "tStartMs": 2320680,
+    "dDurationMs": 8920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "completa con Cloud Design, sin necesidad\nde yo saber diseñar."
+    } ]
+  }, {
+    "tStartMs": 2326480,
+    "dDurationMs": 8840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "O sea, imagínense.\nUn un fondo de pantalla sencillo, algo"
+    } ]
+  }, {
+    "tStartMs": 2332120,
+    "dDurationMs": 8280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sencillo, ¿cierto? En este caso tengo en\nel una interfaz para chat."
+    } ]
+  }, {
+    "tStartMs": 2338080,
+    "dDurationMs": 6280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "O sea, una calculadora.\nPuedo crear cuanta cosa yo quiera por"
+    } ]
+  }, {
+    "tStartMs": 2342600,
+    "dDurationMs": 6520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "medio de inteligencia artificial y por\nmedio de Cloud Design. Entonces, esto es"
+    } ]
+  }, {
+    "tStartMs": 2347360,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "otro otro cambio de paradigma, en este\ncaso, para los diseñadores gráficos. Ya"
+    } ]
+  }, {
+    "tStartMs": 2351840,
+    "dDurationMs": 6280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "el cambio de paradigma para los\ndesarrolladores de software, para los"
+    } ]
+  }, {
+    "tStartMs": 2355920,
+    "dDurationMs": 6040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "programadores, nos cambió muchísimo,\nporque ya no tienes tú que tirar código"
+    } ]
+  }, {
+    "tStartMs": 2360080,
+    "dDurationMs": 7360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a mano, sino que ya utilizas, en este\ncaso, Cloud Code para tirar código, para"
+    } ]
+  }, {
+    "tStartMs": 2365400,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "programar. Ahora los diseñadores ya no\nvan a tener que diseñar a mano, o si lo"
+    } ]
+  }, {
+    "tStartMs": 2370000,
+    "dDurationMs": 5040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tienen que seguir haciéndolo, van a\nseguir haciéndolo para perfeccionar esos"
+    } ]
+  }, {
+    "tStartMs": 2373280,
+    "dDurationMs": 5160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "diseños que les haga Cloud, para\nterminar de optimizar esos detalles que"
+    } ]
+  }, {
+    "tStartMs": 2376640,
+    "dDurationMs": 5480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "al final el conocimiento lo tiene cada\nuno de ustedes desde su expertise que"
+    } ]
+  }, {
+    "tStartMs": 2380320,
+    "dDurationMs": 8840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tengan. La idea es que cada uno de\nnosotros nos convirtamos en ese eh"
+    } ]
+  }, {
+    "tStartMs": 2386080,
+    "dDurationMs": 6920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "en ese jefe, en ese eh orquestador,\n¿cierto? Que delega tareas de mi día a"
+    } ]
+  }, {
+    "tStartMs": 2391520,
+    "dDurationMs": 6120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "día pesadas a la inteligencia\nartificial. En este caso, ya estamos"
+    } ]
+  }, {
+    "tStartMs": 2394480,
+    "dDurationMs": 10040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "atacando el diseño y acuérdense de mí,\nno sería raro que aparezca luego Cloud"
+    } ]
+  }, {
+    "tStartMs": 2400360,
+    "dDurationMs": 8760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Marketing, Cloud Contabilidad, Cloud\nOperaciones, Cloud Recursos Humanos, o"
+    } ]
+  }, {
+    "tStartMs": 2406640,
+    "dDurationMs": 8440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sea, es una locura, pero Cloud es el\nfuturo. ChatGPT tiene lo suyo, tiene sus"
+    } ]
+  }, {
+    "tStartMs": 2412280,
+    "dDurationMs": 8680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "funcionalidades, pero Cloud es, en este\nmomento, la inteligencia artificial que"
+    } ]
+  }, {
+    "tStartMs": 2418000,
+    "dDurationMs": 8840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "más productividad nos genera, porque es\nla IA que más alcances tiene, no solo se"
+    } ]
+  }, {
+    "tStartMs": 2424360,
+    "dDurationMs": 5960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "queda en un chat como lo hace ChatGPT,\nque al final es un chat donde sí, tú"
+    } ]
+  }, {
+    "tStartMs": 2428480,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "puedes tener diferentes funcionalidades\ny todo, y crear proyectos y tal. Cada"
+    } ]
+  }, {
+    "tStartMs": 2433240,
+    "dDurationMs": 8960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "una tiene sus cosas en las que es mejor,\nclaramente, pero realmente la, en este"
+    } ]
+  }, {
+    "tStartMs": 2439280,
+    "dDurationMs": 9680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "caso la IA que a mí más\nme va a generar productividad, con"
+    } ]
+  }, {
+    "tStartMs": 2445320,
+    "dDurationMs": 7240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "literalmente con con con diferencia de\ncualquier otra, en este caso es Claude."
+    } ]
+  }, {
+    "tStartMs": 2450800,
+    "dDurationMs": 5800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Entonces, espero que toda esta\ninformación y todo esto que les mostré"
+    } ]
+  }, {
+    "tStartMs": 2455200,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "el día de hoy\nlo hayan tomado, lo hayan entendido cómo"
+    } ]
+  }, {
+    "tStartMs": 2459040,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cómo cómo es que puede potenciar la\nproductividad de cada uno de ustedes ese"
+    } ]
+  }, {
+    "tStartMs": 2463120,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tipo de herramientas y por supuesto,\nesto es una formación, bueno, esto es"
+    } ]
+  }, {
+    "tStartMs": 2467160,
+    "dDurationMs": 5840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "una una reunión prácticamente donde\nqueríamos mostrarles esto, porque la"
+    } ]
+  }, {
+    "tStartMs": 2471320,
+    "dDurationMs": 6600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "gente no conoce esto. La gente solo\nconoce ChatGPT, Claude por el nombre, o"
+    } ]
+  }, {
+    "tStartMs": 2475520,
+    "dDurationMs": 6840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "algunos saben qué es, pero no\ndimensionan el alcance real que pueden"
+    } ]
+  }, {
+    "tStartMs": 2480800,
+    "dDurationMs": 5320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "llegar a tener estas herramientas.\nEntonces, y más que todo Claude, porque"
+    } ]
+  }, {
+    "tStartMs": 2484400,
+    "dDurationMs": 6040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "todo esto que les mostré no tiene prueba\ngratuita. Todo esto que les mostré no lo"
+    } ]
+  }, {
+    "tStartMs": 2488720,
+    "dDurationMs": 6040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pueden probar de manera gratuita. Sí van\na poder hablar con Claude chat de manera"
+    } ]
+  }, {
+    "tStartMs": 2492520,
+    "dDurationMs": 7360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "rápida y les va a responder y todo, pero\nmás allá Cogwork, eh Design, Claude"
+    } ]
+  }, {
+    "tStartMs": 2498480,
+    "dDurationMs": 4680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Code, todas esas herramientas, los\nconectores, las habilidades, los"
+    } ]
+  }, {
+    "tStartMs": 2501440,
+    "dDurationMs": 5960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "proyectos, todas estas cosas que\nrealmente son las que presentan la"
+    } ]
+  }, {
+    "tStartMs": 2505480,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "productividad, no están disponibles de\nmanera gratuita. Pero, como les digo, no"
+    } ]
+  }, {
+    "tStartMs": 2509600,
+    "dDurationMs": 7360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "le tengan miedo a hacer ese gasto, que\nal final no es un gasto, es una"
+    } ]
+  }, {
+    "tStartMs": 2513200,
+    "dDurationMs": 8160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "inversión por su productividad, por su\nlibertad a la hora de trabajar, por"
+    } ]
+  }, {
+    "tStartMs": 2518840,
+    "dDurationMs": 6600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "bajar su carga laboral aplicándolo en\nsus diferentes cosas. Y si a usted le"
+    } ]
+  }, {
+    "tStartMs": 2523000,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "quedó sonando esto, comuníquese con\nAnita y ella le va a dar más información"
+    } ]
+  }, {
+    "tStartMs": 2527760,
+    "dDurationMs": 5560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sobre las diferentes formaciones que\ntenemos especializadas, no solo en"
+    } ]
+  }, {
+    "tStartMs": 2531320,
+    "dDurationMs": 6080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Claude, sino en todas las diferentes\nherramientas de inteligencia artificial"
+    } ]
+  }, {
+    "tStartMs": 2534720,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que existen actualmente en el mercado,\npara que ustedes puedan eso, eh,"
+    } ]
+  }, {
+    "tStartMs": 2539640,
+    "dDurationMs": 7600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mantenerse\nen la vanguardia y no solo conocer la IA"
+    } ]
+  }, {
+    "tStartMs": 2545200,
+    "dDurationMs": 7880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "porque es un chat en el que yo le pego\ncosas y ya y me devuelve cositas, sino"
+    } ]
+  }, {
+    "tStartMs": 2549640,
+    "dDurationMs": 7400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que realmente es un cambio abrupto en la\nproductividad de una persona, ¿listo?"
+    } ]
+  }, {
+    "tStartMs": 2555760,
+    "dDurationMs": 4000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Entonces,\neh,"
+    } ]
+  }, {
+    "tStartMs": 2559800,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "eh, dice Carlos Julio en el chat,\nperdónenme que no tenía acceso al chat,"
+    } ]
+  }, {
+    "tStartMs": 2564440,
+    "dDurationMs": 4880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "eh, voy a responder ahí unas pregunticas\nrápidas, dice,"
+    } ]
+  }, {
+    "tStartMs": 2568000,
+    "dDurationMs": 6840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\"Entre el chat GPT y Cloud, ¿cuál\nrecomiendan pagar?\""
+    } ]
+  }, {
+    "tStartMs": 2571000,
+    "dDurationMs": 9000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Ojo, o sea, esto, yo, o sea, tú aquí,\nyo te vendí Cloud y yo diría Cloud, pero"
+    } ]
+  }, {
+    "tStartMs": 2578200,
+    "dDurationMs": 6280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "yo no te conozco y yo no sé tú qué haces\nen tu día a día, yo no sé muchas cosas"
+    } ]
+  }, {
+    "tStartMs": 2582440,
+    "dDurationMs": 5840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de tu de tu de tu ocupación diaria,\nentonces, no te voy a asegurar que Cloud"
+    } ]
+  }, {
+    "tStartMs": 2586360,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "es la tuya, obviamente para cada persona\nexiste su inteligencia artificial y ahí"
+    } ]
+  }, {
+    "tStartMs": 2590440,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "es donde uno tiene que empezar a\nconocer. El pago es mensual, sí, el pago"
+    } ]
+  }, {
+    "tStartMs": 2594560,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "es mensual, se puede pagar mensual o\ntambién se puede pagar anual, eh, Cloud,"
+    } ]
+  }, {
+    "tStartMs": 2599600,
+    "dDurationMs": 4440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "le recomiendo a las personas que\nquieran, páguenlo un mes, páguenlo un"
+    } ]
+  }, {
+    "tStartMs": 2602080,
+    "dDurationMs": 5720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mes y empiecen a utilizarlo, si de\npronto quieres saber más y quieres"
+    } ]
+  }, {
+    "tStartMs": 2606120,
+    "dDurationMs": 5640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sacarle más provecho, fórmese con\nnosotros,"
+    } ]
+  }, {
+    "tStartMs": 2609440,
+    "dDurationMs": 5320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pero, eh, sí,\neh, mensual, páguenlo un mes, inténtelo"
+    } ]
+  }, {
+    "tStartMs": 2613720,
+    "dDurationMs": 3440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y verá que ustedes se van a decir,\n\"Venga, ¿yo cómo trabajaba antes sin"
+    } ]
+  }, {
+    "tStartMs": 2616120,
+    "dDurationMs": 5680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "esto?\"\nDice Juan David, \"Pregunta, ¿será que"
+    } ]
+  }, {
+    "tStartMs": 2619360,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "esta IA podría reemplazar el los puestos\njuniors?\" Lo va a hacer, lo va a hacer,"
+    } ]
+  }, {
+    "tStartMs": 2623640,
+    "dDurationMs": 6760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Juan David, eh, por eso es que los\ndesarrolladores, toda persona, no solo"
+    } ]
+  }, {
+    "tStartMs": 2628400,
+    "dDurationMs": 5640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "los desarrolladores, toda persona que\ntenga un trabajo frente a un computador,"
+    } ]
+  }, {
+    "tStartMs": 2632560,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tiene que empezar a utilizar estas\nherramientas, tiene que empezar a pensar"
+    } ]
+  }, {
+    "tStartMs": 2636000,
+    "dDurationMs": 9080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que Cloud, ChatGPT y Gemini son su Word,\nExcel y PowerPoint, literalmente, porque"
+    } ]
+  }, {
+    "tStartMs": 2642240,
+    "dDurationMs": 7640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "si no, otra persona que sí utilice IA,\notro junior que sí utilice IA, va a"
+    } ]
+  }, {
+    "tStartMs": 2647640,
+    "dDurationMs": 8320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "dejar ese trabajo al Junior que no\nutilice ella, ¿si? Entonces"
+    } ]
+  }, {
+    "tStartMs": 2652520,
+    "dDurationMs": 8520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Muy muy muy valioso y empezar a\nutilizarlo en todas las áreas."
+    } ]
+  }, {
+    "tStartMs": 2658440,
+    "dDurationMs": 8680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "¿Qué tan seguro es cuanto a la\ninformación? pregunta Andrea. Eh,"
+    } ]
+  }, {
+    "tStartMs": 2663360,
+    "dDurationMs": 7320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Andrea, en este caso Cloud, eh, ellos te\ndicen, mira"
+    } ]
+  }, {
+    "tStartMs": 2669320,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Cloud va a tener acceso a toda tu\ninformación, ten cuidado con qué"
+    } ]
+  }, {
+    "tStartMs": 2672640,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "información cargas. Entonces Obviamente\naquí entra uno a pensar en esos"
+    } ]
+  }, {
+    "tStartMs": 2677160,
+    "dDurationMs": 5160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "principios de ética que tienen las\nempresas que empezar a implementar con"
+    } ]
+  }, {
+    "tStartMs": 2680520,
+    "dDurationMs": 7560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "respecto a la inteligencia artificial,\ncon por ejemplo, no cargar información"
+    } ]
+  }, {
+    "tStartMs": 2684480,
+    "dDurationMs": 8080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "personal de clientes, no eh, anonimizar\nlos datos, es un tema de ética y de"
+    } ]
+  }, {
+    "tStartMs": 2690080,
+    "dDurationMs": 7760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "darle manejo a a la información esa que\ntú vayas a utilizar en Cloud. Cloud te"
+    } ]
+  }, {
+    "tStartMs": 2695000,
+    "dDurationMs": 7360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "da la advertencia, nosotros no nos\nhacemos responsables si Cloud va y te"
+    } ]
+  }, {
+    "tStartMs": 2699840,
+    "dDurationMs": 7120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "elimina los correos o si Cloud va y te\nelimina los archivos de tu carpeta de"
+    } ]
+  }, {
+    "tStartMs": 2703800,
+    "dDurationMs": 6800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "descargas Es tu culpa porque tú eres\nquien dirige a Cloud, tú eres quien le"
+    } ]
+  }, {
+    "tStartMs": 2708840,
+    "dDurationMs": 6080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "da las instrucciones, los prompts, las\ntareas. Cloud tiene estas capacidades,"
+    } ]
+  }, {
+    "tStartMs": 2712840,
+    "dDurationMs": 5240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ellos te dicen, mira, ten, Cloud tiene\nestas capacidades pero es tu"
+    } ]
+  }, {
+    "tStartMs": 2716040,
+    "dDurationMs": 7200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "responsabilidad, tú lo usas bajo tu,\nbajo tu, pues tu tu, tu es tu"
+    } ]
+  }, {
+    "tStartMs": 2721680,
+    "dDurationMs": 5200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "responsabilidad, tu uso, ¿listo?\nEntonces"
+    } ]
+  }, {
+    "tStartMs": 2724880,
+    "dDurationMs": 7640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "¿Cuántos tokens tenemos para esas\nconsultas? ¿Esto reemplaza a N8N?"
+    } ]
+  }, {
+    "tStartMs": 2731000,
+    "dDurationMs": 4040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Para una persona que tenga que entregar\ninformes cada mes se me, sería demasiado"
+    } ]
+  }, {
+    "tStartMs": 2734520,
+    "dDurationMs": 5120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "eficiente.\nSí, Juan David. Segundo, ¿esto reemplaza"
+    } ]
+  }, {
+    "tStartMs": 2737320,
+    "dDurationMs": 7880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a N8N? N8N para las personas que no\nsepan son un, es una plataforma, una"
+    } ]
+  }, {
+    "tStartMs": 2742360,
+    "dDurationMs": 9000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "herramienta para automatización y no\ndiría que lo reemplaza pero sí ataca"
+    } ]
+  }, {
+    "tStartMs": 2747840,
+    "dDurationMs": 8960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ciertos, ciertas casos de uso que ataca\nN8N, se pueden resolver con Cloud de"
+    } ]
+  }, {
+    "tStartMs": 2753880,
+    "dDurationMs": 7960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "manera sencilla. Es como cuando\ncomparábamos la programación con N8N,"
+    } ]
+  }, {
+    "tStartMs": 2760120,
+    "dDurationMs": 5320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "¿será que N8N va a reemplazar la\nprogramación? No, no la va a reemplazar,"
+    } ]
+  }, {
+    "tStartMs": 2763960,
+    "dDurationMs": 5200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "solo que hay cosas que se pueden hacer\nen N8N que también se pueden hacer"
+    } ]
+  }, {
+    "tStartMs": 2767080,
+    "dDurationMs": 5480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "programando, pero que en N8N se hace más\nfácil. Entonces ahora llega otra"
+    } ]
+  }, {
+    "tStartMs": 2770920,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "comparación que es, venga, ¿será que\nCloud compara, eh, perdón, Cloud"
+    } ]
+  }, {
+    "tStartMs": 2775080,
+    "dDurationMs": 7080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "reemplaza a N8N? No, no lo reemplaza,\nsolo que hay cosas que logra N8N que en"
+    } ]
+  }, {
+    "tStartMs": 2780040,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Cloud se pueden hacer más rápido, sin\nmatarse tanto la cabeza y tal vez con un"
+    } ]
+  }, {
+    "tStartMs": 2784640,
+    "dDurationMs": 6960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mejor resultado. Entonces no lo\nreemplaza, pero sí optimiza ciertas"
+    } ]
+  }, {
+    "tStartMs": 2788400,
+    "dDurationMs": 8480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cosas que N8N puede hacer. N8N mucho\ntiene muchísimo más alcance y muchísimas"
+    } ]
+  }, {
+    "tStartMs": 2794080,
+    "dDurationMs": 6600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "más funcionalidades, pero hay cosas que\nse hacen en N8N básicas que se pueden"
+    } ]
+  }, {
+    "tStartMs": 2799200,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "dejar de hacer ahí y se pueden empezar a\nhacer desde acá. ¿Listo? Entonces, otra"
+    } ]
+  }, {
+    "tStartMs": 2803560,
+    "dDurationMs": 6960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "preguntica, ¿cuántos tokens tenemos para\nesas consultas?"
+    } ]
+  }, {
+    "tStartMs": 2807360,
+    "dDurationMs": 9040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Cloud tiene una serie de límites, pero\neso va ligado a mucha, a mucho, ahí es"
+    } ]
+  }, {
+    "tStartMs": 2814080,
+    "dDurationMs": 6840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "donde empieza uno a necesitar saber cómo\nusarlo, ¿sí? Eh, obviamente cualquiera"
+    } ]
+  }, {
+    "tStartMs": 2818880,
+    "dDurationMs": 6120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "podría manejar un Ferrari, pero hay que\nsaberlo. Entonces ahí es donde entramos"
+    } ]
+  }, {
+    "tStartMs": 2823080,
+    "dDurationMs": 6280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "nosotros y ahí es donde entran el\ndetalle necesario que, que nosotros"
+    } ]
+  }, {
+    "tStartMs": 2827680,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "abarcamos en las diferentes formaciones\nque tenemos, donde no solo es, venga,"
+    } ]
+  }, {
+    "tStartMs": 2831680,
+    "dDurationMs": 7160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "úsela, sino, mire, úsela de esta forma,\núsela con esta mejor práctica, úsela"
+    } ]
+  }, {
+    "tStartMs": 2836600,
+    "dDurationMs": 4880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "haciéndolo así, así, así, aplicado a su\nnegocio."
+    } ]
+  } ]
+}

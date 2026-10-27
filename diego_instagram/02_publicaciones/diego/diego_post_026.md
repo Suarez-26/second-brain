@@ -1,0 +1,30 @@
+# diego_post_026: Adam Madenski•Sunset Vibes...
+
+- **URL Original:** https://www.instagram.com/diegotarazonap/reel/C2s5sdHpSMv/
+- **Fecha:** 2024-01-30T00:41:12.000Z
+- **Tipo de Contenido:** Reel (Video 9:16)
+- **Video descargado:** `diego_post_026.mp4`
+- **Transcripción 4 capas:** `../05_transcripciones/diego_post_026_transcripcion.md`
+
+## 1. Caption / Descripción Completa del Post
+```text
+Adam Madenski•Sunset Vibes
+```
+
+### Análisis de Estilo y Escritura del Caption:
+- **Gancho de primera línea:** Adam Madenski•Sunset Vibes
+- **Extensión:** 26 caracteres | 3 palabras.
+- **Tono detectado:** Directo, pedagógico, orientado a toma de decisiones y acción.
+
+## 2. Comentarios y Respuestas de la Audiencia (Voz 1-a-1)
+```text
+Sin comentarios capturados o comentarios restringidos.
+```
+
+---
+## 🔗 Conexiones del Segundo Cerebro
+- **Entidad principal:** [[people/diego-tarazona|Diego Tarazona]] | [[areas/campuslands|Campuslands]]
+- **MOC Instagram:** [[diego_instagram/README|MOC Instagram]] | [[projects/instagram-diego-tarazona|Proyecto Instagram]]
+- **Investigación General:** [[diego_investigacion/README|Investigación LinkedIn Diego Tarazona]]
+- **Transcripción Reel:** [[diego_instagram/05_transcripciones/diego_post_026_transcripcion|Transcripción Reel]]
+- **Áreas temáticas:** [[areas/ia-aplicada-y-futuro-del-trabajo|IA Aplicada]] • [[areas/cultura-camper|Cultura Camper]]

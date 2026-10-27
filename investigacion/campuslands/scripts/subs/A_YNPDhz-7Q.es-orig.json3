@@ -1,0 +1,906 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  }, {
+    "mhModeHint": 2,
+    "juJustifCode": 0,
+    "sdScrollDir": 3
+  } ],
+  "wpWinPositions": [ {
+  
+  }, {
+    "apPoint": 6,
+    "ahHorPos": 20,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  } ],
+  "events": [ {
+    "tStartMs": 0,
+    "id": 1,
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 80,
+    "dDurationMs": 5239,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Este ejercicio consta de un sistema para\ngestionar los recursos de la biblioteca",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3639,
+    "dDurationMs": 5561,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "aplicando los principios de programación\norientado a objetos. El objetivo es",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 7120,
+    "dDurationMs": 5840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "modelar libros y revistas, permitir su\npréstamo búsqueda de administración",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 11240,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "utilizando conceptos básicos como\nextracción, herencia, encapsulamiento,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 15400,
+    "dDurationMs": 5840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "polimorfismo e interfaces.\nLo primero que se hace es definir la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 19439,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "clase abstracta recurso que representa\ncualquier elemento que pueda existir en",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 22840,
+    "dDurationMs": 8320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "la biblioteca. Esta clase encapsula los\natributos comunes a todos los recursos,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 27000,
+    "dDurationMs": 8920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "los cuales son ID, título\ny disponible.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 34120,
+    "dDurationMs": 7599,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Los atributos son privados para aplicar\nencapsulamiento y se acceden a ellos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 37559,
+    "dDurationMs": 8401,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mediante los métodos get\nander.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 44200,
+    "dDurationMs": 6120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Al ser abstracta, recurso no se\ninstancia directamente, sino que sirve",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 47640,
+    "dDurationMs": 7559,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "como base para tipos más específicos\ncomo libros o revistas. Esto aplica bien",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 53359,
+    "dDurationMs": 7641,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "el principio de abstracción, ya que ya\nque modera el concepto general de lo que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 57399,
+    "dDurationMs": 3601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "es un recurso bibliográfico.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 63960,
+    "dDurationMs": 8600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "¿Para qué se decidió de que recurso\nfuera abstracta? Ya que hay dos clases",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 69799,
+    "dDurationMs": 6521,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que van a agregar de él, lo que es libro\ny revista. Entonces, ¿esto qué hace?",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 74720,
+    "dDurationMs": 5520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Esto evita de que una persona pueda\ncrear directamente un recurso, sino que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 78280,
+    "dDurationMs": 6680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tenga que crear o un libro o una revista\npara poder ahí sí este ingresar a la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 83000,
+    "dDurationMs": 6200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "biblioteca.\nEntonces, seguimos con lo que es la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 87680,
+    "dDurationMs": 6200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "clase,\nlas clases quean, lo que es libro y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 90960,
+    "dDurationMs": 8280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "revista. Entonces, empezaremos eh con lo\nque fue con lo que es libro. Entonces,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 97360,
+    "dDurationMs": 9680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "libro, ¿qué hace libro? Primero que todo\nhay que establecerlo de extensidad",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 102360,
+    "dDurationMs": 8880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de recurso y él tiene su propio eh campo\nadicional, campo propio, el cual es el",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 109079,
+    "dDurationMs": 9960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "autor. Entonces, hay que crear el\nconstructor llamando al sú y aplicando",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 115640,
+    "dDurationMs": 9200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "la nueva el nuevo campo que es autor y\nse hace prácticamente lo mismo que que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 121439,
+    "dDurationMs": 9481,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "recursos los ge, además de un two string\npara poder personalizar mejor la lo que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 127520,
+    "dDurationMs": 7200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "es la la impresión del del objeto en sí.\nEn este caso pues sería el libro con su",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 133040,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ID, subtítulo, su autor y su\ndisponibilidad.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 136319,
+    "dDurationMs": 8321,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Lo mismo con revista. revista, el cual\ntiene dos nuevos campos, su campo propio",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 142080,
+    "dDurationMs": 7760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "llamado número y su siguiente campo\nllamado tipo. ¿Y tipo, ¿qué es tipo? Es",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 147480,
+    "dDurationMs": 8600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "un tipo revista. En este caso, tipo\nrevista va a ser una numeración. ¿Para",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 151440,
+    "dDurationMs": 9040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "qué? Para evitar este que hayan campos\nque se escriban mal. Por ejemplo, no sé,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 158400,
+    "dDurationMs": 5839,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "investigación, unos escriben con i\nminúscula, otros con i mayúscula, otros",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 162400,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "con títulos. con títulos, no, perdón,\ncon tildes. Entonces, en este caso se",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 166239,
+    "dDurationMs": 7681,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "coloca enum poder para poder mantener lo\nque es una consistencia en la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 170920,
+    "dDurationMs": 3000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "información.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 174519,
+    "dDurationMs": 9681,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Lo mismo, se crea el que el constructor\ny se agrega los campos propios, bueno,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 181200,
+    "dDurationMs": 8520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "además del súper que tiene lo que es ID,\ntítulo indisponible y también sus gear",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 186599,
+    "dDurationMs": 7000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "seter y el to stream.\nAhora vamos con lo que son los",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 192000,
+    "dDurationMs": 6239,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "servicios. En este caso sería el\nservicio de biblioteca que va a ser",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 195519,
+    "dDurationMs": 6601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "dividida en dos. La interfaz, la cual es\nla que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 200239,
+    "dDurationMs": 5681,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "eh define los métodos que se va que va a\ntener la biblioteca.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 204080,
+    "dDurationMs": 6120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "En este caso va a ser agregar recurso,\nprestar recurso y buscar recurso por",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 207760,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "título. Y esto se va a utilizar por\nmedio de la biblioteca, ya que la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 211920,
+    "dDurationMs": 7080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "biblioteca lo que va a hacer es llamar a\nla interfaz, decir, voy a realizar estos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 216360,
+    "dDurationMs": 7760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "métodos y ahora sí proceder con la\nlógica. En este caso",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 222280,
+    "dDurationMs": 10760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "está el método agregar recursos. lo que\nlo que va a hacer es pedir la pedir la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 227439,
+    "dDurationMs": 5601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "nueva el recurso nuevo y añadirlo.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 235879,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "El siguiente método va a ser prestar el\nrecurso. Lo que va a hacer es buscar",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 239640,
+    "dDurationMs": 7360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "entre los recursos el que tenga su ID.\nEn caso de ser ID, pues directamente el",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 244319,
+    "dDurationMs": 8161,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "recurso pasa a ser false. El recurso,\nperdón, el valor",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 250159,
+    "dDurationMs": 9040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "disponible del recurso, pues va a pasar\na ser f. false y retorna true. Retorna",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 256840,
+    "dDurationMs": 5880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "true en caso de que primero se consiga\nel",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 260720,
+    "dDurationMs": 5680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "recurso con el ID y su recurso sea\ndisponible.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 264639,
+    "dDurationMs": 5641,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Entonces, hay dos casos en los cuales\npuede retornar false, o sea, que no se",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 268000,
+    "dDurationMs": 10360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "puede prestar. El primero es en caso de\nque el recurso y con el ID no que no no",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 275759,
+    "dDurationMs": 7121,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "se encuentre o que se encuentre el\nrecurso con ese ID proporcionado, pero",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 280720,
+    "dDurationMs": 7039,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "su disponibilidad, bueno, su valor\ndisponible sea false. Entonces por eso",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 285160,
+    "dDurationMs": 6360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "se realiza esta validación de que\nrecurso. Get id, o sea, que el ID sea",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 289840,
+    "dDurationMs": 5160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "igual al que se proporcionó y su\ndisponibilidad sea true. En caso de que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 293960,
+    "dDurationMs": 6519,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "alguno de los dos falle, pues\ndirectamente pasa al siguiente recurso y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 298520,
+    "dDurationMs": 7519,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "en caso de que recorra todos los\nelementos y no se consiga ningún ID con",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 303120,
+    "dDurationMs": 8480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ningún recurso con ese ID y cuyo valor\nde disponible sea true, pues",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 307639,
+    "dDurationMs": 7201,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "directamente va a retornar false.\nY está el método buscar recurso por",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 313160,
+    "dDurationMs": 6120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "título. El método buscar recurso por\ntítulo, lo que va a hacer es",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 317320,
+    "dDurationMs": 5879,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "eh recorrer, bueno, primero que todo se\ndeclara una lista de recursos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 320840,
+    "dDurationMs": 6079,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "encontrados porque pueden haber varios\nrecursos con el mismo nombre. Entonces,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 325319,
+    "dDurationMs": 8201,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "lo que va a hacer es recorrer todos los\nrecursos y cada recurso le le obtiene el",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 330600,
+    "dDurationMs": 6879,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "título y se compara con el título pasado\npor parámetro. En caso de que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 335120,
+    "dDurationMs": 8079,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "correspondan, se va a agregar a esa\nlista y al final del ciclo lo que va a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 340400,
+    "dDurationMs": 5799,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hacer es imprimir la lista de recursos\nencontrados.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 347680,
+    "dDurationMs": 7519,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Y pues pasaríamos lo que es al main. La\nclase main, ¿qué es lo que va a hacer?",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 352160,
+    "dDurationMs": 8520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Primero va a crear la biblioteca,\nsegundo va a crear los libros, luego las",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 358160,
+    "dDurationMs": 8200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "revistas y esas libros y revistas como\nson recursos,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 364160,
+    "dDurationMs": 5159,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "eh se agregan a la biblioteca que se\npuede ver por medio de este método, que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 367680,
+    "dDurationMs": 5040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "es biblioteca pun agregar recursos y se\nagrega ahí los lo que son los libros y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 371160,
+    "dDurationMs": 6879,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "las revistas.\nDespués vamos a hacer el préstamo de los",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 374680,
+    "dDurationMs": 9519,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "recursos 1, 2 y 5. Bueno, con su ID 1, 2\ny 5. Ahora vamos a buscar por título.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 381400,
+    "dDurationMs": 6840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Entonces, eh va a guardar la lista de\nrecursos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 386319,
+    "dDurationMs": 5440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y después lo que va a hacer es\nimprimirse,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 390120,
+    "dDurationMs": 3960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ya que el método lo que hace es devolver\nuna lista de recursos. Se tiene que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 392960,
+    "dDurationMs": 6359,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "imprimir por medio de un\nsystem.outo.printline.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 396720,
+    "dDurationMs": 7879,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Y por último, la idea es ver el estado\nactual de los recursos. Siguiendo la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 401520,
+    "dDurationMs": 9200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "lógica, pues vamos a tener lo siguiente,\nlos tres libros, las dos revistas en la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 407199,
+    "dDurationMs": 9761,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "biblioteca, pero como se prestaron el el\nrecurso con ID1, ID2 e ID5, entonces el",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 415000,
+    "dDurationMs": 5879,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "libro Quijote de la Mancha, el libro 100\naños de soledad y la revista Nature",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 418800,
+    "dDurationMs": 7640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Communications va a tener el valor\ndisponible en false. Entonces, si",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 423039,
+    "dDurationMs": 8560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ejecutamos el\naplicativo,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 429360,
+    "dDurationMs": 7360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "entonces vamos a tener lo siguiente.\nPrimero,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 433319,
+    "dDurationMs": 8241,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que ya están los dispositivos creados.\nSegundo, se prestó el recurso con ID1.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 439280,
+    "dDurationMs": 8280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "En este caso se prestó lo mismo con el\nID2 y lo mismo con el ID5. Ahora vamos a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 444560,
+    "dDurationMs": 7800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "buscar los recursos con título 1984. En\neste caso se encontraron dos. el libro",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 449479,
+    "dDurationMs": 8801,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que es ID3,\nque es este, el título se llama 1984, la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 455759,
+    "dDurationMs": 7440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "revista también 1984\ny el el estado actual de los recursos.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 461120,
+    "dDurationMs": 7160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Anteriormente había comunicado de que se\nprestaron los recursos 1, 2 y 5.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 465720,
+    "dDurationMs": 8680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Entonces, si miramos el libro con ID1,\nvemos que el disponible está un false.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 470599,
+    "dDurationMs": 8081,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Lo mismo con el libro de con el ID2 y lo\nmismo con el recurso con ID5. Y eso",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 476840,
+    "dDurationMs": 6759,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sería\nel qué el ejercicio. Ahora vamos a ver",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 481759,
+    "dDurationMs": 6361,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "el diagrama de clases. Como había\nmencionado anteriormente, recursos es la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 485919,
+    "dDurationMs": 8601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "clase\nque es la clase sú en la cual hereda el",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 492039,
+    "dDurationMs": 6641,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "libro y revista.\nEh, se se había mencionado anteriormente",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 496680,
+    "dDurationMs": 8359,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "también qué tipo revista es un enum, o\nsea, que tipo revista era, qué tipo,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 502280,
+    "dDurationMs": 6680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "perdón, era de de tipo revista y tipo\nrevista era un enum. En este caso, pues",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 507159,
+    "dDurationMs": 7360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "al crear una revista solo permite crear\nde estos cinco tipos.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 511720,
+    "dDurationMs": 8239,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Además de eso, se puede dar se puede ver\nque biblioteca contiene recursos.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 517399,
+    "dDurationMs": 8081,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Entonces por eso está por medio de este\ncuadrado, por medio de este rombo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 523760,
+    "dDurationMs": 9400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "e vacío\ny biblioteca. Al usar la interfaz se",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 529320,
+    "dDurationMs": 7720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "puede ver el la flecha puenteada con el\ntriángulo blanco. Entonces, ¿esto qué",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 535240,
+    "dDurationMs": 4640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "significa? Que biblioteca usa esos\nmétodos. M.",
+      "acAsrConf": 0
+    } ]
+  } ]
+}

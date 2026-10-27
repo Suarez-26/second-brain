@@ -1,0 +1,6 @@
+KEY: reddit_3
+ORIGINAL_URL: https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2Si-D9dUgbtgVODZ8YOWkwucN2YpK-kY1bK1lBESVvm2t42I4JFSVZrKf4yedWnz6L_S6okuoKI7UopaLA_i71lPVCUGbKnF3ccBPJRl--Dsc7eOtfCTH7XjMKViz8I1pDDwkjer9nuwTZMyjK9cS0-1LKKRJhzxEBsP3G7o67JNf8DfHGF4bUl1vxq7pF9ZxVg89PvjrR9_y5A==
+FINAL_URL: https://www.reddit.com/r/bucaramanga/comments/1v037ud/campuslands_es_una_estafa_no_se_metan_all%C3%A1/
+STATUS: 200
+
+Reddit

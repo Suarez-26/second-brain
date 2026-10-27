@@ -1,0 +1,4484 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  }, {
+    "mhModeHint": 2,
+    "juJustifCode": 0,
+    "sdScrollDir": 3
+  } ],
+  "wpWinPositions": [ {
+  
+  }, {
+    "apPoint": 6,
+    "ahHorPos": 20,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  } ],
+  "events": [ {
+    "tStartMs": 0,
+    "id": 1,
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 280,
+    "dDurationMs": 4720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Bueno, vamos a comenzar. El día de hoy,\ncomo les decía, vamos a estar trabajando",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3280,
+    "dDurationMs": 6680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "dos herramientas particularmente que\npertenecen al ecosistema de inteligencia",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 7279,
+    "dDurationMs": 7001,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "artificial de Google. ¿Listo? Y son dos\nherramientas que pues de pronto si",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 11599,
+    "dDurationMs": 6921,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "alguien ya ha asistido a algunas de las\nformaciones que hemos hecho, ya las",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 16080,
+    "dDurationMs": 7080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "conocerán. ¿Listo? Recalco, no vamos a\ntrabajar sobre chat GPT. Eh, lo único",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 21039,
+    "dDurationMs": 5400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que vamos a hablar de chat GPT es la\nposibilidad de creación de imágenes,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 24400,
+    "dDurationMs": 6440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pero hoy no vamos a estar hablando ni de\nagentes, ni de automatizaciones, ni de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 29240,
+    "dDurationMs": 6200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "eh flujos de trabajo complejos. Hoy\nvamos a estar centrados en la generación",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 33360,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de imágenes. ¿Listo? La generación de\nimágenes en este caso. Entonces, para",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 37840,
+    "dDurationMs": 7360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que vayan ingresando las personas que\nquieran entrar son estas dos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 41879,
+    "dDurationMs": 6680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "plataformas. astudio.google.com,\nuna plataforma de Google que nos permite",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 46879,
+    "dDurationMs": 7680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "acceso a todos los modelos de\ninteligencia artificial de esta empresa.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 51000,
+    "dDurationMs": 6920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Y del de la misma empresa de Google,\ntenemos esta otra plataforma que se",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 56160,
+    "dDurationMs": 7199,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "llama Flow, que es una plataforma que\nnos permite acceso a modelos de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 60480,
+    "dDurationMs": 7679,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "generación de video, ¿no?\nObviamente con una capa gratuita que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 65400,
+    "dDurationMs": 7880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tiene pues una\npues nos permite probarlo, nos permite",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 70400,
+    "dDurationMs": 7759,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "probarlo y experimentar, ver qué es lo\nque qué es lo que podemos llegar a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 76320,
+    "dDurationMs": 6759,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "lograr pues con estos modelos de\ninteligencia artificial para pensar de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 80560,
+    "dDurationMs": 7960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pronto en adquirirlos ya pues de manera\nmás este",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 85680,
+    "dDurationMs": 6719,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pues profesional, ¿cierto? Entonces es\nmuy sencillo para entrar a Google E",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 90400,
+    "dDurationMs": 5920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Studio. Pueden ir preferiblemente desde\nsus computadores, ojo, pueden ingresar",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 94520,
+    "dDurationMs": 6040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "desde el celular, sí, pero no les\naseguro que la interfaz se vea igual que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 98200,
+    "dDurationMs": 6680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "como la que yo veo aquí. Entonces, vamos\na a buscar en Google. Muy sencillo,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 101920,
+    "dDurationMs": 7640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pueden buscar Studio y les va a aparecer\ncomo primer resultado Google AI Studio.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 107840,
+    "dDurationMs": 7160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Fíjense que sea la real, que no sea una\nestafa porque no falta. Entonces, Google",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 112320,
+    "dDurationMs": 7200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "AI Studio, muy sencillo, nos va a llevar\na esta página y le vamos a dar el",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 117119,
+    "dDurationMs": 7761,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "botoncito de get started o de iniciar\npara que nos lleve ya a la pantalla",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 121880,
+    "dDurationMs": 7200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "principal de Google AI Studio. Igual les\nvoy a compartir por el chat de aquí de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 126799,
+    "dDurationMs": 6281,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "la llamada les voy a compartir el link\npara que las personas que quieran",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 131120,
+    "dDurationMs": 4880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ingresar directamente desde ahí les\nmuestro cómo se busca desde Google para",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 134640,
+    "dDurationMs": 7400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que vean que es muy sencillo, no hay\npierde. Simplemente buscan ahí Studio en",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 139840,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Google y les va a salir como primera\nopción. Y con la segunda plataforma que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 144080,
+    "dDurationMs": 5840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vamos a estar, ojo, atención, atención,\nporque ya lo había dicho. Entonces,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 148040,
+    "dDurationMs": 5360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "conectados acá, por favor. Estas\nherramientas las podemos utilizar de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 151200,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "manera gratuita. La idea de hoy es que\nhagamos una dinámica muy interesante",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 154879,
+    "dDurationMs": 7000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "donde ustedes puedan eh experimentar\nprecisamente con estas herramientas para",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 160080,
+    "dDurationMs": 6159,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que puedan pensar en pagar herramientas\nmás poderosas de esta misma área que es",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 164360,
+    "dDurationMs": 5280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "generación de video. Entonces, hoy todos\nvamos a poder hacer el ejercicio porque",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 167840,
+    "dDurationMs": 8200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "son herramientas completamente\ngratuitas. ¿Listo? Pero es el final. El",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 173120,
+    "dDurationMs": 7880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "el fin de esto es que podamos pensar en\nescalar, porque como ya lo he dicho",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 178319,
+    "dDurationMs": 5361,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "varias veces, eh el verdadero poder de\nla inteligencia artificial es cuando",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 182280,
+    "dDurationMs": 5840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "dejamos de utilizar las versiones\ngratuitas y de verdad empezamos a hacer",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 185959,
+    "dDurationMs": 6521,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "esa inversión de pagar modelos más\npotentes. ¿Listo? Entonces, AI Studio,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 190640,
+    "dDurationMs": 6440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "muy sencillo, ya pasé el link por el\nchat o lo pueden buscar directamente en",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 194560,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Google como I Studio y les va a aparecer\nla primera opción. Segunda opción,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 199360,
+    "dDurationMs": 7400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "segunda opción, perdón, no, según eh\nsegunda herramienta que vamos a utilizar",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 202920,
+    "dDurationMs": 8920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "es Flow, muy sencillo, FL O. Buscan en\nGoogle y también les va a aparecer como",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 209120,
+    "dDurationMs": 7759,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "la primera opción que tenemos ahí.\n¿Listo? La primera que tenemos ahí es la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 214239,
+    "dDurationMs": 6761,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "plataforma de de en este caso de es el\necosistema de Google Labs, de los",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 219120,
+    "dDurationMs": 5240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "laboratorios de investigación de Google.\nEn este caso tienen esta plataformita",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 222519,
+    "dDurationMs": 6201,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que se llama Flow, que nos permite\nacceder a los modelos de generación de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 226280,
+    "dDurationMs": 7319,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "video de manera gratuita. ¿Listo?\nEntonces, ya les mostré cómo es que se",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 231120,
+    "dDurationMs": 8560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "busca. Les vamos, les voy a compartir el\nlink, así mismo de Flow nuevamente. Ahí",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 236840,
+    "dDurationMs": 8920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "lo paso dos veces y voy a volver a\ncompartir el link de la plataforma",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 242560,
+    "dDurationMs": 7840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Google AI Studio. Recuerden, Google AI\nStudio número 1 y Flow número dos, dos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 248360,
+    "dDurationMs": 7200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "plataformas de Google que nos permiten\nprobar los modelos de manera gratuita.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 252360,
+    "dDurationMs": 8439,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "¿Listo? Entonces, muy pendientes porque\nvamos a hacer esta dinámica porque les",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 258040,
+    "dDurationMs": 8760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "recuerdo la finalidad del día de hoy es\nque podamos utilizar estas dos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 262919,
+    "dDurationMs": 8601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "herramientas para generar un entregable\ny ese entregable ustedes lo van a tener",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 268639,
+    "dDurationMs": 7441,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que subir en una historia de Instagram,\netiquetarnos las personas que quieran",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 273080,
+    "dDurationMs": 9040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "participar por una formación de 12 horas\ncompletamente gratuita. Eh, bueno, desde",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 279320,
+    "dDurationMs": 6280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cero a todo el tema de creación de\nagentes y inclusive el tema de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 284000,
+    "dDurationMs": 4440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "automatización básica dependiendo del\nperfil. Entonces es una muy buena",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 287280,
+    "dDurationMs": 7280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "oportunidad para que ustedes puedan\npensar en participar y en ganarse esta",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 291039,
+    "dDurationMs": 9521,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "formación que tiene un costo de más de\nun millón de pesos, esta formación VIP",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 297160,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "completamente personalizada, ¿no? Listo.\nE",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 304360,
+    "dDurationMs": 7480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "bueno, listo. Entonces vamos a ingresar\na Google AI Studio. Cuando lleguen al",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 309320,
+    "dDurationMs": 6920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "apartado, pues a la sección inicial de\nGoogle E Studio, a la izquierda, como en",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 314600,
+    "dDurationMs": 5280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "toda inteligencia artificial, siempre\nvan a encontrar a la izquierda una barra",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 318280,
+    "dDurationMs": 5280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de navegación donde pueden entrar las\ndiferentes opciones. Y es muy sencillo,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 321800,
+    "dDurationMs": 7399,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vamos a entrar a la primera opción donde\nnos dice playground o zona de pruebas en",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 326639,
+    "dDurationMs": 6481,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "español, probablemente diga, listo. Aquí\nnos va a salir explora los modelos de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 331319,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Google, que aquí es donde podemos\nacceder a los modelos de generación. En",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 335039,
+    "dDurationMs": 7160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "este caso lo que nos interesa es, número\nuno, generación de texto. Listo. Nos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 339759,
+    "dDurationMs": 5961,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vamos a meter acá y vamos a utilizar\ncualquiera de estos modelos. Hoy no me",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 344080,
+    "dDurationMs": 6399,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "voy a meter en detalles técnicos de los\nmodelos. Cualquier modelo nos va a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 347520,
+    "dDurationMs": 7720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "funcionar. Yo, en mi caso, voy a elegir\nutilizar Gemini 3.1 Pro Preview. Todos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 353759,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "lo van a poder utilizar de manera\ngratuita. ¿Listo?",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 358280,
+    "dDurationMs": 6680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Eh,\n¿puedo traducir la página al español?",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 361440,
+    "dDurationMs": 9080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Bueno, cada persona le va a salir la\npágina según el idioma que tenga, pero",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 367720,
+    "dDurationMs": 9000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "bueno, es que esa traducción es literal,\nentonces no",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 373680,
+    "dDurationMs": 8000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "no no no, no. Entonces no, pues pues es\nliteral la la transcripción. En fin.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 379319,
+    "dDurationMs": 6280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Entonces, en la pantalla inicial, en el\npatio de juegos, zona de pruebas,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 383840,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "playground, como les salga la primera\nopción en su idioma, van a ver que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 388120,
+    "dDurationMs": 7280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "existen, bueno, la sección para entrar a\nlos modelos de texto. En este caso, eh,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 393280,
+    "dDurationMs": 8359,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "nos dice código y chat, que este es el\nque vamos a utilizar para generar los",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 397639,
+    "dDurationMs": 7840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "prompts. ¿Listo? Gimini 3.1 Pro en este\ncaso. Y por el lado de la generación de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 403759,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "imágenes, si ustedes se fijan, yo acá\nveo que dice image generation. Listo.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 408759,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Aquí es donde podemos acceder a los\nmodelos nanobanana, que son los modelos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 412759,
+    "dDurationMs": 5921,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de generación de imágenes. Aquí hay una\nparticularidad y es que dos de ellos,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 416440,
+    "dDurationMs": 6360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que son los dos modelos de vanguardia,\nestos dos modelos son de pago. ¿Listo?",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 421280,
+    "dDurationMs": 5680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Entonces las personas que no tengan\nconfigurado un pago para que Google les",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 425120,
+    "dDurationMs": 7639,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cobre por el uso, no los van a poder\nutilizar. La idea es que utilicemos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 429560,
+    "dDurationMs": 7000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "nanobanana normal. Nanobanana sin nada,\nsin dos, sin pro ni nada. Van a haber",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 434800,
+    "dDurationMs": 5440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tres opciones. Van a utilizar no van a\nnormal, que nos permite utilizarlo de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 438400,
+    "dDurationMs": 5880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "manera gratuita. ¿Listo? Soy muy\nenfático en que la idea es que hoy",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 442319,
+    "dDurationMs": 6521,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "experimentemos, hagamos la prueba y\nustedes puedan pensar ya en escalar a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 445800,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "modelos mucho mejles. ¿Listo? Entonces,\nya les voy a explicar la metodología que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 450479,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vamos a hacer. Estamos primero\nconociendo dónde es que estamos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 454039,
+    "dDurationMs": 7681,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "trabajando, ¿no? Estamos en el\nplayground, zona de pruebas, vemos dos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 458599,
+    "dDurationMs": 9641,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "opciones, la parte de de generación de\ntexto con Yeminate 3.1 Pro y la parte de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 465599,
+    "dDurationMs": 6961,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "generación de imágenes. Entonces, son\ndos modelos diferentes que utilizo.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 470560,
+    "dDurationMs": 7000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "¿Listo? ¿Qué más encuentro en Google AI\nStudio? Muy, muy importante. ¿Listo? Así",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 476080,
+    "dDurationMs": 5239,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "como a la izquierda ya vimos una barra\nde navegación, a la derecha vemos otra y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 479919,
+    "dDurationMs": 4441,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "aquí hay un montón de opciones, pero no\nse asusten, no van a tener que cambiar",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 482759,
+    "dDurationMs": 8081,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ninguna de esas opciones. Solo van a\nfijarse en la en el primer cuadrito que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 486919,
+    "dDurationMs": 8361,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "aparece siempre en la eh en el costado\nderecho de su pantalla que aparece un",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 493639,
+    "dDurationMs": 6120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "menú que dice configuraciones de\nejecución. El único la única opción que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 497840,
+    "dDurationMs": 7960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "usted le interesa de acá es la primera.\nListo. Si yo le doy clic acá, se me abre",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 502440,
+    "dDurationMs": 7080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "el selector de modelos y aquí es donde\nusted puede elegir qué modelo va a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 507599,
+    "dDurationMs": 6761,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "utilizar. Si usted se fija, aquí arriba\nestán categorizados, ¿cierto? Los",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 512479,
+    "dDurationMs": 5641,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "modelos de Gemini, que son los que vamos\na utilizar. Sonido,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 515640,
+    "dDurationMs": 10280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mi hermano, se le fue el sonido.\nUy, ojo con eso. Gracias, gracias. No sé",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 522320,
+    "dDurationMs": 9720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ahí qué pasó que se me mutió. Listo.\nA la derecha vamos a encontrar",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 528640,
+    "dDurationMs": 7080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "eh la sección de configuraciones de\nejecución, donde la primera opción que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 533839,
+    "dDurationMs": 5041,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tenemos es el selector de modelos.\nCuando ustedes abran el selector de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 536880,
+    "dDurationMs": 5800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "modelos, para que no se pierdan, aquí\nvan a aparecer los modelos de Gemini.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 540640,
+    "dDurationMs": 8560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "son los que utilizamos para texto, para\nanalizar, para investigar, para generar,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 545920,
+    "dDurationMs": 8080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "para resumir, para X y Z, cosas de\ntexto. Listo, investígame tal cosa,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 551240,
+    "dDurationMs": 6920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "genérame tal cosa. Esto es un chat como\nlo haría chat GPT. ¿Listo? Luego, si yo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 556920,
+    "dDurationMs": 5720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "me voy para acá a la sección de\nimágenes, es donde tengo los modelos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 559800,
+    "dDurationMs": 6440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "nanobanana. Desde aquí los puedo elegir.\nSi ustedes se fijan, están los mismos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 564040,
+    "dDurationMs": 7520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que ahorita veíamos, que son nanobanana\n2, nanobanana pro y nanobanana normal.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 569640,
+    "dDurationMs": 6439,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "El tercero que sale es el que vamos a\nutilizar, nanobanana normal. ¿Cómo los",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 574200,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "diferencio? Ustedes se fijan aquí sale\nuna etiqueta que dice pagado, o sea,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 578279,
+    "dDurationMs": 6921,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "paid, que es pues que se necesita pagar\npara utilizar ese modelo. Listo. Este no",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 582480,
+    "dDurationMs": 7960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "lo tiene, que es nanobanana normalito,\nque es el que vamos a estar utilizando",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 587120,
+    "dDurationMs": 7040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "para eh pues generación de imágenes.\n¿Listo?",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 592120,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Conociendo la plataforma. Número uno,\nGoogle AI Studio. Ya sabemos que podemos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 596160,
+    "dDurationMs": 6359,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "texto imágenes. Ahora me voy a ir para\nFlow. Las personas que no hayan entrado",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 600519,
+    "dDurationMs": 6760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a Flow, ingresen ahí. Yo ya pasé los\nlinks y si no es muy sencillo,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 605360,
+    "dDurationMs": 5960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "simplemente buscan en Google Flow y les\nva a aparecer la primerita opción de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 609279,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "todas, no hay pierde. ¿Listo? ¿Qué\nhacemos acá? Cuando lleguen acá les va a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 613560,
+    "dDurationMs": 7360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "aparecer, bueno, esto flow, una página\ninformativa sobre todo lo que se puede",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 617480,
+    "dDurationMs": 8320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "lograr, ¿cierto? Pero si apenas entremos\nen todo el centro me aparece este",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 622399,
+    "dDurationMs": 7521,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "botoncito que dice create with flow. Le\nvamos a dar ahí",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 627839,
+    "dDurationMs": 6721,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y me va a pedir iniciar sesión en una\ncuenta. Iniciamos sesión con cualquier",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 632279,
+    "dDurationMs": 7360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cuenta de Google. En este caso, con esa\ncuenta yo no pago absolutamente nada. Es",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 636320,
+    "dDurationMs": 8319,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mi cuenta personal. Entonces, podemos\nutilizarlo desde acá. ¿Listo? Entonces,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 641880,
+    "dDurationMs": 8639,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "¿qué tenemos acá? Me ahí me muestra como\ndiferentes cosas que que yo puedo lograr",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 648040,
+    "dDurationMs": 6799,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y me dice proyecto nuevo, ¿cierto? Esta\nesta plataforma es mucho más sencilla,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 652399,
+    "dDurationMs": 6721,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "simplemente le damos a proyecto, un\nproyecto nuevo. Esto me va a traer de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 657320,
+    "dDurationMs": 7440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "nuevo, como se imaginarán, a una\ninterfaz de chat donde qué puedo hacer",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 661839,
+    "dDurationMs": 7680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "yo. Si ustedes se fijan, aquí podemos\ngenerar también imágenes y podemos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 666920,
+    "dDurationMs": 9000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "generar también videos. Entonces, ¿qué\ntenemos acá? Que está eh de igual forma",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 673560,
+    "dDurationMs": 7240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "este\ncomo lo está en Google E Studio, los",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 678000,
+    "dDurationMs": 7600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "modelos Nanobanana. nanovanana 2,\nnanobanana pro yagen 4, que es un modelo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 683519,
+    "dDurationMs": 7521,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "más antiguo de generación de imágenes.\nAquí podemos utilizar nanobanana 2 o",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 688519,
+    "dDurationMs": 5120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "nanobanana pro. ¿Listo? Con una\nparticularidad que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 691920,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mi hermano, una pregunta,\ncuénteme.",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 695560,
+    "dDurationMs": 8680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "¿Yo puedo crear videos, o sea, le puedo\ndar al a al a la flow le puedo dar un un",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 702279,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "video ya creado y con base a ese video\npuedo seguir mejorándolo o tengo que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 706480,
+    "dDurationMs": 6200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sobre una imagen?\nEh, sí, no, sobre cero. Ya vamos a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 710480,
+    "dDurationMs": 7359,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hablar de la metodología sobre cómo\nllego yo a crear un videoconía. Eh, y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 715880,
+    "dDurationMs": 6079,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pues inicialmente quiero que conozcamos\nla herramienta. Entonces, pasando a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 720279,
+    "dDurationMs": 6881,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "video para responder tu pregunta voy a\nhacerle un poquito de zoom. Sí.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 725000,
+    "dDurationMs": 5560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Cuando para poder seleccionar en qué es\nlo que vamos a trabajar, nos vamos pues",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 728800,
+    "dDurationMs": 5800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "en la pestaña de chat, abajo a la\nderecha, al lado del botón de enviar",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 732320,
+    "dDurationMs": 7440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tengo un selector como parecido al de\nGoogle AI Studio, ¿no? Me deja generar",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 737279,
+    "dDurationMs": 7521,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "imágenes o me deja generar video. Cuando\nyo me paso a video, me salen más",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 742800,
+    "dDurationMs": 8760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "opciones debajo, ¿cierto? Me sale\nfotogramas o ingredientes. Ya. Vamos a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 747639,
+    "dDurationMs": 9281,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ver qué es eso. Me sale 916 o 16-o, ¿qué\nes? la relación de aspecto con la que yo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 754040,
+    "dDurationMs": 9520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "voy a generarlo. Ahí me dice 916 es en\nvertical cuando yo quiero un reel, una",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 759120,
+    "dDurationMs": 9719,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "historia, etcétera. Y 169 16 es en\nformato horizontal como estamos acá en",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 766480,
+    "dDurationMs": 9640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "horizontal, listo que estamos Bueno, en\neste caso pantalla completa. Entonces no",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 772160,
+    "dDurationMs": 8560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y 916. ¿Listo? ¿Qué significa esto de\npor uno, por dos, por tres, por cuatro?",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 778240,
+    "dDurationMs": 6959,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Esta es la cantidad de videos que se van\na generar. cuando yo envíe ese prompt,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 783199,
+    "dDurationMs": 5281,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "listo, la cantidad de resultados que él\nme va a votar. Entonces, yo recomiendo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 786880,
+    "dDurationMs": 5840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "dejarlo en uno\npara no gastar créditos. ¿Cómo así que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 791160,
+    "dDurationMs": 7119,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "crédito? Ya vamos a hablar de los\ncréditos. ¿Listo?",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 795399,
+    "dDurationMs": 7361,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "¿Qué tengo después? Me deja seleccionar\nel modelo que vamos a utilizar. Ya hemos",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 800720,
+    "dDurationMs": 6799,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hablado muchas veces de los modelos. Los\nmodelos son como, hagan de cuenta, como",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 805199,
+    "dDurationMs": 7041,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "los carros, está el carro mecánico,\nluego está el full equipo automático y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 809880,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "luego está la camioneta. Entonces, hay\nun modelo que es el sencillo, hay un",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 814079,
+    "dDurationMs": 8041,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "modelo que es el competente, el bueno y\nque no es tan caro y luego está eh el",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 819079,
+    "dDurationMs": 7841,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "modelo más caro y más capaz de todos.\n¿Listo? Entonces, son diferentes modelos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 824480,
+    "dDurationMs": 7560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "para en este caso generación.\nRecuérdenselo y llévenselo. Los modelos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 829160,
+    "dDurationMs": 8119,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de generación de video de Google son la\nfamilia de Beo. Beo 3 en este caso que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 834839,
+    "dDurationMs": 7041,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "es la familia de modelos de Google. En\neste caso estamos en BO3.1 y vemos que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 840079,
+    "dDurationMs": 7120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hay tres modelos. Está el Light, que es\nel más sencillito, luego está el fast,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 844600,
+    "dDurationMs": 6479,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que es el eh no tan sencillito, pero\ntampoco es el más potente de todos. Y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 849360,
+    "dDurationMs": 6960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "por último, tenemos el quality, que es\nel más caro de todos. Y ustedes cuando",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 854040,
+    "dDurationMs": 9000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vayan cambiando de modelo se van a dar\ncuenta que aquí abajo nos dice cuántas",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 859800,
+    "dDurationMs": 8200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "créditos nos van a cobrar por generar\nese video. ¿Listo? ¿Cuántos créditos yo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 865639,
+    "dDurationMs": 6841,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "me voy a gastar en generar ese prompt\nque voy a enviar? ¿Listo? Entonces, si",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 870079,
+    "dDurationMs": 8680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "yo lo tengo en light, en este caso voy a\ngenerar un video de 16 novenos. Sí, ya",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 876720,
+    "dDurationMs": 6359,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vamos a verlo de fotogramas\ningredientes, que es como vamos a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 880399,
+    "dDurationMs": 6521,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "trabajar hoy. ¿Listo?\nEh,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 884839,
+    "dDurationMs": 6881,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "si yo lo pongo en light, me cuesta 10\ncréditos. Si yo lo pongo en quality, me",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 888880,
+    "dDurationMs": 6840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cuesta 100 créditos. Entonces, vemos la\ndiferencia. ¿Cuántos créditos tengo,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 893480,
+    "dDurationMs": 9000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Santiago? ¿Cuántos créditos tengo de\nmanera gratuita? Cuando ustedes entran a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 898079,
+    "dDurationMs": 7440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Google AI, perdón, a Google Labs a Flow\nen este caso,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 903639,
+    "dDurationMs": 6361,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cuando entran acá, si se van a la parte\nsuperior derecha, a su foto de su cuenta",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 907199,
+    "dDurationMs": 8921,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de Google, les van a aparecer que tienen\n150 créditos de IA. Diariamente Google",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 913639,
+    "dDurationMs": 6161,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "nos entrega 150 créditos para que todos\npodamos crear con estos modelos de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 918079,
+    "dDurationMs": 6161,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "inteligencia artificial completamente\ngratuita. Si usted se gasta sus 150",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 922160,
+    "dDurationMs": 6119,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "créditos, mañana se le van a resetear y\nva a tener otros nuevos 150 créditos.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 926720,
+    "dDurationMs": 6479,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "¿Listo? Entonces, esta es una plataforma\nque nos permite eso, experimentar, ¿sí?",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 930680,
+    "dDurationMs": 6440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Con 150 créditos, que es como eh la\nforma que ellos dicen, \"Listo, mire,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 934639,
+    "dDurationMs": 6281,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pruébelo y haga cositas.\" Les recomiendo\nque los videos que generemos sean en",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 939399,
+    "dDurationMs": 5761,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "fast\npara que no nos gastemos todos los",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 942399,
+    "dDurationMs": 8201,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "créditos. Si yo me vengo y me genero un\nvideo con BO3 Quality, que es el mejor",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 948800,
+    "dDurationMs": 8479,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que tienen en este momento, el mejor\nmodelo de generación de videos de Google",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 953600,
+    "dDurationMs": 7520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "es BO3 Quality, pero bueno, eso se\ntraduce en el uso de los créditos, o",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 959240,
+    "dDurationMs": 7120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sea, que yo me voy a gastar 100 créditos\nde una sola tajada, ¿sí? Entonces, voy a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 963839,
+    "dDurationMs": 9240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "quedar solo con otros 50 créditos.\n¿Listo? Entonces, esto es muy importante",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 969199,
+    "dDurationMs": 7921,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "para que ustedes puedan eh ir\nexperimentando y no se gasten todo desde",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 974600,
+    "dDurationMs": 8799,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "el principio. Buenas tardes. ¿Cuál es la\nduración máxima de estos videos? Esto eh",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 980000,
+    "dDurationMs": 8759,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "genera videos hasta de 8 segundos. Hasta\nde 8 segundos pues generan videos estos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 986360,
+    "dDurationMs": 8000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "modelos. ¿Sí? ¿Listo? De 8 segundos.\nEntonces, ¿qué es lo que se hace? Se",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 990800,
+    "dDurationMs": 7440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "generan las escenas con base en una\nimagen de referencia. Y ya vamos a ir",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 996319,
+    "dDurationMs": 7520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ahí. a construir esas imágenes de\nreferencia desde un inicio. Y ahí ya les",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1002360,
+    "dDurationMs": 4680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "doy a ustedes la opción de dónde quieran\ntrabajar. Si quieren trabajar desde",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1005800,
+    "dDurationMs": 6599,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mismo flow, lo podemos hacer\nperfectamente para generar las imágenes.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1010199,
+    "dDurationMs": 7361,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Si se fijan, yo solo cambio entre video,\nimagen y me van cambiando las opciones.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1014839,
+    "dDurationMs": 8041,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Lo que tenemos acá son las relaciones de\naspecto de las diferentes imágenes que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1019279,
+    "dDurationMs": 9520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "puedo generar. Volvemos a lo mismo, 16-\n4/3, que es eh cuadrado prácticamente",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1026400,
+    "dDurationMs": 8519,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cuadrado, 1 a 1, que es cuadrado,\ncompletamente cuadrado, luego 3/4 y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1031360,
+    "dDurationMs": 8839,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "luego 91 que es vertical. ¿Listo?\nEntonces ahí pues para cada caso de uso",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1037679,
+    "dDurationMs": 7120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hay una relación de aspecto en\nespecífico. ¿Listo? Entonces, aquí lo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1042400,
+    "dDurationMs": 9240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mismo me deja elegir cuántos resultados\nquiero y por lo que estoy viendo acá,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1047880,
+    "dDurationMs": 7919,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "los modelos eh de imagen no me cobran\ncréditos aquí desde Flow, entonces",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1053840,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "también podemos utilizarlos de manera\ngratuita y esto es muy interesante.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1057919,
+    "dDurationMs": 7321,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "¿Listo? Para que todos puedan probar no\nsolo nanobanana normal, sino nanobanana",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1062960,
+    "dDurationMs": 6599,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pro, que es muy muy bueno. Listo.\nEntonces, ¿qué es lo que vamos a hacer?",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1067480,
+    "dDurationMs": 7360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Les voy a mostrar. Uy, yo aquí filtrando\nmis cosas. Les voy a mostrar eh, miren",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1072559,
+    "dDurationMs": 6321,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mi pantalla rápidamente.\nLes voy a mostrar una imagen que tomamos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1076400,
+    "dDurationMs": 5759,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "aquí del campus\npara que Bueno, con esa es la que vamos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1080960,
+    "dDurationMs": 7000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a trabajar el día de hoy. Denme un\nsegundito.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1085039,
+    "dDurationMs": 7081,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Descargas. Aquí está.\nMe confirman si ahí se ve. Sí, ahí se",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1089880,
+    "dDurationMs": 8000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tiene que ver. Esto es una imagen que\ntomamos ahorita de pues el campus. Vaya.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1095360,
+    "dDurationMs": 8400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "está un tipo eh un camper, perdón, un\ncamper jugando solo en una mesa de ping",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1101080,
+    "dDurationMs": 9200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pong. Si se fijan, el objetivo de hoy es\nque yo, usted, cada uno de ustedes se",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1106880,
+    "dDurationMs": 7440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tome una foto y logre meterse en la\nimagen como si ustedes estuvieran",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1111840,
+    "dDurationMs": 7640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "jugando con el camper que está en este\ncaso en nuestras instalaciones, ¿no? Ese",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1117000,
+    "dDurationMs": 6280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "va a ser la dinámica que pues vamos a\ndesarrollar el día de hoy. ¿Cómo yo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1120960,
+    "dDurationMs": 5959,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "puedo usar una imagen de un fondo? En\neste caso es un ejercicio. Es un",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1125120,
+    "dDurationMs": 6559,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ejercicio donde probar esas\nfuncionalidades, pero imagínate,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1128720,
+    "dDurationMs": 8600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "imagínate esto aplicado a lo que tú\nnecesitas, tu negocio, tu",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1133840,
+    "dDurationMs": 7160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "emprendimiento, tu día a día, tu bueno,\nen el caso de uso de cada una de las",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1139679,
+    "dDurationMs": 6681,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "personas. ¿Listo? Entonces, ¿qué es lo\nque vamos a probar? Yo me voy a tomar",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1143080,
+    "dDurationMs": 7120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "una selfie ahorita y voy a intentar\nmeterme a mí en esa imagen. Después,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1149000,
+    "dDurationMs": 6360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "¿qué es lo que vamos a hacer? Vamos a esta imagen y vamos a convertirla",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1152520,
+    "dDurationMs": 7440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "en un video donde yo salga jugando y\ndespués sonría la cámara. Algo sencillo,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1158000,
+    "dDurationMs": 7960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pero la idea es que eso probemos la\nfuncionalidad y entendamos cuál es esa",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1162120,
+    "dDurationMs": 9919,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "metodología para yo poder sacarle el\nmáximo provecho. ¿Listo? Entonces,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1169080,
+    "dDurationMs": 6520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "en este caso, eh voy a tomarme aquí una\nselfie rápida y esa va a ser el mismo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1173720,
+    "dDurationMs": 8480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ejercicio que todos ustedes van a tener\nque hacer donde pues que quiero que pues",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1180600,
+    "dDurationMs": 6920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hagamos ejercicio. Entonces, voy a\ntomarme una selfie rápido",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1185159,
+    "dDurationMs": 6441,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y me la voy a enviar a mí mismo\nrápidamente para que veamos qué es lo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1189679,
+    "dDurationMs": 7240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que yo voy a hacer y ustedes lo empiecen\na hacer así de esa misma manera. Denme",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1195039,
+    "dDurationMs": 5241,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "un segundito. Si quieren todos váyanse\ntomando la selfie donde están. Ahorita",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1198840,
+    "dDurationMs": 7120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "les voy a compartir esta imagen de\nrecurso para que podamos utilizarla.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1203600,
+    "dDurationMs": 5360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Listo. Aquí ya tengo la imagen. Un\nsegundito.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1210120,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Lo voy a descargar.\n¿Y qué es lo que vamos a hacer primero",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1214200,
+    "dDurationMs": 7200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que todo? ¿Por qué yo les estaba\nmostrando Google AI Studio? Y es que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1218320,
+    "dDurationMs": 8200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "desde Google AI Studio podemos acceder a\nGemini de texto. Vamos a volver a Google",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1223679,
+    "dDurationMs": 7201,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "AI Studio y el selector de modelos que\nya sabemos todos dónde está, a la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1228480,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "derecha vamos a encontrarlo, ¿cierto?\nMuy sencillo. ¿Cómo entro a Google AI",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1232480,
+    "dDurationMs": 7160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Studio? Lo puedo buscar en Google como\nStudio y lo voy a lo voy a encontrar o",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1237280,
+    "dDurationMs": 6680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "simplemente el link que ya les compartí,\naistudio.google.com.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1242000,
+    "dDurationMs": 7000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "A la derecha encontramos como primera\nopción el selector de modelos. Voy a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1246640,
+    "dDurationMs": 7680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "entrar y voy a seleccionar en este caso\nlos modelos de Gemini, ¿sí? Y voy a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1251640,
+    "dDurationMs": 8760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "seleccionar Gemini 3.1 Pro, que es el\nmodelo último de vanguardia que hay.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1256520,
+    "dDurationMs": 7880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "¿Qué vamos a hacer con Gemini 3.1 Pro?\n¿Cómo tengo yo? Les voy a hacer una",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1262200,
+    "dDurationMs": 6520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pregunta. ¿Qué tengo yo que hacer para\ngenerar aquí imágenes? Tengo que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1266840,
+    "dDurationMs": 5640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "escribir un prompt, ¿cierto? Tengo que\nescribir un prompt y decirle, \"Mira,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1270799,
+    "dDurationMs": 5721,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "générame una imagen de esto y esto y\nesto.\" ¿Cierto? Esto era lo que yo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1273840,
+    "dDurationMs": 7280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tendría que hacer, pero la metodología\nque yo les voy a mostrar es un concepto",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1278799,
+    "dDurationMs": 7480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que se llama metaprompting, ¿listo?\nMetaprompting del verbo de promptear de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1284320,
+    "dDurationMs": 6040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "la palabra prompt. ¿Listo? Ya sabemos\nque los prompts son esas cosas que yo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1288240,
+    "dDurationMs": 5880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "escribo acá. Un prompt es una solicitud\nque yo escribo dentro de ese campo de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1292279,
+    "dDurationMs": 5441,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "texto. Entonces, ¿qué voy a hacer yo? Yo\nno me voy a poner a escribir ese prom",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1295840,
+    "dDurationMs": 6800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "porque probablemente me va a quedar mal.\nSí, probablemente a todos si nos ponemos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1299960,
+    "dDurationMs": 5880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a escribir un prom nos va a quedar mal.\nva a haber cosas que nos van a faltar.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1304440,
+    "dDurationMs": 7160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "¿Qué es lo que voy a hacer yo? Voy a\naprovechar la inteligencia, en este caso",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1308400,
+    "dDurationMs": 9159,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "la inteligencia de Gemini desde Google\nAI Studio para que ella me fabrique a mí",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1314440,
+    "dDurationMs": 8800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "el prompt y el prompt\neh listo para que yo simplemente pues lo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1321000,
+    "dDurationMs": 10320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "genere. ¿Listo? Entonces, ¿qué vamos a\nhacer en Google EI Studio? Muy sencillo.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1327440,
+    "dDurationMs": 8160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Para empezar les voy a compartir por el\ngrupo en el que estamos les voy a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1332919,
+    "dDurationMs": 6161,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "compartir la imagen. Esto por el grupo\nde WhatsApp.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1337360,
+    "dDurationMs": 4720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "¿Listo? Porque por aquí creo que no me\ndeja.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1344039,
+    "dDurationMs": 5081,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Ahí está. Las personas que no estén en\nese grupo de WhatsApp nos escriben por",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1347520,
+    "dDurationMs": 7920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "el chat y por ahí mi equipo les\nresponde. Listo, ahí se está enviando. Y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1353440,
+    "dDurationMs": 9080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "bueno, entonces, ¿qué es lo que yo voy a\nhacer? Voy a cargarle a Gemini número",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1358799,
+    "dDurationMs": 7041,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "uno. Voy a cargarle la imagen en la que\nyo voy a trabajar. ¿Cuál es la imagen en",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1363960,
+    "dDurationMs": 7160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "la que vamos a trabajar? La imagen del\ncamper jugando solo, ¿cierto? Ya la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1368200,
+    "dDurationMs": 7320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tengo aquí cargada. ¿Listo? ¿Qué es lo\nsegundo que voy a cargar? Voy a cargar",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1373080,
+    "dDurationMs": 6959,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "la foto mía. que ahí está, si ustedes la\npueden ver, es una selfie cualquiera.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1377559,
+    "dDurationMs": 7281,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Listo, esto es lo lo único que le voy a\ncargar, esas dos cosas. Ya ahí les",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1381799,
+    "dDurationMs": 6961,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "compartí la imagen al grupo. Vuelvo a\ndecir, si alguien no está en el grupo,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1386240,
+    "dDurationMs": 6280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "nos avisan y mi equipo por ahí los les\nayuda para que puedan entrar. ¿Listo?",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1390880,
+    "dDurationMs": 6760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Entonces,\nnúmero uno, entramos, ponemos Yemini 3.1",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1395919,
+    "dDurationMs": 6281,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Pro, que es un modelo de texto. ¿Qué es\nlo que vamos a hacer? Cargarle la imagen",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1400760,
+    "dDurationMs": 6039,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "del escenario en el que yo voy a\ntrabajar. En este caso es Campus,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1403840,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "imagínese que es su tienda.\nSegundo, la foto, pues me tomé una",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1408880,
+    "dDurationMs": 6760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "selfie ahí rápido para que podamos\ntrabajar y ojo el prom que yo lo voy a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1412640,
+    "dDurationMs": 8320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "escribir. Listo. Yo ya les he dicho que\nlos proms no empiezan con hola, por",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1417799,
+    "dDurationMs": 6601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "favor, ni buenas tardes. Sí, por favor,\nnunca hagan eso. Los proms siempre",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1422760,
+    "dDurationMs": 5039,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "empiécelenlos con una acción que tiene\nque hacerle ahí a un verbo en este caso",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1426200,
+    "dDurationMs": 8760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de qué es lo que él tiene que hacer.\nAnalizar. le va a decir, \"Listo, analiza",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1432000,
+    "dDurationMs": 5960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "las imágenes de referencia.\"\nEse es el primer objetivo que tiene la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1436440,
+    "dDurationMs": 5640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "IA, a analizar las imágenes de\nreferencia que le estoy pasando. ¿Qué?",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1439880,
+    "dDurationMs": 6760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Luego lo va a decir yo. ¿Qué es lo que\nhay en cada imagen? En la primera",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1444320,
+    "dDurationMs": 11239,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "imagen,\neh, es una foto de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1450159,
+    "dDurationMs": 11041,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "un chico jugando solo ping pong.\nAnalízala visualmente",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1458799,
+    "dDurationMs": 8201,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y recopila\ntodos los detalles.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1464440,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Listo. Ya le escribí K en la primera\npara que él sepa. No, mire, esto es una",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1468799,
+    "dDurationMs": 7041,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "foto de un pelado jugando ping pong\nsolo. ¿Qué hay en la segunda foto? La",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1473760,
+    "dDurationMs": 9480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "segunda imagen\nes una selfie.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1478640,
+    "dDurationMs": 4600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Eh, voy a decirle de un sujeto.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1485399,
+    "dDurationMs": 11400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "¿Listo? Eh, analiza sus rasgos, eh, su\nforma física,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1492760,
+    "dDurationMs": 4039,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "la forma de su cara.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1497480,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "¿Listo? ¿Qué estoy haciendo? Primero, le\nestoy dando un objetivo claro. Analice",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1501559,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "las imágenes, ¿cierto? Segundo, ¿qué le\nestoy diciendo? ¿Qué hay en cada imagen?",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1506360,
+    "dDurationMs": 5720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Venga, en la primera imagen tiene un\npelado jugando ping pong solo. En la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1510720,
+    "dDurationMs": 5559,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "segunda imagen es una selfie de un\nsujeto. Analice sus rasgos y analice",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1513880,
+    "dDurationMs": 5960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "quiénes. Ahora, listo, ¿qué es lo que le\nvoy a decir? ¿Cuál es la tarea final?",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1518200,
+    "dDurationMs": 7120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "¿Listo? Entonces, ¿cuál es esa tarea?\n¿Qué es lo que necesitamos?",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1522159,
+    "dDurationMs": 3161,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Tu objetivo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1526480,
+    "dDurationMs": 11600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "es generar un prompt para nano banana.\n¿Listo? Ese es el objetivo. ¿Qué voy a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1534360,
+    "dDurationMs": 9240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hacer yo? Yo le voy a compartir\na Nano Banana estas dos imágenes.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1545000,
+    "dDurationMs": 7720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Y quiero que sitúe al no, que ponga el\nsujeto",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1553200,
+    "dDurationMs": 11560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "en posición\nen posición como si estuviera",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1560000,
+    "dDurationMs": 10120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "jugando ping punk en el otro lado de la\nmesa enfrente",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1568240,
+    "dDurationMs": 5319,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "del otro chico. O sea, ¿qué le estoy\ndiciendo yo ahí? Mire, yo quiero que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1571760,
+    "dDurationMs": 5919,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "usted me ponga en el otro lado de la\nmesa jugando con el otro pelado de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1575240,
+    "dDurationMs": 5840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "blanco. ¿Listo? Pero, ¿qué es lo que le\nestoy diciendo? Le estoy dando a una que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1579679,
+    "dDurationMs": 5441,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "es muy inteligente. Le estoy diciendo,\n\"Oiga, Gemini, venga, yo quiero generar",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1583000,
+    "dDurationMs": 5360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "esta imagen. Ayúdeme usted a hacer el\nprom y entrégueme el prom listo para que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1587039,
+    "dDurationMs": 4961,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "yo solo tenga que copiar y pegar.\"\n¿Listo? Entonces ya le dijimos, \"Venga,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1590399,
+    "dDurationMs": 5280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "analice las imágenes de referencia.\"\n¿Qué más le dije? ¿Qué hay en cada",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1593480,
+    "dDurationMs": 5840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "imagen? Le dije, \"¿Cuál es el objetivo?\"\nEl objetivo es generar un prom para",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1597120,
+    "dDurationMs": 5960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "nanobana. Le dije, \"Yo, ¿qué voy a\nhacer? Yo lo voy a compartir estas",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1601120,
+    "dDurationMs": 8120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "imágenes ano banana. Quiero que él ponga\nel sujeto como si estuviera jugando ping",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1605120,
+    "dDurationMs": 12559,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pong. ¿Listo? Entonces genera un prompt\ndetallado que le describa las imágenes y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1614080,
+    "dDurationMs": 3599,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "le dé una indicación,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1618679,
+    "dDurationMs": 9521,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "le dé una indicación eh clara de que\ntiene que generar. ¿Listo? Muy sencillo,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1626840,
+    "dDurationMs": 5680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ustedes se fijan, yo no hice nada del\notro mundo, solo le dije de manera",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1630679,
+    "dDurationMs": 5961,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "detallada la guía qué es lo que quiero.\nY esto, repito, todos lo pueden hacer",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1635000,
+    "dDurationMs": 6760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "porque todos pueden entrar a Google\nStudio de manera gratuita, todo el mundo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1638200,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "puede utilizar GMini 3.1 Pro Preview y\ntodo el mundo puede venir y cargar la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1643320,
+    "dDurationMs": 4760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "imagen suya, todo el mundo puede\ndescargarla. Aquí no hay ninguna",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1646240,
+    "dDurationMs": 5840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "limitación. Las personas que no quieran\nganarse esa esa formación es porque no",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1649760,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "quisieron hacerlo, pero literalmente les\nestamos mostrando cómo es el proceso de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1654120,
+    "dDurationMs": 8080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cómo se genera. ¿Listo? Entonces, voy a\ncorrerlo. Él va a analizar mis imágenes,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1659799,
+    "dDurationMs": 7841,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "él va a analizar mi requerimiento. Si se\nfijan ahí, él ya empezó a hacer su eh",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1665519,
+    "dDurationMs": 6561,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cadena de procesamiento interna. Él ya\nestá trabajando en eso.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1669960,
+    "dDurationMs": 7319,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Listo, está trabajando. Vamos a dejarlo\nque termine. Y ya me está respondiendo.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1675360,
+    "dDurationMs": 7080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Listo. ¿Qué vamos a analizar? ¿Qué me\nrespondió? Análisis de referencias. En",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1680000,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "la imagen uno, ¿qué hay? Escenario, sala\nrecreativa,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1683960,
+    "dDurationMs": 6439,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mesa de ping pong, zona objetivo al lado\nderecho de la mesa, completamente vacío.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1687840,
+    "dDurationMs": 7679,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Listo. Imagen dos, rasgos faciales,\nhombre joven, cabello oscuro, peinado",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1692000,
+    "dDurationMs": 7880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hacia atrás. Bueno, en fin, yo. Prom\npara nanobanana.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1697360,
+    "dDurationMs": 5400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Instrucción principal. Usa la imagen de\nla sala de ping pong como base, extrae",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1701399,
+    "dDurationMs": 5561,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "el rostro y apariencia del sujeto de la\nselfie. Genera un cuerpo, eh, y colócalo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1705559,
+    "dDurationMs": 5360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "al lado derecho vacío a la mesa de ping\npong. Pose, postura atlética de juego.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1708760,
+    "dDurationMs": 8120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Listo. ¿Qué voy a hacer yo? va a copiar\nesto. Control C. Vamos a ir ahora a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1714399,
+    "dDurationMs": 7921,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "flow, ¿cierto? Me voy a ir a flow. ¿Qué\nvoy a hacer en flow? Me voy a fijar que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1720440,
+    "dDurationMs": 7239,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "está seleccionado la imagen. Voy a\nfijar. En este caso voy a ponerlo. Eh,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1724919,
+    "dDurationMs": 9161,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "la imagen es como 4/3. Sí, la imagen es\n4/ ter en este caso. Entonces, 4/3 lo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1731159,
+    "dDurationMs": 8321,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "voy a poner. Selecciono nanobanana pro.\n¿Qué voy a cargarle acá? Voy a subirle",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1736640,
+    "dDurationMs": 9039,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "una imagen. Voy a subirle la imagen mía,\n¿cierto? la imagen del sujeto",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1742080,
+    "dDurationMs": 7760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y voy a subirle la imagen del escenario.\n¿Listo?",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1747960,
+    "dDurationMs": 6839,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Muy sencillo.\nEntonces, ya le cargué yo los dos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1752440,
+    "dDurationMs": 7800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ingredientes con los que voy a trabajar.\nYa ahí está terminando de cargar y voy a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1757039,
+    "dDurationMs": 8480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pegar el prom. ¿Cuál prom? El que me dio\nYemini. Listo. Muy sencillo. No tiene",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1763039,
+    "dDurationMs": 7281,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ninguna ciencia. Y vamos a enviarlo a\nver cuál es el resultado que me genera.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1768159,
+    "dDurationMs": 7161,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Estamos generando primero la imagen para\ndespués poder pasar a generar ya el",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1773039,
+    "dDurationMs": 6360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "video. Y esa es precisamente la\nmetodología que siempre hay que utilizar",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1777320,
+    "dDurationMs": 7640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cuando ustedes quieren generar un video.\nNo venga que quiero generar un video de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1781840,
+    "dDurationMs": 7280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "yo en una cascada con nadando en una\ncascada. ¿Qué es lo que tienes que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1786720,
+    "dDurationMs": 6920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hacer? Si quieres generar un video así,\nprimero tienes que pensar en cómo se ve",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1790600,
+    "dDurationMs": 7079,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "esa escena y generarla en una imagen.\nUtilizar un modelo de generación de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1795200,
+    "dDurationMs": 8079,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "imágenes para generar la escena. Mira la\ncena que generó.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1799880,
+    "dDurationMs": 9760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Voy a descargar la imagen\nrápidamente para poder verla bien. Vamos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1805919,
+    "dDurationMs": 8561,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a abrirla y analicemos la escena. Uy,\n¿qué pasó? Eso qué es. Listo, ahí me",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1812200,
+    "dDurationMs": 8560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "puso a mí jugando.\nBien, parezco yo. Parezco yo. Listo.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1817679,
+    "dDurationMs": 8281,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Entonces, ya lo tenemos la imagen.\nEntonces eso es lo que tú tienes que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1822120,
+    "dDurationMs": 7600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pensar. Quiero generar esta este video.\nTienes que ponerte a pensar primero en",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1827519,
+    "dDurationMs": 7321,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "las escenas que quieres generar, generar\nesas escenas con IA y después generarles",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1832880,
+    "dDurationMs": 8600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "el movimiento. Pero venga, Santiago,\nentonces, ¿dónde está el truco? El truco",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1837679,
+    "dDurationMs": 9561,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "está en utilizar IA para generar los\nprompts, para generar las imágenes. Si",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1843679,
+    "dDurationMs": 7441,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "yo me hubiera puesto a escribir eh a\nmano, o sea, probablemente el resultado",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1849279,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "va a ser mucho menor, porque yo como\nhumano voy a cometer muchos errores. En",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1853320,
+    "dDurationMs": 9479,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cambio, si yo aprovecho a la IA, ay\nDios, me metí de no era, si yo aprovecho",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1859080,
+    "dDurationMs": 6800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a la IA, seguimos en vivo. Sí, si yo\naprovecho la IA para que la a la IA yo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1864799,
+    "dDurationMs": 5161,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "le digo, \"Mire, esto es lo que yo\nquiero. Hágame el prom. La va a analizar",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1868320,
+    "dDurationMs": 7959,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mi requerimiento y me va a crear el\nprom. ¿Listo? Y voy a generar la imagen.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1874080,
+    "dDurationMs": 7040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Listo. Ya tengo la imagen generada. Muy\nsencillo. Entonces, vamos a seguir en la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1879039,
+    "dDurationMs": 8041,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "misma conversación. ¿Qué es lo que voy a\nhacer ahora? Entonces, voy a venirme de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1883720,
+    "dDurationMs": 8000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "nuevo a Gemini y le vamos a cargar esa\nimagen que ya yo descargué, ¿cierto? La",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1889279,
+    "dDurationMs": 10721,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "imagen que ya me botó, en este caso,\nFlow. Listo. ¿Qué le va a decir este?",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1895880,
+    "dDurationMs": 9039,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "fue el resultado de la generación\ndel prompt. ¿Listo? Contexto. Este es el",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1902919,
+    "dDurationMs": 8600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "resultado. Mire. Entonces, la acción.\n¿Cuál es la acción? Analiza",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1908039,
+    "dDurationMs": 13880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "la imagen final.\nE esta vez quiero",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1915880,
+    "dDurationMs": 11000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "generar a partir de esta imagen un video\ndonde eh un video de 8 segundos.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1927360,
+    "dDurationMs": 10760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "donde estemos jugando\ny luego el sujeto de la derecha. Aquí",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1936559,
+    "dDurationMs": 5681,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hay que ser muy descriptivos, ¿no?\nPorque recuérdese que la IA la IA es",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1940120,
+    "dDurationMs": 5840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "100% literal. Entonces, si usted no le\nexplica bien, ella no le va a entender.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1944200,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "¿Qué es lo que yo quiero? Que este\nsujeto de la derecha, la persona, o sea,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1948840,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "perdón, la no sabe que soy yo, ¿cierto?\nEntonces, quiero que yo me mueva, no",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1952760,
+    "dDurationMs": 7560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "quiero que el sujeto de la derecha haga\nx cosa. ¿Listo? Entonces, esta vez",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1958320,
+    "dDurationMs": 7120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "quiero generar a partir de la imagen un\nvídeo de 8 segundos. ¿Listo? Donde",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1962480,
+    "dDurationMs": 8760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "estemos jugando. Y luego el sujeto de la\nderecha se gira,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1968320,
+    "dDurationMs": 8079,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mira a cámara\ny dice,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1973320,
+    "dDurationMs": 7880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "voy a ponerlo en este caso. Esto es\nCampus Lands. Bienvenidos.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1981480,
+    "dDurationMs": 14000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de manera muy alegre\ny cuando termina la frase",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1990720,
+    "dDurationMs": 8040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "los dos se comienzan a reír. Si ustedes\nvean, estoy poniendo un prom sencillo,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1997279,
+    "dDurationMs": 5441,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "simplemente le estoy diciendo la lo que\nyo quiero y esto es con el fin de que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2000639,
+    "dDurationMs": 7601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "eso ustedes hagan eso mismo, pierdan el\nmiedo a la guía y cuéntele contexto.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2006559,
+    "dDurationMs": 6120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Ustedes fijan cuál es el contexto. Mire,\neste fue el resultado. ¿Cuál es el",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2009880,
+    "dDurationMs": 7000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "objetivo? Analiza la imagen final y\ndespués le doy más detalle de lo que yo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2014880,
+    "dDurationMs": 5200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "quiero. Esta vez quiero generar a partir\nde la imagen un video de 8 segundos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2018320,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "donde estemos jugando y luego el sujeto\na la derecha se gire y me mire a cámara",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2022120,
+    "dDurationMs": 6399,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y diga, \"Estos campus bienvenidos\" de\nmanera muy alegre. Y cuando termine la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2026320,
+    "dDurationMs": 8599,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "frase los dos se comienzan a reír.\n¿Listo? ¿Qué le voy a decir? Analiza el",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2032519,
+    "dDurationMs": 8400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "requerimiento\ny genera un prompt.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2038440,
+    "dDurationMs": 9479,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "efectivo\nque genere el video. ¿Listo? Entero.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2046519,
+    "dDurationMs": 6921,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "¿Qué va a hacer? ¿Qué va a hacer él\nahora? Va a generar va, perdón, va a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2050560,
+    "dDurationMs": 8440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "analizar mi imagen y va a analizar mi\nrequerimiento y me va a escribir el",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2055760,
+    "dDurationMs": 7680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "prompt eh,\nque se despida con la mano derecha. Ahí.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2061240,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Bueno, vamos a hacerlo. Otra cosita,\naquí puedo yo editar, ¿no? Si yo aquí me",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2065800,
+    "dDurationMs": 5119,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "voy a los tres punticos, yo puedo,\nbueno, apenas terminé de responder",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2069320,
+    "dDurationMs": 7120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "porque ahí ya me respondió. Vamos a\nhacer las dos opciones. Listo.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2073919,
+    "dDurationMs": 9160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Aquí ya me entregó. ¿Qué me entregó? Me\nentregó el análisis primero. Listo. Y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2080119,
+    "dDurationMs": 9720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "aquí me dijo, me entregó el prompt\nprompt para generación de video. Listo.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2085399,
+    "dDurationMs": 9240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Entonces, eh, cinematic 8 secondic.\nAquí me está diciendo las silla de video",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2092159,
+    "dDurationMs": 7601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "entienden mejor pues en inglés. Entonces\npor eso la mayoría de prompts para este",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2096720,
+    "dDurationMs": 8760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tipo de de as son pues van a ser en\ninglés. ¿Listo? Entonces voy a copiar",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2103440,
+    "dDurationMs": 6679,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "este prompt. Me voy a ir a flow de\nnuevo. Vamos a cambiar el modelo a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2107680,
+    "dDurationMs": 7960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "video. Lo vamos a dejar en este caso en\n16 novenos que va a salir cuadrado. ¿Qué",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2112839,
+    "dDurationMs": 7361,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "le voy a subir? Un ingrediente. ¿Qué son\nesos ingredientes? Bueno, en este caso",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2117520,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "son las imágenes, ¿cierto? que quiero un\nvideo. En este caso voy a utilizar fast,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2122520,
+    "dDurationMs": 6360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "BO3 Fast, que es el del medio, no es el\nmás barato, pero tampoco es el más caro.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2126440,
+    "dDurationMs": 9040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Ya lo ya lo hablamos. Voy a pegar mi\nprompt y voy a eh pues subir esta misma",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2132880,
+    "dDurationMs": 6959,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "imagen aquí. Listo. Entonces, aquí ya me\nsale porque las imágenes que generas",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2137760,
+    "dDurationMs": 9680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pues ya te salen ahí directamente, ¿sí?\nPorque eso es un ecosistema. Entonces,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2142520,
+    "dDurationMs": 11400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "como ingrediente le cargué la imagen eh\nde de la escena que yo ya creé. Le pongo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2150760,
+    "dDurationMs": 7120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "el product que me dio Gemini y aquí ven\nla configuración muy sencilla. Video,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2155800,
+    "dDurationMs": 5720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ingredientes. ¿Qué son ingredientes? El\nla posibilidad de yo cargarle imágenes.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2160079,
+    "dDurationMs": 5921,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Sí.\nLe configuro la relación de aspecto, le",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2164520,
+    "dDurationMs": 7440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pongo que en este caso quiero un solo\nresultado y le selecciono el modelo.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2169119,
+    "dDurationMs": 6960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Listo, vamos a enviarlo. Y ahora voy a\ncambiar el prom. Voy a poner lo que me",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2173319,
+    "dDurationMs": 7721,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "dice por ahí Fernanda. Voy a venirme\npara acá. Voy a editar, si aquí el",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2178200,
+    "dDurationMs": 9560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "lapicito, voy a editar el prom.\nse comienzan a reír y saludan eh con la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2185280,
+    "dDurationMs": 7400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mano derecha\ndespidiéndose.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2190359,
+    "dDurationMs": 7601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Listo, terminé de editar. Le doy en el\nchulito y en esta estrellita puedo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2195560,
+    "dDurationMs": 6360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "volver a correr ese prompt. Si ustedes\nfijan, cuando yo le doy clic p, lo que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2200200,
+    "dDurationMs": 5159,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "él me había respondido se va a eliminar\ny él como que va a volver ahí y va a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2203680,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "volver a generar esa respuesta con ese\nnuevo prompt. ¿Listo? Entonces, en este",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2207920,
+    "dDurationMs": 7000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "caso, eso es lo que estamos haciendo\naquí. Ya se generó el video.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2215720,
+    "dDurationMs": 8080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Hey, welcome to the hangout.\nBueno,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2220160,
+    "dDurationMs": 9439,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "en ese caso me volvió chino.\nHey, welcome to the hangout.",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 2226800,
+    "dDurationMs": 6120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Pero esto, ¿por qué es? Pues tema de de\nprom. Ya lo vamos a ver cómo lo puedo",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 2231160,
+    "dDurationMs": 8679,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mejorar. Vamos a volver a hacer el mismo\nintento. Ahora, eh, me dice prompt",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2236560,
+    "dDurationMs": 8360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sugeridos. Me va a dar dos prompts.\nEh,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2242079,
+    "dDurationMs": 9601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "promp cronológico estructurado.\nVamos a probar con esta. A ver. Listo.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2248839,
+    "dDurationMs": 6280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Voy a lo mismo. Pego el prompt. Vamos,\nen este caso no solo a cargarle la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2253240,
+    "dDurationMs": 6879,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "imagen\nde el del escenario, sino voy a cargarle",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2257920,
+    "dDurationMs": 5720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "también la imagen mía para que él no me\nponga chino. ¿Cierto? porque él ahí no",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2261960,
+    "dDurationMs": 6359,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sabe cuál es mi cara, entonces me puso\nchino. Entonces le voy a pasar mi imagen",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2265560,
+    "dDurationMs": 9440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "para que él pueda poner mi cara. Listo,\ncopio el prom y de nuevo vamos a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2271560,
+    "dDurationMs": 8320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "generarlo con BO3, en este caso fast,\nque me cuesta otros 20 créditos,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2277520,
+    "dDurationMs": 7640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "¿cierto? Ya en este caso me quedan 110\ncréditos.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2282200,
+    "dDurationMs": 10879,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Vamos a ver qué tal.\nBueno, ahí se sigue generando",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2287359,
+    "dDurationMs": 10960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y aquí es donde empieza uno a a a\nmejorar ese resultado. Voy a volverles a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2294960,
+    "dDurationMs": 9080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "compartir para poder compartir el audio\nrápidamente. Listo, ahí ya creo que ahí",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2301640,
+    "dDurationMs": 7959,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "se va a escuchar el audio. Pero entonces\nahí está la metodología. La metodología,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2305960,
+    "dDurationMs": 8320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "si ustedes se fijan, es de\ndesmenuzar los pasos, ¿no? Es como que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2312359,
+    "dDurationMs": 5641,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "como me preguntaban por ahí ahorita,\nmira, no, yo cargo el video y él me lo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2316359,
+    "dDurationMs": 6641,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mejora. No, esto no funciona así. Esto\nfunciona de manera estratégica, desde",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2320640,
+    "dDurationMs": 6439,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cero, tú creando los las escenas,\ndespués volviendo las videos y así con",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2325440,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ese proceso es que ustedes ven esos\nvideos de IA superproducidos. Esa es la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2329680,
+    "dDurationMs": 4679,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "metodología que se utiliza, obviamente\nya de manera profesional, sí son",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2333200,
+    "dDurationMs": 4960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "personas que ya practican esa\nmetodología y ya la masterizan, pero es",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2336680,
+    "dDurationMs": 8159,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "al fin y al cabo eso, precisamente\nlanzarse al agua y empezar a eh poder",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2346079,
+    "dDurationMs": 3721,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Hey, welcome everyone.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2350319,
+    "dDurationMs": 7561,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Bueno, ahí está la otra variante.\nWelcome everyone.",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 2358640,
+    "dDurationMs": 6959,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "En este caso, pues eso fue lo que se\ngeneró. Probablemente si yo utilizo un",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2363240,
+    "dDurationMs": 7800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "modelo más top, pues va a ser mucho\nmejor ese ese resultado, ¿cierto? Va,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2367960,
+    "dDurationMs": 6080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pues yo voy a hacer la voy a hacer la\ne",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2374520,
+    "dDurationMs": 6520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "voy a hacerla voy a hacer el experimento\ny voy a decirle que en el resultado",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2381359,
+    "dDurationMs": 9041,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "el personaje\nno está diciendo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2386040,
+    "dDurationMs": 4360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "lo que te pedí que dijera.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2391960,
+    "dDurationMs": 4760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Ahí lo va a decir. Lo va a decir a\nJemini. Oiga, hay que corregir ese",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2394880,
+    "dDurationMs": 5400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "prompt porque la no está haciendo lo que\nyo le dije. Entonces, le va a decir el",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2398720,
+    "dDurationMs": 7680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "diálogo\nque tiene que decir el sujeto",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2404160,
+    "dDurationMs": 8040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "debe ser y lo voy a volver a poner entre\ncomillas, va a ver mi prompt y voy a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2408839,
+    "dDurationMs": 11881,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "copiar de nuevo. Esto es Campus Ls.\nBienvenidos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2414720,
+    "dDurationMs": 13200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y saludar riendo mirando a cámara.\nDebes incluir en el promp",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2424640,
+    "dDurationMs": 8280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que el sujeto\ndiga esto en español. ¿Correcto?",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2433599,
+    "dDurationMs": 3520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Corrige el prom.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2437839,
+    "dDurationMs": 8441,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Listo, le enviamos el otro mensaje y con\nun promido",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2443960,
+    "dDurationMs": 6520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "es que yo puedo volver a pensar en\ngenerarlo. Entonces, y ahorita les voy a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2448480,
+    "dDurationMs": 6639,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mostrar una grafiquita interesante que\npues precisamente nos sirve para eso.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2453000,
+    "dDurationMs": 8400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "¿Listo? Entonces, aquí voy a irme\npreparando, voy a ir cargando la imagen",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2457079,
+    "dDurationMs": 9280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mía, voy a ir cargando la imagen del de\nla escena, ¿cierto? Voy a generarlo en",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2464119,
+    "dDurationMs": 5921,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "este caso con quality. Me quedan 100\ncréditos, pero vamos a hacer el",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2467839,
+    "dDurationMs": 8361,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "experimento aquí.\nListo.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2472640,
+    "dDurationMs": 8920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Eh, eh, e eh.\nListo. Entonces, voy a copiar el prompt",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2478319,
+    "dDurationMs": 3241,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que me entregó.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2482079,
+    "dDurationMs": 10081,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Bien. Y me va a venir para aquí.\nAh, ojo.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2490280,
+    "dDurationMs": 5079,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Uy, bueno, no me deja con fast, con\nquery con querer vamos a hacerlo con",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2493760,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "fast y ahorita hacemos la prueba con el\nPro. Voy a dejarlo ahí y les voy a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2497800,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mostrar otra herramienta para que\nustedes tengan la muestra. Básicamente",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2501720,
+    "dDurationMs": 8200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "esta herramienta se llama Hingsfield AI.\nEs una herramienta de, en este caso, es",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2507680,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "una herramienta paga, ¿sí? es una\nherramienta que tiene un costo mensual,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2511880,
+    "dDurationMs": 8320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pero nos permite acceder a modelos mucho\nmejores de eh de IA. En este caso voy a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2517520,
+    "dDurationMs": 6960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "iniciar sesión ahí rápido a ver si puedo\nmostrarles. Espérenme un segundito que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2521880,
+    "dDurationMs": 8560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "no vaya por ahí a\nmostrar cosas.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2527400,
+    "dDurationMs": 6360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Eh, sí, ya puedo generarlo. Tengo\n¿cuántos créditos?",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2534040,
+    "dDurationMs": 3000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Espérenme",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2537240,
+    "dDurationMs": 6079,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "un segundito.\nTengo 21 créditos, o sea, que puedo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2540920,
+    "dDurationMs": 6280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hacerlo. Listo. Esta es la otra\nplataforma. Funciona también con",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2545000,
+    "dDurationMs": 5800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "créditos. En este caso me quedan 20, ya\nse me va a acabar, pero funciona",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2549079,
+    "dDurationMs": 11000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "exactamente igual. Voy en este caso\nsubir el la imagen mía, la imagen de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2557720,
+    "dDurationMs": 7960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "el Bueno, voy a cargarlo por acá. No sé\nqué sucede.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2562160,
+    "dDurationMs": 3520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Ti ti ti ti. ¿Dónde está?",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2570559,
+    "dDurationMs": 3201,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "A ver,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2575440,
+    "dDurationMs": 9240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "me cuesta 30 créditos. No me van a\nalcanzar los créditos, señores.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2579960,
+    "dDurationMs": 4720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Pedo 3.1 Lite. Vamos a probarlo.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2590440,
+    "dDurationMs": 7200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Listo. Voy a probarlo en este caso con\nqué modelo voy a utilizar en esta",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2595200,
+    "dDurationMs": 8200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "plataforma. Lo bueno es que podemos\nacceder a un montón de modelos. Ustedes",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2599400,
+    "dDurationMs": 9560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "no se imaginan. Sedans 2.0, Cling 3.0,\nGrock Image, GPT Image One, que son",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2606440,
+    "dDurationMs": 8240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "modelos chinos la mayoría. El único aquí\nconocido, bueno, los dos conocidos son",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2611079,
+    "dDurationMs": 7721,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Grock, que es la IA de SpaceX de Elon\nMusk y BO3, que es el mismo que estamos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2617480,
+    "dDurationMs": 5639,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "utilizando. En este momento solo me\nquedan 21 créditos, pero estos modelos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2621520,
+    "dDurationMs": 4559,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "más buenos me piden más créditos y en\neste momento no tengo. Entonces, voy a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2624839,
+    "dDurationMs": 6760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "generarlo así para que veamos el\nresultado y vamos a ver qué fue lo que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2627720,
+    "dDurationMs": 3879,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "generó Flow. A ver si en este caso sí.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2632920,
+    "dDurationMs": 8399,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Esto es Campus Lands. Bienvenidos.\nBueno, ahí está más accurate a lo que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2638920,
+    "dDurationMs": 8880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "estábamos a lo que estábamos buscando.\n¿Listo? Entonces, si ustedes fijan, ese",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2643480,
+    "dDurationMs": 10200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "es el ejercicio. Use IA para que le\nayude a entender su idea y a generar un",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2650680,
+    "dDurationMs": 9200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "prompt que le permita generar una escena\ninicial y luego use a para convertir esa",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2656680,
+    "dDurationMs": 8040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "escena en un video final. Listo. Esa es\nla metodología que se utiliza para la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2662160,
+    "dDurationMs": 7199,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "creación de videos y de contenido con\ninteligencia artificial. Listo, se está",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2666640,
+    "dDurationMs": 7240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "generando el\nvideo, ¿sí? Para mostrarles el resultado",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2672040,
+    "dDurationMs": 5240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "con Hingsfield, pero hay otras\nherramientas. Hay otras herramientas",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2675599,
+    "dDurationMs": 5601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "como Notebook LM, que en este caso no\nnos permite videos, sino presentaciones,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2679480,
+    "dDurationMs": 6879,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "como Eleven Labs, que nos sirve para\nclonar voces y para generar contenido,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2683720,
+    "dDurationMs": 8000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "para generar videos. Hayen, que nos\nsirve para generar avatares digitales y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2689240,
+    "dDurationMs": 7640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "poder, por ejemplo, vender productos,\ngenerar videos hablando a cámara, por",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2694000,
+    "dDurationMs": 6440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ejemplo, esto es una, esto no es real.\nEntonces, esto es simplemente una",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2699000,
+    "dDurationMs": 5599,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "muestra que hacemos con ustedes para que\nustedes vean el eh lo que se puede",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2703079,
+    "dDurationMs": 4721,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "lograr.\nEsto es Campus L.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2705920,
+    "dDurationMs": 5320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Mira, aquí se se generó el otro video\npara que lo veamos.",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 2713240,
+    "dDurationMs": 4560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Esto es Campuslands. Bienvenidos.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2719119,
+    "dDurationMs": 6561,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Eso está mucho más\nEsto es Campuslands. Bienvenidos.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2723640,
+    "dDurationMs": 6080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "AT está mucho más aterrizado a lo que yo\nle dije. Obviamente hay que mejorar el",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 2727240,
+    "dDurationMs": 7359,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "prom. Obviamente es es un es un tema de\nseguir experimentando y mejorando. La",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2732319,
+    "dDurationMs": 6561,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "usaría nunca nos va a dar el resultado.\nLa primera, métanse eso a la cabeza. va",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2737040,
+    "dDurationMs": 6799,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a haber siempre que haber probablemente\nun proceso de iterar sobre el prom,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2741599,
+    "dDurationMs": 9401,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mejorar prom, cambiar cosas, ¿sí? e ir\najustando hasta que yo tenga la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2747760,
+    "dDurationMs": 3240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hasta que yo tenga el resultado.",
+      "acAsrConf": 0
+    } ]
+  } ]
+}

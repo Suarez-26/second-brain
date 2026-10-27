@@ -31,3 +31,10 @@ Uso privado: material fuente, no se republica. Ver [[fuentes/video-podcast]] y [
 **[04:01]** eh va a poder aprender lo que quiera y entre ell las habilidades digitales y dos si se concentra en desarrollar habilidades digitales hoy en su vida pues va a tener eh un crecimiento eh Asegurado por qué Porque los siguientes 20 años viene la transformación digital del mundo ya lo estamos viviendo no es la era de la Inteligencia artificial solamente es la era del blockchain en la era de los nft de las crpto de la ciberseguridad de los gemelos digitales de la red 5g 66g eh del Machine learning del iot y de la Inteligencia artificial y la base para todo estas tecnologías es programación entonces meterse en el mundo digital hoy es como haber decidido estudiar y tener la fortuna en el año 80 eh 40 años atrás estudiar petróleos el Que estudiaba petróleos tenía asegurada su vida inclusive en en universidades acá en nuestra región eh era más difícil entrar a una ingeniería de petróleo que una medicina o a cualquier otra carrera
 
 **[05:01]** pero el que salía graduado pues tenía su vida asegurada porque era el el el Boom de la del momento los siguientes 20 años lo que va a requerir El mundo es transformación digital y la base son programadores entonces hay que eh dirigir sus esfuerzos adquirir habilidades digitales de acuerdo Diego gracias yo creo que es interesante todo lo que dice Diego de alguna u otra forma las empresas y las organizaciones deben ir hacia unas rutas de transformación digital sostenible que les permitan con la Inteligencia artificial con el Big Data con el Machine earing el Deep earling poder aprender esas habilidades con la programación para poder conversar con los robots qué es lo que nos va a pasar en el futuro Gracias a todos y Diego Gracias a ti Que te vaya muy bien Un gusto
+
+---
+## 🔗 Conexiones del Segundo Cerebro
+- **Persona:** [[people/diego-tarazona|Diego Tarazona]]
+- **Entidad:** [[areas/campuslands|Campuslands]]
+- **Dossier de Investigación:** [[investigacion/diego-tarazona/dossier|Dossier Diego Tarazona]]
+- **MOC Integral:** [[diego_investigacion/README|MOC Diego Tarazona]]

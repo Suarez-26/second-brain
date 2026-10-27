@@ -1,0 +1,27 @@
+{
+  "ckey": "update-card-focuskNlIfXvqlrZWNe9hPzhdgam-6oABRvyyue1DFZS7BfoFeedType_COMPANY_FEED_RELEVANCE",
+  "fullText": "Publicación en el feed\n\nCampuslands\n\n5 meses\n\nEsclavitud o amistad. La línea delgada en la relación tóxica con la IA\n\nEntender estos 4 puntos evita que la IA te genere más trabajo del que te quita\n\nHay un patrón que se repite: alguien adopta IA con entusiasmo, termina con doce suscripciones activas, cuatro workflows a medias y más tiempo administrando herramientas que haciendo trabajo real.\n\nEl objetivo no es tener más tecnología. Es diseñar un sistema donde la tecnología trabaje sin que tú seas el puente constante.\n\nCuatro principios para lograrlo:\n\n🔹 Arquitectura de Agente Asistente\nLa autonomía total no es el objetivo. El objetivo es un reparto inteligente del trabajo.\nLa IA hace el 80% pesado: busca, sintetiza, estructura, genera el borrador. Tú pones el 20% que requiere criterio, contexto y decisión final.\nCuando ese reparto está bien diseñado, el resultado mejora porque cada parte hace lo que mejor sabe hacer. Cuando no está diseñado, terminas corrigiendo outputs durante tanto tiempo que te preguntas para qué empezaste.\n\n🔹 Estandarización de Prompts (SOPs)\nSi solo tú sabes cómo sacarle un buen resultado a la IA, eres el cuello de botella.\nDocumenta tus prompts como documentarías cualquier proceso crítico: con el contexto necesario, el formato esperado y los criterios de calidad. Cuando ese conocimiento está escrito, cualquier miembro del equipo puede replicarlo. Cuando solo está en tu cabeza, escala contigo y no más.\n\n🔹 Uso de Middlewares\nEl copy-paste manual entre herramientas no es automatización. Es trabajo disfrazado.\nHerramientas como n8n o Zapier permiten que las IAs se comuniquen entre sí sin que tú seas el puente. Un trigger dispara una búsqueda, esa búsqueda alimenta una síntesis, esa síntesis llega al lugar correcto. Tú no interveniste en ningún paso intermedio.\nEse es el salto de \"usar IA\" a \"tener un sistema de IA\".\n\n🔹 Filtro de Priorización\nAntes de automatizar cualquier tarea, una sola pregunta: ¿ocurre al menos tres veces por semana?\nSi la respuesta es no, el tiempo de configuración nunca se recupera. La automatización tiene sentido cuando el volumen justifica la inversión. Aplicar ese filtro desde el principio evita construir sistemas elaborados para problemas pequeños.\n\nEl principio detrás del sistema\n\nCada una de estas decisiones apunta al mismo lugar: que la IA esté subordinada a tu tiempo, no al revés.\n\nUn sistema bien diseñado se nota cuando puedes tomarte un día libre y los procesos siguen corriendo. Uno mal diseñado se nota cuando cada herramienta nueva añade una tarea de mantenimiento a tu lista.\n\nDiseña para la libertad desde el primer flujo que construyas.\n\nMasterclass Gratis de IA para profesionales Todos los miércoles\n\nRegístrate aquí ➡️ https://lnkd.in/eqv4_Fqm\n\n\n#Productividad #InteligenciaArtificial #Automatización #SistemasDetrabajo #IA\n\n3\n​\n​\n​",
+  "imgs": [
+    "https://media.licdn.com/dms/image/v2/D4E22AQG6aesEEH79uQ/feedshare-shrink_480/B4EZ2q_U3KHMAo-/0/1776690221631?e=1793836800&v=beta&t=y7rGrNtWsaFHHevPfQLkPrAW1bpmChWheWwhUI2HkCw",
+    "https://media.licdn.com/dms/image/v2/D4E22AQHCo6fdIkf1Yw/feedshare-shrink_480/B4EZ2q_U4VKYAk-/0/1776690221645?e=1793836800&v=beta&t=hESGUgrTQrAz6fM0HuHnNizFeZYGl4kye--3lxYlXrU"
+  ],
+  "hasVideo": false,
+  "videoMp4s": [],
+  "hasDocument": false,
+  "iframes": [],
+  "links": [
+    "https://www.linkedin.com/safety/go/?url=https%3A%2F%2Flnkd%2Ein%2Feqv4_Fqm&urlhash=mauq&mt=ujhkE0R9rYLLajfOBFbeG2aZn5qu1P70SAy-ByK0mHJni4PZXJEWlutVOwtXaFaLgHcq3kKj0cF1VIaUTT_BehVa3cj0CmUG_kzJqsODosdotlr98NV8K4_NWNQ&isSdui=true",
+    "https://www.linkedin.com/search/results/all/?keywords=%23productividad&origin=HASH_TAG_FROM_FEED",
+    "https://www.linkedin.com/search/results/all/?keywords=%23inteligenciaartificial&origin=HASH_TAG_FROM_FEED",
+    "https://www.linkedin.com/search/results/all/?keywords=%23automatizaci%C3%B3n&origin=HASH_TAG_FROM_FEED",
+    "https://www.linkedin.com/search/results/all/?keywords=%23sistemasdetrabajo&origin=HASH_TAG_FROM_FEED",
+    "https://www.linkedin.com/search/results/all/?keywords=%23ia&origin=HASH_TAG_FROM_FEED"
+  ],
+  "saved_images": [
+    "campuslands_019_img_01.jpg",
+    "campuslands_019_img_02.jpg"
+  ],
+  "saved_video": null,
+  "fecha_relativa": "5 meses",
+  "tipo": "Texto + Imagen"
+}

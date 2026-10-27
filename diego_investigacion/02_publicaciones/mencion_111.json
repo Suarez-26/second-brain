@@ -1,0 +1,32 @@
+{
+  "ckey": "update-card-focusm-ZoYrlnM0FWkb_ZcAMbTbTMGe1suUAePm3-a9HTI1IFeedType_FLAGSHIP_SEARCH",
+  "fullText": "Publicación en el feed\n\nDiego Fernando Sánchez Tarazona\n\n \n • 3er+\n\nCybersecurity & GRC Specialist Senior| PCI-DSS | ISO 27001 | Risk & Compliance | Sector Financiero | Information Security\n\n3 sem\n\nSeguir\n\nEl mayor error en PCI-DSS puede ocurrir antes de implementar el primer control. \n\nUno de los aspectos que considero más importantes en un proceso PCI-DSS es definir correctamente el alcance desde el principio. \n\nPorque antes de preguntarnos: “¿Qué controles debemos implementar?” deberíamos responder: “¿Qué debemos proteger realmente?” \n\nEl alcance requiere entender mucho más que el CDE. \n\nTambién implica identificar: \n🔹 Sistemas conectados y sus relaciones con el entorno de datos de tarjetas. \n🔹 Flujos de datos: qué información circula, dónde, cómo y por qué. \n🔹 Dependencias tecnológicas y operativas. \n🔹 Terceros que intervienen o tienen acceso al entorno. \n🔹 Segmentación y su efectividad para delimitar el alcance. \n🔹 Activos que inicialmente pueden quedar fuera del análisis. \n\nUn alcance incompleto puede generar una situación particularmente compleja: implementar correctamente controles sobre un entorno que no representa todo el riesgo real. \n\nPor eso, una definición adecuada del alcance no debería verse como una actividad administrativa previa a PCI-DSS. \n\nEs una parte fundamental de la gestión del riesgo. \n\nLa pregunta que debemos hacernos es: \n¿Estamos protegiendo todo lo que realmente forma parte del entorno que debemos controlar? \n\nPorque si el alcance está mal definido, incluso los mejores controles pueden estar protegiendo el lugar equivocado. \n\nPrimero entiende el alcance. \n\nDespués controla el riesgo.\n\n#PCIDSS #Cybersecurity #Ciberseguridad #GRC #CyberRisk #RiskManagement #Compliance #InformationSecurity #SecurityGovernance #ThirdPartyRisk #DataSecurity #CyberResilience\n\n​\n1\n​\n​",
+  "imgs": [
+    "https://media.licdn.com/dms/image/v2/D4E22AQGkyZfxFay5Kg/feedshare-shrink_800/B4EaDqo3C3JoAc-/0/1790642975203?e=1793836800&v=beta&t=hFaMlDoMDhS7mbO1NJwYVvTwrTGWixopZUmRAcgezFE"
+  ],
+  "hasVideo": false,
+  "videoMp4s": [],
+  "hasDocument": false,
+  "iframes": [],
+  "links": [
+    "https://www.linkedin.com/search/results/all/?keywords=%23pcidss&origin=HASH_TAG_FROM_FEED",
+    "https://www.linkedin.com/search/results/all/?keywords=%23cybersecurity&origin=HASH_TAG_FROM_FEED",
+    "https://www.linkedin.com/search/results/all/?keywords=%23ciberseguridad&origin=HASH_TAG_FROM_FEED",
+    "https://www.linkedin.com/search/results/all/?keywords=%23grc&origin=HASH_TAG_FROM_FEED",
+    "https://www.linkedin.com/search/results/all/?keywords=%23cyberrisk&origin=HASH_TAG_FROM_FEED",
+    "https://www.linkedin.com/search/results/all/?keywords=%23riskmanagement&origin=HASH_TAG_FROM_FEED",
+    "https://www.linkedin.com/search/results/all/?keywords=%23compliance&origin=HASH_TAG_FROM_FEED",
+    "https://www.linkedin.com/search/results/all/?keywords=%23informationsecurity&origin=HASH_TAG_FROM_FEED",
+    "https://www.linkedin.com/search/results/all/?keywords=%23securitygovernance&origin=HASH_TAG_FROM_FEED",
+    "https://www.linkedin.com/search/results/all/?keywords=%23thirdpartyrisk&origin=HASH_TAG_FROM_FEED",
+    "https://www.linkedin.com/search/results/all/?keywords=%23datasecurity&origin=HASH_TAG_FROM_FEED",
+    "https://www.linkedin.com/search/results/all/?keywords=%23cyberresilience&origin=HASH_TAG_FROM_FEED",
+    "https://www.linkedin.com/search/results/content/?keywords=%22Diego%20Tarazona%22&origin=GLOBAL_SEARCH_HEADER"
+  ],
+  "saved_images": [
+    "mencion_111_img_01.jpg"
+  ],
+  "saved_video": null,
+  "fecha_relativa": "3 sem",
+  "tipo": "Texto + Imagen"
+}

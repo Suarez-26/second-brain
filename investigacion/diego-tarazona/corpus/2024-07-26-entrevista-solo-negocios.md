@@ -71,3 +71,10 @@ Uso privado: material fuente, no se republica. Ver [[fuentes/video-podcast]] y [
 **[25:02]** busque socios o sea es decir no lo haga solo o sea trabajen identificar un socio que trabaje contigo 7 días a la semana 24 horas al día eh segundo es que busque espacios de relacionamiento espacios donde no emprenda hoy en el garaje de tu casa busque esos espacios donde pueda converger con empresarios con líderes con eh digamos instituciones gremios eh Porque ahí no solamente vas a adquirir conocimiento si no vas adquirir relaciones que te van a a terminar solucionando muchas de las cosas que vas a requerir eh y tercero es sepa que no hay que trabajar 8 horas al día hay que trabajar 15 18 horas al día de lunes a lunes o sea todos los días Eh Y Y cuándo vas a parar cuando la cuenta de ahorros te ador de que tiene demasiado exceso de
 
 **[26:00]** flujo de caja ahí tienes que parar o contratar personas que hagan tu trabajo mientras la cuenta horros est en rojo no hay forma de pagar perfecto okay Esto fue solo negocios nos veremos en la próxima sesión agradecerle a Diego tarazona Buen día para todos i
+
+---
+## 🔗 Conexiones del Segundo Cerebro
+- **Persona:** [[people/diego-tarazona|Diego Tarazona]]
+- **Entidad:** [[areas/campuslands|Campuslands]]
+- **Dossier de Investigación:** [[investigacion/diego-tarazona/dossier|Dossier Diego Tarazona]]
+- **MOC Integral:** [[diego_investigacion/README|MOC Diego Tarazona]]

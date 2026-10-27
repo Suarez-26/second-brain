@@ -1,0 +1,557 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  }, {
+    "mhModeHint": 2,
+    "juJustifCode": 0,
+    "sdScrollDir": 3
+  } ],
+  "wpWinPositions": [ {
+  
+  }, {
+    "apPoint": 6,
+    "ahHorPos": 20,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  } ],
+  "events": [ {
+    "tStartMs": 0,
+    "id": 1,
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 0,
+    "dDurationMs": 2100,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "[Música]"
+    } ]
+  }, {
+    "tStartMs": 5540,
+    "dDurationMs": 5860,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "bienvenidos al espacio en el que\nentrenamos a los mejores programadores",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 9120,
+    "dDurationMs": 6840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de nuestro país\nbásicamente la tecnología no funciona",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 13440,
+    "dDurationMs": 8160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sin la programación Entonces nosotros\ndiseñamos precisamente este proyecto",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 18680,
+    "dDurationMs": 6839,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "identificando esa necesidad Porque en\nestos momentos el mundo está necesitando",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 23220,
+    "dDurationMs": 9480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "programadores\npara mí la programación es pasión porque",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 29039,
+    "dDurationMs": 9481,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "no cualquiera puede hacer esto no tanto\npor la dificultad sino porque hay que",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 35100,
+    "dDurationMs": 9680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "dedicarle tiempo esfuerzo algo que solo\nla pasión te permite hacer",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 41000,
+    "dDurationMs": 9640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "significa Innovación significa cambio\nsignificaba superación también significa",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 47640,
+    "dDurationMs": 7620,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "la capacidad o la posibilidad de crear\nnuevas cosas y generar soluciones para",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 52920,
+    "dDurationMs": 7020,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "problemáticas que de pronto se presentan\ndiariamente en el mundo",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 57800,
+    "dDurationMs": 7719,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "qué mejor que entrenar a estos jóvenes\nde estratos 0 1 2 y 3 todo empezó a",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 62640,
+    "dDurationMs": 6299,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "través de una landing donde se\nespecifican todos los requerimientos que",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 67320,
+    "dDurationMs": 5880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "es vivir en el área metropolitana de\nbucaramanga tener entre 18 y 27 años",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 71280,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "podéis poner mínimo de 8 horas diarias\ntener muchísima pasión compromiso por la",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 75960,
+    "dDurationMs": 7380,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tecnología que es algo supremamente\nimportante y también tener Esa visión de",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 81119,
+    "dDurationMs": 6301,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ser el número uno todas las personas son\nlas que vinieron acá a campuslands a",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 85799,
+    "dDurationMs": 7140,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "entrenarse cuando llegué a bucaramanga y\nvi la oportunidad de lo que era campus",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 89720,
+    "dDurationMs": 8100,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Me enamoré la verdad me gustó mucho la\niniciativa y la gran oportunidad que te",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 96060,
+    "dDurationMs": 8000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "dan nosotros en estos momentos tenemos\n400 estudiantes Cuál es nuestra",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 100259,
+    "dDurationMs": 3801,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "proyección mil estudiantes por año",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 106520,
+    "dDurationMs": 6700,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a medida que nos vamos sumando chicos a\nesta iniciativa vamos a lograr que",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 111600,
+    "dDurationMs": 5879,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "nuestros jóvenes primero tengan una\ncalidad de Educación un poco mejor de lo",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 115259,
+    "dDurationMs": 5701,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que deberían imagínate un chico con toda\nla creatividad del mundo teniendo todas",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 119220,
+    "dDurationMs": 6120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "las herramientas que podemos Pues tener\nen un lugar como este la cantidad de",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 123360,
+    "dDurationMs": 5640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cosas que pueden surgir de esa mente y\nde soluciones que puede tener en su",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 127140,
+    "dDurationMs": 5580,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cabecita o a problemáticas que él ha\nvivido",
+      "acAsrConf": 242
+    }, {
+      "utf8": " o",
+      "acAsrConf": 235
+    }, {
+      "utf8": " ha evidenciado en el Mercado o",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 130920,
+    "dDurationMs": 7380,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sea",
+      "acAsrConf": 242
+    }, {
+      "utf8": " eso",
+      "acAsrConf": 207
+    }, {
+      "utf8": " hacer que las personas realmente\nempiecen a explotar esas cosas a mejorar",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 135720,
+    "dDurationMs": 4760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de cierta manera la transformación del\nmundo",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 140660,
+    "dDurationMs": 7900,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "lo mejor de estos estudiantes es que no\nsolo están pensando en ser empleados",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 145860,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sino que también están creciendo con una\nmentalidad muy de emprendimiento lo",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 150540,
+    "dDurationMs": 5940,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "fundamental en campo no es solamente la\nparte técnica porque ellos también deben",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 154020,
+    "dDurationMs": 8160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "desarrollar habilidades blandas como el\ninglés el ser la forma comportamental y",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 159120,
+    "dDurationMs": 7199,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cómo se van a llevar",
+      "acAsrConf": 242
+    }, {
+      "utf8": " por",
+      "acAsrConf": 217
+    }, {
+      "utf8": " su",
+      "acAsrConf": 242
+    }, {
+      "utf8": " desempeño",
+      "acAsrConf": 229
+    }, {
+      "utf8": "\ndentro de una organización adicional a",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 164640,
+    "dDurationMs": 5340,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "las áreas de",
+      "acAsrConf": 242
+    }, {
+      "utf8": " entrenamiento",
+      "acAsrConf": 240
+    }, {
+      "utf8": " en\nprogramación",
+      "acAsrConf": 242
+    }, {
+      "utf8": " también",
+      "acAsrConf": 180
+    }, {
+      "utf8": " Contamos con",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 167819,
+    "dDurationMs": 7441,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "espacios valiosos como hunters que es\ndonde se gestionan los breaks cognitivos",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 173040,
+    "dDurationMs": 6300,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y los esparcimientos de nuestros\nestudiantes Pero adicional también",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 176700,
+    "dDurationMs": 7880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Contamos con un auditorio en el que se\ngestionan las clases de inglés y de",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 181980,
+    "dDurationMs": 8880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "habilidades blandas\n[Música]",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 187760,
+    "dDurationMs": 7920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "nosotros además de formar en\nprogramación también vemos la",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 193200,
+    "dDurationMs": 7020,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "importancia de crear seres integrales\nporque no es solo un producto son",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 198480,
+    "dDurationMs": 4460,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "personas más allá de la educación que\nestamos generando",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 203599,
+    "dDurationMs": 7241,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "en una vez finalizan su formación hay\nunas empresas contratantes estas",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 209220,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "empresas contratantes fueron las que\nadquirieron su formación se los llevan",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 213120,
+    "dDurationMs": 8220,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "directamente a trabajar a sus empresas y\nautomáticamente sus vidas cambian Claro",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 218280,
+    "dDurationMs": 8430,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "está una vez se emplean ellos ya",
+      "acAsrConf": 242
+    }, {
+      "utf8": "\nacuerdan",
+      "acAsrConf": 233
+    }, {
+      "utf8": " condiciones laborales y",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 223080,
+    "dDurationMs": 9239,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "salarios",
+      "acAsrConf": 239
+    }, {
+      "utf8": " directamente con la empresa\n[Música]",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 229920,
+    "dDurationMs": 7860,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pues después de esto yo espero poder\ntrabajar en una empresa",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 234500,
+    "dDurationMs": 10000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que esté O sea que aporte algo grande al\nmundo y aparte me gustaría poder crear",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 241500,
+    "dDurationMs": 7620,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "algo por mí misma que aporte algo grande\nal mundo algo que yo pueda decir es mío",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 246780,
+    "dDurationMs": 6539,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y yo le estoy dando esto al mundo Quiero\nbuscar la manera de",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 251180,
+    "dDurationMs": 6420,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "innovar impactar el mundo con\nherramientas que puedan ayudar a miles",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 256079,
+    "dDurationMs": 5761,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de personas sí O sea no es solo como\nvenir y sentarte a programar Y eso sino",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 260040,
+    "dDurationMs": 5240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pensar en que gracias a eso yo puedo\nsolucionar problemáticas del mundo qué",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 264120,
+    "dDurationMs": 6859,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "más\ngratificante es crear algo que realmente",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 268560,
+    "dDurationMs": 8639,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "va a beneficiar y que vamos a llevar\neconomía dinero bienestar a las familias",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 274500,
+    "dDurationMs": 7740,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "incluso a la sociedad Entonces mi\ninvitación es piensen en los estudiantes",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 278940,
+    "dDurationMs": 9199,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "piensen en los jóvenes y piensen en la\neducación porque la educación es la base",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 284639,
+    "dDurationMs": 3500,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "para transformar la sociedad",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 289400,
+    "dDurationMs": 7139,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "[Música]\n[Aplausos]"
+    } ]
+  } ]
+}

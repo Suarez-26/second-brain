@@ -31,3 +31,10 @@ Uso privado: material fuente, no se republica. Ver [[fuentes/video-podcast]] y [
 **[04:01]** hace es cambiar el conocimiento que requiere para hacer ese actividad y eso hace que sean mejores remunerados caso como empresas tradicionales como un banco que en ese caso Ban Colombia acá Tiene como 21,000 empleados Y 4,000 de ellos son eh programadores del sector ti son más de 4,000 Eso quiere decir que casi un 20% de los trabajadores de un banco hoy están en el área de ti pues eso qué quiere decir que eh el banco se está transformando y está generando empleos que antes no había O sea si nos vamos 20 años atrás qué podía haber cajeros o sea personas de de un salario más bajo frente a una caja en un banco recibiendo una un salario bajo por atender a un cliente Hoy hay personas detrás desarrollando tecnología para ese banco que ganan muchísima más plata y esa plata va la economía entonces la tecnología No hay forma que que que genere desempleo genera mejores empleos eh y genera mejores ingresos eh para la
 
 **[05:01]** población
+
+---
+## 🔗 Conexiones del Segundo Cerebro
+- **Persona:** [[people/diego-tarazona|Diego Tarazona]]
+- **Entidad:** [[areas/campuslands|Campuslands]]
+- **Dossier de Investigación:** [[investigacion/diego-tarazona/dossier|Dossier Diego Tarazona]]
+- **MOC Integral:** [[diego_investigacion/README|MOC Diego Tarazona]]

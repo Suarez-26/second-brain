@@ -1,0 +1,6 @@
+KEY: societeinfo_1
+ORIGINAL_URL: https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3Fuf_WKU8yD5P1o3yDZtMYyUB498EtmxCv4UHaKRjS9K2zy_7zqcB1fSP3JYufGF-PW199fHDMjyd7ykdx9n5jflGetBiBP5Um4nGTzTOdk3iqfoN_pHtZAecRhEGUD2ecjWovb_QvJprpCoH
+FINAL_URL: https://societeinfo.com/app/recherche/societe/901393686
+STATUS: 200
+
+Toute la donnée des sociétés | SocieteInfo.com

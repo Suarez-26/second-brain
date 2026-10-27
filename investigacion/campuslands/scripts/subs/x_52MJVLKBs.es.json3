@@ -1,0 +1,180 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  }, {
+    "mhModeHint": 2,
+    "juJustifCode": 0,
+    "sdScrollDir": 3
+  } ],
+  "wpWinPositions": [ {
+  
+  }, {
+    "apPoint": 6,
+    "ahHorPos": 20,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  } ],
+  "events": [ {
+    "tStartMs": 0,
+    "id": 1,
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 190,
+    "dDurationMs": 13170,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "[Música]"
+    }, {
+      "utf8": "\nuna experiencia muy bonita fue muy",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 10719,
+    "dDurationMs": 7640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "chévere muy bacano yo me relacioné con\nmuchas personas aprendí muchas cosas",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 15600,
+    "dDurationMs": 7919,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "nuevas entraron tantas ideas a mi vida\nque nunca imaginé que fueran a pasar la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 20840,
+    "dDurationMs": 7000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "verdad este yo no sabía ni siquiera que\nera un software que era un Hardware",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 25480,
+    "dDurationMs": 10160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "estaba perdida a mí me hizo como que\ncentrarme y pues buscarle un a mi vida y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 31439,
+    "dDurationMs": 9440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "me hizo espacio a un camino que pues la\nverdad me gustó mucho aprendí mucho al",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 38800,
+    "dDurationMs": 7800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "inicio yo decí qué hago aquí estaba con\nmy friend bueno Así le decimos este yo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 44760,
+    "dDurationMs": 8000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "decía pero qué está diciendo O sea yo\nestaba perdida la verdad yo estaba full",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 49640,
+    "dDurationMs": 7360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Perdida yo yo dije será que esto sí es\npara mí yo ir a entender Algún día lo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 54800,
+    "dDurationMs": 9719,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que estoy haciendo\nEntonces lo que me marcó fue el inicio",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 60840,
+    "dDurationMs": 10480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ayuda mucho a formarnos como persona\na buscar oportunidades Buscar empleo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 68439,
+    "dDurationMs": 8521,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "también te te ayuda a formarte te coge\ncomo un bebé pequeño y te hace crecer",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 75040,
+    "dDurationMs": 9039,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "transformó mi vida de una manera\nimpresionante ya que este yo mejoré mi",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 81240,
+    "dDurationMs": 9480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vida en muchos aspectos tanto económicos\ntambién",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 86960,
+    "dDurationMs": 8479,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "como personales hizo crecer mucho\nprofesionalmente",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 92200,
+    "dDurationMs": 7040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "me brindó la oportunidad de obtener\nmuchos conocimientos estudiando y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 97560,
+    "dDurationMs": 4920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "trabajando al mismo tiempo entonces es\nuna oportunidad que no se ve en muchos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 100880,
+    "dDurationMs": 7689,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "lugares\n[Música]",
+      "acAsrConf": 0
+    } ]
+  } ]
+}

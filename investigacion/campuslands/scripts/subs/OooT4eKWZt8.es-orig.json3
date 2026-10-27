@@ -1,0 +1,186 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  }, {
+    "mhModeHint": 2,
+    "juJustifCode": 0,
+    "sdScrollDir": 3
+  } ],
+  "wpWinPositions": [ {
+  
+  }, {
+    "apPoint": 6,
+    "ahHorPos": 20,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  } ],
+  "events": [ {
+    "tStartMs": 0,
+    "id": 1,
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 840,
+    "dDurationMs": 6840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Hola Me presento mi nombre es Andrés\nFelipe racz caro tengo 21 años y nací en",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 5640,
+    "dDurationMs": 6200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "la ciudad de bucaramanga en la que viví\nmis tres primeros años luego del",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 9480,
+    "dDurationMs": 7719,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "fallecimiento de mis padres me fui a\nvivir a Cúcuta con mi abuela donde ella",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 14839,
+    "dDurationMs": 7200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "allí me enseñaría a ser una mejor\npersona y la importancia de los valores",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 19359,
+    "dDurationMs": 6680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "como la paciencia y la resiliencia luego\nde su partida estas circunstancias me",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 24080,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "enseñaron a tener una personalidad más\nfuerte y enfocada entendí que estas",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 28320,
+    "dDurationMs": 7000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "circunstancias no son obstáculos son\nescalones que nos llevan a ir más alto",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 32399,
+    "dDurationMs": 7561,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "en la vida comprendí que el aprendizaje\nNo es vivir por vivir sino alzar nuestra",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 37600,
+    "dDurationMs": 9080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vista y aprender de las experiencias de\nlas personas y de las oportunidades que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 43039,
+    "dDurationMs": 7081,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "nos entrega el día a día entonces decidí\nvolver a mi ciudad natal de forma",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 48840,
+    "dDurationMs": 6440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "independiente\nbucaramanga en busca de grandes",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 52359,
+    "dDurationMs": 8801,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "oportunidades y nuevos Aires Aquí he\ntrabajado durante 4 años como cocinero y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 58160,
+    "dDurationMs": 8200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "barten a la par estudié análisis y\ndesarrollo de software en el que aprendí",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 63320,
+    "dDurationMs": 8360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a manejar distintas tecnologías como\nbase de datos framework o lenguajes de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 69119,
+    "dDurationMs": 7320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "programación gracias a este interés me\ntopé con un con un video de campus Land",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 74320,
+    "dDurationMs": 8240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "en donde se me presentaba Este modelo\núnico y llamativo totalmente desapegado",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 79240,
+    "dDurationMs": 7919,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a un sistema tradicional de Educación me\nsentí super identificado con este modelo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 85240,
+    "dDurationMs": 9440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ya aquí iba muy de la mano con mi\nenfoque profesional Y entonces es donde",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 90159,
+    "dDurationMs": 4521,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "decidí convertirme en un cc",
+      "acAsrConf": 0
+    } ]
+  } ]
+}

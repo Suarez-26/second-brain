@@ -1,0 +1,2311 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  }, {
+    "mhModeHint": 2,
+    "juJustifCode": 0,
+    "sdScrollDir": 3
+  } ],
+  "wpWinPositions": [ {
+  
+  }, {
+    "apPoint": 6,
+    "ahHorPos": 20,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  } ],
+  "events": [ {
+    "tStartMs": 0,
+    "id": 1,
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 40,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "la jornada de la mañana y como bien le\nhabría adelantado en su momento, vamos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 4200,
+    "dDurationMs": 7519,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ahora sí abordar el tema del desarrollo\nde jóvenes en nuevas tecnologías y cómo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 9120,
+    "dDurationMs": 7400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "el ecosistema guatemalteco está creando\noportunidades reales en cuanto a empleo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 14120,
+    "dDurationMs": 6120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y emprendimiento. Hoy estamos ya\nacercándonos a este escenario.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 18080,
+    "dDurationMs": 6119,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Jorge Matamoros nos acompaña. Muy buenos\ndías, Jorge, director general de Campus",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 22320,
+    "dDurationMs": 3840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Lands Guatemala. ¿Cómo se encuentra?\nBien, bien. Muchas gracias. Buenos días.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 25640,
+    "dDurationMs": 4479,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Gracias por\nBuenos días. Gracias a usted. Pues hoy",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 28560,
+    "dDurationMs": 7040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vamos a platicar un poco sobre\nCampuslands, qué es, a qué se dedican,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 33120,
+    "dDurationMs": 6680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cómo ayuda a los guatemaltecos.\nBueno, Campusland es un modelo de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 37680,
+    "dDurationMs": 7600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "desarrollo social que cuenta con dos\naristas. Eh, en una de las aristas es un",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 42879,
+    "dDurationMs": 7360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "centro de formación que de forma\nintensiva presencial en 10 meses",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 47520,
+    "dDurationMs": 7719,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "formamos programadores Fullstack Junior,\ninglés y habilidades blandas. Pero para",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 53239,
+    "dDurationMs": 6441,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "nosotros el propósito no termina ahí,\nsino que el objetivo final es",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 57640,
+    "dDurationMs": 6760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "empleabilidad. Entonces, nuestra promesa\nes que al 85%",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 62280,
+    "dDurationMs": 5479,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a 90 días de egresar a través de nuestra\nred de aliados de empleabilidad se",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 65920,
+    "dDurationMs": 5239,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "coloca en la fuerza laboral.\nQué interesante, porque también se habla",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 69240,
+    "dDurationMs": 4879,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de una estructura de modelo que\ncontempla varias plataformas. Hablemos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 73000,
+    "dDurationMs": 7119,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "acerca de esto.\nPlataformas de programación. Claro.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 76640,
+    "dDurationMs": 8080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Este, mira, realmente el el las rutas de\nespecialización las dicta el mercado.",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 82880,
+    "dDurationMs": 4879,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Eh, el camino comenzó hace un año y\nmedio, donde nosotros tuvimos que hacer",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 86320,
+    "dDurationMs": 6360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "una investigación de mercado para\nentender qué es lo que las empresas",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 89759,
+    "dDurationMs": 6881,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "están buscando. Hoy en día se gradúan\n200,000 chicos de cualquier tipo de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 94560,
+    "dDurationMs": 6680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "educación superior, pero solo hay 20,000\nempleos. El delta de los 180 no",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 99320,
+    "dDurationMs": 5880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "significa que no esté en los trabajos,\nsino que las empresas no encuentran",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 103320,
+    "dDurationMs": 5360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "gente tecnificada con inglés y\nexperiencia. Entonces, salen a otros",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 106759,
+    "dDurationMs": 5241,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "países a buscar empresas de tecnología\nde desarrollo de software.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 109960,
+    "dDurationMs": 6479,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Claro, eso se da muchísimo. ¿Qué\nhabilidades técnicas específicas son las",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 114560,
+    "dDurationMs": 5879,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que les están enseñando a los\nestudiantes?",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 117399,
+    "dDurationMs": 8080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Listo. La las rutas de mayor demanda\nson tres y es Java,",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 122840,
+    "dDurationMs": 7720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Node js y DNET.\ndentro de esa ruta de especialización,",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 128000,
+    "dDurationMs": 10400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pues digamos en el caso de Java está\nJava, hay C, hay HTML, hay bases de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 134680,
+    "dDurationMs": 7880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "datos, hay Python, hay JavaScript. Eh,\nrecientemente también incorporamos todo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 140560,
+    "dDurationMs": 7280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "lo que es inteligencia artificial\naplicada a la programación. Eh, es bien",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 145680,
+    "dDurationMs": 6080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "importante tal vez destacar que no es\ningeniería de promps que hacemos, sino",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 149840,
+    "dDurationMs": 7119,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que realmente consumir para ser más\neficiente y aprovechar los recursos de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 155360,
+    "dDurationMs": 6920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "la inteligencia de negocios con una\nlógica de negocio para realmente pues eh",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 160519,
+    "dDurationMs": 5440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "satisfacer las necesidades de desarrollo\nde una empresa.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 163319,
+    "dDurationMs": 5961,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "¿Qué campos reales tenemos en Guatemala\nen cuanto a inteligencia artificial se",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 167599,
+    "dDurationMs": 5201,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "refiere y capacitación misma para que\nesta se convierta en una herramienta",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 171239,
+    "dDurationMs": 7241,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "poderosísima de oportunidad para la\njuventud?",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 175120,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Separemos en dos el comentario, ¿verdad?\nO sea, yo creo que para gente ya digamos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 180840,
+    "dDurationMs": 7080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "dentro de un departamento de\ncontabilidad o recursos humanos, ahí se",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 184400,
+    "dDurationMs": 9759,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "aplica un chat GPT o un Gemini para\nhacer cierres contables o nómina que con",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 192159,
+    "dDurationMs": 6881,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "apretar enter se hace en vez de estar\nesperando al 5 del del siguiente mes",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 196440,
+    "dDurationMs": 7320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "para poder ver esto. Eh, nosotros\nestamos enfocados en la parte de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 201400,
+    "dDurationMs": 6119,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "programación, desarrollo de software.\nEntonces, nosotros no creemos que la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 205680,
+    "dDurationMs": 8040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "inteligencia artificial va a desaparecer\na los desarrolladores. Creemos que va a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 210080,
+    "dDurationMs": 7680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "evolucionar el rol a un arquitecto, pero\nal final del día si no sabes leer",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 215480,
+    "dDurationMs": 6839,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "programación no puedes programar.\nClaro. Es que la inteligencia artificial",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 219760,
+    "dDurationMs": 8720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "le da un miedo a muchos guatemaltecos\nporque se cree que eso los va a despojar",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 226439,
+    "dDurationMs": 7520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de sus trabajos, ¿verdad? Pero ahora se\nestán creando otras oportunidades en",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 230799,
+    "dDurationMs": 8800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "realidad eh de empleos. ¿Qué papel juega\nel sector privado en la creación de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 236599,
+    "dDurationMs": 7840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "nuevas oportunidades para los jóvenes?\nPues muchísimo, ¿verdad? Ese es de mis",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 242200,
+    "dDurationMs": 8800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "retos más grandes ahorita, la difusión\nde este programa. O sea, no no creemos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 247680,
+    "dDurationMs": 7399,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que nuestro el talento que estamos\ndesarrollando, o sea, los chicos que van",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 252560,
+    "dDurationMs": 7079,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a egresar nuestro de nuestro programa no\nson únicamente para empresas de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 256479,
+    "dDurationMs": 10000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tecnología. Ya hoy en día no importa si\nestás en consumo masivo, financiero,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 263600,
+    "dDurationMs": 7640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "este, cualquier índole de negocio tiene\nun departamento de informática o o que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 269080,
+    "dDurationMs": 7240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "está desarrollando software para poder\nejecutar la operación.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 273199,
+    "dDurationMs": 9321,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Entonces, creo que\neh es muy importante a nivel patrocinio",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 280960,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "para los chicos que ingresan en nuestro\nprograma como eh comunicación y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 285560,
+    "dDurationMs": 4680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "entendimiento de qué es lo que están\nbuscando para nosotros poder adaptar la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 288919,
+    "dDurationMs": 4521,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "currícula.\n¿Qué tipo de programas de emprendimiento",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 291919,
+    "dDurationMs": 5641,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "se pueden abrir como una gran\noportunidad para los graduandos que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 295320,
+    "dDurationMs": 8080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "salen precisamente del programa?\nMira, eh los que salen del programa hay",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 301880,
+    "dDurationMs": 7520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a través de estos mismos red de lados de\nempleidad tenemos prácticas que hacemos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 305520,
+    "dDurationMs": 8600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "con ellos, con estos empresas. Eh, yo te\ndiría que el 85% probablemente van a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 312639,
+    "dDurationMs": 5761,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "salir a trabajar primero porque\nnecesitan experiencia. Todo el mundo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 317000,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "al final del día necesita un poco de\nexperiencia antes de emprender, ¿verdad?",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 320479,
+    "dDurationMs": 7160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Entonces, eh te diría que el groso entra\na trabajar para alguien. Esperamos que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 325280,
+    "dDurationMs": 5600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hayan diamantes en brutos que quieran\nvenir y realmente que quieran ser",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 329039,
+    "dDurationMs": 6521,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "emprendedores y un tipo de\nemprendimiento realmente que agregue",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 332639,
+    "dDurationMs": 7120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "valor alguna problemática.\n¿En qué medida la inteligencia",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 337240,
+    "dDurationMs": 8679,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "artificial está cambiando ese mercado\nlaboral en Guatemala?",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 342520,
+    "dDurationMs": 8799,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Mira, yo creo que a nivel de Contact\ncenter ya hay cosas sucediendo con",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 348800,
+    "dDurationMs": 8519,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "agentes de inteligencia artificial. No\ncreo que va a ser, o sea, si me",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 354759,
+    "dDurationMs": 7280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "preguntas, yo creo que entre un 30 un\n40% probablemente de un contact center",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 360520,
+    "dDurationMs": 6399,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pueda ser que adopten agentes de\ninteligencia artificial, pero creo que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 364479,
+    "dDurationMs": 7120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "todavía el guatemalteco como tal siempre\nle gusta hablar con alguien y tener una",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 368800,
+    "dDurationMs": 6200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "interacción. Entonces, y eso sucede en\ncualquier índole, ¿verdad? O sea, no",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 372759,
+    "dDurationMs": 5601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "compras un carro por comprar un carro en\nun WhatsApp, ¿verdad? Claro.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 376759,
+    "dDurationMs": 4601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "O en el banco que también todos los\nbancos tienen su WhatsApp, pero",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 379479,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "eventualmente\npues lastimosamente ya sea por",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 383440,
+    "dDurationMs": 5560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "desconfianza o por otras cosas que eres\nuna interacción humana.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 387160,
+    "dDurationMs": 6599,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Entonces sí creo que va a impactar\ndefinitivamente, pero creo que va a",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 391199,
+    "dDurationMs": 6321,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "generar más sofisticación y más\ntecnificación",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 395400,
+    "dDurationMs": 5960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "e y van a evolucionar a nuevos puestos\nde trabajo y definitivamente hay",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 399479,
+    "dDurationMs": 6881,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "trabajos que se pueden automatizar hoy\nen día que definitivamente van a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 403520,
+    "dDurationMs": 7119,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "desaparecer. Eso se da incluso en muchos\nrestaurantes, la verdad, en donde ya",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 408560,
+    "dDurationMs": 5880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "están las pantallas habilitadas para uno\nhacer su pedido, pero siempre quiere",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 412120,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pasar a la caja para saludar a la\npersona y pedirle algo, ¿verdad? Siempre",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 416720,
+    "dDurationMs": 5520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "queremos ese contacto humano.\nY mira qué interesante lo que me dices,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 419599,
+    "dDurationMs": 7561,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "porque yo creo que también aquí eh es\nválido tal vez preguntar cómo ustedes",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 425599,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "preparan precisamente a los estudiantes\npara que sean creadores, no tanto",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 429319,
+    "dDurationMs": 6921,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "usuarios de inteligencia artificial.\nBueno, mira, a lo largo de los 10 meses",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 433800,
+    "dDurationMs": 6679,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pasan cosas bien interesantes que son\nnuestros valores agregados. Por ejemplo,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 438840,
+    "dDurationMs": 6680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "eh los llevamos a ferias de\nemprendimiento, eh por ejemplo, acaba de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 442720,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "suceder Disrupt Fest. Ese tipo de ferias\nson las que los llevamos para que ellos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 446879,
+    "dDurationMs": 4401,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mismos vayan abriendo sus horizontes y\nque vean qué está sucediendo a nivel",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 450479,
+    "dDurationMs": 3000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "global.\nClaro.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 451680,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Eh, los llevamos a ferias de\nempleabilidad.",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 455280,
+    "dDurationMs": 5639,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "al cerca del finalizar, el último\ntrimestre, comienzan a desarrollar",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 459440,
+    "dDurationMs": 6800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "software para nuestra fábrica de\ndesarrollo en Colombia. Eh, entonces ya",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 464120,
+    "dDurationMs": 8919,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "van agarrando horas de vuelo, le\nllamamos nosotros. Entonces esta",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 471080,
+    "dDurationMs": 6920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "creemos que\nno todo es teoría, sino que uno aprende",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 476360,
+    "dDurationMs": 4720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "realmente con la práctica y en el mundo\ndel desarrollo, entre más práctica",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 479360,
+    "dDurationMs": 8000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tienes, más senior te conviertes, más\nplata ganas. Claro. ¿Qué papel juega ese",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 484159,
+    "dDurationMs": 7201,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "humanismo en la formación tecnológica?\nPues como toda en esta vida, ¿verdad?",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 489599,
+    "dDurationMs": 5641,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Son habilidades socioemocionales, es\ninteligencia emocional, adaptación al",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 493400,
+    "dDurationMs": 8280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cambio, es cómo comunicarte\nasertivamente, cómo trabajar en equipo,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 497400,
+    "dDurationMs": 8239,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cómo liderar. Creo que son eh destrezas\npues sumamente importantes para el día a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 503440,
+    "dDurationMs": 6479,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "día a nivel personal y profesional.\nTotalmente. Siempre necesitamos pues",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 507560,
+    "dDurationMs": 7279,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "esa, al final vivimos en una sociedad,\nnecesitamos pues estar en ese contacto.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 512159,
+    "dDurationMs": 6481,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Somos seres gregarios y como seres\ngregarios, independientemente que la",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 516479,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tecnología está planteada para podernos\neh desenvolver dentro de un mundo más",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 521200,
+    "dDurationMs": 6800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "exigente, especialmente en temas\ncomerciales, creo también es importante",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 524839,
+    "dDurationMs": 6961,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hablar acerca de esos aliados\nestratégicos ya como herramienta de la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 529839,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "inteligencia artificial que nos pueden\naportar a ese desenvolvimiento. ¿Cómo se",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 534000,
+    "dDurationMs": 8279,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "aplica esto?\nEh, a ver, yo creo que hay que estar muy",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 540079,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "apegado\na las diferentes empresas que están",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 544800,
+    "dDurationMs": 6760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "generando las tecnologías, ¿verdad?\nLlámese un Microsoft, un Google, un",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 548560,
+    "dDurationMs": 7880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Amazon. Eh, y ellos tienen que estar muy\ncerca de tenemos que estar muy cerca del",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 553880,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ecosistema, tanto ellos a nosotros como\nnosotros a ellos, porque",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 558839,
+    "dDurationMs": 7721,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "así es es como un semillero para ellos,\n¿verdad? Va es como Microsoft, ¿verdad?",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 563560,
+    "dDurationMs": 7279,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de chiquito le meten a uno Office, Excel\ny PowerPoint y cuando uno ya sale a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 568200,
+    "dDurationMs": 6920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "trabajar pues no quiere usar nada más.\nEntonces, en ese aspecto creo que hay",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 572839,
+    "dDurationMs": 6440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que estar muy pegado al ecosistema y en\nla parte de los egresados",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 577760,
+    "dDurationMs": 5480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "eh\ncreo que hay mucho proceso aún por",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 581480,
+    "dDurationMs": 5000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "definir a nivel corporativo, ¿verdad?\nHay empresas que hoy en día les da",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 585920,
+    "dDurationMs": 5159,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "miedo.\nSí. Eh,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 588600,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "la gente lo usa, la gente lo usa. Y yo\ncreo que eso es lo que más miedo les da,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 592800,
+    "dDurationMs": 6520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que alguien esté metiendo ahí su base de\ndatos, sus procesos, sus números,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 597440,
+    "dDurationMs": 6639,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pero yo creo que todo se norma a través\nde políticas claras y procesos claros",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 602240,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "para que realmente la gente comience a\nhablarlo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 605440,
+    "dDurationMs": 6760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "públicamente y y obviamente los líderes\ntienen que adoptarlo. O sea, si la todo",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 610360,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "comienza en la cabeza, ¿verdad? Si la\ncabeza no está a bordo, eh, pues eso es",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 616000,
+    "dDurationMs": 3360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "un grave problema, pero no hay que\nesconderlo porque la gente lo está",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 618560,
+    "dDurationMs": 4440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "adoptando.\nEso justamente le quería preguntar, ¿qué",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 620959,
+    "dDurationMs": 6521,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "retos son los que ustedes se con qué\nretos se han encontrado, verdad, en este",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 625240,
+    "dDurationMs": 7520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "camino en donde van jóvenes con\ntecnología a empresas que muchas veces",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 630079,
+    "dDurationMs": 7241,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "aún les da miedo ese tema?\nPues mira, en breve vamos a estar",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 635200,
+    "dDurationMs": 7280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sacando unos cursos para altos\nejecutivos y directores de empresas.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 640240,
+    "dDurationMs": 7560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "eh, para que vayan agarrando un poco el\nsaborcito. Creemos que esa es la manera,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 645360,
+    "dDurationMs": 6719,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "¿verdad? O sea, si esta si los líderes\nde las empresas comienzan a agarrarle el",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 649880,
+    "dDurationMs": 6840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "saborcito y ven las diferentes\naplicaciones y usos, pues van a venir,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 655040,
+    "dDurationMs": 4120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "van a escribir estas políticas, van a\nescribir estos procesos y van a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 658320,
+    "dDurationMs": 4920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "normarlo.\nClaro. O sea, todavía nos encontramos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 661279,
+    "dDurationMs": 7081,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "con algunas empresas, mi querido Renato,\ndoctores o demás en donde uno llama y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 665720,
+    "dDurationMs": 6359,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "todavía la agenda es en papelito, pues,\no sea, eso todavía sigue pasando. Yo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 670600,
+    "dDurationMs": 5840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "creo que entonces aquí se aplica\nperfectamente el tema de una",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 673920,
+    "dDurationMs": 6479,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sostenibilidad compartida en cuanto al\ntema del modelo. ¿Cómo el sector privado",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 678600,
+    "dDurationMs": 5799,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "puede contribuir a esto entonces de\nmanera eficiente para que esto se pueda",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 682519,
+    "dDurationMs": 6440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ramificar?\nMira, yo creo que es tanto público como",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 686639,
+    "dDurationMs": 6681,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "privado, ¿verdad? Hacen falta muchas\npolíticas a nivel",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 690680,
+    "dDurationMs": 7200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "eh gobierno, ¿verdad? En Guatemala no\nhay una política de comercio",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 695000,
+    "dDurationMs": 8760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "electrónico, no hay una política de\nprivacidad y uso de datos clara y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 700480,
+    "dDurationMs": 9200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "normada. Eh, yo creo que a nivel público\nhace falta nuevamente normo, ¿verdad? O",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 706920,
+    "dDurationMs": 11159,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sea, yo creo que de ahí parte eh mucho\nel tema y a nivel privado. Eh,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 714320,
+    "dDurationMs": 7639,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sí, voy a ser repetitivo, pero la gente,\nlos líderes de las empresas tienen que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 719800,
+    "dDurationMs": 6719,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "comenzar a hablar de esto, ¿no? Eh, se\ntienen que montar a la ola,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 723560,
+    "dDurationMs": 9680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "o sea, todo al principio da miedo. Es\ncomo cuando está Betamax, de ahís, el",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 729120,
+    "dDurationMs": 9680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "DVD, eh pero una tecnología gana y esta\ntecnología es de las de mayor adopción e",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 737360,
+    "dDurationMs": 4599,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "en una velocidad impresionante.\nEntonces, la gente se tiene o nos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 740360,
+    "dDurationMs": 5360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "quedamos. Es correcto.\nEntonces, qué interesante, porque si",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 743440,
+    "dDurationMs": 8120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "entonces no contamos con esas políticas\npúblicas que puedan de alguna manera",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 747959,
+    "dDurationMs": 8921,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "coabyubar a que esto se pueda consolidar\npor el momento, eh, ¿cómo han encontrado",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 754920,
+    "dDurationMs": 5640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ustedes la manera de implementar esta\nmetodología en diferentes regiones del",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 758519,
+    "dDurationMs": 6721,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "país? ¿Con qué retos se han encontrado\nya tratando de llegar a todo territorio?",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 763120,
+    "dDurationMs": 8079,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Mira, primero arrancamos en Colombia\nhace en el 2022 y arrancamos siendo una",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 769040,
+    "dDurationMs": 7200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "fábrica de software que no había que no\nencontraba talento desarrollado. Y así",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 773600,
+    "dDurationMs": 7799,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "fue como nos fuimos a la India, vimos\ncómo funcionaban estas fábricas de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 777920,
+    "dDurationMs": 7479,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "talento humano en Banglore. Regresamos a\nColombia y armamos la plataforma,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 783399,
+    "dDurationMs": 7161,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tropicalizamos el contenido, armamos la\nmetodología. En Colombia ya hay cuatro",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 788560,
+    "dDurationMs": 6959,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sedes. Este año abrimos la Quinta en\nBarranquilla y Guatemala que le la cual",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 793320,
+    "dDurationMs": 5800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "yo lidero Centroamérica, es la primera\nexpansión internacional. O sea, ya",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 797360,
+    "dDurationMs": 9800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "venimos con una trayectoria y una\nexperiencia y un modelo comprobado. Eh,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 803240,
+    "dDurationMs": 9360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "nacemos en zona 4 Campus Techc y de ahí\nvamos a armar otros. Eh, te puedo hablar",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 810399,
+    "dDurationMs": 7641,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de cómo ha funcionado en Colombia y al\nfinal del día es yendo mucho a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 815959,
+    "dDurationMs": 7361,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "conferencias, asociaciones de gerentes,\ngremiales, cámaras de comercio, cámaras",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 820040,
+    "dDurationMs": 8560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de industria y literalmente\nevangelizar al respecto, ¿verdad? y poco",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 825399,
+    "dDurationMs": 8041,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a poco y poco a poco agarrar a gente que\npara la oreja y le llama la atención y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 831160,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "le damos un curso, un cursito chiquito\nde 4 horas y entonces ya te traen a tus",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 835519,
+    "dDurationMs": 5641,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "equipos y entonces comenzamos con\nequipos de 10 y de repente son equipos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 839079,
+    "dDurationMs": 6721,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de 30 y de repente son equipos de 300\npersonas, las cuales poco a poco las vas",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 843959,
+    "dDurationMs": 6361,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "entrenando y las vas guiando a cómo\npescar y cómo usar la tecnología.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 848120,
+    "dDurationMs": 5920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Claro. Ahora digamos que esto va\nescalando mucho, ¿verdad? a nivel",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 852279,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "nacional, que muchos van parando la\noreja como como usted lo mencionó. ¿Qué",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 856440,
+    "dDurationMs": 6680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cambios ustedes esperarían al menos ver\nen el sistema en el ecosistema",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 860480,
+    "dDurationMs": 7240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tecnológico guatemalteco?\nYo creo que mucha unión. Eh, nos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 865519,
+    "dDurationMs": 6760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "encantaría siempre la gente lleva agua\npara su molino, pero al final yo creo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 869320,
+    "dDurationMs": 7800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que estamos en una belleza de momentos\neh donde podemos posicionar, hay cosas",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 875399,
+    "dDurationMs": 9481,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "muy interesantes pasando en Guatemala y\npodemos posicionar a Guatemala como una",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 880480,
+    "dDurationMs": 9200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "fuerza de recurso capacitado eh que\nexporta servicios con todo el tema de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 887320,
+    "dDurationMs": 7680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "near showing a Estados Unidos, México,\nCaribe Inglés, la misma región, ¿verdad?",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 892480,
+    "dDurationMs": 10640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Entonces creo que en la fuerza realmente\nen la unión está la fuerza y es cómo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 898880,
+    "dDurationMs": 9000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vamos de nosotros como sector privado\npues expandiendo esto.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 905399,
+    "dDurationMs": 7521,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Ahorita que en este momento usted hace\nreferencia de expansión, ¿qué rolísimo",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 910920,
+    "dDurationMs": 6680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "considera puede jugar el tema de la\neducación en línea y en este caso los",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 915440,
+    "dDurationMs": 6800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "recursos digitales para la expansión\nmisma del proyecto? Plantean ustedes una",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 920519,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "oportunidad en el sistema educativo\nnacional.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 923360,
+    "dDurationMs": 7200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Por el momento no. Eh,\nnosotros no creemos en la educación en",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 929040,
+    "dDurationMs": 6520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "línea.\nInteresante.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 930959,
+    "dDurationMs": 10440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Eh, Guatemala es un país donde 65% de la\npoblación tiene menos de 30 años",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 938560,
+    "dDurationMs": 6040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y la de la cobertura neta que debería\nestar en diversificado, solo el 25%",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 943720,
+    "dDurationMs": 4880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "están ahí. Sí,\npero si vas más hacia atrás hay un",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 946079,
+    "dDurationMs": 7721,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "problema de nutrición, el cual no\ndesarrolla al 100% el cerebro. Nueve de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 951880,
+    "dDurationMs": 8560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cada 10 chicos en Guatemala reprueban\nmatemática y particularmente para",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 957800,
+    "dDurationMs": 6719,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "programación y desarrollo de software en\nen nuestra formación, la base es",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 962519,
+    "dDurationMs": 7361,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "matemática, razonamiento lógico\nmatemático. Entonces, nos está costando,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 967279,
+    "dDurationMs": 7000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pero hay chicos, hay chicos, hay muchos\nchicos que se quieren superar. Eh,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 972240,
+    "dDurationMs": 5320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "nosotros rompemos las barreras en ese\nsentido. Hay dos maneras. Uno, no tienes",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 976160,
+    "dDurationMs": 6080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que tener previo conocimiento en\nprogramación y dos, de acuerdo a la nota",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 980720,
+    "dDurationMs": 7320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "en las pruebas de admisión y tu nivel\nsocioeconómico, becamos a los chicos.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 985440,
+    "dDurationMs": 6440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Entonces, eh\nese es esa es la manera. Por eso es un",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 989720,
+    "dDurationMs": 6599,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "modelo de desarrollo social, ¿verdad?\nEh, pero hay muchísimo por hacer. Yo no",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 994720,
+    "dDurationMs": 6200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "me voy a encargar de toda la cadena.\nnecesito que el sistema educativo, que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 998639,
+    "dDurationMs": 8401,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "los empresarios, estamos en deuda con la\njuventud en este país a nivel",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1002440,
+    "dDurationMs": 9000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "educacional. Entonces, realmente eh pues\nhay que incentivar a que los chicos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1008600,
+    "dDurationMs": 8679,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "terminen su diversificado, que pasen.\nGuatemala es un país donde hay 1.9",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1015160,
+    "dDurationMs": 5440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "millones de ninis. ¿Ustedes saben lo que\nson ninis?",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1018399,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Quiero pensar que son niños,\nniños que no estudian ni trabajan",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 1022839,
+    "dDurationMs": 6561,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de neninis, ya. Eh, no quiere decir que\nno hayan chicos con potencial ahí. Eh,",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 1027400,
+    "dDurationMs": 5120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "los nininis es es un fenómeno porque\npueden ser niños que están cuidando a su",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1030959,
+    "dDurationMs": 6080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "abuela porque está enferma o son que\ntienen que hacer el aseo en la casa o",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1034079,
+    "dDurationMs": 6321,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tienen que hacer eh eh la hortaliza o\ntienen que cuidar a sus hermanitos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1038760,
+    "dDurationMs": 7240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "porque van a van a trabajar sus dos\npadres.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1041480,
+    "dDurationMs": 8319,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Eh, pero es es realmente es un reto. La\neducación superior es un reto. Nosotros",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 1048079,
+    "dDurationMs": 6881,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "nos estamos enfocando en educación\nsuperior técnica, que son de 1500 a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1052200,
+    "dDurationMs": 7200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "2,500 horas. Pero hay mucho por hacer en\ntodo el ecosistema. Hay mucho por hacer",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1057240,
+    "dDurationMs": 5640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "realmente para sacar a esta juventud\nadelante.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1060320,
+    "dDurationMs": 7520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "¿Qué mensaje le daría usted a esos\nchicos que nos están viendo, verdad? Que",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 1065280,
+    "dDurationMs": 7120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "están interesados en una carrera en\ntecnología, que al final pues cuando",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1069919,
+    "dDurationMs": 6481,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hablamos de educación muchas personas ya\nse están yendo por lo que se está",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1074000,
+    "dDurationMs": 6559,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "viniendo, pues ya se vienen nuevos\nempleos en esas ramas, se están yendo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1078679,
+    "dDurationMs": 7240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "por esas carreras.\nPues yo les diría, atrévanse. Este, en",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1083960,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "10 meses\nse forman y en 10 meses consiguen",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1088520,
+    "dDurationMs": 6920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "empleo. Es muy diferente a una\nuniversidad, es muy diferente a pasar",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1093840,
+    "dDurationMs": 5680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "por otra ruta. Pues nosotros creemos\nrealmente en desarrollar talento de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1097320,
+    "dDurationMs": 7440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "manera rápida, con experiencia, con\ntrayectoria, con horas de vuelo y mucho",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1102760,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "más importante, de nada sirve formar si\nno vamos a emplear. Entonces es una ruta",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1107880,
+    "dDurationMs": 6679,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "diferente\nque que eso pasa mucho, Renato. Muchos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1111400,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "eh optan por una carrera que al final no\ndesempeñan.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1115720,
+    "dDurationMs": 5120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Es correcto. Hay que imitarmeran.\nCurioso, ¿no?",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 1118240,
+    "dDurationMs": 6799,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Sí, exactamente. ¿Cómo los podemos\nencontrar a ustedes en redes sociales?",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 1122679,
+    "dDurationMs": 5240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "¿Cómo se pueden poner en contacto con\nustedes para empezar ya con con esta",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1127400,
+    "dDurationMs": 6800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "carrera?\nClaro que sí. En redes sociales salimos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1130159,
+    "dDurationMs": 13321,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "como Campus Lands 502. Eh, nuestra\npágina web es wwwands.pro",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1138440,
+    "dDurationMs": 10800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y nuestro WhatsApp es 3275200.\nEh, estamos para servirles. Por favor,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1145960,
+    "dDurationMs": 7880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "atrévanse, anímense. Realmente nuestro\npropósito es transformar vidas y eso es",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1151840,
+    "dDurationMs": 5520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "lo que esperamos ejecutar. Jorge,\nmuchísimas gracias por su valioso",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1155440,
+    "dDurationMs": 4599,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tiempo, su sapiencia y por compartirlo\nen Canal Antigua con nuestro público.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1158720,
+    "dDurationMs": 5280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Gracias a usted por recibirme.\nMuchísimas gracias y bueno, a los padres",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 1162039,
+    "dDurationMs": 6721,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de familia también ese mensaje, porque\nmuchas veces los padres de familia están",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1166200,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "un poquito más eh a la defensiva, se\npodría decir, con la tecnología,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1170720,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "¿verdad? muchas veces no creen en ese\ntipo de carreras y hay que dejar que los",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1174679,
+    "dDurationMs": 6681,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "jóvenes experimenten. Los tiempos están\ncambiando y los las oportunidades de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1179559,
+    "dDurationMs": 5801,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "trabajo también están cambiando.\nEntonces, hay que darles esa oportunidad",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1182840,
+    "dDurationMs": 6319,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a los chicos de que busquen la carrera\nque más les gusta y les apasiona. Mi",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1187039,
+    "dDurationMs": 6401,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "querido Renato, muchas veces quizás en\ncasa eh alguien no quiere ser un doctor,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1191640,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "alguien no quiere ser un maestro,\nalguien quiere trabajar en algún campo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1195679,
+    "dDurationMs": 5961,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de tecnología y allí usted puede tener\nel mejor programador que haya existido.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1200159,
+    "dDurationMs": 5041,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Por ejemplo, eso puede pasar.\nClaro, claro. La comunicación en familia",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1203520,
+    "dDurationMs": 5240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "es importantísima. Mire, estamos\naterrizando un poquito más acerca de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1206960,
+    "dDurationMs": 5680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "este tema porque normalmente a veces no\nexiste una comunicación adecuada con",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1210440,
+    "dDurationMs": 5840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "nuestros hijos y esas inquietudes que\nellos tienen son necesarias",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1214120,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "fortalecerlas, indagar un poquito más\nacerca de ese espacio que se convierte",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1218840,
+    "dDurationMs": 6920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "para el joven en su propio universo de\nimportancia. no lo demerite jamás sepa",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1223679,
+    "dDurationMs": 7681,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "escuchar y por supuesto esto nos dará\npie de alguna manera a entender no",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1228280,
+    "dDurationMs": 7879,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "solamente eh esos aspectos importantes\nde cómo la tecnología puede cambiar la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1233919,
+    "dDurationMs": 6201,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vida profesional de una persona, sino\nque también encontrar un nuevo sistema",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1238159,
+    "dDurationMs": 8121,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "operativo que permita en los jóvenes\neducarse y por supuesto enfrentar los",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1242919,
+    "dDurationMs": 6521,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "retos de estos nuevos tiempos, diría yo,\ntecnológicos.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1247320,
+    "dDurationMs": 5960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Y no se convierte usted en un reto para\nsus hijos. Bueno, nosotros con esto nos",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 1251480,
+    "dDurationMs": 5439,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tenemos que despedir. Recuerde que tiene\nuna cita a partir de la 1 de la tarde",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1255200,
+    "dDurationMs": 5200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "con este caballero para que usted pueda\ntomar nota de lo que está ocurriendo en",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1258799,
+    "dDurationMs": 5401,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Guatemala y el mundo y a través de\nnuestras redes sociales también juntos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1262360,
+    "dDurationMs": 5880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "nos verán hasta mañana. Que tenga buen\ndía. que tengo un",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1278200,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "día a día, minuto a minuto, se genera\nimportante información alrededor del",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1282320,
+    "dDurationMs": 10400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mundo. La cobertura de los conflictos\nsociales, indicadores económicos,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1289000,
+    "dDurationMs": 3720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "decisiones políticas.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1292760,
+    "dDurationMs": 5480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "El mundo a las 8 pm de lunes a viernes.",
+      "acAsrConf": 0
+    } ]
+  } ]
+}

@@ -69,3 +69,10 @@ Uso privado: material fuente, no se republica. Ver [[fuentes/video-podcast]] y [
 **[23:00]** tecnología que esté relacionada con con reutilización, con con que al final eh haya realmente un proceso de reciclaje con aprovechamiento eh de materiales en buena disposición. Sí. Eh y y la otra es ser una empresa exitosa, ¿no? Ser una empresa exitosa desde de desde lo económico es importante. Sí. Hoy por hoy el 70% de nuestra facturación es nacional, el 100% de nuestra prospección está en Bogotá. Entonces, eh estamos ayudando a muchas otras empresas, ¿sí? Para que para que también crezcan que nos parece que que como empresa debemos hacer eso también en esa responsabilidad que yo le llamo transformación social y no no responsabilidad social, porque la responsabilidad social la veo como un cliché, ¿sí? La veo como de pronto como algo modal, ¿sí? Entonces es más bien un ejercicio de transformación social. Eso es lo que estamos haciendo nosotros. Bueno, ustedes vieron entonces la visión
 
 **[24:00]** de tres personas que trabajan en el mundo de la formación, de la educación, que también hace parte de esas dimensiones que nos han explicado aquí nuestros expertos que hacen parte de la sostenibilidad. Dr. Juan Camilo, Dr. Juan Camilo, Carlos Andrés y Diego, muchas gracias por compartir en este panel y sigamos la conversación. Yo creo que eso es lo que hay que mantener esa conversación para que podamos tener esos acuerdos. Muchas gracias. Muchas gracias a ustedes. El audio. Me quitaron el audio. Ine.
+
+---
+## 🔗 Conexiones del Segundo Cerebro
+- **Persona:** [[people/diego-tarazona|Diego Tarazona]]
+- **Entidad:** [[areas/campuslands|Campuslands]]
+- **Dossier de Investigación:** [[investigacion/diego-tarazona/dossier|Dossier Diego Tarazona]]
+- **MOC Integral:** [[diego_investigacion/README|MOC Diego Tarazona]]

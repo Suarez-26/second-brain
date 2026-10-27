@@ -1,0 +1,219 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  }, {
+    "mhModeHint": 2,
+    "juJustifCode": 0,
+    "sdScrollDir": 3
+  } ],
+  "wpWinPositions": [ {
+  
+  }, {
+    "apPoint": 6,
+    "ahHorPos": 20,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  } ],
+  "events": [ {
+    "tStartMs": 0,
+    "id": 1,
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 3280,
+    "dDurationMs": 8800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Hola, soy Gabriela Pedreza, líder de\nexpansión Global Campuslands y hoy",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 7359,
+    "dDurationMs": 8360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "estamos aquí en la Tata Agems Acaton\ntratando de llevar el talento",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 13719,
+    "dDurationMs": 7921,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tecnológico joven que tenemos en\nBucaramanga San Frander a todo el",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 19480,
+    "dDurationMs": 7920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Hola, yo soy Aoní, estamos aquí en\nCamposla, Bucaramanga y ayer y hoy",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 24039,
+    "dDurationMs": 8080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "estuvimos con empresarios, jóvenes,\nemprendedores haciendo primero Primero,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 29880,
+    "dDurationMs": 6760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "un meetup donde vinieron más de 200\nempresarios, incluso vino el alcalde de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 34640,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "la ciudad de Bucaramanga acompañarnos a\nhacer esta inauguración y luego el",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 38719,
+    "dDurationMs": 7801,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "siguiente día, el sábado, el viernes,\nestuvimos haciendo un jacatón más de 250",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 43600,
+    "dDurationMs": 7799,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "jóvenes, más de 45 grupos de cinco\npersonas creando subestiones que puedan",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 49000,
+    "dDurationMs": 5280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "generar un impacto en Bucaramanga, pero\ntambién pensadas a nivel global.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 53320,
+    "dDurationMs": 5719,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Entonces, fue una experiencia\nextraordinaria que vimos aquí en",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 56000,
+    "dDurationMs": 8519,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Bucaramanga Colombia.\nYo creo que lo que viví acá fue",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 61199,
+    "dDurationMs": 7881,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "extraordinario. Es 250 jóvenes de todas\nlas edades buscando crear tecnología. Y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 67280,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "algo que representa Colombia es esas\nganas de aprender, esas ganas de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 71600,
+    "dDurationMs": 5559,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "evolucionar todos los días, esas ganas\nde salir adelante que a veces lo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 75280,
+    "dDurationMs": 5400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "perdemos un poco en Estados Unidos.\nSiento que países como Colombia,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 79000,
+    "dDurationMs": 6600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ciudades como Bucaramanga tienen esa\nchispa de voy a darlo todo, voy a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 83360,
+    "dDurationMs": 6439,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "aprender, voy a salir de donde estoy, de\nmi zona de confort para crecer y eso",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 87640,
+    "dDurationMs": 7759,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "marca una diferencia muy grande porque a\nnivel internacional eso, eso talento es",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 93000,
+    "dDurationMs": 6119,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "fundamental y Boxer 51 se está dando\ncuenta de esto porque le está apostando",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 96880,
+    "dDurationMs": 5360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a este tipo de eventos en Colombia.\nTenemos que replicar esto e invitar a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 100640,
+    "dDurationMs": 8720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "más empresas en Estados Unidos para que\ntambién puedan tener talento latino,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 104600,
+    "dDurationMs": 4760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "talento colombiano y talento educar más.",
+      "acAsrConf": 0
+    } ]
+  } ]
+}

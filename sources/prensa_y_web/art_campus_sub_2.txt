@@ -1,0 +1,6 @@
+KEY: campus_sub_2
+ORIGINAL_URL: https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTFjQeK0KQ_p5s50aZkjIut9N1BLOoY5-rDbjEs9OvkMN51n8gnzG7HRP0IHg3DaU9zyO7GfmG5TEdgpDn5_gcBjlWgo0LzpCOdp6bKbD2GiFnBOEyoG3h9ptqwYe7xw==
+FINAL_URL: https://estudiante-bogota.campuslands.com/
+STATUS: 200
+
+Campus - Campus

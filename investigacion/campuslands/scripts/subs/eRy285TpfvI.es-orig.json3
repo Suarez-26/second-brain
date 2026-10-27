@@ -1,0 +1,105 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  }, {
+    "mhModeHint": 2,
+    "juJustifCode": 0,
+    "sdScrollDir": 3
+  } ],
+  "wpWinPositions": [ {
+  
+  }, {
+    "apPoint": 6,
+    "ahHorPos": 20,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  } ],
+  "events": [ {
+    "tStartMs": 0,
+    "id": 1,
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 0,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Desde el gobierno de Floridablanca,\nlogramos una nueva alianza para los"
+    } ]
+  }, {
+    "tStartMs": 4240,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "jóvenes que este año ya presentaron las\npruebas saber 11. [música] Y ese"
+    } ]
+  }, {
+    "tStartMs": 8600,
+    "dDurationMs": 7920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "esfuerzo merece algo más que un buen\npuntaje, merece una oportunidad [música]"
+    } ]
+  }, {
+    "tStartMs": 13320,
+    "dDurationMs": 8280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que sea real. Por eso, junto a Campus\nLand, hoy lanzamos [música] la beca más"
+    } ]
+  }, {
+    "tStartMs": 19400,
+    "dDurationMs": 7960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "bacana. Es una convocatoria para los\nestudiantes que este año lograron en el"
+    } ]
+  }, {
+    "tStartMs": 24280,
+    "dDurationMs": 7520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Icfes 300 o más puntos, quienes se\npodrán postular a seis becas en"
+    } ]
+  }, {
+    "tStartMs": 30000,
+    "dDurationMs": 5920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "inteligencia artificial, así como\ntambién en programación. Por ello deben"
+    } ]
+  }, {
+    "tStartMs": 34080,
+    "dDurationMs": 6120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "estar pendientes de las redes sociales\nde la alcaldía, así como también de las"
+    } ]
+  }, {
+    "tStartMs": 38200,
+    "dDurationMs": 6080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "redes sociales de Campus Land, y ya\ndaremos a conocer el siguiente paso."
+    } ]
+  }, {
+    "tStartMs": 44400,
+    "dDurationMs": 3760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Gobierno de Floridablanca.",
+      "isSpeakerChange": 1
+    } ]
+  } ]
+}

@@ -1,0 +1,841 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  }, {
+    "mhModeHint": 2,
+    "juJustifCode": 0,
+    "sdScrollDir": 3
+  } ],
+  "wpWinPositions": [ {
+  
+  }, {
+    "apPoint": 6,
+    "ahHorPos": 20,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  } ],
+  "events": [ {
+    "tStartMs": 0,
+    "id": 1,
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 40,
+    "dDurationMs": 6319,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "conocí un pequeño Google en bucaramanga\nse llama campus lands y les voy a contar",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3959,
+    "dDurationMs": 6600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "así como por encimita lo que lo que vi\nqueda en la zona franca en el anillo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 8480,
+    "dDurationMs": 6440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Vial ocupan un piso completo y está\nlleno de jóvenes tiene dos partes una",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 12799,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "parte donde son unos salones están\nestudiando un poco de pelados y otro",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 16640,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "lugar donde están las mesas de Ping pong\ndonde También tienen clases pero",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 20480,
+    "dDurationMs": 6840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "funciona como coworking también y hay\nalgunas empresas que trabajan ahí es una",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 24920,
+    "dDurationMs": 7600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "escuela de programación entonces La idea\nes agarrar a la población más des ida de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 30400,
+    "dDurationMs": 6319,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "la sociedad Y darles educación en\nprogramación gratuita Pero quién paga",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 34840,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "por esto las empresas entonces me\npareció muy bacano que ellos buscaran",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 38600,
+    "dDurationMs": 5360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "empresas del extranjero que necesiten\nprogramadores sobre todo en estos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 42120,
+    "dDurationMs": 6279,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tiempos de tanta tecnología Y esa gente\nes la que paga la educación de los",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 45440,
+    "dDurationMs": 8680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "chinos que dura 10 meses si no estoy mal\nson 8 horas diarias o sea es muy",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 51239,
+    "dDurationMs": 7840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "intensivo 8 horas diarias durante 10\nmeses y una vez el pelado sale le",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 56559,
+    "dDurationMs": 6361,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "aseguran el empleo estas mismas empresas\nque pagan por la educación del Chino",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 60760,
+    "dDurationMs": 6440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "luego los emplean como programadores de\nsus empresas y algunos de ellos pagan en",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 65119,
+    "dDurationMs": 6561,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "dólares me pareció muy bonito que la\nvisión de uno de los dueños de Diego es",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 69479,
+    "dDurationMs": 6601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "enfocarse mucho en en la base de la\nsociedad en en los chinos de los barrios",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 73560,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que Ju pucha que la ven difícil bueno en\ncampus l somos un grupo de socios",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 78200,
+    "dDurationMs": 5080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "estamos interesados en poder desarrollar\nun modelo de formación y lo llamamos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 82119,
+    "dDurationMs": 5441,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "nosotros un modelo de formación\nintermedio entre el colegio y la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 84960,
+    "dDurationMs": 7080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "educación secundaria dirigido a un Nicho\nde personas específicas y a quienes casi",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 89960,
+    "dDurationMs": 5920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "al 80% de las personas de la población\nen Colombia que son estrato 1 2 y TR",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 94000,
+    "dDurationMs": 5680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "aquellas personas que hoy por diferentes\nfactores no acceden de manera fácil a la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 97960,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "educación superior Y pues le quedan\ncaminos que no les permiten crecer",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 101520,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "caminos como ser parte del porcentaje de\nninis los ninis son aquellas personas",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 105640,
+    "dDurationMs": 6079,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que entre los 17 y 29 años de edad ni\nestudian ni trabajan y hoy en Colombia",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 109880,
+    "dDurationMs": 6279,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hay más de 3 millones de personas que es\nun indicador bastante alto o ven en la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 114119,
+    "dDurationMs": 5801,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "migración una opción de vida o terminan\nsimplemente en un trabajo formal o",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 117840,
+    "dDurationMs": 5919,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "informal con un salario mínimo para\nsobrevivir y si no termina en la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 121840,
+    "dDurationMs": 5400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ilegalidad entonces escuchando muchas\nhistorias Mejor dicho se me arrugaba el",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 125640,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "corazón por ejemplo hay un pelado que se\nllama Michael que viene de barrios",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 129200,
+    "dDurationMs": 7160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "peligrosos y el man contaba como H madre\noportunidad que medio se le da la garra",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 133480,
+    "dDurationMs": 5880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y como campus lands fue como Wow una\npuertotrans",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 142940,
+    "dDurationMs": 3069,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "[Música]"
+    } ]
+  }, {
+    "tStartMs": 150000,
+    "dDurationMs": 6239,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "porque claro no teníamos por Universidad\ny pues tampoco teníamos el dinero para",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 154120,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "como para que yo estuviera tanto tiempo\npara transporte para comida Entonces",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 158440,
+    "dDurationMs": 5920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "aunque había aquí una universidad que\nprácticamente la wis que es gratuita",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 161840,
+    "dDurationMs": 7360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tampoco me daba para sustentar me a mí\nmismo entonces quería expandirme",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 166440,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "estudiar entonces y campus se presentó\ncomo una gran oportunidad entonces yo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 170720,
+    "dDurationMs": 6439,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "dije no aprovechémoslo y hagámosle\naunque es intensivo esto Dios me ha",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 175080,
+    "dDurationMs": 5799,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ayudado para seguir adelante Uy u el\nprimer filtro recuerdo que aquí habían",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 178879,
+    "dDurationMs": 6801,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "300 personas todo es auditori todo el\nauditorio se llenó de gente y recuerdo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 183080,
+    "dDurationMs": 7519,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que claro eh son 8 horas diarias donde\nusted tiene que dedicarse a estudiar y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 188319,
+    "dDurationMs": 6961,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "entonces vino el primer filtro y todo\nsuper nervioso fue un examen de 4 horas",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 192879,
+    "dDurationMs": 6321,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "seguidas Y yo daba y el código no daba y\ntodo se estresar recuerdo que haba una",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 197280,
+    "dDurationMs": 6920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "muchacha que se puso a llorar y entonces\ncomo no tranquila usted puede y de hecho",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 201319,
+    "dDurationMs": 6840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "fue la mejor del salón to estresada y no\nAl final nos reunieron a todos y dijeron",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 206640,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Bueno los que pasaron fue esto y\nprácticamente la mitad las personas",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 210319,
+    "dDurationMs": 7081,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "salieron feron fueron como 150 personas\nque no pudieron pasar el primer filtro y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 215120,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "yo dije Uy Y no y de todos los que han\nvenido porque cada mes presentamos un",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 219599,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "filtro o sea los que están aquí ahorita\nson los sobrevivientes de muchas sí de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 223400,
+    "dDurationMs": 4960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "muchos exámenes han salido muchos O sea\nla cantidad de personas que yo he",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 226799,
+    "dDurationMs": 7080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "conocido aquí son muchas que ya no están\nya hoy no las veo entonces es difícil",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 230799,
+    "dDurationMs": 7201,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pero no imposible escuché testimonio de\npor ejemplo de Laura que ya consiguió",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 236079,
+    "dDurationMs": 5601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "una empresa se fijó en ella y le pagó\nLos tiquetes para ir a conocer la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 239239,
+    "dDurationMs": 6041,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "empresa de Bogotá amaris consulte es una\nempresa pues como su nombre lo dice de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 243480,
+    "dDurationMs": 6280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "consultoría que ellos En estos momentos\ntienen un proyecto de que quieren traer",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 247319,
+    "dDurationMs": 5881,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "más mujeres a su empresa para que sea un\nejemplo de que no solo los hombres como",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 252040,
+    "dDurationMs": 5719,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "siempre se ha visto son los que\nprograman sino que no no no tiene género",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 255760,
+    "dDurationMs": 6999,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "también las mujeres pueden entonces y\nMaris vino a campus Pues nos ofrece la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 259880,
+    "dDurationMs": 7440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "oportunidad de ir desde la semana pasada\nque fuimos nos atendieron super bien nos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 265040,
+    "dDurationMs": 5520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tuvieron un muy buen recibimiento y pues\nnos mostraron que que es una empresa en",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 269160,
+    "dDurationMs": 5039,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "la que podemos os crecer tanto\nacadémicamente como laboralmente y fue",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 272639,
+    "dDurationMs": 4840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "la primera vez Viajando en avión también\nla primera vez que fui a Bogotá fue muy",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 275800,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "chévere también que no solamente fuera\npara gente de bucaramanga sino que desde",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 279840,
+    "dDurationMs": 6919,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "acá se está formando como un epicentro\nde formación tecnológica y vi chinos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 284000,
+    "dDurationMs": 6960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "paisas gente de arauca gente del Cesar\ngente de otros lugares que por internet",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 289080,
+    "dDurationMs": 5920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "se enteró del tema y llegó a campus\nlands y allá están metidos por ejemplo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 292560,
+    "dDurationMs": 7400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "déjame Felipe es de saravena y ahí está\nmetido este en campul ha sido lo mejor",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 297440,
+    "dDurationMs": 7440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "la verdad me ha gustado muchísimo desde\nlos profesores desde las clases en",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 301919,
+    "dDurationMs": 7041,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "adelante todos son totalmente dinámicas\nno es como el colegio como la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 306520,
+    "dDurationMs": 6760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "universidad como no lo plantean o sea es\nmuy completo aparte de completo tú",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 311520,
+    "dDurationMs": 5880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "literalmente tienes a tus compañeros\ntienes a tu profesor le puedes preguntar",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 314960,
+    "dDurationMs": 7320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de cualquier cosa del tema que están\nviendo ayudarse entre ustedes Hay acceso",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 320120,
+    "dDurationMs": 5560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a internet literalmente en todo campus\nporque es mucho internet puedes",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 323960,
+    "dDurationMs": 5320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "investigar si no sabes algo lo\ninvestigas ha sido muy bien la actitud",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 327520,
+    "dDurationMs": 6679,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de los compañeros de los profesores\nsiempre habido como ese vínculo en",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 331600,
+    "dDurationMs": 6439,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cuanto maestro alumno trabajadores y\ndemás ha sido una experiencia muy bonita",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 336160,
+    "dDurationMs": 6080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "aparte de eso que es gratis y si tú te\npones le das empeño eh Te concentras en",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 340440,
+    "dDurationMs": 5080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "las clases te concentras presentando las\npruebas Tienes aún más beneficios",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 344120,
+    "dDurationMs": 5400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "entonces aquí es si tú quieres\nbeneficios aprende si tú quieres es",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 347680,
+    "dDurationMs": 5680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cuestión de uno más que todo usted si\nquiere aprender si quiere que le vaya",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 351280,
+    "dDurationMs": 7520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "bien también Met el esfuerzo esfuércese\nno al 10 ni al 50% esfuércese al 100 o",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 356319,
+    "dDurationMs": 8121,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "al 200 por. más que todo depende de uno\ncomo di pille voltes It's up To You Up",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 362280,
+    "dDurationMs": 6520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to a mí me encantan a mí las historias\nfuertes y se los dije a ellos no son",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 366520,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "para tener lástima no hay Pobrecito\nporque al final esa gente termina siendo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 371000,
+    "dDurationMs": 5120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "más fuerte que al que no no le tocó\ncargar nada termina siendo beneficioso",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 374759,
+    "dDurationMs": 5521,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "para ellos a mí esas historias Me\nencantan me encanta la gente así y este",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 378120,
+    "dDurationMs": 6680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "chino jamed Felipe estando acá se vino\ndesde saravena cargaba bultos y ayudaban",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 382560,
+    "dDurationMs": 5759,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "en la plaza y atica se y se le abrió la\noportunidad de estudiar ahí en campus",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 386520,
+    "dDurationMs": 5079,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Land de una la agarró y el chino no vez\nque tuviera la la lógica ática más",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 390000,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "violenta de todas Entonces ya va a\nterminar el curso lo último sería darle",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 393960,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "un aplauso a a Diego a todas las\npersonas que trabajan ahí Y a Sandra",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 397919,
+    "dDurationMs": 6161,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "charry que en este momento está\nmetiéndole el lomo al proyecto ella fue",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 402360,
+    "dDurationMs": 7119,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "la que me invitó y está creyendo a que\ndesde aquí desde Santander se construya",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 406520,
+    "dDurationMs": 9119,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "una infraestructura gigantesca que no\nsolo eduque a 300 a la vez sino a 2000 a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 413120,
+    "dDurationMs": 6919,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "la vez y que se le pueda quitar de Las\ngarras de la drogadicción de la falta",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 417400,
+    "dDurationMs": 6479,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "del propósito de la borrachera un montón\nde cosas a jóvenes que puedan aprender a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 422080,
+    "dDurationMs": 5080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "programar y se les abran las puertas\npara trabajar no solamente aquí en",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 425120,
+    "dDurationMs": 8600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Colombia sino en otros lugares bien\npagos ahí está ese es el cuento violento",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 430720,
+    "dDurationMs": 3000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "no",
+      "acAsrConf": 0
+    } ]
+  } ]
+}

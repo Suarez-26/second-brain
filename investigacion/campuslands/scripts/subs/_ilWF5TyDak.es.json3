@@ -1,0 +1,5619 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  }, {
+    "mhModeHint": 2,
+    "juJustifCode": 0,
+    "sdScrollDir": 3
+  } ],
+  "wpWinPositions": [ {
+  
+  }, {
+    "apPoint": 6,
+    "ahHorPos": 20,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  } ],
+  "events": [ {
+    "tStartMs": 0,
+    "id": 1,
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 5150,
+    "dDurationMs": 3159,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "[Música]"
+    } ]
+  }, {
+    "tStartMs": 11530,
+    "dDurationMs": 11989,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "[Música]"
+    }, {
+      "utf8": "\nHola, ¿qué tal? Muy buenas noches,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 21760,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "bienvenidos a este viaje hacia lo\nextraordinario. Los saluda Ángela",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 25920,
+    "dDurationMs": 6319,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Collazos y esta noche hablaremos de\nhéroes que se pasean por las calles y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 30240,
+    "dDurationMs": 6520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cuyo valor está en escuchar y en\nhumanizar a quienes parecen invisibles",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 34680,
+    "dDurationMs": 7199,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "para la mayoría de quienes habitamos la\nciudad o aquellos que salvan a través de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 39320,
+    "dDurationMs": 7079,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "oportunidades que ayudan a sacar las más\ngrandes potencialidades en otros para",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 44160,
+    "dDurationMs": 6879,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que tengan un mejor presente y un mejor\nfuturo. Prepárense para ver por qué sí",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 49000,
+    "dDurationMs": 6680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "se puede seguir teniendo esperanza. en\neste mundo, porque lo que nos une son",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 53320,
+    "dDurationMs": 6960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "las historias, pero contadas de otra\nmanera. Hoy hablaremos de cómo se ha",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 58559,
+    "dDurationMs": 7041,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "deteriorado la calidad de vida de las\nmujeres jefas de hogar en el país y cómo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 63480,
+    "dDurationMs": 7040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "este fenómeno se conecta directamente\ncon el desplome de la natalidad y la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 67840,
+    "dDurationMs": 8880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "creciente decisión de muchas mujeres de\nno ser madres. A esta conclusión llegó",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 72920,
+    "dDurationMs": 7920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "la Fundación WW en su informe Serujer,\nmadre y sostén el hogar en Colombia, una",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 78799,
+    "dDurationMs": 9000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ecuación desigual.\nActualmente existen 8,5 millones de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 83920,
+    "dDurationMs": 10040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hogares liderados por mujeres y el 65%\nde ellas lo hacen sin pareja. La",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 90479,
+    "dDurationMs": 9041,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "situación es crítica, pues el 37,7%\nvive en la pobreza. En este contexto,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 96759,
+    "dDurationMs": 7161,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tres de cada cuatro mujeres afirman no\nquerer tener hijos. Ampliamos lo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 101720,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "consignado en este documento clave para\ncomprender las implicaciones sociales,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 106000,
+    "dDurationMs": 7159,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "económicas y emocionales de ser mujer en\nun país que todavía no garantiza",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 110479,
+    "dDurationMs": 6920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "condiciones equitativas.\nAdemás, retratamos la historia de Andrés",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 115759,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Chavarro, patrullero de la Policía\nNacional, quien desde hace más de 18",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 120119,
+    "dDurationMs": 6521,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "años presta su servicio en Bogotá y se\nha hecho visible por sus acciones",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 123920,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "solidarias con personas en situación de\nvulnerabilidad.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 128200,
+    "dDurationMs": 6800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Su trabajo va más allá del patrullaje.\nEntrega alimentos, escucha historias,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 132879,
+    "dDurationMs": 7640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "acompaña a quienes atraviesan crisis\npersonales y utiliza sus redes sociales",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 137560,
+    "dDurationMs": 7759,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "para visibilizar esas realidades. Todo\npor iniciativa propia. La historia que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 143080,
+    "dDurationMs": 6799,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "aquí se narra muestra como desde su rol\ninstitucional este uniformado ha logrado",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 147560,
+    "dDurationMs": 7000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tender puentes de empatía y construir\nvínculos de confianza en medio de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 152160,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "contextos marcados por el abandono y la\nindiferencia social. A través de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 156800,
+    "dDurationMs": 6760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "testimonios, imágenes de sus recorridos\ny relatos de quienes han recibido su",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 160760,
+    "dDurationMs": 7000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ayuda, esta crónica ofrece un retrato\níntimo de un policía que, sin buscar",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 165720,
+    "dDurationMs": 6599,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "reconocimiento ha encontrado en la\nsolidaridad una forma de transformar su",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 170000,
+    "dDurationMs": 6519,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "entorno y resignificar el papel de la\nfuerza pública en sectores vulnerables",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 174959,
+    "dDurationMs": 5881,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de Bogotá.\nY también Campus Lance es un centro de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 179400,
+    "dDurationMs": 5720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "formación tecnológica ubicado en\nBucaramanga que ha revolucionado el",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 183120,
+    "dDurationMs": 7280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "acceso a la educación en programación\npara jóvenes de escasos recursos. Con un",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 187760,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "modelo intensivo de 10 meses y apoyo a\nempresas internacionales, esta",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 192280,
+    "dDurationMs": 7039,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "iniciativa busca cerrar brechas sociales\ny laborales, capacitando a estudiantes",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 197000,
+    "dDurationMs": 7120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de estratos 1, dos y 3 sin costo\ninicial. Hoy conoceremos historias que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 201840,
+    "dDurationMs": 7679,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "evidencian cómo esta Silicon Valley\nsantanderiana está transformando vidas",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 207239,
+    "dDurationMs": 6121,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "incluso en regiones como el catatumbo.\nUn reportaje que muestra como la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 211120,
+    "dDurationMs": 7440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tecnología bien dirigida puede\nconvertirse en un motor de cambio para",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 215400,
+    "dDurationMs": 3160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "el país.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 220020,
+    "dDurationMs": 7060,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "[Música]"
+    }, {
+      "utf8": "\nEmpezamos. En Colombia ser mujer, madre",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 225040,
+    "dDurationMs": 7399,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y sostén del hogar se ha convertido en\nuna ecuación cada vez más desigual. La",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 229840,
+    "dDurationMs": 6959,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "carga emocional, económica y social que\nenfrentan millones de mujeres jefas de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 234519,
+    "dDurationMs": 7000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hogar no solo está minando su calidad de\nvida, sino que también está cambiando el",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 238799,
+    "dDurationMs": 8720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "panorama demográfico del país. Y es que\nen 2024 se registró la cifra más baja de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 244560,
+    "dDurationMs": 7879,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "nacimientos desde 1998\ny en paralelo, tres de cada cuatro",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 249680,
+    "dDurationMs": 6760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mujeres afirman no querer tener hijos.\n¿Qué está ocurriendo? ¿Tiene que ver lo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 254280,
+    "dDurationMs": 8960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "uno con lo otro? Un nuevo informe de la\nFundación WWB Colombia pone el foco en",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 260199,
+    "dDurationMs": 9000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "esta realidad. 8,5 millones de hogares\nestán hoy liderados por mujeres, la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 265440,
+    "dDurationMs": 9160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mayoría sin pareja y más de 2,4 millones\npasaron hambre durante el último año.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 272199,
+    "dDurationMs": 6961,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Este estudio revelaría que en el país la\nmaternidad se ha vuelto una decisión",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 276280,
+    "dDurationMs": 8120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cada vez más lejana, no por falta de\ndeseo necesariamente, sino tal vez por",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 281560,
+    "dDurationMs": 8010,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "exceso de desigualdad. Un panorama que\nnos permite ver lo difícil de ser mujer",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 286520,
+    "dDurationMs": 11880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "en Colombia.\n[Música]",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 295800,
+    "dDurationMs": 8119,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Digamos que tengo 24 horas al día, pero\npues de esas 24 horas tengo que buscar",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 300800,
+    "dDurationMs": 8040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "para el sueño, para el cuidado, para los\nque haces de la casa, para la educación.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 307000,
+    "dDurationMs": 5240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Y pues digamos que cuando la gente me\ndice, \"Ay, ¿qué haces en tus ratos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 309960,
+    "dDurationMs": 7320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "libres?\" Pues queda como la pregunta que\nqueda un rato libre, o sea, suela como",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 315080,
+    "dDurationMs": 6800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "chiste, pero realmente a veces es así. O\nsea, la gente muchas veces dice como que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 319080,
+    "dDurationMs": 6679,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ay, los fines de semana te pierde. Yo sí\nme pierdo porque toda la noche tejí. O",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 324039,
+    "dDurationMs": 7000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sea, mi parche es trasnocharme\nentregando tejidos y pues que por",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 327280,
+    "dDurationMs": 7440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ejemplo no son como de solamente a ver\ncómo te digo, de admirar, sino que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 332759,
+    "dDurationMs": 5361,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "también es como muy cruel que uno tenga\nque trasnocharse.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 336400,
+    "dDurationMs": 5480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Y por ejemplo, para mí, digamos, el\ndesafío más difícil es cuando mis hijas",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 340080,
+    "dDurationMs": 9520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "veno.\nVamos a tranquil",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 345780,
+    "dDurationMs": 7940,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "[Música]"
+    }, {
+      "utf8": "\nen millones de hogares en Colombia el",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 351360,
+    "dDurationMs": 7839,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "día empieza igual. Ellas se levantan\nantes que todos, preparan el desayuno,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 355800,
+    "dDurationMs": 8280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vicen a sus hijos y ordenan el hogar. No\nhay descanso ni relevo. Son las mujeres",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 361880,
+    "dDurationMs": 7849,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "las que sostienen casi la mitad de los\nhogares en Colombia.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 366600,
+    "dDurationMs": 3129,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "[Música]"
+    } ]
+  }, {
+    "tStartMs": 371280,
+    "dDurationMs": 9560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "No soy mamá soltera. Actualmente él\ncumple y responde por la niña. Eh,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 377560,
+    "dDurationMs": 8800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "bueno, es lo que nos estipuló bienestar\ny también nos gastó extras como por lo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 383520,
+    "dDurationMs": 6920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "menos ella ahora ya hoy empezó jardín,\nentonces le compramos zapatos,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 388599,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "uniformes, los útiles, todo, pero todo\nes 50 a 50, aparte pues de la cuota",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 393440,
+    "dDurationMs": 6280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mensual.\nEn Colombia cada vez nacen menos niñas y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 397280,
+    "dDurationMs": 6479,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "niños, sin embargo, en la actualidad son\nmás las mujeres que sostienen solas un",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 401560,
+    "dDurationMs": 7919,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hogar. El último informe de la Fundación\nWWB Colombia revela que ellas reciben",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 406919,
+    "dDurationMs": 6921,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "menos ingresos, seguridad alimentaria y\nmás sobrecarga. Panorama que se vive en",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 411840,
+    "dDurationMs": 7320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "todo el país, pero que ha tomado más\nfuerza en Cali y el Valle del Cauca. Aún",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 417160,
+    "dDurationMs": 5840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "así no se rinden. Trabajan en varios\noficios, se rebuscan cada peso,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 421520,
+    "dDurationMs": 6440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "trasnochan para cumplir con sus\nobligaciones y al amanecer están listas",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 425720,
+    "dDurationMs": 15830,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "para dar a sus hijos lo más valioso como\nel cuidado y su amor.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 431940,
+    "dDurationMs": 9610,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "[Música]"
+    } ]
+  }, {
+    "tStartMs": 444879,
+    "dDurationMs": 8760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "En 2024 hubo 440.000 nacimientos, la\ncifra más baja en más de 25 años. Al",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 452080,
+    "dDurationMs": 6040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mismo tiempo, cada vez son más los\nhogares que dependen de una mujer para",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 455160,
+    "dDurationMs": 7800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sostenerse. Son madres, hijas, hermanas\nque cargan con más responsabilidades y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 460400,
+    "dDurationMs": 8560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "menos recursos para sostener un hogar.\nDe 8,5 millones de hogares en el país,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 465440,
+    "dDurationMs": 8080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "el 46,5 está liderado por una mujer. En\nExtraordinario conocimos dos mujeres que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 471000,
+    "dDurationMs": 7400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "son madres jefas de hogar y Samar Andrea\nMeneces, que tiene dos preciosas hijas",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 475800,
+    "dDurationMs": 7600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "gemelas de 13 años y Mar Yuri Moreno con\nuna pequeña de apenas 4 años. Ambas son",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 481120,
+    "dDurationMs": 6199,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "emprendedoras y se dedican al cuidado de\nsus hijas.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 484400,
+    "dDurationMs": 6639,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Pues mira que la gente la gente dice que\nlos 13 años es como la forma más",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 489360,
+    "dDurationMs": 6080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "compleja. Entonces yo ya sabía eso\nporque de que quedé embarazada yo no",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 493240,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "estaba preparada para quedar embarazada.\nObviamente no quería tener hijos ni",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 497000,
+    "dDurationMs": 5639,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "quiera sabía crear hijos, pero sí tenía\nciertas ideas. Entonces desde que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 500599,
+    "dDurationMs": 6040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "nacieron eh como siempre estuve cercanía\ncon los libros, les empecé a leer, ¿no?",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 504720,
+    "dDurationMs": 5520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Y pues uno leyendo encuentra como\nestrategias, herramientas de crianza y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 508639,
+    "dDurationMs": 5400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "demás. Entonces uno a veces se agarra de\nesas y pues toca prueba y error a ver si",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 512240,
+    "dDurationMs": 7000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "funciona o no funciona, ¿no? que yo\nsiempre he dicho que no hay una guía eh",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 516440,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "idónea para la crianza, porque eh en mi\ntranscurso también he dicho que la gente",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 520719,
+    "dDurationMs": 5800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "muy experta en muy experta en criancia,\npues no tiene hijos y yo pueden saber",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 525120,
+    "dDurationMs": 6680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mucho desde la academia del conocimiento\ny puede practicar, pero en el diario",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 528120,
+    "dDurationMs": 9520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vivir, o sea, o sea, uno aquí queriendo\nir al baño, eh, con dos chinos por ahí",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 534880,
+    "dDurationMs": 5880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "por todos lados, mamá, mamá, no, o sea,\npor ejemplo, tampoco te dicen cómo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 538839,
+    "dDurationMs": 6361,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "meterte en un baño público con dos\ninfantes que quieren meterle la mano a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 542440,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "todo y No, Dios, no, no saca la mano de\nahí.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 546519,
+    "dDurationMs": 6841,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "No, no es fácil, es hermoso porque los\nniños son una bendición, son una",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 550800,
+    "dDurationMs": 7400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "compañía maravillosa, pero es difícil en\nciertos momentos, como por ejemplo con",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 556040,
+    "dDurationMs": 8799,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "el tiempo que tienes que cuadrar tus\nespacios de trabajar, de todo.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 561600,
+    "dDurationMs": 8040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Es complejo, pero es maravilloso. Yo soy\nfeliz de ser mamá. Y es que en tiempos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 567160,
+    "dDurationMs": 6760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "actuales el ser mujer y madre enfrenta\ncomplejos dilemas. Aunque para muchas",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 571800,
+    "dDurationMs": 5640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mujeres en Colombia ser mamá nunca ha\nsido fácil, las mujeres que lideran un",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 575920,
+    "dDurationMs": 6159,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hogar tuvieron su primer hijo en\npromedio a los 21 años. Muchas no",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 580000,
+    "dDurationMs": 6839,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pudieron terminar sus estudios y desde\nentonces han tenido que ingeniárselas",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 584240,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "para salir adelante. Trabajan en varios\noficios, se sostienen como pueden y a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 589040,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pesar del cansancio siguen ahí con esa\nfuerza interna que solo una madre puede",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 592839,
+    "dDurationMs": 6841,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tener, con esa fortaleza única que tiene\nuna mujer, levantando a sus hijos y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 597279,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sosteniendo su casa solas, pero con esa\nfuerza que lo mueve todo. Bueno, resulta",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 602360,
+    "dDurationMs": 7400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que cuando quedé embarazada, pues yo me\npostulé como eh estudiante de geografía,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 606640,
+    "dDurationMs": 7600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "eh porque es mi imaginario como un de un\nestrato social económico que después me",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 612519,
+    "dDurationMs": 7241,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "di que era subcero, pero pues estamos en\nestrato uno. Eh, pues yo quería como",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 616720,
+    "dDurationMs": 6760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mejorar mis expectativas de vidas, mis\nofertas laborales y demás. Y pues",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 621519,
+    "dDurationMs": 5401,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vivimos en un país donde pues si tú\ntienes un profesional puedes acceder a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 625120,
+    "dDurationMs": 5360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "otros trabajos que con un o sea que si\nno eres profesional pues solamente te",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 628399,
+    "dDurationMs": 5921,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tienes que conformar con un mínimo, ¿no?\nEntonces, digamos que me escribía",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 631760,
+    "dDurationMs": 6960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "geografía, pero pues dado que mis hijas\nhan estado siempre ahí de parte del cuo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 636240,
+    "dDurationMs": 5680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de mis padres, mi mamá ya falleció, eh,\nentonces digamos que ha sido como la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 640200,
+    "dDurationMs": 5360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "carrera muy intermitente de que voy y\nvuelvo, voy y vuelvo, pues porque aparte",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 643440,
+    "dDurationMs": 7639,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "del cuidado de las niñas, eh, también\npues está como el buscar ingresos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 647639,
+    "dDurationMs": 7961,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "económicos para no enflaquecer tanto.\nMara principal el tiempo, el tiempo, por",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 653920,
+    "dDurationMs": 6960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "lo menos ella ahora está en el jardín,\nentonces está en el jardín de ocho a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 658240,
+    "dDurationMs": 7440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cuatro. Ella llega a la casa, le pago\nruta, entonces llega cuatro casi cinco,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 664240,
+    "dDurationMs": 5159,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pero entonces yo estoy pendiente ahí\ncomo me mandan la ubicación porque",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 667519,
+    "dDurationMs": 6041,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "apenas ya está como cerca, ya me\ndesconecto de todo porque ya apenas ella",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 671519,
+    "dDurationMs": 5841,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "llega ya le dedico es el tiempo a ella a\njugar con ella. Que mamá, dame algo, una",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 675680,
+    "dDurationMs": 6680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sorpresita. Una sorpresita es que le\nsiempre le tengo algo de comer, yogur,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 680040,
+    "dDurationMs": 6120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "algo. Y me dice, \"Ven, sentémonos acá.\"\nY nos sentamos como en la en la puerta",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 684040,
+    "dDurationMs": 5359,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ahí como en el antejardín. y empieza a\ncontarme como todo lo que hizo en el",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 687839,
+    "dDurationMs": 6680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "día, qué actividades hicieron, qué le\ndieron de comida, todo. Y ya después,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 692160,
+    "dDurationMs": 7080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "después de que jugamos, coloreamos ya la\ncena y ya se me pasa el resto del día",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 696680,
+    "dDurationMs": 6279,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "con ella la noche preparándola ya\nalistándola de lo de la el otro día para",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 701279,
+    "dDurationMs": 5201,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "madrugar. Bueno,\nsin embargo, la fuerza no se puede",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 704680,
+    "dDurationMs": 6360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "romantizar. Por eso, la unidad de\nanalítica de la Fundación WW Colombia",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 709000,
+    "dDurationMs": 6360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "con sede en el Valle del Cauca hizo un\nanálisis detallado con enfoque de género",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 713120,
+    "dDurationMs": 5560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a los resultados de la encuesta del Dane\nsobre el informe de calidad de vida, el",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 716959,
+    "dDurationMs": 5880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cual pone sobre la mesa una verdad\ncontundente. Las mujeres cabeza de hogar",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 721040,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "enfrentan un deterioro permanente en su\ncalidad de vida al tiempo que aumenta la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 725160,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "proporción de aquellas mujeres que ya no\ndesean ser mamás. Entonces, es una cifra",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 729639,
+    "dDurationMs": 5281,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "muy significativa que nos hace\ncuestionar un poco eh desde una",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 733399,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "perspectiva interseccional que está\nsucediendo con las mujeres jefas cabeza",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 736880,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de hogar y encontramos que cerca del 50%\nde las mujeres jefas de hogar,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 741600,
+    "dDurationMs": 6479,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "afrodescendientes, indígenas y con\ndiscapacidad se dedican principalmente a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 746639,
+    "dDurationMs": 4760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "los oficios del hogar antes que al\ntrabajo remunerado. Eso les deja muy",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 749800,
+    "dDurationMs": 5880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "poco tiempo para el trabajo productivo\nen términos económicos y pues dado a la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 754440,
+    "dDurationMs": 4120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "alta carga de cuidado que están\nteniendo.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 756440,
+    "dDurationMs": 6920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "En este informe llamado Ser mujer Madre\ny sostén el hogar en Colombia una",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 760160,
+    "dDurationMs": 7520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ecuación desigual, el 37,7% de las\nmujeres cabeza de hogar viven pobreza",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 765199,
+    "dDurationMs": 6801,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "monetaria. En cuatro de cada 10 hogares\nel dinero no alcanza ni para lo básico.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 770240,
+    "dDurationMs": 8920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Lo primero que hay que tener en cuenta\nes que eh las mujeres que están siendo",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 776040,
+    "dDurationMs": 6359,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "la la el la cara de las familias en este\nmomento pues se encuentran más",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 780440,
+    "dDurationMs": 6600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "empobrecidas. En este sentido, si las\nmujeres están más empobrecidas, podemos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 784279,
+    "dDurationMs": 7441,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "entrar en futuro a un ciclo de pobreza,\nuna trampa de pobreza. Entonces las",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 789079,
+    "dDurationMs": 9041,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "futuras generaciones van a estar con una\nmenor eh posibilidad o probabilidad de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 794279,
+    "dDurationMs": 6961,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "poder educarse mejor. frente a personas\nque nacen en hogares de jefatura",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 799839,
+    "dDurationMs": 6401,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "masculina. Entonces, aquí ese es un\nprimer un primer punto. Lo segundo es",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 804040,
+    "dDurationMs": 8479,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que eh\nel país está enfrentando en este momento",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 810240,
+    "dDurationMs": 6120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "lo que es un cambio demográfico y una\ntransición demográfica en la que hay que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 813959,
+    "dDurationMs": 7481,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "analizar un poco el hecho de que estamos\nteniendo menos nacimientos, estamos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 818560,
+    "dDurationMs": 7440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "teniendo por ende menos personas en en\nque están trabajando en la economía y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 823560,
+    "dDurationMs": 6519,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "por ende pues un envejecimiento total de\nla población. Entonces, esto tiene",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 827760,
+    "dDurationMs": 4800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ciertas implicaciones en cuanto a la\nsostenibilidad fiscal y financiera del",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 831880,
+    "dDurationMs": 4680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "país.\nSobre este tema consultamos con algunas",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 834680,
+    "dDurationMs": 7519,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mujeres a ver si ellas querían tener\nhijos, ¿sí o no? ¿Y por qué? Y esto fue",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 839480,
+    "dDurationMs": 8200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "lo que respondieron. Liset, ¿tienes\nhijos? Sí, tengo dos niños. ¿Y quisieras",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 845079,
+    "dDurationMs": 7760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tener más hijos? No, yo creo que ya con\nestos dos fue suficiente. ¿Por qué?",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 850240,
+    "dDurationMs": 9599,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Porque yo me dediqué a la maternidad de\nellos por un buen tiempo y me di cuenta",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 856199,
+    "dDurationMs": 8961,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que traer seres al mundo no es solamente\ntema de dinero, es tema de tiempo, es",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 862480,
+    "dDurationMs": 6599,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tema de que eh tienes que pensar en dos\npersonas que le vas a dar al mundo.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 867160,
+    "dDurationMs": 5679,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "No, la verdad en mis planes no está\ntener hijos. Primero, pues la parte",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 871000,
+    "dDurationMs": 7399,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "económica tener un hijo es\nextremadamente costoso y segundo, por la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 875839,
+    "dDurationMs": 7920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "parte laboral. Siento que al final si\nuno se compromete a tener un hijo, pues",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 880680,
+    "dDurationMs": 7560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "debe dedicarle tiempo de y más que todos\nlos primeros años de vida y eso también",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 886240,
+    "dDurationMs": 5880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "puede implicar sacrificar tu parte\nlaboral. Sí, si quiero tener realmente",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 890560,
+    "dDurationMs": 7240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "fue un proyecto de vida que me los he\nplanteado desde los 15 años. Eh, yo fui",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 894320,
+    "dDurationMs": 7680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "una hija deseada. Mis papás me desearon\ncomo en septiembre hacia la luna y ellos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 900440,
+    "dDurationMs": 4519,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "me dieron como un cuaderno en donde mi\nmamá desde los 14 años tenía anotado mi",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 903839,
+    "dDurationMs": 5521,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "nombre. Entonces, siento que es un\nproyecto de vida que quiero tener y pues",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 907079,
+    "dDurationMs": 5521,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "en estos momentos sí si ya lo he pensado\ny lo he hablado con mi pareja",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 910880,
+    "dDurationMs": 9199,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "físicamente y mentalmente no creo que\nesté preparada y la sociedad está",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 915440,
+    "dDurationMs": 9360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "terrible, pero eh pues está bien los las\npersonas que que sí optan por tener un",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 923480,
+    "dDurationMs": 6960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hijo, porque además siento que la\ndecisión es de dos personas, tanto eh, o",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 928079,
+    "dDurationMs": 6440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sea, para los dos progenitores es\nimportante que ambos estén de acuerdo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 932399,
+    "dDurationMs": 7281,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "para una crianza respet respetuosa. Creo\nque es importante, pero para mi vida no",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 936600,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "creo que que sea posible.\n¿Quieres tener hijos? ¿Sí o no? ¿Y por",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 941759,
+    "dDurationMs": 5721,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "qué?\nNo, no quiero tener hijos. Me parece que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 944560,
+    "dDurationMs": 6199,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "es muy difícil cuidar la niñez de ese\nser que vendría en camino.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 949040,
+    "dDurationMs": 7640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "De acuerdo con el informe, un hogar\nliderado por un hombre, el cual es del",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 952399,
+    "dDurationMs": 9481,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "54% recibe en promedio 1,400,000 al mes\ny uno, que es liderado por una mujer",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 958800,
+    "dDurationMs": 7599,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "recibe 1,200,000 pes. Se evidencia allí\nuna clara desigualdad económica y por",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 964079,
+    "dDurationMs": 6801,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ende una mayor dificultad para cubrir lo\nbásico en sus hogares.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 968480,
+    "dDurationMs": 8240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Y también es natural cuando una mujer\ndice, \"A mí el dinero no me alcanza.",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 974000,
+    "dDurationMs": 7240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "El 39% de las mujeres jefas de hogar\nmanifestó que el dinero no les alcanza",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 978639,
+    "dDurationMs": 6961,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "para el sostenimiento de su hogar. Y en\ntérminos de lo que es seguridad",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 982759,
+    "dDurationMs": 8361,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "alimentaria, de las 8.5 5 millones de\nmujeres que eh lideran los hogares en",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 988360,
+    "dDurationMs": 9959,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Colombia. 2.4 millones de mujeres\nmanifestaron que en algún momento eh no",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 995560,
+    "dDurationMs": 8959,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "les alcanzó el dinero para un alimento\ndel día y el 1.1 millones de de mujeres",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1002319,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "quefas y hogar manifiestan que se\nquedaron sin algún tipo de alimento.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1006120,
+    "dDurationMs": 4680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Entonces aquí la situación es grave\nfrente a temas de inseguridad",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1009360,
+    "dDurationMs": 4959,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "alimentaria.\nPero más allá de las cifras, ¿cuál es el",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1012759,
+    "dDurationMs": 5801,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "verdadero desafío que enfrentan las\nmadres que cuidan solas un hogar? Pues",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1016560,
+    "dDurationMs": 7960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "es que realmente han sido mucho porque\npues como siempre soalítica y crítica",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1021519,
+    "dDurationMs": 6641,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sin querer criticar de mal de mal manera\no juzgar a los otros, sino como que ver",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1026839,
+    "dDurationMs": 4480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "qué tengo y qué puedo hacer con lo que\ntengo, que a veces me he visto en",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1029880,
+    "dDurationMs": 5799,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "posiciones como que marichis, no tengo\nnada, o sea, no tengo nada, pero pues",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1033520,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "también mirar como que qué sí tengo y\nmás bien ver eso, pues para ver qué más",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1037480,
+    "dDurationMs": 7160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "puedo conseguir, ¿no? Cómo puedo ir\navanzando o mejorando ciertas",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1041520,
+    "dDurationMs": 7600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "circunstancias. Eh, digo que así groso\nmodo es como la distribución del tiempo,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1047520,
+    "dDurationMs": 4720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "porque como uno es la única fuente de\ningreso, o sea, literalmente mi",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1050320,
+    "dDurationMs": 7239,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "herramienta de trabajo soy yo, mis\nmanos, ya. Y por ejemplo, cuando me he",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1055080,
+    "dDurationMs": 6280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "accidentado, pues uf, o sea, uno sió que\ncomo la presión económica y así, ¿no?",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1060160,
+    "dDurationMs": 5160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Entonces, digamos que la distribución\ndel tiempo es porque aparte de ser mamá,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1063640,
+    "dDurationMs": 7760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pues yo quisiera hacer muchas otras\ncosas, pero como que no funciona así,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1068480,
+    "dDurationMs": 9199,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "¿no? No funciona así. Pues mira que por\nlo menos, bueno, desde que estaba en",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1074320,
+    "dDurationMs": 7680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "embarazo, yo tuve que dejar de trabajar\nporque se me bajaba como la presión,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1079840,
+    "dDurationMs": 6040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "entonces me desmayaba en cualquier\nmomento.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1083520,
+    "dDurationMs": 7200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Eh, y después de que nació la niña, pues\ntenía que estar como muy pendiente en",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1087720,
+    "dDurationMs": 7760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "muchas cosas, en citas, temas médicos.\nAfortunadamente siempre trabajaba",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1092240,
+    "dDurationMs": 7000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "independiente, pero en esas dos\ntemporadas que no pude trabajar,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1097679,
+    "dDurationMs": 7081,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "obviamente tuve el apoyo de mi familia,\nde mis papás, de mis hermanos, pero sí",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1102080,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "me tocó parar bastante tiempo. Entonces,\nsolamente como por espacios hacía como",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1106679,
+    "dDurationMs": 6601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "los encargos, pero no estaba como antes\nde estar en embarazo, que o sea, mi",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1111000,
+    "dDurationMs": 7799,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "trabajo era todo,\nsí, era todo, mejor dicho, me daba para",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1115720,
+    "dDurationMs": 9640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "todo y hasta más. Entonces ahora estoy\notra vez como prácticamente",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1121799,
+    "dDurationMs": 9121,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sí, otra vez iniciando prácticamente,\naunque nunca lo he dejado parado, pero",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 1127799,
+    "dDurationMs": 8201,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sí, full. Ahora,\n[Música]",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1134480,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a nivel mundial se observa una\ndisminución en el deseo de ser madre,",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 1138039,
+    "dDurationMs": 6281,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "aunque las causas varían según el país.\nLa tasa de reemplazo poblacional, el",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1142600,
+    "dDurationMs": 6360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "promedio de hijos por mujer necesario\npara mantener estable la población, que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1146280,
+    "dDurationMs": 7879,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "suele ser de 2,1, está por debajo de ese\nnivel en varios países. En Chile la tasa",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1151600,
+    "dDurationMs": 7559,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "es de 1,16 hijos por mujer y los\nnacimientos cayeron un 23% en 2024. Las",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1157799,
+    "dDurationMs": 5801,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "causas incluyen retraso en la\nmaternidad, dificultades para conciliar",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1161280,
+    "dDurationMs": 7040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vida laboral y familiar, alto costo de\nvida y políticas públicas limitadas.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1165880,
+    "dDurationMs": 7919,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Factores similares a los observados en\nColombia. En Polonia, la tasa es de 1,10",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1171480,
+    "dDurationMs": 6920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hijos y hubo 20,000 nacimientos menos\nentre 2023 y 2024 debido a la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1176400,
+    "dDurationMs": 5680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "incertidumbre económica y geopolítica,\nel alto costo de la vivienda, leyes",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1180440,
+    "dDurationMs": 6599,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "restrictivas y el envejecimiento\npoblacional. En Noruega, con una tasa de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1184559,
+    "dDurationMs": 8480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "1,5 hijos por mujer, los nacimientos\nbajaron un 13,3% en 2022, en gran parte",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1191159,
+    "dDurationMs": 5441,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "por el retraso de la maternidad y el\naumento de hogares unipersonales.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1195120,
+    "dDurationMs": 8080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "También se han registrado caídas\nsignificativas en países como Rusia,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1198559,
+    "dDurationMs": 4641,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Liberia, República del Congo e Irlandia.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1203440,
+    "dDurationMs": 6840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "[Aplausos]"
+    }, {
+      "utf8": "\nVolviendo al informe de la Fundación WWB",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1208480,
+    "dDurationMs": 5439,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Colombia, este no es solo un conjunto de\ncifras que generan alarma, sino también",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1212240,
+    "dDurationMs": 5640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "un espejo de la realidad que viven\nmillones de mujeres en Colombia. Sus",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1215919,
+    "dDurationMs": 6561,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hallazgos son clave para entender las\nimplicaciones sociales, económicas y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1220120,
+    "dDurationMs": 6439,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "emocionales de lo difícil de ser mujer y\ncabeza de hogar en un país que todavía",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1224360,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "no garantiza condiciones equitativas.\nPorque mientras no existan las mismas",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1228400,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "oportunidades, la brecha seguirá\ncreciendo y seguirán siendo las mujeres",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1232480,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "quienes carguen con todo el peso de una\nsociedad desigual. Pues es muy",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1236679,
+    "dDurationMs": 6081,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "importante generar políticas públicas\nintegrales donde no solamente se estudie",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1240960,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "desde una perspectiva interseccional a\nlas mujeres cabeza de hogar, sino",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1244640,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "también que se haga eh un proyecto\npartícipe de la redistribución del",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1249440,
+    "dDurationMs": 5520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "trabajo de cuidado no remunerado, donde\nno solamente lo negociemos al interior",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1253320,
+    "dDurationMs": 6040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de los hogares, sino también que actores\ncomo el mercado, como el estado,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1256840,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "empiecen a asumir la responsabilidad y\nno caiga siempre en las comunidades y en",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1261240,
+    "dDurationMs": 5720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "las familias, que es lo que suele pasar,\nademás de la importancia de reconocer el",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1265400,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "trabajo de cuidado no remunerado en las\nmujeres jefas de hogar, porque tenemos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1269480,
+    "dDurationMs": 6350,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "una diferencia de dedicación de 4 horas\ny 38 minutos en comparación a los",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1274200,
+    "dDurationMs": 11990,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hombres.\n[Música]",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1289000,
+    "dDurationMs": 6159,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Gracias por continuar en este viaje\nhacia lo extraordinario. En Bogotá, un",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1293240,
+    "dDurationMs": 5600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "patrullero de la Policía Nacional se ha\nconvertido en el respaldo de muchas",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1297200,
+    "dDurationMs": 7120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "personas que enfrentan situaciones\nextremas en la calle de angustia o de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1301360,
+    "dDurationMs": 7000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hambre. Se llama Andrés Chavarro y más\nallá de sus funciones de vigilancia, ha",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1306440,
+    "dDurationMs": 6920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "asumido un rol solidario que marca la\ndiferencia. entrega comida, escucha,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1311200,
+    "dDurationMs": 7200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "orienta y acompaña a quienes viven en la\nincertidumbre. Pu abandona. En la calle",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1316159,
+    "dDurationMs": 7241,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hay tristeza y desesperación, pero a\nveces nosotros no lo vemos o nos hacemos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1321159,
+    "dDurationMs": 7801,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "los que no lo vemos. Pero este héroe\nvestido de policía observa y en sus",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1325960,
+    "dDurationMs": 7240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "jornadas ve lo que pocos se atreven. Lo\nhace por convicción, sin esperar nada a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1331080,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cambio y con el apoyo de aliados\nciudadanos que creen en su causa. Esta",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1335679,
+    "dDurationMs": 5501,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "es una historia de humanidad y\ncompromiso contada por nuestro",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1338760,
+    "dDurationMs": 7400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "periodista Luciano Silva.\n[Música]",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1348000,
+    "dDurationMs": 9159,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "A veces uno se queja, se queja por cosas\ny hay personas que están envueltas nada,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1355200,
+    "dDurationMs": 6719,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que no nadie los escucha porque son\npersonas que no los escucha. Yo me pongo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1359799,
+    "dDurationMs": 5841,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "en el atrevimiento de escucharlos.\nAyudar a otros sin esperar nada a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1363840,
+    "dDurationMs": 5800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cambio. Una frase que muchas veces\nescuchamos, pero que gracias a este",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1367360,
+    "dDurationMs": 6120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hombre es una realidad. Un acto de\nverdadera valentía y empatía que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1371480,
+    "dDurationMs": 6520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "demuestra el poder de la solidaridad en\nnuestra sociedad actual. Este héroe",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1375679,
+    "dDurationMs": 7880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "anónimo vestido de policía, entiende que\nsu labor va más allá de patrullar y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1379919,
+    "dDurationMs": 3640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vigilar las calles.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1387760,
+    "dDurationMs": 6600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Entre largas jornadas, frías noches,\nalgunas lluviosas, es como este héroe de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1392080,
+    "dDurationMs": 6360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "nuestra Policía Nacional vive sus días.\nÉl no solo vela por la seguridad de los",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1396080,
+    "dDurationMs": 6520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vecinos en los barrios, también saca su\nespacio para brindar su apoyo a quienes",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1400520,
+    "dDurationMs": 5519,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "más lo necesitan.\nRecientemente se viralizó un video en",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1404320,
+    "dDurationMs": 5200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "redes sociales donde un agente de la\npolicía se acercaba a un hombre que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1408000,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "estaba pasando por una situación\ncompleja, la pérdida de su esposa. Allí",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1412320,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "el policía le ofrece un apoyo emocional\ny algunos recursos necesarios,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1416679,
+    "dDurationMs": 7081,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "convirtiéndose en un verdadero pilar en\nmedio del dolor que enfrentaba aquel",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1420720,
+    "dDurationMs": 7760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hombre en ese duro momento.\nEste uniformado es Andrés Chavarro, un",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1425919,
+    "dDurationMs": 6360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "bogotano que por más de 18 años ha\nprestado sus servicios a los ciudadanos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1430279,
+    "dDurationMs": 5640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "en Colombia a través de esta, la\ninstitución que le ha dado todo, la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1434240,
+    "dDurationMs": 7559,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Policía Nacional.\nEs una labor que se hace a diario. Al",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1439760,
+    "dDurationMs": 6840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "comienzo de recibir turno en el\npatrullaje comienzo a visualizar y a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1444039,
+    "dDurationMs": 6601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "observar personas que están en condición\nde calle. Me acerco a ellos, les",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1448960,
+    "dDurationMs": 7000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pregunto que qué tienen, que si ya\nalmorzaron, que si desean comer algo y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1454320,
+    "dDurationMs": 5200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "así vamos entrando en confianza con\nellos.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1457880,
+    "dDurationMs": 5600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Aquí lo vemos alistándose para su\npróxima jornada en el barrio Bachué de",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 1461440,
+    "dDurationMs": 6239,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "la localidad de Engativá al noroccidente\nde Bogotá. Él sabe que hoy será una",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1465720,
+    "dDurationMs": 6199,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "nueva oportunidad para ayudar a alguien,\npara marcar la diferencia en la vida de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1469720,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "personas en condición de vulnerabilidad\nque se cruzan en su camino.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1474320,
+    "dDurationMs": 7320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Mientras estoy en el labor del\npatrullaje, mientras estoy a la",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 1478760,
+    "dDurationMs": 7480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "expectativa de que pasa, de que se\npresentó algún delito, pues antes de eso",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1484399,
+    "dDurationMs": 5361,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pues comenzó a visualizar cuadra por\ncuadra,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1487840,
+    "dDurationMs": 7800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mira quién está ahí, por qué está en la\ncalle, qué pasó, le puedo colaborar,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1492159,
+    "dDurationMs": 8441,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "venga. Pero ante todo con educación,\nante todo enseñándoles a hacer orden,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1498399,
+    "dDurationMs": 7601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "porque hay personas que que no son\nordenadas. Bueno, recuérdame ese ese",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1503159,
+    "dDurationMs": 8801,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "reguero. Hay que enseñarles también,\npero todo partes del respeto y donde me",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1510039,
+    "dDurationMs": 6921,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "manden, pues hay veces que me mandan a\napoyar otros sectores y a veces trato",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1514559,
+    "dDurationMs": 8120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "trato de de realizar la misma labor,\npero a veces es un poco complejo porque",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1520720,
+    "dDurationMs": 7400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "está muy movido el turno, hay mucho\nrequerimiento, pero esto se hace parte",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1525960,
+    "dDurationMs": 4920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de la esencia de la Policía Nacional,\nestar con la comunidad.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1529080,
+    "dDurationMs": 6120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "¿Cómo está, papi?\nBien, gracias.",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 1533039,
+    "dDurationMs": 5841,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Algo que casi no se ve hoy en día, pero\nél lo hace posible por su propia",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 1536960,
+    "dDurationMs": 6120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "iniciativa, dedicando tiempo para\nacercarse a personas que apoyarlas en",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1541200,
+    "dDurationMs": 6800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "algo tan sencillo pero valioso como un\nalimento, una ropa o unas palabras que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1545720,
+    "dDurationMs": 7079,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "inspiran.\nBueno, este es el alimento para las",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1550440,
+    "dDurationMs": 7719,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "personas que encontramos en el trayecto\ndel patrullaje.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1554840,
+    "dDurationMs": 8079,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Aquí a a unos metros observamos que hay\nuna persona en condición de calle. Ahí",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1560640,
+    "dDurationMs": 7279,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "se encuentra acostada en el asfalto en\nuna silla. Pues vamos a abordarlo.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1569930,
+    "dDurationMs": 8710,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "[Música]"
+    }, {
+      "utf8": "\nBuenas.",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 1579679,
+    "dDurationMs": 5161,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "¿Qué más, mi negro?\n¿Cómo va?",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1583480,
+    "dDurationMs": 4240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Acabo durmiendo acá, mi porque no puedo\nver para atrás.",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 1585919,
+    "dDurationMs": 6961,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "¿En dónde? Yo sé. Se acuerda que el\npersonaje que que sacó eh el que lo sacó",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 1591000,
+    "dDurationMs": 6039,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "corriendo, ¿se acuerda el que no sacó\ncon cuchillo? Brian otra vez volvó y me",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1595880,
+    "dDurationMs": 4960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "lastimó.\n¿Cuál es ese Bran?",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1598039,
+    "dDurationMs": 7921,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Bran el monito.\nPues es del Carva.",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 1602159,
+    "dDurationMs": 9361,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Oh, aquí va de la fábrica de papas.\n¿Qué le pasó en el dedo?",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 1608520,
+    "dDurationMs": 6159,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Pero venga.\nYa almorzó al guito, negro. Le provoca",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1613880,
+    "dDurationMs": 6039,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "papi.\nSí, serio. Mire de corazón.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1618200,
+    "dDurationMs": 5280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Andrés, ¿y cuándo empezó a notar que\nquería hacer algo más que simplemente",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 1621960,
+    "dDurationMs": 8959,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vigilar las calles? hacía\naproximadamente un año, un año mostrar",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1627919,
+    "dDurationMs": 9441,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "eh al público, a la ciudadanía, que\nnosotros, aparte de tener este uniforme,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1633520,
+    "dDurationMs": 11759,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "soy una persona, soy un ser humano que\nvila y trabajo por la tranquilidad y la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1642200,
+    "dDurationMs": 7079,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "convivencia y la seguridad de todos los\nresidentes",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1646880,
+    "dDurationMs": 6960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de aquí de la zona donde yo laboro. Y\nquise demostrar que nosotros también",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1651279,
+    "dDurationMs": 7041,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "somos buenos. Como hay tantas cosas\nnegativas, entonces publiquemos las",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1655320,
+    "dDurationMs": 6520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cosas buenas. Y esto es una cosa buena,\nes abordar a estas personas que está en",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1660600,
+    "dDurationMs": 5679,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "condición de calle.\nNos cuenta que no espera reconocimiento",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1663760,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ni recompensa alguna. Su motor es la\nsatisfacción de saber que con cada",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1667919,
+    "dDurationMs": 7561,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "acción transforma la vida y construye\nesperanza para quienes más lo necesitan.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1673000,
+    "dDurationMs": 8880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Según lo que él me informa,\nél perdió sus familiares.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1678480,
+    "dDurationMs": 10880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Él quedó con el apartamento que que\ntenían sus papás y por el consumo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1686279,
+    "dDurationMs": 11000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "comenzó a deteriorarse tanto él como el\napartamento. ya acabó con todo lo que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1693080,
+    "dDurationMs": 9920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "quedó ahí dentro del inmueble y ingresa\npersonas que son consumidoras y una de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1700640,
+    "dDurationMs": 7440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "esas personas, según lo que me informó\nfue que le leonó el dedo. Observando la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1705919,
+    "dDurationMs": 6201,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "herida no era de gravedad, pero son\ncosas que se sale de contexto. Ya se",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1710600,
+    "dDurationMs": 6199,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "llamó la patrulla para que vaya y\nverifique cuál es la situación que se",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1714080,
+    "dDurationMs": 6079,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "presenta allá en el inmueble del joven.\nY es que detrás de cada ser humano que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1718480,
+    "dDurationMs": 6360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "este patrullero ayuda, hay una historia\nque merece ser escuchada, una carga que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1722399,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "aliviar. Este policía nos dice que no es\nquién para juzgar, pues muchas de estas",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1727039,
+    "dDurationMs": 7801,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "personas pasan por problemas difíciles\nde afrontar y que casi siempre reciben",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1731880,
+    "dDurationMs": 7919,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "el indiferente rechazo de la sociedad.\nYo no soy para juzgar, yo no soy para",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1738159,
+    "dDurationMs": 7961,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "criticar,\nindependientemente si cometió algo en su",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1742240,
+    "dDurationMs": 9279,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "juventud, eso, está ahí en la calle y yo\nquiero quiero brindarle esa opción,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1748720,
+    "dDurationMs": 9079,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "quiero brindarle esa oportunidad de que\nqué quiere, estoy aquí para ayudarlo.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1754159,
+    "dDurationMs": 7841,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "¿Qué le puedo colaborar? un alimento,\nestá cansado en la calle, la quiere",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1759240,
+    "dDurationMs": 9200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "dejar, buscamos un hogar como sea, pero\nsiempre y cuando esa persona desee.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1766679,
+    "dDurationMs": 6521,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "El trabajo de ser policía y patrullar\nlas calles es difícil. En su jornada",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 1770840,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "también comparte su tiempo y sus oídos,\ndescubriendo las luchas de quienes se",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1775039,
+    "dDurationMs": 5961,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "encuentran por ahí, aquellos que muchas\nveces requieren de un apoyo en momentos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1779720,
+    "dDurationMs": 5400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de crisis.\nSon más los positivos que los negativos.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1783240,
+    "dDurationMs": 4640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Acaban de leer otra vez el mismo.\nEspere. Pero espere,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1787000,
+    "dDurationMs": 4880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "negro. Espere\nel muchacho.",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 1789240,
+    "dDurationMs": 6439,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Pero espere, papi. Ya fue el la\npatrulla. Ya no.",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 1793279,
+    "dDurationMs": 6721,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Esp, hágame un favor. Llame a Kilian que\nllegue acá. Mire lo que conlleva en",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 1797919,
+    "dDurationMs": 7161,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "llevar gente a la casa\ny miren la situación. Cuárepiente meter",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1803039,
+    "dDurationMs": 4081,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ahí. Sí, ve. Lo están sacando de su\npropia esta.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1805720,
+    "dDurationMs": 4160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Me están sacando mi propia. Que yo\nestaba dormido ahí porque no puedo",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 1808200,
+    "dDurationMs": 4839,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "dormir en mi casa. Nadie me tiró\ncuchillo. Me tocó fue correr.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1811159,
+    "dDurationMs": 4520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Ya, ya, ya. Pues cálmese.\nYo estoy la mano y todo. No,",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 1814399,
+    "dDurationMs": 6321,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "venga. Digo una cosa, no la vaya a papi.",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 1817279,
+    "dDurationMs": 8041,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Eso, pero por eso ya respire, respire,\npero mire lo que conlleva a tomar malas",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 1824120,
+    "dDurationMs": 5399,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "decisiones.\nEsa es la paciencia, ese es el don que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1827559,
+    "dDurationMs": 7681,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "nosotros como uniformados tenemos.\nNosotros somos técnicos, profesionales",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1832120,
+    "dDurationMs": 8360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "en servicio de policía. Ahí nos sirva de\nmediadores, nos toca que hay problemas",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1838480,
+    "dDurationMs": 7640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "en la casa de matrimonio, entrar\ndialogar. Incluso nosotros también",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1842559,
+    "dDurationMs": 7161,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tenemos problemas y a veces no somos ni\ncapaces de solucionarlos y sí",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1847799,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "solucionamos los de otros, sí mediamos\nlos de otras personas. Es es complejo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1852399,
+    "dDurationMs": 7201,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "esta vaina. Y miren cómo se dieron\ncuenta. El muchacho",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1856960,
+    "dDurationMs": 7319,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "llegó con ganas de pedir auxilio. Estaba\nbastante saltado. Son cosas que ni se",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1862360,
+    "dDurationMs": 5159,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "están grabando, son cosas que salen y\nasí es el día a día.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1865799,
+    "dDurationMs": 5561,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Pero él no trabaja solo. Gracias al\napoyo de su tocayo, Andrés, que tiene un",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 1869519,
+    "dDurationMs": 5961,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "restaurante en el mismo barrio, puede\nhacer posible esta valiosa acción. Y es",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1873559,
+    "dDurationMs": 5600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que cuando nuestro protagonista ve a una\npersona en condiciones vulnerables, no",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1877159,
+    "dDurationMs": 6041,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "lo piensa dos veces, enseguida toma su\nteléfono y lo llama para que le aliste",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1881080,
+    "dDurationMs": 5680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "una bandeja con pollo asado.\nCamilo, buenas tardes.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1885519,
+    "dDurationMs": 6201,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Buenas tardes.\nEh, Camilo, hágame un favor, es para ver",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 1889000,
+    "dDurationMs": 7679,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "si me puede alistar tres bandejas y me\nlas hace llegar aquí al Cai.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1895399,
+    "dDurationMs": 4481,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Ya se las llevo.\nBueno, gracias, muy amable, muy gentil.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1898960,
+    "dDurationMs": 4959,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Bueno,\nAndrés Cortés, más que comerciante y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1901960,
+    "dDurationMs": 5920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "administrador del restaurante, se ha\nconvertido en el mejor amigo del",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1905480,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "patrullero Chavarro, ese cómplice que le\ngraba sus videos para difundir a través",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1909720,
+    "dDurationMs": 7439,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de redes sociales este mensaje de\nsolidaridad. nos conocemos hace mucho",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1914039,
+    "dDurationMs": 7760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tiempo, pero cuando me empecé como a\nempeñar en ver cuál era la labor de él,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1919120,
+    "dDurationMs": 7880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "yo quise como ayudarlo y de cierto modo\npues decirle como yo quiero poner mi",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1923360,
+    "dDurationMs": 7439,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "granito de arena y empezar a construir\nalgo o ayudarle ser como un pilar de esa",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1929639,
+    "dDurationMs": 3400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "construcción de lo que usted está\nhaciendo.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1933690,
+    "dDurationMs": 15750,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "[Música]"
+    }, {
+      "utf8": "\nalgún momento me llama, a veces yo voy y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1946960,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "le llevo la comida, pero casi siempre es\ncomo llamada, ¿no? Como tengo tal caso,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1951639,
+    "dDurationMs": 6481,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "será que pueda apoyarme y pues\nobviamente si yo estoy, voy y lo apoyo.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1955919,
+    "dDurationMs": 6921,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "no ve un tipo de situación así es cuando\nuno piensa en su propio vínculo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1960039,
+    "dDurationMs": 7000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "familiar, ¿no? Eh, si fuera yo, si fuera\nalguien de mi familia quien está así,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1964840,
+    "dDurationMs": 7000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "¿cómo actuaría yo? Entonces, realmente\nse me hace muy bien la obra que él hace.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1970120,
+    "dDurationMs": 6559,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Andrés Chavarro se define como un hombre\nhumilde, empático y cercano, una persona",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 1974720,
+    "dDurationMs": 6120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "llena de principios y valores que fueron\naprendidos de su abuelita y de su madre,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1978919,
+    "dDurationMs": 4880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "quien le tocó salir a trabajar para\nconseguir el sustento para él y su",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1982720,
+    "dDurationMs": 7199,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "familia.\nSon principios que me enseñaron desde",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1986880,
+    "dDurationMs": 11600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pequeño, tanto mi abuelita que fue la\nque me crió mientras mi mamita se venía",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1992799,
+    "dDurationMs": 11401,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de del pueblo aquí a la ciudad y durante\nsu estadía pasaron unos años para que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2001279,
+    "dDurationMs": 7161,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ella se ubicara bien y poderme traer.\nElla fue la que me creó, mi abuelita y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2006760,
+    "dDurationMs": 8480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "me terminó de crear mi mamá siempre con\nlos mismos principios, de respetar a las",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2011399,
+    "dDurationMs": 9041,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "personas, de ayudar al que necesite y a\nla humildad de todo, independientemente",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2017519,
+    "dDurationMs": 5681,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "si tengo o no tengo ser la misma\npersona.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2021399,
+    "dDurationMs": 6280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Y aunque nació en Bogotá, se creó en el\nmunicipio del Cocú y Boyacá, rodeado de",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 2025279,
+    "dDurationMs": 6321,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "heladas montañas. Sin embargo, siempre\nsupo que su pasión era ayudar a otros,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2030039,
+    "dDurationMs": 5561,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "por lo que luego de prestar servicio\nmilitar se alistó a las filas de la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2033799,
+    "dDurationMs": 7321,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Policía Nacional.\nLe manifesté a mi mamá que quería ser",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2037760,
+    "dDurationMs": 9320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "policía. Pasaron unos años, se dio la\noportunidad de ingresar a la a esta",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2044880,
+    "dDurationMs": 7479,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "grandiosa institución\nque me formó en la en la escuela Rafael",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2049879,
+    "dDurationMs": 9520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Reyes. Esa queda en Santa Rosa de Ivo en\nBoyacá. Allá ingresé en el año 2008.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2056919,
+    "dDurationMs": 9561,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Me gradué a mitad de año. Hoy en día\nllevo 18 años, 5 meses trabajando en",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2063560,
+    "dDurationMs": 7079,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "esta gloriosa institución.\nEste ángel de la guarda, para muchos,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2068520,
+    "dDurationMs": 6319,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cuenta que sus esfuerzos nacen de un\nprofundo compromiso con la comunidad, lo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2072919,
+    "dDurationMs": 6960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que refleja el verdadero espíritu y\nservicio a través de la empatía.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2077800,
+    "dDurationMs": 10359,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ser generoso,\nno que porque esa tática ay no,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2084040,
+    "dDurationMs": 10000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "independientemente yo trato igual\nal estrato seis como al cero.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2091879,
+    "dDurationMs": 6281,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Todos somos iguales.\nMuchas de estas historias también le han",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2095839,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "enseñado valiosas lecciones de vida, así\ncomo la de este hombre, un adulto mayor",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2100200,
+    "dDurationMs": 5600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que, a pesar de encontrarse en situación\nde vulnerabilidad, destaca por su",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2103839,
+    "dDurationMs": 6121,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "habilidad para hablar inglés y que por\ncircunstancias de la vida le ha tocado",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2107760,
+    "dDurationMs": 7520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "atravesar duras etapas.\nLo que más me llamó la atención de él es",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2111720,
+    "dDurationMs": 9160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que él habla inglés. habla inglés y a mí\nme habla inglés y yo no entiendo, no",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2117720,
+    "dDurationMs": 9280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "entiendo, pero si gusta hágale la\npresentación",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2122480,
+    "dDurationMs": 9400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "David a Andrés en inglés.\nMy name David. I used to be an English",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2129560,
+    "dDurationMs": 7039,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "teacher.\nI'm an only child.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2134119,
+    "dDurationMs": 4921,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "My my only relative is my father. New\nYork.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2141720,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Para Chavarro, estar aquí en las calles\nlo llena de mucha alegría, pues siente",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2146200,
+    "dDurationMs": 5520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que su trabajo trasciende más allá de lo\ncotidiano.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2149440,
+    "dDurationMs": 7159,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "No trata de hacer lo que más puede uno,\npero que corpo.",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 2154000,
+    "dDurationMs": 7319,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Son personas que necesitan ayuda, pero\nme toca decirle, \"Téngame paciencia, no",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2159200,
+    "dDurationMs": 7360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tengo la oportunidad todavía, no tengo\nla el lugar donde los voy a llevar.\" Ya.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2164800,
+    "dDurationMs": 6360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Entonces, a veces me da como impotencia\nde que no tener las cosas a la mano para",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 2168839,
+    "dDurationMs": 5601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "una vez llevarlos y como de querer hacer\nmás",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2172119,
+    "dDurationMs": 8121,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y hay que tener y seguir en el proceso\nde que me tengan paciencia que con la",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 2177319,
+    "dDurationMs": 6321,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "voluntad de mi Dios, con la ayuda, tarde\no temprano llega.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2182079,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Este patrullero se ha dado a conocer\ngracias a sus obras de caridad, siempre",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2185920,
+    "dDurationMs": 5800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a favor de personas vulnerables. Sin\nembargo, él le dice a aquellas personas",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2189800,
+    "dDurationMs": 5960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que piensan que esto lo hace por un like\no seguidor en las redes sociales, que no",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2193800,
+    "dDurationMs": 6680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "se trata de eso, sino de utilizar las\nplataformas digitales para que su",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2197599,
+    "dDurationMs": 10281,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mensaje llegue lejos.\nesa plataforma, que es donde tengo mayor",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2204880,
+    "dDurationMs": 10400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "audiencia de de seguidores. Tiktó a mí\nno me ha ni me genera algo económico por",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2211800,
+    "dDurationMs": 8200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "los like, por lo reproducción, nada.\nEsto se hace de corazón y lo muestro en",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2216920,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "esa plataforma porque no encontré otra.\nNo encontré otra y es una de las más",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2221560,
+    "dDurationMs": 6600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vistas y es donde uno podemos mostrar\nesta labor de corazón.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2226680,
+    "dDurationMs": 4960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Historias como la de Andrés nos hace\nsentir orgullosos de la institución que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2229880,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tenemos, nuestros héroes de la policía\nnacional y particularmente Andrés es un",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2234079,
+    "dDurationMs": 6601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "héroe vestido de policía que nos enseña\na reflexionar sobre todo lo que podemos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2238640,
+    "dDurationMs": 5360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hacer con algo tan poquito. Podemos\nhacer mucho y más cuando se trata de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2242880,
+    "dDurationMs": 5320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "personas en condiciones de\nvulnerabilidad. La verdadera esencia de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2246319,
+    "dDurationMs": 7081,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "su trabajo radica en la humanidad que\nimprime en cada gesto, en cada plato de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2250680,
+    "dDurationMs": 6120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "comida, en cada palabra de aliento. Nos\ninvita a reflexionar sobre lo que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2255040,
+    "dDurationMs": 5920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "podemos hacer para ayudar a quienes\nhabitan en las calles con más empatía y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2259160,
+    "dDurationMs": 6080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "respeto por estas personas que\natraviesan momentos de angustia.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2265830,
+    "dDurationMs": 6090,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "[Música]"
+    }, {
+      "utf8": "\nGracias por continuar embarcados en este",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2269119,
+    "dDurationMs": 7801,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "viaje hacia lo extraordinario. Campus\nLance es conocida como la Silicon Valley",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2274319,
+    "dDurationMs": 7241,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de Bucaramanga, pero su verdadero valor\nestá en lo que representa para cientos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2279119,
+    "dDurationMs": 7281,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de jóvenes de escasos recursos. Una\noportunidad de cambiar sus vidas a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2283760,
+    "dDurationMs": 7880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "través de la tecnología. Aquí se forman\ncomo programadores en solo 10 meses sin",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2289359,
+    "dDurationMs": 6960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "necesidad de pagar y con la posibilidad\nde vincularse a empresas internacionales",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2293920,
+    "dDurationMs": 7399,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que les pagan en dólares o en euros,\nsiendo así una fábrica de oportunidades",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2299119,
+    "dDurationMs": 6281,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "para quienes tienen talento en materia\ntecnológica. En este recorrido",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2303440,
+    "dDurationMs": 6360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "conoceremos cómo nació este proyecto,\nquiénes lo lideran y las historias de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2307680,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "esfuerzo que lo sostienen, como la de un\npadre cabeza de hogar que estudia,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2311520,
+    "dDurationMs": 7240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "trabaja y cría a su hija solo, y cómo ha\nllegado incluso a zonas tan difíciles",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2316520,
+    "dDurationMs": 7599,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "como el catatumbo. Un trabajo de la\nperiodista María Angélica Marí.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2322160,
+    "dDurationMs": 6439,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "¿Qué es la vida si no es tener\nconstantes aprendizajes para retarse y",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 2326839,
+    "dDurationMs": 6801,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vivir mejor?\nHoy conoceremos la experiencia de entrar",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2331079,
+    "dDurationMs": 7801,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "en un mundo lleno de tecnología en\nCampus Lands, una empresa reconocida",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2336359,
+    "dDurationMs": 7881,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "como la Silicon Valley de Bucaramanga,\nque busca cambiar la vida de cientos de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2341319,
+    "dDurationMs": 8201,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "jóvenes de estratos 1, 2 y 3 para\ntransformarlos como programadores en un",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2346599,
+    "dDurationMs": 8161,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "lapso de 10 meses. Todo de manera\ngratuita. Esto con el propósito de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2352079,
+    "dDurationMs": 9601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vincularlos a empresas internacionales y\nbrindarles oportunidades inimaginadas.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2359079,
+    "dDurationMs": 7641,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Este es un lugar donde los sueños se\nhacen realidad a punta de disciplina y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2365000,
+    "dDurationMs": 5800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "compromiso.\nEl problema que nosotros arrancamos o",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2368760,
+    "dDurationMs": 7000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "nos motivó a iniciar era que estábamos\nprogramadores y el problema que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2373160,
+    "dDurationMs": 7360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "descubrimos fue otro. es que el 80% de\nla población es estrat 1 en Colombia y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2378599,
+    "dDurationMs": 6441,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "esos jóvenes\nestán buscando oportunidades que les",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2383160,
+    "dDurationMs": 5720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "permita transformar su vida de manera\nmás rápida, de manera más efectiva y que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2387480,
+    "dDurationMs": 3560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "el mundo hoy nos está permitiendo.\nEntonces, ese fue el problema que nos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2390400,
+    "dDurationMs": 5439,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "motivó.\nÉl es Diego Tarazona, un santanderiano,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2393599,
+    "dDurationMs": 7361,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ingeniero electrónico que trabajaba en\nuna reconocida empresa en el área",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2398079,
+    "dDurationMs": 8240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "comercial. En medio de su trabajo, Diego\nadvirtió la creciente necesidad de tener",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2403880,
+    "dDurationMs": 7000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "más programadores en el mundo, así que\ntuvo la visión de construir Campus",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2408240,
+    "dDurationMs": 9160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Lands, pero para lograrlo debía\narriesgarlo todo, quizás en una de las",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2414040,
+    "dDurationMs": 6520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "épocas más duras para todos.\nY el segundo gran reto es que me retiré",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2419119,
+    "dDurationMs": 5161,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "en plena pandemia, o sea, unos meses\nantes de la pandemia y luego llega la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2422839,
+    "dDurationMs": 5121,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pandemia y no sabíamos qué iba a pasar.\nEntonces, como que ese primer mensaje",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2425680,
+    "dDurationMs": 6439,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "es, tomaste una decisión equivocada.\nPero ya estando ahí, ahí nace Campus",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2430359,
+    "dDurationMs": 5081,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "porque nació como una empresa de\nsoftware,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2433680,
+    "dDurationMs": 6399,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "desarrollando software, pero en medio de\nla pandemia sucedió algo, algo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2437280,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "importante y es que nadie sabía qué era\nlo que iba a suceder, pero en el campo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2441599,
+    "dDurationMs": 7681,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de la tecnología, pues el mundo se\ntransformó, el mundo empezó a demandar",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2446440,
+    "dDurationMs": 7600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "eh y tecnología, que eso nos benefició,\npero también empezamos a a sufrir la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2451319,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "necesidad de talento. Cuando empezó a\nhaber mucha demanda de tecnología,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2455680,
+    "dDurationMs": 5800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "empezó a haber escasez de talento,\nnuestros programadores se los empezaron",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2459359,
+    "dDurationMs": 6201,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a llevar. Mejores compañías, compañías\nmás grandes que pagaban el doble.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2463520,
+    "dDurationMs": 6360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Al ver que no podían retener el talento,\ndecidieron formar sus propios",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 2467200,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "estudiantes y descubrieron que en países\ncomo la India venían haciendo la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2471760,
+    "dDurationMs": 7760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "capacitación en programación desde el\naño 2010, un recorrido que les había",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2477160,
+    "dDurationMs": 8199,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "permitido convertirse en una potencia\nmundial en el campo de la tecnología.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2482560,
+    "dDurationMs": 8039,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Así que no dudaron en seguir este magno\nejemplo, convencidos de que había que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2488520,
+    "dDurationMs": 7360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pensar y soñar en grande.\nLo hacíamos o desaparecíamos. Entonces,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2493280,
+    "dDurationMs": 7120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "contra viento y marea decidimos tomar un\nespacio de 100 m² dentro de la oficina",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2498319,
+    "dDurationMs": 8361,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que teníamos, que era una oficina\npequeña de 300 m. Tomamos 100, pusimos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2504040,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "40 computadores, 40 escritorios, aire\nacondicionado y decidimos formar.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2508280,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Entonces, como que el primer gran reto\nera que mi socio, que es muy técnico,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2512520,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que es muy bueno en la parte técnica,\ndecía, \"No, eso es perder el tiempo, no",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2517079,
+    "dDurationMs": 6161,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "va a hacerlo.\" Y dijimos, \"Hay que\nhacerlo.\" Entonces yo doté el espacio",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2520760,
+    "dDurationMs": 6960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "físico y Andrés, que es muy bueno en la\nparte técnica, pues ya con el espacio",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2525599,
+    "dDurationMs": 10480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "físico dotado, 40 computadores, te digo,\npues toca formar ya obligado.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2531520,
+    "dDurationMs": 10360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "[Música]"
+    }, {
+      "utf8": "\nFueron años de ensayo error llenos de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2538680,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "aprendizajes. Pulieron cada proceso.\nRevisaron a fondo los resultados de las",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2543839,
+    "dDurationMs": 7601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pruebas de programación de sus\nestudiantes tras el primer año. Al",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2548040,
+    "dDurationMs": 9279,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "comienzo, de 40 inscritos, solo nueve\nlograron graduarse, pero ninguno pasó",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2554119,
+    "dDurationMs": 8720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "las pruebas finales. Así comenzó el\nverdadero reto, perfeccionar el modelo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2560160,
+    "dDurationMs": 7040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "durante los siguientes dos años.\nLo que sucedió durante los dos años fue",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2565240,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que conciencialmente las personas que\nllegaron a formarse en campus traían una",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2569720,
+    "dDurationMs": 7440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "historia de vida que nos llevó a nuestro\npasado y conciencialmente las personas",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2573720,
+    "dDurationMs": 9800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que llegaron el 90% o más del 90% eran\nde estrato 1 2 3 y casi que el 95% eran",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2581520,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de colegios públicos. Entonces como que\neso me llevó a una historia atrás. Yo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2585200,
+    "dDurationMs": 7440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "nací en un barrio humilde con una mamá\nsupertajadora en un barrio extrato 2 con",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2590480,
+    "dDurationMs": 6800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mucho esfuerzo y sin faltar nada, pero\ncon mucho trabajo. Estudiamos el",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2595119,
+    "dDurationMs": 5761,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "colegio, estudiamos la universidad.\nEntonces como que venía esa historia,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2599000,
+    "dDurationMs": 4960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "esos muchachos que venían de eso de\ndonde yo venía y como que con esa",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2602359,
+    "dDurationMs": 5960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "historia también querer salir adelante.\nEntonces como que eso nos conectó con el",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2606119,
+    "dDurationMs": 5401,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pasado, pero también nos vio, nos mostró\nuna realidad que incluso ya no estábamos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2610720,
+    "dDurationMs": 5040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "viendo.\nComprendieron el enorme impacto que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2613800,
+    "dDurationMs": 7200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "podían generar en la vida de muchas\npersonas. ofrecer la posibilidad de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2618559,
+    "dDurationMs": 7881,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "formarse sin tener que invertir millones\nen una universidad y abrir la puerta a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2624240,
+    "dDurationMs": 7879,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "una nueva calidad de vida para sus\nfamilias. Y eso lo vale todo.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2633040,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Ver este espacio resulta motivador. Se\nrespira un ambiente de tenacidad y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2637319,
+    "dDurationMs": 6881,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "progreso. No hay caras largas, sino\nmiradas llenas de esperanza y muchísima",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2642480,
+    "dDurationMs": 7079,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tecnología.\nEn este recorrido conocí a un joven que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2646119,
+    "dDurationMs": 8480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "lleva 6 meses en Campusland. Alguna vez\nviajó a Estados Unidos buscando un",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2651880,
+    "dDurationMs": 8920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "futuro mejor para él, su pareja y su\nhija, pero fue deportado. Hoy desde este",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2658160,
+    "dDurationMs": 7120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "lugar intenta reconstruir sus sueños.\nLlegó un momento en el que tampoco las",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2663359,
+    "dDurationMs": 7240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "oportunidades laborales eran tan buenas\ny estaba como muy me estaba como",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2668200,
+    "dDurationMs": 7840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "afixiando. Entonces, pues vi una opción\nirme del país. Me fui del país, fui a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2673319,
+    "dDurationMs": 9240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Estados Unidos, me fui como muchos\ncolombianos de ilegal y pues probé",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2679400,
+    "dDurationMs": 8840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "suerte. Me estaba yendo pues, ¿cómo no\ndice? Relativamente bien, eh,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2686359,
+    "dDurationMs": 7480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y me deportaron.\nEntonces volví a empezar, digamos, acá",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2690480,
+    "dDurationMs": 8879,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de cero. Eh, cuando llegué a Colombia me\nencontré con la sorpresa pues de que ya",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2696400,
+    "dDurationMs": 6159,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "no tenía hogar, o sea, ya me separé con\nla mamá de la niña y ella me entregó la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2701800,
+    "dDurationMs": 5759,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "niña a mí.\nY así, con mucho esfuerzo, ha hecho de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2705520,
+    "dDurationMs": 8120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "todo para sacar adelante a su pequeña de\n7 años. Es un papá todo, de esos que no",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2711520,
+    "dDurationMs": 8400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "le temen a nada cuando se trata de su\nhija. Sabe que por ella puede lograrlo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2716960,
+    "dDurationMs": 9240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "todo con honestidad y disciplina.\nNormalmente me despierto a las 4 de la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2722400,
+    "dDurationMs": 10439,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mañana para hacer desayuno, alistar a mi\nhija y dejar casi terminaba el almuerzo.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2731040,
+    "dDurationMs": 5880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "llevo a mi hijo al colegio, pues le\npido, digamos, el favor a una a una",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2734960,
+    "dDurationMs": 5440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vigilante de allá que me la cuide\nmientras llegan las profesores para",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2738440,
+    "dDurationMs": 8960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "poder ingresar, porque yo llevo a mi\nhija a las 5:50 y ella entra a las 6:30,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2743520,
+    "dDurationMs": 8079,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "entonces ella se queda ahí 40 minutos y\npues la señora, digamos, me hace el",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 2749559,
+    "dDurationMs": 6481,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "favor. Entonces esa señora ha sido como\nun ángel para mí porque me dijo que sí,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2753079,
+    "dDurationMs": 6520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "yo no tenía quién me llevara a mi hija\nacá en campus. me dieron, digamos, el",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2757800,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "permiso porque ella la van rotando de\nturno. Entonces, digamos, la semana que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2761240,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ella no está de día, entonces yo acá\nllego un poco tarde. Entonces, digamos,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2766119,
+    "dDurationMs": 5681,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "yo llego a las 7 de la mañana acá, una\nhora después, pero pues con el",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2769720,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "compromiso de que yo me adelanto en en\nesa hora que digamos no estoy acá para",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2774160,
+    "dDurationMs": 5959,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cumplir con mis deberes, pero he\nrespondido y por eso me han seguido,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2778000,
+    "dDurationMs": 5920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "digamos, en Campus dando el permiso. Al\nterminar su jornada en Campus Llands,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2782079,
+    "dDurationMs": 6801,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "toma la bicicleta con la energía que le\nqueda y emprende un largo camino de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2786480,
+    "dDurationMs": 7320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "regreso para recoger a su pequeña.\nLlevo a mi hija y en bicicleta me vengo,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2791839,
+    "dDurationMs": 3760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "estudio y de para allá pues para la casa\nme voy en bicicleta.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2794440,
+    "dDurationMs": 6200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "¿Cuándo se demora el recorrido en\nbicicleta?",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 2796480,
+    "dDurationMs": 4160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Eh, dos horas larguitas.",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 2801760,
+    "dDurationMs": 4960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Verra\nde para allá es que más que todo es su",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2804359,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "día. De para acá son como 40 minutos, o\nsea, es bajando. Entonces, de para acá,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2808640,
+    "dDurationMs": 6719,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "digamos, no es el problema. El problema\nes subiendo porque, digamos, ya de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2813400,
+    "dDurationMs": 6199,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vuelta a mi casa ya es todo subiendo,\ntodo subiendo, porque pues como se",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2817280,
+    "dDurationMs": 6319,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pueden dar acá la ciudad es muy muy de\nmontaña, muy de subidas y pues yo vivo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2821559,
+    "dDurationMs": 7161,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "en una de esas montañas\ny como la vida misma llena de subidas y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2826240,
+    "dDurationMs": 7599,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "bajadas, decidimos visitar su casa para\nentender un poco más su lucha, sus",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2830800,
+    "dDurationMs": 7559,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "temores y sus sueños. Fuimos testigos de\nsu rutina diaria y de las inmensas ganas",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2836400,
+    "dDurationMs": 6199,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que tiene de sacar adelante a su hija.\nRealmente yo trabajo acá, la niña no ve",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2840359,
+    "dDurationMs": 6801,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "televisión acá, ve televisión allá.\nEntonces yo lo que hago es conectar aqu",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2844520,
+    "dDurationMs": 4240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "el computador y pues trabajo a dos\npantallas.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2848040,
+    "dDurationMs": 4400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Claro.\nAcá y pues",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 2850599,
+    "dDurationMs": 7520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "haces las cosas de programación.\nLo de programación acá. Y pues la niña",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 2855119,
+    "dDurationMs": 8321,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mientras tanto de televisión aquí\nel casco, pues yo tengo casco cuando me",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2861319,
+    "dDurationMs": 5481,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "presta la moto a mi tía\no mis primas que ellos sí tienen, pues",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2865319,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "yo manejo el vicio.\nEn las tardes cuida a su hija y a las 7",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2869280,
+    "dDurationMs": 6520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de la noche sale a trabajar como\ndomiciliario hasta la 1 de la mañana",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2873960,
+    "dDurationMs": 7760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "para poder sostener el hogar que ha\nconstruido en esta casa. Al día",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2879040,
+    "dDurationMs": 7360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "siguiente, a las 4 de la mañana la\nhistoria vuelve a comenzar.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2884119,
+    "dDurationMs": 7200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Es un sacrificio que vale la pena porque\ncada día en Campus Lands le entrega una",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2888680,
+    "dDurationMs": 8600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "herramienta clave para alcanzar su meta,\nconseguir un empleo como programador.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2895280,
+    "dDurationMs": 8360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Estudiar en Campus Lands tiene un valor\nde 22 millones de pesos. El 50% puede",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2901319,
+    "dDurationMs": 7481,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ser financiado a través de una entidad\naliada, lo que permite que jóvenes de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2906000,
+    "dDurationMs": 8359,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "escasos recursos paguen entre 70 y\n80,000 pesos mensuales durante su",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2911000,
+    "dDurationMs": 8040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "formación. El valor restante lo cubren\nuna vez se vinculan a una empresa tras",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2916920,
+    "dDurationMs": 7960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "completar su entrenamiento.\nEl otro 50% se consigue gracias a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2922319,
+    "dDurationMs": 7561,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "patrocinios que gestionan a diario\nsoñadores como Diego y todo su equipo.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2928040,
+    "dDurationMs": 7440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "como tal ofrecen dos opciones, una\nopción de digamos financiamiento,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2933280,
+    "dDurationMs": 6920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "recursos propios, o sea, uno negocia,\ndigamos, con campus, le dan a uno una",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2937640,
+    "dDurationMs": 7719,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "opción más fácil para uno pues no pagar\nintereses o con una entidad que a uno le",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2942799,
+    "dDurationMs": 6241,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "presta, pero por cuestiones de que yo\nno, o sea, tampoco conozco a nadie, así",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2947599,
+    "dDurationMs": 5321,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mucha gente, me dedicado es como a\ntrabajar a mi familia, a mi hija, todo a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2950920,
+    "dDurationMs": 6280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mi hija, enfocado a mi hija, pues no\ntenía como a quien pedirle que fuera mi",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2954559,
+    "dDurationMs": 7601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "fiador. Señores empresarios, yo sé que\nustedes han hecho un esfuerzo enorme",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2960319,
+    "dDurationMs": 8000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "eh eh desarrollando país, creando\nempresa, emprendiendo, invirtiendo,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2965599,
+    "dDurationMs": 8321,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "arriesgando, pero esta es una invitación\na que conozcan Campus Lance y se unan",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2971559,
+    "dDurationMs": 6841,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "con nosotros a poder ayudarnos con\npatrocinios para los hijos de sus",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2975720,
+    "dDurationMs": 8079,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "empleados, para las comunidades donde\nustedes están presentes, para que estos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2980880,
+    "dDurationMs": 7280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "jóvenes puedan entrar a Campus Lance,\ntener su primer empleo. y seguir",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2985400,
+    "dDurationMs": 8000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "haciendo crecer el país con nuevos\nempleos de calidad. Entonces, abierto",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2991119,
+    "dDurationMs": 9801,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "para que todos los empresarios del país\neh puedan conocer Campus Lance, se sumen",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2996200,
+    "dDurationMs": 9159,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a a patrocinar, a dar becas eh a a su a\nsus trabajadores, a los hijos de sus",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3002520,
+    "dDurationMs": 7240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "trabajadores o a la comunidad o incluso\na llevar Campus Lands a sus regiones.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3007839,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Los egresados de Campus Lands logran\nvincularse laboralmente en empresas de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3012119,
+    "dDurationMs": 8240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "América y Europa, las mismas que\nfinancian este proyecto como Bensure de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3017440,
+    "dDurationMs": 8639,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Estados Unidos, Solvo Global de Colombia\ny Amaris Consulting de Francia y Suiza,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3023240,
+    "dDurationMs": 7079,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "entre otras muchas ciudades. Allí\nreciben sueldos que superan los de un",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3028119,
+    "dDurationMs": 6121,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ingeniero promedio en Colombia. Para\njóvenes como Jerson, estas compañías",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3032880,
+    "dDurationMs": 6439,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "representan un verdadero sueño\nalcanzable y gracias a ese respaldo,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3037480,
+    "dDurationMs": 6639,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cubrir los gastos mínimos de su\nentrenamiento no ha sido un obstáculo.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3041960,
+    "dDurationMs": 7760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Yo necesito que el que me pudiera\ncolaborar me ayudara, digamos, a cumplir",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3046680,
+    "dDurationMs": 8720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mi objetivo, que es poder pagar el\nentrenamiento, seguir poder estudiando,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3052559,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ya que me he destacado y acá me han dado\ntodas las oportunidades para seguir",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3057000,
+    "dDurationMs": 7440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "adelante y pues me gustaría que me\npudieran ayudar con eso, ayudar como tal",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3061520,
+    "dDurationMs": 8039,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "para poder recoger, digamos, fondos para\nterminar de pagar mi mi formación. A",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3067240,
+    "dDurationMs": 6800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "través de la página web de Campus Lands,\nvarios estudiantes comparten sus",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3071240,
+    "dDurationMs": 8319,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "historias con la esperanza de que algún\nalma solidaria decida patrocinar sus",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3076599,
+    "dDurationMs": 8161,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "estudios. Clases de programación básica,\ne-commerce, marketing, bilingüismo e",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3082200,
+    "dDurationMs": 8320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "inteligencia emocional hacen que 10\nmeses de entrenamiento intenso marquen",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3087200,
+    "dDurationMs": 7800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "el rumbo de la vida de muchos jóvenes.\nIncluso en las regiones más golpeadas",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3092760,
+    "dDurationMs": 7680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "por la violencia como el catatumbo.\nCampus Lance ha llegado para mostrarle a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3097799,
+    "dDurationMs": 8000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sus nuevos estudiantes que sí existe\notra opción, una distinta, posible y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3103559,
+    "dDurationMs": 6481,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "transformadora que les permita alejarse\ndel conflicto que ha ocupado su tierra.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3108480,
+    "dDurationMs": 4480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Cuando a uno lo hice el tibú, a uno se\nle vienen muchos pensamientos a la",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 3111400,
+    "dDurationMs": 5800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cabeza de todo lo que ha escuchado en\nlas noticias. Pero la Universidad",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3114839,
+    "dDurationMs": 5561,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Uniminuto nos invitó a este gran reto.\nNo lo hubiéramos podido haber hecho",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3118280,
+    "dDurationMs": 8039,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "solos. fue con gracias a la universidad\nminuto y ahí decidimos subirnos en este",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3123640,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "reto, ir y conocer la región, la ciudad\ny decidimos hacer una inversión y una",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3128400,
+    "dDurationMs": 7520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "apuesta en conjunto la universidad en un\nminuto y nosotros decidimos llevar el",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3132520,
+    "dDurationMs": 9880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "modelo de campus a Tibú y\ndefinitivamente nada, esto terminaba de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3138839,
+    "dDurationMs": 7280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "confirmar que es un modelo diseñado para\naquellos jóvenes que están buscando y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3144640,
+    "dDurationMs": 4919,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que quieren salir adelante. Lo que están\nbuscando es una oportunidad.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3147640,
+    "dDurationMs": 6159,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Un territorio habitado por los grupos al\nmargen de la ley, pero también lleno de",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 3151720,
+    "dDurationMs": 7920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "jóvenes con sueños muy distintos a la\nviolencia. La primera coorte recibió",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3157280,
+    "dDurationMs": 7160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "becas del 100%.\nHoy ya hay empresas interesadas en",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3161839,
+    "dDurationMs": 7681,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "patrocinar estos procesos educativos en\nesta zona del país, sembrando en una",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3167240,
+    "dDurationMs": 6800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tierra fértil manchada por la sangre y\nel desplazamiento la semilla de un",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3172000,
+    "dDurationMs": 6559,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "futuro mejor. y nos encontramos una\nhistoria de vida iguales, incluso más",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3176960,
+    "dDurationMs": 9280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "complejas y más difíciles, pero con\njóvenes que compartían eh",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3182599,
+    "dDurationMs": 7561,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "la misma visión y y y tenían una\nansiedad en conjunto y la ansiedad era",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3188359,
+    "dDurationMs": 6841,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "salir adelante, simplemente estaban\nbuscando esa oportunidad y la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3191280,
+    "dDurationMs": 9760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "encontraron. Entonces, Tibú nos terminó\nde de enseñar",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3198240,
+    "dDurationMs": 6680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y de y de y de validar que lo que\nqueríamos hacer era concentrarnos en esa",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3203559,
+    "dDurationMs": 5240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "población a la cual hoy no está\naccediendo la educación superior. Y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3206760,
+    "dDurationMs": 6280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "segundo, nos enseñó que si lo hicimos en\nTibú, lo podemos hacer en cualquier",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3210000,
+    "dDurationMs": 8920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "rincón de nuestro país y de nuestro\ncontinente. Este soñador, junto a su",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3215640,
+    "dDurationMs": 8439,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "socio, sus mentores, patrocinadores y\ntodo su equipo no descansará en la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3221559,
+    "dDurationMs": 7481,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "búsqueda de corazones dispuestos a\nunirse para seguir patrocinando sueños",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3226680,
+    "dDurationMs": 5360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "como los de Jerson y los de su pequeña\nhija.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3235070,
+    "dDurationMs": 6529,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "[Música]"
+    }, {
+      "utf8": "\nEl verdadero valor de Campus Lance no",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3239520,
+    "dDurationMs": 6039,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "está solo en la educación que ofrece,\nsino en las oportunidades que ofrece",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3243240,
+    "dDurationMs": 6559,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "para la vida de tantas personas. Su\nmodelo demuestra que la formación",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3247359,
+    "dDurationMs": 7521,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "académica patrocinada por quienes tienen\npoder económico puede ser el camino más",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3252359,
+    "dDurationMs": 7561,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "directo para cerrar brechas sociales y\nabrir puertas que antes parecían",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3256960,
+    "dDurationMs": 6839,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "imposibles. Hoy, gracias a esta apuesta,\ncientos de jóvenes en Colombia están",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3262000,
+    "dDurationMs": 7079,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "escribiendo un futuro distinto, con\ndisciplina, esfuerzo y una oportunidad",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3266160,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "certera en sus manos. Y así llegamos al\nfinal de nuestro viaje hacia lo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3270599,
+    "dDurationMs": 6520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "extraordinario. Nos vemos en una próxima\noportunidad para que sigamos juntos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3274960,
+    "dDurationMs": 5720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "descubriendo por qué todavía podemos\ncreer en la gente y en el mundo. ¿Por",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3279040,
+    "dDurationMs": 6319,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "qué siempre se puede tener un mundo\nmejor y contar mejores historias? Porque",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3283480,
+    "dDurationMs": 7040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "aquí lo que nos une son las historias,\npero contadas de otra manera. Hasta",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3287520,
+    "dDurationMs": 3000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pronto.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3293930,
+    "dDurationMs": 4219,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "[Música]"
+    } ]
+  }, {
+    "tStartMs": 3301460,
+    "dDurationMs": 9599,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "[Música]"
+    } ]
+  } ]
+}

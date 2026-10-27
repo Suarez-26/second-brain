@@ -1,26 +1,21 @@
-# Parches locales a whatsapp-mcp
+# Parches locales y Arquitectura de WhatsApp + Claude
 
-Origen: https://github.com/lharries/whatsapp-mcp (commit 7d6a06d). Revisado el 2026-10-13.
-La carpeta `whatsapp-mcp/` está en `.gitignore`; este archivo documenta lo que se cambió.
+Origen: https://github.com/lharries/whatsapp-mcp (commit 7d6a06d). Revisado el 2026-10-13 y actualizado el 2026-10-17.
+La carpeta `whatsapp-mcp/` está en `.gitignore`; este archivo documenta la configuración vigente.
 
-## Hallazgos de la revisión
-1. El bridge (`whatsapp-bridge/main.go`) escuchaba en `:8080`, es decir **en todas las interfaces de red**, y `/api/send` **no tiene autenticación**. Cualquiera en la misma red podría haber enviado mensajes desde tu WhatsApp.
-2. No encontré telemetría ni llamadas a servidores de terceros; solo la conexión a WhatsApp (librería whatsmeow) y SQLite local.
-3. Los mensajes se guardan **sin cifrar** en `store/messages.db`.
-
-## Cambios hechos
-- `startRESTServer`: ahora escucha en `127.0.0.1:<puerto>`.
-- `/api/send`: devuelve 403 siempre. El envío queda deshabilitado; el cerebro solo lee.
-- Sin cambios en `/api/download` (se necesita para bajar notas de voz).
-
-## Qué ve el cerebro (lista de chats permitidos)
-- El bridge guarda en `store/messages.db` los mensajes de **todos** los chats que recibe (límite de la herramienta).
-- `exportar_whatsapp.py` solo lee los chats de `chats_permitidos.json`. Lo demás **no se lee ni llega al vault**.
-- Comandos: `--listar-chats` (solo nombres), `--agregar "Nombre" --destino grupos/x`, `"activo": false` para pausar.
-- Mejora posible: parchear el bridge para que ni siquiera **guarde** los chats no permitidos.
-
-## Riesgos que siguen
-- Es una API **no oficial** de WhatsApp: riesgo de restricción o bloqueo de la cuenta.
-- Cualquier programa local puede llamar a `127.0.0.1:8080/api/download`.
-- `store/` contiene tus chats en claro: no sincronizar con la nube ni subir a git.
-- La sesión caduca (re-escanear el QR cada tanto).
+## Cambios del 2026-10-17 (Interacción bidireccional con Claude)
+1. **Puente Node.js compatible con Control Inteligente de Aplicaciones de Windows (`automation/whatsapp-mcp/whatsapp-bridge-node/index.js`):**
+   - El ejecutable compilado en Go (`whatsapp-bridge.exe`) era bloqueado por la directiva de Control de Aplicaciones de Windows y carecía de CGO para SQLite.
+   - Se implementó el puente sobre `node.exe` firmado (Node v24 con `node:sqlite` nativo y `@whiskeysockets/baileys`), escribiendo exactamente en la misma base SQLite (`store/messages.db` y `store/whatsapp.db`).
+2. **Puerto `127.0.0.1:8085` y `/api/send` habilitado:**
+   - Se movió el puerto local de `8080` a `8085` (`http://127.0.0.1:8085`) para no colisionar con Docker Desktop / WSL (`wikimaster`).
+   - Se habilitó `POST /api/send` únicamente en `127.0.0.1:8085` para que el servidor MCP de Claude y el bot interactivo puedan responder mensajes.
+   - Se añadió `GET http://127.0.0.1:8085/qr` para escanear el código QR cómodamente desde el navegador.
+3. **Servidor MCP de WhatsApp (`automation/whatsapp-mcp/whatsapp-mcp-server/main.py`):**
+   - Actualizado para compatibilidad con `mcp` 2.x (`MCPServer`) y `127.0.0.1:8085`.
+   - Registrado en `.mcp.json` (para Claude Code) y en `claude_desktop_config.json` (junto con el MCP `second-brain` de filesystem).
+4. **Bot Interactivo de Claude en WhatsApp (`automation/claude_whatsapp_bot.py` + `automation/bot_config.json`):**
+   - **Chat propio de Pao:** Pao puede escribir en su propio chat de WhatsApp (o con `@claude`) y recibir respuestas conectadas a su Second Brain.
+   - **Modo Copiloto (`copiloto`):** Cuando escribe un prospecto/contacto, Claude redacta el borrador con `prospectos/base-de-conocimiento.md` y lo envía al chat propio de Pao; solo sale al prospecto cuando Pao responde `Enviar` o `Editar: <texto>`.
+   - **Modo Automático (`auto`):** Si Pao envía `/modo auto` en su chat, Claude responde directamente a los prospectos usando únicamente la información validada y notifica a Pao.
+   - **Anti-inyección:** Mensajes de terceros con patrones de inyección de prompts se bloquean y registran como `ALERTA` en `meta/log.md`.

@@ -99,3 +99,10 @@ Uso privado: material fuente, no se republica. Ver [[fuentes/video-podcast]] y [
 **[40:02]** Los 180 pero rapidito es siento que hay veces queriendo hacer todo excelente dejamos de hacerlo bien y tenemos que propiciar un poco más esa cultura que va muy cercana al tema de la innovación y es venga a través de productos mínimos viables lanzo entiendo cómo lo percibe el mercado lo mejoro y así voy evolucionando soy un enamorado de esa parte cierra con usted Diego Bueno yo creo que el consejo es como empresario si tengo una compañía que es exitosa y la quiere transformar digitalmente es siga siendo esa compañía exitosa y Busco un equipo que ya lo haya hecho que tenga experiencia y apueste a mediano plazo no a corto el mediano plazo es dos o tres años para allá pero hay que apostarle así como le apostó 40 años atrás cuando decidió montar ese negocio y no sabía si va a funcionar hay que apostarle bueno pues yo le Quiero agradecer muy especialmente a mis compañeros de panel Adriana general de país de Colombia Alejandro Franco aquí mi derecha cofundador y presidente de la
 
 **[41:01]** protect con capital y Alejandro y a Diego tarazona cofundador de campusland ha sido un placer ser el instigador de esta conversación y gracias a la Android por la invitación un aplauso para ustedes [Aplausos]
+
+---
+## 🔗 Conexiones del Segundo Cerebro
+- **Persona:** [[people/diego-tarazona|Diego Tarazona]]
+- **Entidad:** [[areas/campuslands|Campuslands]]
+- **Dossier de Investigación:** [[investigacion/diego-tarazona/dossier|Dossier Diego Tarazona]]
+- **MOC Integral:** [[diego_investigacion/README|MOC Diego Tarazona]]

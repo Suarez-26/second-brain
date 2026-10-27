@@ -51,3 +51,10 @@ Uso privado: material fuente, no se republica. Ver [[fuentes/video-podcast]] y [
 **[15:01]** compro los los pasajes para ir a Estados Unidos a ver si ya si si puedo ir a aar a guapera con Evo humes y porque y llevarle unas arpitas allá Porque para Que para quejarte guanera con esto eh Don Diego gracias gracias sinceramente por por verme permitido de entrar esta J Es mucho lo bonito le dan a uno ganas de quedarse y y y bueno ya por la edad y por el tiempo y est jubilados también recibes de todo de todo de todo de todo los jubilados son los que más se pelean Así es que vi tocar tocar y esto de dónde más viene más gente O sea pues mire inicialmente empez a gente solo bucaramanga jirón flor cuesta y hoy tenemos gente de chocó gente de neiva gente de Bogotá gente de tunja gente de montería Entonces está viendo la que no no podemos pero queremos en el futuro no solo darles formación sino vivienda transporte y
 
 **[16:00]** alimentación Bueno Este no es político no es la realidad Man neitan cumpliéndole a la gente para que haigan en su vida un futuro mejor sí gracias Don Diego por por verme aceptado aquí la invitación por vernos invitado a saltar a guanela y ya entonces que se inscriban dónde o cómo es la joda no no que entren a nuestro Instagram que es campus lans @ cusl o a nuestra página web www.campus.com Gracias salucita salucita chao nos vemos en otro arte guapan
+
+---
+## 🔗 Conexiones del Segundo Cerebro
+- **Persona:** [[people/diego-tarazona|Diego Tarazona]]
+- **Entidad:** [[areas/campuslands|Campuslands]]
+- **Dossier de Investigación:** [[investigacion/diego-tarazona/dossier|Dossier Diego Tarazona]]
+- **MOC Integral:** [[diego_investigacion/README|MOC Diego Tarazona]]

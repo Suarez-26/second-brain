@@ -1,0 +1,306 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  }, {
+    "mhModeHint": 2,
+    "juJustifCode": 0,
+    "sdScrollDir": 3
+  } ],
+  "wpWinPositions": [ {
+  
+  }, {
+    "apPoint": 6,
+    "ahHorPos": 20,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  } ],
+  "events": [ {
+    "tStartMs": 0,
+    "id": 1,
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1480,
+    "dDurationMs": 5560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Bueno, mi nombre es Santiago Alaguado\nOsorio, tengo 20 años y soy",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 5319,
+    "dDurationMs": 7240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "desarrollador de software. Egresaba de\nCampuslands en el",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 9000,
+    "dDurationMs": 10080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "2024. E en el 2021 me gradué del\ncolegio, eh, y empecé a trabajar",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 15879,
+    "dDurationMs": 7640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "directamente como auxiliar contable en\nla empresa de mis abuelos. En ese",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 20720,
+    "dDurationMs": 8360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "momento no tenía la aspiración, digamos,\nde cursar ninguna carrera profesional",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 25119,
+    "dDurationMs": 8841,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "porque las circunstancias económicas,\nfinancieras de mi casa en ese momento no",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 31400,
+    "dDurationMs": 11240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "no lo iban a permitir. Eh, mi madre\nsoltera, contadora también e luchadora,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 39399,
+    "dDurationMs": 7761,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "trabajadora, que implicó en en su hijo\nese pensamiento de que hay que trabajar",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 45440,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "por sí mismo, por las cosas y\nconseguirlas.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 48879,
+    "dDurationMs": 10441,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "E luego de eso, pues estuve trabajando\ndurante casi 3 años en la empresa de mis",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 54879,
+    "dDurationMs": 9000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "abuelos. Pude escalar. E en el 2023 se\nme presentó pues la oportunidad por",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 61480,
+    "dDurationMs": 6760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "medio de unos conocidos de entrar a\ncampus. Al principio estaba muy",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 66000,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "escéptico, muy desconfiado de que era se\nveía todo como muy perfecto, pero la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 71040,
+    "dDurationMs": 6040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "primera vez que vine a presentar la\nprueba lógica, eh, la verdad que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 74759,
+    "dDurationMs": 7281,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "maravillado. dije, \"Necesito entrar ahí,\nnecesito entrar a campus porque eh yo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 79920,
+    "dDurationMs": 7680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "siempre he tenido como ese esa cercanía\ncon la tecnología, más por el lado del",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 84320,
+    "dDurationMs": 6159,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "software y de los videojuegos, pero me\ndi cuenta que podía desarrollarme",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 89200,
+    "dDurationMs": 4080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "también por ese lado y pues pude\naprovechar esa oportunidad que me estaba",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 92000,
+    "dDurationMs": 6680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "presentando la vida en ese momento, que\nera conocer campus.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 96119,
+    "dDurationMs": 9841,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Eh, presenté la prueba técnica,\nafortunadamente pasé eh durante el",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 101399,
+    "dDurationMs": 8481,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "entrenamiento, pues la verdad es que uno\neh es muy complicado en ese momento",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 107560,
+    "dDurationMs": 8000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "porque la exigencia de campus es muy\nalta, entonces digamos que lo hace a uno",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 113439,
+    "dDurationMs": 6280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "dudar en esos momentos de de estrés,\ndepresión, ¿será que esto sí es lo mío?",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 117719,
+    "dDurationMs": 6841,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "¿Será que no? le aposté toda la\nprogramación y pues pude terminar mi",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 121759,
+    "dDurationMs": 10241,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "entrenamiento después de después de casi\n10 11 meses de entrenamiento. Terminé en",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 127680,
+    "dDurationMs": 8800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "septiembre de 2024 y pues desde ese\nmomento se me presentó la oportunidad de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 134360,
+    "dDurationMs": 8159,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "trabajar en en el equipo de desarrollo\ncomercial de campus y bueno, pues",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 139680,
+    "dDurationMs": 8800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "actualmente me desempeño como líder de\ndesarrollo aquí en Campus y pues nada,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 145440,
+    "dDurationMs": 7280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "estoy muy agradecido por por esta\noportunidad que me brinda Campus de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 150599,
+    "dDurationMs": 6481,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tener mi primer empleo formal, de poder\ntener la posibilidad de formar mi",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 155319,
+    "dDurationMs": 6200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "carrera como programador.\nde manera estable en una empresa,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 159360,
+    "dDurationMs": 7599,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "recibiendo un salario, todas las\nventajas que tener un trabajo formal",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 165000,
+    "dDurationMs": 6879,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "permite. Y pues nada, estoy muy\nagradecido con campus",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 168720,
+    "dDurationMs": 3159,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y eso.",
+      "acAsrConf": 0
+    } ]
+  } ]
+}

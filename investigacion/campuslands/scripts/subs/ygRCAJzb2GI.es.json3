@@ -1,0 +1,210 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  }, {
+    "mhModeHint": 2,
+    "juJustifCode": 0,
+    "sdScrollDir": 3
+  } ],
+  "wpWinPositions": [ {
+  
+  }, {
+    "apPoint": 6,
+    "ahHorPos": 20,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  } ],
+  "events": [ {
+    "tStartMs": 0,
+    "id": 1,
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 120,
+    "dDurationMs": 5840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Latinoamérica necesita algo diferente y\nestá sucediendo aquí en Campuslands. En",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 4120,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "un mundo donde la tecnología avanza más\nrápido que nunca, la región aún sigue",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 8360,
+    "dDurationMs": 6680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "formando talento con modelos pensados\npara el pasado. La solución, un modelo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 12840,
+    "dDurationMs": 5680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que rompe con todo lo conocido. Campus\nla nació con un propósito claro,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 16600,
+    "dDurationMs": 5880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "transformar vidas en menos de un año con\nun nuevo modelo educativo para",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 20000,
+    "dDurationMs": 6279,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Latinoamérica. una formación presencial,\nintensiva y con garantía de empleo que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 24359,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "convierta jóvenes experiencias en\nprofesionales del sector tecnológico.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 28400,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Por eso hoy somos el primer y único\nmodelo educativo para la economía",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 32160,
+    "dDurationMs": 6520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "digital con más del 90% en\nempleabilidad. Una propuesta innovadora",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 36800,
+    "dDurationMs": 5640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y conectada con la realidad del mercado,\nformando talento en inteligencia",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 40239,
+    "dDurationMs": 6721,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "artificial, desarrollo de software,\ninglés y habilidades adaptativas. 5 días",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 44920,
+    "dDurationMs": 6440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a la semana, 10 horas diarias en un\nproceso de 2,100 horas de formación en",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 49239,
+    "dDurationMs": 5681,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "solo 10 meses. Los campers vienen esta\nexperiencia en un entorno diseñado para",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 53239,
+    "dDurationMs": 5800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que desde el primer día compartan\nespacio con empresas de tecnología que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 56879,
+    "dDurationMs": 6561,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "operan para el mundo. En 5 años hemos\ndemostrado que este modelo realmente",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 60840,
+    "dDurationMs": 6599,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "funciona. En 180 empresas, en siete\npaíses han contratado el talento que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 65159,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "formamos. 100 jóvenes hacen parte de\nesta transformación. La nueva generación",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 69280,
+    "dDurationMs": 6159,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "no solo trabaja con tecnología, sino que\naporta más de 10 millones de dólar a la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 73200,
+    "dDurationMs": 5480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "economía. Cierra brechas y desde ya\nconstruye un mejor futuro para Colombia.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 77320,
+    "dDurationMs": 4799,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Campunda no es una institución\ntradicional, es una plataforma de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 80439,
+    "dDurationMs": 7320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "transformación, es una fábrica de\ntalento tecnológico y una apuesta para",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 84400,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "el futuro de Colombia y el mundo.\nSomos Fran.",
+      "acAsrConf": 0
+    } ]
+  } ]
+}

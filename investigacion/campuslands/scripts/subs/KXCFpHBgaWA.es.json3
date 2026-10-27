@@ -1,0 +1,161 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  }, {
+    "mhModeHint": 2,
+    "juJustifCode": 0,
+    "sdScrollDir": 3
+  } ],
+  "wpWinPositions": [ {
+  
+  }, {
+    "apPoint": 6,
+    "ahHorPos": 20,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  } ],
+  "events": [ {
+    "tStartMs": 0,
+    "id": 1,
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 979,
+    "dDurationMs": 7441,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "somos el centro de entrenamiento en\nprogramación más innovador de América",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 5940,
+    "dDurationMs": 2480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Latina",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 10800,
+    "dDurationMs": 13029,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "diseñamos una metodología de aprendizaje\nbasada en tres Pilares programación",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 16860,
+    "dDurationMs": 6969,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "[Música]"
+    } ]
+  }, {
+    "tStartMs": 24180,
+    "dDurationMs": 8940,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "formando perfiles ti que responden a las\ndemandas del mercado",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 30140,
+    "dDurationMs": 9820,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "con 10 años de experiencia en desarrollo\nweb y móvil a través de",
+      "acAsrConf": 242
+    }, {
+      "utf8": " gbp",
+      "acAsrConf": 237
+    }, {
+      "utf8": " y la",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 37320,
+    "dDurationMs": 6550,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "capacidad operacional en servicios de\ntecnología de salvo global Hoy somos",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 43379,
+    "dDurationMs": 5061,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "grandes\n[Música]",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 45480,
+    "dDurationMs": 8640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hoy tenemos más de 400 estudiantes\nentrenados por",
+      "acAsrConf": 242
+    }, {
+      "utf8": " año",
+      "acAsrConf": 214
+    } ]
+  }, {
+    "tStartMs": 51020,
+    "dDurationMs": 9240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "inversión de más de 4 millones de\ndólares",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 56420,
+    "dDurationMs": 12059,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "más de 2000 metros cuadrados\nmás de",
+      "acAsrConf": 242
+    }, {
+      "utf8": " 1000",
+      "acAsrConf": 185
+    }, {
+      "utf8": " horas de",
+      "acAsrConf": 242
+    }, {
+      "utf8": " entrenamiento",
+      "acAsrConf": 234
+    } ]
+  }, {
+    "tStartMs": 64739,
+    "dDurationMs": 8420,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "más de 20 patrocinios\napoyados por grandes marcas aliadas",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 75500,
+    "dDurationMs": 5220,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "en campus",
+      "acAsrConf": 242
+    }, {
+      "utf8": " lands",
+      "acAsrConf": 232
+    }, {
+      "utf8": " transformamos el mundo",
+      "acAsrConf": 242
+    } ]
+  } ]
+}

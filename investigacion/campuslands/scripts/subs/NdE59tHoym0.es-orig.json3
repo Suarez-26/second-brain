@@ -1,0 +1,194 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  }, {
+    "mhModeHint": 2,
+    "juJustifCode": 0,
+    "sdScrollDir": 3
+  } ],
+  "wpWinPositions": [ {
+  
+  }, {
+    "apPoint": 6,
+    "ahHorPos": 20,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  } ],
+  "events": [ {
+    "tStartMs": 0,
+    "id": 1,
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 160,
+    "dDurationMs": 6639,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Campus LAN está ofreciendo a los jóvenes\ndel departamento nuevas alternativas de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 4160,
+    "dDurationMs": 7760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "estudios profesionales en inteligencia\nartificial, un idioma extranjero y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 9320,
+    "dDurationMs": 7400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "habilidades blandas.\nLa empresa Campus Lands está invitando a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 14920,
+    "dDurationMs": 5880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "bachilleres santanderianos a ser parte\nde los programas que ofrece esta",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 18160,
+    "dDurationMs": 6959,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "institución con énfasis en sistemas,\nprogramación e idiomas, lo cual les",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 22960,
+    "dDurationMs": 8159,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "permite ampliar sus conocimientos en las\nnuevas tecnologías y mercados.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 28039,
+    "dDurationMs": 7721,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Campulance. Eh, eso digamos es un\nproyecto que nace en Santander, nace en",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 33520,
+    "dDurationMs": 7320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Bucaramanga y que hoy se está llevando\neh a otras regiones del país y a otros",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 37680,
+    "dDurationMs": 8359,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "países. Eh, pero ¿cómo fue posible esto?\npues con la no solo definitivamente hay",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 44000,
+    "dDurationMs": 4920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "un equipo detrás de socios y de\ntrabajadores y unas empresas",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 47440,
+    "dDurationMs": 6080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "internacionales que vinieron a a\nSantander, conocieron Bucaramanga y le",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 51039,
+    "dDurationMs": 6840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "apostaron a la educación y luego llegan\naliados como la caja de compensación",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 55520,
+    "dDurationMs": 7320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Casán y otros empresarios privados que\nhan hecho que se desarrolle un modelo de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 59920,
+    "dDurationMs": 7680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "educación dirigido a jóvenes recién\nsalarios de colegio a los 17 años para",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 65080,
+    "dDurationMs": 7719,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que de manera intensiva durante 10 a 11\nhoras diarias estudienno",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 70320,
+    "dDurationMs": 7360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "inteligencia artificial, inglés,\nhabilidades blandas de manera 100%",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 75680,
+    "dDurationMs": 6079,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "presencial, pero con un solo objetivo,\nque cuando terminen de formarse tengan",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 79600,
+    "dDurationMs": 6680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "empleo seguro de un empleo no de salario\nmínimo, que puedan arrancar con empleo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 84560,
+    "dDurationMs": 7599,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "superior a los 2 millones de pesos que\nle permitan transformar la economía de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 88400,
+    "dDurationMs": 3759,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ellos y de su región.",
+      "acAsrConf": 0
+    } ]
+  } ]
+}

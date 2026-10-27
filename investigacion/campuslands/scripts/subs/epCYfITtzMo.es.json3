@@ -1,0 +1,149 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  }, {
+    "mhModeHint": 2,
+    "juJustifCode": 0,
+    "sdScrollDir": 3
+  } ],
+  "wpWinPositions": [ {
+  
+  }, {
+    "apPoint": 6,
+    "ahHorPos": 20,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  } ],
+  "events": [ {
+    "tStartMs": 0,
+    "id": 1,
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 0,
+    "dDurationMs": 5400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "el proyecto Santander territorio\nbilingüe liderado por la cámara de",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 3360,
+    "dDurationMs": 4800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "comercio de bucaramanga una y destaca\nlas iniciativas de empresas",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 6420,
+    "dDurationMs": 6599,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "santandereanas que fortalecen el\naprendizaje de inglés en toda la región",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 9840,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "como es el caso de campus lanz en campus",
+      "acAsrConf": 242
+    }, {
+      "utf8": "\ntenemos",
+      "acAsrConf": 228
+    }, {
+      "utf8": " tres Pilares fundamentales",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 14759,
+    "dDurationMs": 7020,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "desarrollar habilidades digitales\ndesarrollo de Liderazgo y bilingüismo",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 18860,
+    "dDurationMs": 8980,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "[Música]"
+    }, {
+      "utf8": "\nes un proceso donde queremos llevar al",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 25199,
+    "dDurationMs": 7681,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "estudiante desde un nivel básico a que\nalcance un nivel comunicativo del nivel",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 29939,
+    "dDurationMs": 8581,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "intermedio de inglés y desde febrero del\n2023 que fue la fecha cuando empezamos",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 35219,
+    "dDurationMs": 7981,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "el proceso de formación hemos podido\nimpactar a más de 350 estudiantes con",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 41940,
+    "dDurationMs": 4799,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Santander territorio bilingüe\nconstruiremos una región más competitiva",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 44940,
+    "dDurationMs": 5340,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y con mayores oportunidades para\nimpulsar el talento humano de la región",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 48539,
+    "dDurationMs": 6161,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "conozca más de esta estrategia\ningresando a triple W punto Santander",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 52320,
+    "dDurationMs": 8180,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "territorio",
+      "acAsrConf": 242
+    }, {
+      "utf8": " bilingüe.com\n[Música]",
+      "acAsrConf": 224
+    } ]
+  } ]
+}

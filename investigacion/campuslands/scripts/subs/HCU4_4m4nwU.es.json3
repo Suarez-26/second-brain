@@ -1,0 +1,154 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  }, {
+    "mhModeHint": 2,
+    "juJustifCode": 0,
+    "sdScrollDir": 3
+  } ],
+  "wpWinPositions": [ {
+  
+  }, {
+    "apPoint": 6,
+    "ahHorPos": 20,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  } ],
+  "events": [ {
+    "tStartMs": 0,
+    "id": 1,
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 40,
+    "dDurationMs": 7240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "el desarrollo de software es esencial\nglobalmente necesitándose 1.2 millones",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 5319,
+    "dDurationMs": 8121,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de desarrolladores de software para el\n2025 mientras que Colombia enfrenta una",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 10120,
+    "dDurationMs": 8159,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tasa de desempleo juvenil del 19 por\nafectando a 3 millones de jóvenes la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 15799,
+    "dDurationMs": 6961,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "fundación it en Barranquilla brinda a\njóvenes oportunidades de estudio y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 20279,
+    "dDurationMs": 8160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "trabajo beneficiando a 74 con el\nprograma de becas it y a 169 con el",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 26240,
+    "dDurationMs": 8280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "programa de Machine learning impulsando\nel desarrollo social y económico en la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 30720,
+    "dDurationMs": 9480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "industria 4.0 los beneficiados completan\nmás de 18 horas de estudio y práctica en",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 37280,
+    "dDurationMs": 8000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "desarrollo de software durante 9 meses\ncon tutorías presenciales y virtuales y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 42879,
+    "dDurationMs": 7281,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "reciben un incentivo económico mensual\nmientras se preparan con la visión de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 47480,
+    "dDurationMs": 8040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cambiar la vida de más de 500 jóvenes la\nfundación I cuenta con Alianza con 20",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 52719,
+    "dDurationMs": 7360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "empresas y dos universidades locales\nrespaldo de Naciones Unidas y su",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 57680,
+    "dDurationMs": 8320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "directora como embajadora y presidentea\ndel Consejo de juventudes del comité eno",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 63000,
+    "dDurationMs": 7920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de la ONU los beneficiados procedentes\nde entornos vulnerables encuentran un",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 68400,
+    "dDurationMs": 11780,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "propósito de vida lejos de peligros y\nvicios contribuyendo al desarrollo del",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 74320,
+    "dDurationMs": 7989,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "país fundación y ti juntos somos más\n[Música]",
+      "acAsrConf": 0
+    } ]
+  } ]
+}

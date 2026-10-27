@@ -1,0 +1,496 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  }, {
+    "mhModeHint": 2,
+    "juJustifCode": 0,
+    "sdScrollDir": 3
+  } ],
+  "wpWinPositions": [ {
+  
+  }, {
+    "apPoint": 6,
+    "ahHorPos": 20,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  } ],
+  "events": [ {
+    "tStartMs": 0,
+    "id": 1,
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 120,
+    "dDurationMs": 5920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Yo creo que la única manera de que este\npaís se desarrolle es montándolos en la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 4279,
+    "dDurationMs": 5601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "revolución de la automatización y de la\ntecnología.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 7860,
+    "dDurationMs": 2020,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "[música]"
+    } ]
+  }, {
+    "tStartMs": 13755,
+    "dDurationMs": 4805,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "[música]"
+    }, {
+      "utf8": "\nUsted estaba en la programación, creció",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 16800,
+    "dDurationMs": 5000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "allá, ¿cómo fue eso? No, mire,\nbásicamente fue la necesidad, o sea,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 20199,
+    "dDurationMs": 5561,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "como ese espíritu emprendedor de todos\nlos empresarios colombianos [música]",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 23680,
+    "dDurationMs": 5560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y la necesidad nos obligó buscar una\nforma de formar talento para para",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 28119,
+    "dDurationMs": 4440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Y usted, ¿por qué estuvo en la India\nviendo esto? [música]",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 30640,
+    "dDurationMs": 4439,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Bueno, no me choseciaron que usted\nestuvo en la India.",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 33200,
+    "dDurationMs": 7120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Tuve una oportunidad laboral enorme que\nque fue mi primer empleo y duré 17 años",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 38040,
+    "dDurationMs": 4320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y en ese empleo me formé no solo como\nempleado, como profesional, sino como",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 41719,
+    "dDurationMs": 4441,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "emprendedor.\nY entonces se vino y dijo, \"Bueno, voy a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 44320,
+    "dDurationMs": 6520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "montar este proyecto.\" ¿Y qué tan fácil\nfue? No, ¿qué tan difícil ha sido?",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 48840,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Todavía no hemos todavía no la hemos\nlogrado. Apenas estamos en ese proceso.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 52400,
+    "dDurationMs": 8679,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "[música]"
+    }, {
+      "utf8": " Eh, llevamos 4 años y medio,\npero ahorita se han sumado unas empresas",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 57320,
+    "dDurationMs": 7720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a a sumarse al proyecto y ya hay 165\nempresas de Colombia, Guatemala,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 62880,
+    "dDurationMs": 4720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "[música]"
+    }, {
+      "utf8": " México, Estados Unidos, España,\nFrancia y Reino Nuno que están",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 66520,
+    "dDurationMs": 4599,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "contratando a los programes.\nBueno, y entonces uno está por ahí, le",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 69200,
+    "dDurationMs": 6520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sale un letrero que dice, \"Fórmese y en\n10 meses le garantizamos empleabilidad.\"",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 73960,
+    "dDurationMs": 5479,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Bueno, eso ese es el mayor reto.\nNosotros dijimos hacer algo diferente.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 77439,
+    "dDurationMs": 6881,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Sí. Y lo que vimos fue la\npresencialidad, 100% presenciales,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 81875,
+    "dDurationMs": 6125,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "[música]"
+    }, {
+      "utf8": " 100% intensivos y vimos a eso\nle falta un componente y es que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 85600,
+    "dDurationMs": 7120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Pero esto necesita disciplina porque son\n11 horas diarias [música]",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 89680,
+    "dDurationMs": 8360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "durante 10 meses sin faltas. Sí, esto es\npara definitivamente acá el estudiante",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 95759,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "eh que está acá es porque le fascina\nnadie dura 11 horas diarias en algo que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 99640,
+    "dDurationMs": 6159,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que no es lo suyo y creemos que es un\nmodelo educativo que le [música] permite",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 103200,
+    "dDurationMs": 4840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a la nueva generación formarse en algo\nque le es fácil aprender, que es",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 107360,
+    "dDurationMs": 3759,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tecnología.\nPero eso es una barraquera porque",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 109079,
+    "dDurationMs": 6121,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "imagínense en 10 meses trabajando 11\nhoras diarias logra montar un",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 113320,
+    "dDurationMs": 3920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "conocimiento tal que tienen una\nempleabilidad casi que garantizada.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 116591,
+    "dDurationMs": 5208,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "[música]"
+    }, {
+      "utf8": "\n¿Qué estratos son los jóvenes que están",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 119039,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "aquí en Campos? el 80% de estratos 1 2\n3. Pero acá nosotros decimos algo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 124399,
+    "dDurationMs": 4881,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "internamente. [música]\nAcá está el extrato seis del 1 2 3. Es",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 127479,
+    "dDurationMs": 6281,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "esa mamá que vende empanadas, [música]\npero que todos los días se mata para que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 130840,
+    "dDurationMs": 8039,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "su hijo tenga el pasaje de bus e tenga\nun plato de comida para llevar. Y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 135586,
+    "dDurationMs": 6254,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "[música]"
+    }, {
+      "utf8": " es ese es hijo agradecido que\nquiere transformar su vida con",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 140120,
+    "dDurationMs": 4520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "conocimiento y que va a hacer todo el\nsacrificio para para poder estudiar",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 143800,
+    "dDurationMs": 2920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "estos 10 [música] meses de manera\nintensiva.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 145120,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "La mayoría de las empresas que contratan\nson colombianas, extranjeras, de todo,",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 148879,
+    "dDurationMs": 5401,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de todo. Tenemos más de 160 empresas de\nsiete países [música]",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 152640,
+    "dDurationMs": 4959,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y lo importante es que todas las\nempresas tienen el mismo componente y es",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 156280,
+    "dDurationMs": 5160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que les permiten trabajar de manera\nremota desde su casa, [música] desde su",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 158959,
+    "dDurationMs": 4121,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ciudad sin irse y eso es lo que nos va a\npermitir",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 161599,
+    "dDurationMs": 4441,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "puede quedarse cuidando la mamá que los\nha creado",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 163959,
+    "dDurationMs": 5041,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y eso es lo que nos va a permitir dejar\nde exportar talento y empezar a exportar",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 168239,
+    "dDurationMs": 5201,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "conocimiento.\nEso es lo que podemos hacer con una",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 170760,
+    "dDurationMs": 5680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "revolución que nos monte en la era de la\ntecnología.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 178800,
+    "dDurationMs": 6519,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "¿Qué apoyo el estado necesitaría para\npoder crecer Campus L en todo Colombia?",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 182840,
+    "dDurationMs": 6959,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "No, eh yo creo que eh este es el nuevo\nSena, el Sena del año 80 que revolucionó",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 187720,
+    "dDurationMs": 5200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "al país desde [música] lo industrial,\nque le trajo el conocimiento que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 191239,
+    "dDurationMs": 5601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "necesitaba al país. Ahora el país\nnecesita un nuevo Sena y es el Sena, la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 194959,
+    "dDurationMs": 5761,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cuarta revolución industrial. Campus Lan\naquí en Bucaramanga es un ejemplo de lo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 199000,
+    "dDurationMs": 4560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que Colombia puede hacer y de cómo\npodemos darle realmente oportunidades a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 202720,
+    "dDurationMs": 6519,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "nuestros jóvenes.\nNada, entran a Campul Lance eh, en las",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 206360,
+    "dDurationMs": 7227,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "redes sociales y ahí está todo y ahí\nestá el el link de inscripción. [música]",
+      "acAsrConf": 0
+    } ]
+  } ]
+}

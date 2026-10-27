@@ -1,0 +1,216 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  }, {
+    "mhModeHint": 2,
+    "juJustifCode": 0,
+    "sdScrollDir": 3
+  } ],
+  "wpWinPositions": [ {
+  
+  }, {
+    "apPoint": 6,
+    "ahHorPos": 20,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  } ],
+  "events": [ {
+    "tStartMs": 0,
+    "id": 1,
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 0,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Es un programa en programación de\nsoftware con inteligencia artificial"
+    } ]
+  }, {
+    "tStartMs": 3800,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "aplicada. El título a otorgar es un\ntécnico, técnico en desarrollo de"
+    } ]
+  }, {
+    "tStartMs": 7880,
+    "dDurationMs": 7800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "software. Tiene una duración total de 10\nmeses, es un curso intensivo donde van a"
+    } ]
+  }, {
+    "tStartMs": 12720,
+    "dDurationMs": 8360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ver 2100 horas. Que están divididas en\n1600 horas de programación. 300 horas de"
+    } ]
+  }, {
+    "tStartMs": 18840,
+    "dDurationMs": 7440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "inglés conversacional y 200 horas de\nhabilidades adaptativas para el trabajo,"
+    } ]
+  }, {
+    "tStartMs": 23440,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "¿sí? Para un total de 2100 horas. Eso en\ncuanto a la jornada diurna."
+    } ]
+  }, {
+    "tStartMs": 28120,
+    "dDurationMs": 5440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Vamos a tener también una jornada\nnocturna, que ya ahorita les iré"
+    } ]
+  }, {
+    "tStartMs": 31240,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "contando fechas de lanzamiento y demás,\nque tiene una duración de 13 meses. De"
+    } ]
+  }, {
+    "tStartMs": 36000,
+    "dDurationMs": 5920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "igual manera son 1600 horas de\nprogramación."
+    } ]
+  }, {
+    "tStartMs": 39520,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Y 200 horas de habilidades adaptativas.\nEste programa tiene una connotación y es"
+    } ]
+  }, {
+    "tStartMs": 43920,
+    "dDurationMs": 7200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que no incluye inglés conversacional por\nel tiempo horas que es bastante"
+    } ]
+  }, {
+    "tStartMs": 47480,
+    "dDurationMs": 7840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "reducido. Y su duración es de 13 meses.\nAdemás de su formación académica, esta"
+    } ]
+  }, {
+    "tStartMs": 53600,
+    "dDurationMs": 7280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "institución le garantiza a sus\nestudiantes una oferta laboral después"
+    } ]
+  }, {
+    "tStartMs": 57880,
+    "dDurationMs": 7960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de culminar sus estudios. Actualmente el\n90% de nuestros egresados se encuentran"
+    } ]
+  }, {
+    "tStartMs": 64120,
+    "dDurationMs": 5920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vinculados a empresas, no solamente a\nnivel nacional, sino también empresas a"
+    } ]
+  }, {
+    "tStartMs": 67680,
+    "dDurationMs": 7640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "nivel internacional. Tenemos chicos con\n19, 20 años sin previa experiencia"
+    } ]
+  }, {
+    "tStartMs": 72600,
+    "dDurationMs": 8000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "laboral, donde trabajan muy cómodos\ndesde casa, remotamente, algunos"
+    } ]
+  }, {
+    "tStartMs": 77600,
+    "dDurationMs": 7040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "híbridos. Con salarios por encima de\ndos, tres salarios mínimos legales"
+    } ]
+  }, {
+    "tStartMs": 82600,
+    "dDurationMs": 6280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vigentes. Obviamente pues depende de las\nhabilidades que tengan, el nivel de"
+    } ]
+  }, {
+    "tStartMs": 87160,
+    "dDurationMs": 6080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "inglés que ellos manejen. Tenemos\nempresas internacionales y de"
+    } ]
+  }, {
+    "tStartMs": 90800,
+    "dDurationMs": 8960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Latinoamérica que realmente pagan muy,\nmuy bien, ¿sí? Entonces el 90% son casos"
+    } ]
+  }, {
+    "tStartMs": 96760,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "muy exitosos. De pronto ese otro 10% que\nustedes dirán, \"Mendy, ¿qué pasa con ese"
+    } ]
+  }, {
+    "tStartMs": 101000,
+    "dDurationMs": 5960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "10%?\" Son estudiantes que pues como todo\ndeben mantener un promedio. Y se"
+    } ]
+  }, {
+    "tStartMs": 105640,
+    "dDurationMs": 5560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mantienen pues muy por debajo del\npromedio, entonces es un poco complicado"
+    } ]
+  }, {
+    "tStartMs": 109360,
+    "dDurationMs": 5440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vincularlos laboralmente, sin embargo\npues se les hace todo el proceso,"
+    } ]
+  }, {
+    "tStartMs": 112400,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "acompañamiento, apoyo durante todo el\nprograma y posterior al programa."
+    } ]
+  } ]
+}

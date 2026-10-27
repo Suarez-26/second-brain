@@ -89,3 +89,10 @@ Uso privado: material fuente, no se republica. Ver [[fuentes/video-podcast]] y [
 **[33:00]** pertinente y flexible del talento humano que va a estar trabajando al interior de estos ecosistemas competitivos, de estos ecosistemas de competitividad que son nuestras zonas francas 4.0. La invitación entonces sería a que sigamos a Campus Lands, a que veamos el ejemplo de Zona Franca Santander en Colombia para poder seguir creciendo, para poder seguir teniendo unas zonas francas ejemplo en el mundo. Que nos sigan en nuestras redes sociales de ASFA, de los ASFA Podcast, que sigan a Campuslands, que sigan a Zona Franca de Santander en Colombia. Andrea, Diego, muchísimas gracias por haber estado con nosotros hoy, por haber compartido esta experiencia maravillosa y fundamental que nos demuestra que sí es posible un verdadero cambio gracias a nuestras zonas francas 4.0. Así es, Julio. Muchas gracias.
 
 **[34:01]** Así es. Gracias. Y con esto concluimos otro apasionante episodio de Asfa Podcast. Recuerde, el futuro de las zonas francas lleno de oportunidades.
+
+---
+## 🔗 Conexiones del Segundo Cerebro
+- **Persona:** [[people/diego-tarazona|Diego Tarazona]]
+- **Entidad:** [[areas/campuslands|Campuslands]]
+- **Dossier de Investigación:** [[investigacion/diego-tarazona/dossier|Dossier Diego Tarazona]]
+- **MOC Integral:** [[diego_investigacion/README|MOC Diego Tarazona]]

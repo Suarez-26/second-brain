@@ -1,0 +1,6052 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  }, {
+    "mhModeHint": 2,
+    "juJustifCode": 0,
+    "sdScrollDir": 3
+  } ],
+  "wpWinPositions": [ {
+  
+  }, {
+    "apPoint": 6,
+    "ahHorPos": 20,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  } ],
+  "events": [ {
+    "tStartMs": 0,
+    "id": 1,
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 599,
+    "dDurationMs": 7580,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Bueno chicos",
+      "acAsrConf": 242
+    }, {
+      "utf8": " vamos",
+      "acAsrConf": 222
+    }, {
+      "utf8": " a comenzar\nvamos a comenzar",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 5700,
+    "dDurationMs": 11640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "desde el proceso de\nclonación y todo lo que hemos hecho",
+      "acAsrConf": 242
+    }, {
+      "utf8": " vale",
+      "acAsrConf": 182
+    } ]
+  }, {
+    "tStartMs": 14099,
+    "dDurationMs": 9321,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "voy a tratar voy a tratar de",
+      "acAsrConf": 242
+    }, {
+      "utf8": " acordarme",
+      "acAsrConf": 225
+    }, {
+      "utf8": "\nde todo ese código si me acuerdo bien si",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 20220,
+    "dDurationMs": 3200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "no pues",
+      "acAsrConf": 242
+    }, {
+      "utf8": " lo",
+      "acAsrConf": 237
+    }, {
+      "utf8": " copiar y lo pegaré",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 25820,
+    "dDurationMs": 4440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "voy a copiar eso lo voy a clonar",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 38719,
+    "dDurationMs": 7921,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ustedes tienen el repositorio inicial de\nla farmacia clones o si",
+      "acAsrConf": 242
+    }, {
+      "utf8": " quiere",
+      "acAsrConf": 226
+    }, {
+      "utf8": " porque",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 44879,
+    "dDurationMs": 5840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vamos a sacar mucho código\nle vamos a",
+      "acAsrConf": 242
+    }, {
+      "utf8": " estar",
+      "acAsrConf": 228
+    }, {
+      "utf8": " casi todo el código",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 61980,
+    "dDurationMs": 2899,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "listo",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 67820,
+    "dDurationMs": 8020,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "muchos embolataron con el con la\nclonación",
+      "acAsrConf": 242
+    }, {
+      "utf8": " no",
+      "acAsrConf": 237
+    } ]
+  }, {
+    "tStartMs": 72000,
+    "dDurationMs": 6380,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y con la carga y todo\nlisto",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 80040,
+    "dDurationMs": 5240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ese",
+      "acAsrConf": 242
+    }, {
+      "utf8": "\nde",
+      "acAsrConf": 241
+    }, {
+      "utf8": " campo",
+      "acAsrConf": 242
+    }, {
+      "utf8": " cero",
+      "acAsrConf": 158
+    } ]
+  }, {
+    "tStartMs": 85320,
+    "dDurationMs": 3000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "espacio",
+      "acAsrConf": 187
+    } ]
+  }, {
+    "tStartMs": 92220,
+    "dDurationMs": 6439,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "bien",
+      "acAsrConf": 132
+    }, {
+      "utf8": "\nEntonces",
+      "acAsrConf": 242
+    }, {
+      "utf8": " como",
+      "acAsrConf": 224
+    }, {
+      "utf8": " vamos a trabajar",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 98759,
+    "dDurationMs": 7521,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "por ahora con el Jason server porque no\ntengo bases de datos",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 103740,
+    "dDurationMs": 2540,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "entonces",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 106500,
+    "dDurationMs": 8600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ustedes me van a ayudar\nCuál es el comando de mpm para",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 111000,
+    "dDurationMs": 4100,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "inicializar el archivo de paquete",
+      "acAsrConf": 242
+    }, {
+      "utf8": " Jason",
+      "acAsrConf": 238
+    } ]
+  }, {
+    "tStartMs": 119190,
+    "dDurationMs": 4830,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "[Música]"
+    }, {
+      "utf8": "\nlisto",
+      "acAsrConf": 187
+    } ]
+  }, {
+    "tStartMs": 130860,
+    "dDurationMs": 3920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "esperemos",
+      "acAsrConf": 231
+    }, {
+      "utf8": " que",
+      "acAsrConf": 242
+    }, {
+      "utf8": " el",
+      "acAsrConf": 239
+    }, {
+      "utf8": " internet está",
+      "acAsrConf": 238
+    } ]
+  }, {
+    "tStartMs": 135000,
+    "dDurationMs": 10340,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Bueno\nahora vamos a empezar a establecer la",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 142260,
+    "dDurationMs": 3080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "estructura de nuestro proyecto",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 146360,
+    "dDurationMs": 6840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y",
+      "acAsrConf": 197
+    }, {
+      "utf8": " vamos a crear una de",
+      "acAsrConf": 242
+    }, {
+      "utf8": " apis",
+      "acAsrConf": 200
+    }, {
+      "utf8": " para",
+      "acAsrConf": 239
+    }, {
+      "utf8": "\nalmacenar nuestros servicios",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 154080,
+    "dDurationMs": 10200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vamos a",
+      "acAsrConf": 242
+    }, {
+      "utf8": " crear",
+      "acAsrConf": 197
+    }, {
+      "utf8": " nuestra típica js\nvamos a crear",
+      "acAsrConf": 242
+    }, {
+      "utf8": " una",
+      "acAsrConf": 230
+    }, {
+      "utf8": " certificado",
+      "acAsrConf": 242
+    }, {
+      "utf8": " css",
+      "acAsrConf": 219
+    } ]
+  }, {
+    "tStartMs": 162300,
+    "dDurationMs": 6140,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "como queremos trabajar con componentes\nvamos a crear nuestros componentes",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 170700,
+    "dDurationMs": 6380,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vamos a crear una para imágenes por si\nacaso tenemos imágenes",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 175720,
+    "dDurationMs": 7040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "[Música]"
+    }, {
+      "utf8": "\nqué otra me hace falta creo que nada más",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 179280,
+    "dDurationMs": 6980,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ahorita no nos acordaremos y el Index\npunto",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 183800,
+    "dDurationMs": 7260,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "htm",
+      "acAsrConf": 242
+    }, {
+      "utf8": "\nesto",
+      "acAsrConf": 179
+    }, {
+      "utf8": " y aquí tenemos esto",
+      "acAsrConf": 242
+    }, {
+      "utf8": " perfecto",
+      "acAsrConf": 191
+    } ]
+  }, {
+    "tStartMs": 192780,
+    "dDurationMs": 11039,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "entonces chicos",
+      "acAsrConf": 242
+    }, {
+      "utf8": "\ncuando",
+      "acAsrConf": 208
+    }, {
+      "utf8": " nosotros nos vamos a",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 199980,
+    "dDurationMs": 7800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a",
+      "acAsrConf": 187
+    }, {
+      "utf8": " meter",
+      "acAsrConf": 227
+    }, {
+      "utf8": " dentro del tema de recursos de\nobtener datos de enviar datos de guardar",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 205920,
+    "dDurationMs": 6239,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "datos",
+      "acAsrConf": 242
+    }, {
+      "utf8": "\npues",
+      "acAsrConf": 240
+    } ]
+  }, {
+    "tStartMs": 209519,
+    "dDurationMs": 7921,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "lo que uno siempre acostumbra en\ndesarrollo si uno ya cuenta con los en",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 214920,
+    "dDurationMs": 7739,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Point es lo primero que todo armar los\narchivos de los servicios",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 219140,
+    "dDurationMs": 10659,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Cuáles son esos archivos de servicio los\narchivos donde está todo lo que es el",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 225360,
+    "dDurationMs": 4439,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tema del consumo de las apis",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 232560,
+    "dDurationMs": 5360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "entonces\npodríamos venirnos para acá",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 237959,
+    "dDurationMs": 9121,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "para esto antes de las",
+      "acAsrConf": 242
+    }, {
+      "utf8": " apis",
+      "acAsrConf": 214
+    }, {
+      "utf8": " Pues",
+      "acAsrConf": 238
+    }, {
+      "utf8": " voy a\ncrear la estructura cierto",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 243860,
+    "dDurationMs": 8920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de mis documentos",
+      "acAsrConf": 242
+    }, {
+      "utf8": " Acuérdate",
+      "acAsrConf": 219
+    }, {
+      "utf8": " que",
+      "acAsrConf": 227
+    }, {
+      "utf8": " aquí\nestamos",
+      "acAsrConf": 238
+    }, {
+      "utf8": " hablando de Jason",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 250319,
+    "dDurationMs": 11001,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "aquí",
+      "acAsrConf": 214
+    }, {
+      "utf8": " estamos hablando de que cada\nelemento que nosotros tenemos ahí es un",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 255900,
+    "dDurationMs": 12019,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "documento no es una tabla o sea clientes\netiquetes",
+      "acAsrConf": 242
+    }, {
+      "utf8": " todo",
+      "acAsrConf": 164
+    }, {
+      "utf8": " son",
+      "acAsrConf": 227
+    } ]
+  }, {
+    "tStartMs": 264900,
+    "dDurationMs": 9480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "documentos Okay entonces\nvamos a",
+      "acAsrConf": 242
+    }, {
+      "utf8": " mirar",
+      "acAsrConf": 185
+    }, {
+      "utf8": " lo",
+      "acAsrConf": 242
+    }, {
+      "utf8": " siguiente",
+      "acAsrConf": 240
+    } ]
+  }, {
+    "tStartMs": 272340,
+    "dDurationMs": 9060,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vamos a crearnos nuestro folder que se\nllamaba my Data yo le pongo mairata",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 277680,
+    "dDurationMs": 7519,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ustedes pueden darle colocado de",
+      "acAsrConf": 242
+    }, {
+      "utf8": " B",
+      "acAsrConf": 209
+    }, {
+      "utf8": " base\nde datos como ustedes quisieran",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 286020,
+    "dDurationMs": 8160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "o si ustedes querían colocarla aquí en\nraíz Pues también pero igual se ve como",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 291540,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "como sucio el proyecto Entonces",
+      "acAsrConf": 242
+    }, {
+      "utf8": " no venga\npongámoslo",
+      "acAsrConf": 234
+    }, {
+      "utf8": " bien bien",
+      "acAsrConf": 242
+    }, {
+      "utf8": " estructurada",
+      "acAsrConf": 239
+    } ]
+  }, {
+    "tStartMs": 302759,
+    "dDurationMs": 6021,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y acá mi",
+      "acAsrConf": 242
+    }, {
+      "utf8": " archivo de B",
+      "acAsrConf": 189
+    }, {
+      "utf8": " punto",
+      "acAsrConf": 239
+    } ]
+  }, {
+    "tStartMs": 311460,
+    "dDurationMs": 8220,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y recordemos acá que por el Jason server\nque vamos a trabajar pues Siempre vamos",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 317160,
+    "dDurationMs": 5840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a tener que iniciar con un objeto y aquí\ncolocamos",
+      "acAsrConf": 242
+    }, {
+      "utf8": " todos",
+      "acAsrConf": 237
+    }, {
+      "utf8": " nuestros elementos",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 323220,
+    "dDurationMs": 8780,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "resulta\nque en Jason server",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 328860,
+    "dDurationMs": 9140,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Funciona muy bien\ndigamos y eso no nos percatamos",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 339060,
+    "dDurationMs": 9000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y o de pronto Ustedes sí Y es que los\ndocumentos o los arrais los nombres",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 344340,
+    "dDurationMs": 9060,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "deben estar ese inglés para que funcione\nde mejor forma no significa que en",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 350880,
+    "dDurationMs": 7200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "español no vayan a funcionar No y lo\notro es que el nombre de los documentos",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 354860,
+    "dDurationMs": 8820,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "debe estar en plural",
+      "acAsrConf": 242
+    }, {
+      "utf8": " si",
+      "acAsrConf": 172
+    }, {
+      "utf8": " ustedes se\ndieron cuenta entonces vamos a vamos a",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 360780,
+    "dDurationMs": 2900,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "colocarlo en español",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 376440,
+    "dDurationMs": 4020,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "el otro era",
+      "acAsrConf": 242
+    }, {
+      "utf8": " flota",
+      "acAsrConf": 231
+    } ]
+  }, {
+    "tStartMs": 387660,
+    "dDurationMs": 4200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "el otro era personal",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 399660,
+    "dDurationMs": 7340,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "el otro era\nventas para Los tiquetes sí",
+      "acAsrConf": 242
+    }, {
+      "utf8": " o",
+      "acAsrConf": 238
+    }, {
+      "utf8": " no",
+      "acAsrConf": 204
+    } ]
+  }, {
+    "tStartMs": 414120,
+    "dDurationMs": 5180,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "el otro era\ndetalle",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 419759,
+    "dDurationMs": 2720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ventas",
+      "acAsrConf": 239
+    } ]
+  }, {
+    "tStartMs": 437300,
+    "dDurationMs": 6839,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "el otro cuál era se acuerdan",
+      "acAsrConf": 242
+    }, {
+      "utf8": "\nrutas",
+      "acAsrConf": 241
+    } ]
+  }, {
+    "tStartMs": 444900,
+    "dDurationMs": 4639,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "normalmente Eso debería llamarse",
+      "acAsrConf": 242
+    }, {
+      "utf8": " es un",
+      "acAsrConf": 224
+    }, {
+      "utf8": "\ntrayectos",
+      "acAsrConf": 241
+    } ]
+  }, {
+    "tStartMs": 454740,
+    "dDurationMs": 10459,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "yo les puse fue rutas Pero bueno",
+      "acAsrConf": 242
+    }, {
+      "utf8": " listo",
+      "acAsrConf": 200
+    }, {
+      "utf8": "\nen este momento estamos ahí con",
+      "acAsrConf": 242
+    }, {
+      "utf8": " con",
+      "acAsrConf": 241
+    }, {
+      "utf8": " los",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 463259,
+    "dDurationMs": 5181,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "documentos que necesitamos para\nnuestra aplicación",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 471840,
+    "dDurationMs": 9440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ahora\nNosotros con el Jason server muchos lo",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 478080,
+    "dDurationMs": 3200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hacían muchos no",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 481800,
+    "dDurationMs": 7380,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "usaban el puerto",
+      "acAsrConf": 242
+    }, {
+      "utf8": " 3000",
+      "acAsrConf": 192
+    }, {
+      "utf8": " otros",
+      "acAsrConf": 237
+    }, {
+      "utf8": " decían no",
+      "acAsrConf": 242
+    }, {
+      "utf8": " yo\nvoy",
+      "acAsrConf": 239
+    }, {
+      "utf8": " a cambiar el puerto porque no me",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 486180,
+    "dDurationMs": 6660,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "gusta sobre el 3000 bueno\netcétera entonces",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 495599,
+    "dDurationMs": 9500,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "en este caso",
+      "acAsrConf": 242
+    }, {
+      "utf8": " pues",
+      "acAsrConf": 241
+    }, {
+      "utf8": "\ntodavía no lo voy a ejecutar igual si lo",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 501660,
+    "dDurationMs": 3439,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "quisiera ejecutar Cuál es el comando",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 505160,
+    "dDurationMs": 5159,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "para ejecutar y Jason",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 512820,
+    "dDurationMs": 7680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "No sí",
+      "acAsrConf": 242
+    }, {
+      "utf8": " se ha",
+      "acAsrConf": 229
+    }, {
+      "utf8": " instalado\ncreería no Ah pero igual tengo que",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 518880,
+    "dDurationMs": 7599,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "instalarlo bajo el entorno del proyecto\nno Entonces cómo se instala",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 523330,
+    "dDurationMs": 3149,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "[Música]"
+    } ]
+  }, {
+    "tStartMs": 540060,
+    "dDurationMs": 2540,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "así",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 562440,
+    "dDurationMs": 4100,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "listo Entonces ahora sí",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 566880,
+    "dDurationMs": 5060,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Jason",
+      "acAsrConf": 242
+    }, {
+      "utf8": "\nserver",
+      "acAsrConf": 203
+    } ]
+  }, {
+    "tStartMs": 573240,
+    "dDurationMs": 7200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "puede ser doble",
+      "acAsrConf": 242
+    }, {
+      "utf8": " guión",
+      "acAsrConf": 234
+    }, {
+      "utf8": " o una un solo guía\nni",
+      "acAsrConf": 242
+    }, {
+      "utf8": " doble",
+      "acAsrConf": 236
+    }, {
+      "utf8": " uno",
+      "acAsrConf": 200
+    } ]
+  }, {
+    "tStartMs": 578240,
+    "dDurationMs": 4860,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vamos",
+      "acAsrConf": 242
+    }, {
+      "utf8": " a",
+      "acAsrConf": 225
+    }, {
+      "utf8": " ver",
+      "acAsrConf": 135
+    }, {
+      "utf8": "\nver entonces",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 583500,
+    "dDurationMs": 2959,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "my",
+      "acAsrConf": 182
+    }, {
+      "utf8": " Data",
+      "acAsrConf": 239
+    } ]
+  }, {
+    "tStartMs": 590720,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "lo",
+      "acAsrConf": 242
+    }, {
+      "utf8": " crea",
+      "acAsrConf": 183
+    }, {
+      "utf8": "\nsi si",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 596940,
+    "dDurationMs": 2540,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "no",
+      "acAsrConf": 242
+    }, {
+      "utf8": " es",
+      "acAsrConf": 215
+    } ]
+  }, {
+    "tStartMs": 601019,
+    "dDurationMs": 9301,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "si usted no",
+      "acAsrConf": 242
+    }, {
+      "utf8": " redirecciona",
+      "acAsrConf": 224
+    }, {
+      "utf8": " el archivo bien\nle va a generar problemas y él le va a",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 607680,
+    "dDurationMs": 5360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "crear un archivo por defecto en la raíz\ndel proyecto",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 618560,
+    "dDurationMs": 4440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Y eso es un chicharrón grandísimo",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 634620,
+    "dDurationMs": 2960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a",
+      "acAsrConf": 209
+    }, {
+      "utf8": " ver",
+      "acAsrConf": 123
+    } ]
+  }, {
+    "tStartMs": 638519,
+    "dDurationMs": 2961,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ver Uy qué pasó",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 646980,
+    "dDurationMs": 3000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "señor",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 656779,
+    "dDurationMs": 8461,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "levantarme",
+      "acAsrConf": 234
+    }, {
+      "utf8": " los recursos\npues va a tocar es como a ver control",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 669380,
+    "dDurationMs": 3180,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Sí",
+      "acAsrConf": 239
+    }, {
+      "utf8": " claro",
+      "acAsrConf": 236
+    } ]
+  }, {
+    "tStartMs": 686300,
+    "dDurationMs": 3000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "señor",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 690500,
+    "dDurationMs": 9040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "para el empate el principal O sea no nos\nda esta información debería estar",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 696600,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "montado Sí lo que pasa es que él debería\nquedar como",
+      "acAsrConf": 242
+    }, {
+      "utf8": " en",
+      "acAsrConf": 234
+    }, {
+      "utf8": " observable",
+      "acAsrConf": 238
+    }, {
+      "utf8": " no",
+      "acAsrConf": 241
+    } ]
+  }, {
+    "tStartMs": 707579,
+    "dDurationMs": 3500,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que",
+      "acAsrConf": 191
+    }, {
+      "utf8": " ustedes siempre han trabajado",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 711420,
+    "dDurationMs": 5989,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "en",
+      "acAsrConf": 183
+    }, {
+      "utf8": " nada más entonces\n[Música]",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 717600,
+    "dDurationMs": 10760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "importante",
+      "acAsrConf": 242
+    }, {
+      "utf8": "\nimportante",
+      "acAsrConf": 231
+    }, {
+      "utf8": " que no se nos caiga el techo",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 723060,
+    "dDurationMs": 5300,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pero nueva Api",
+      "acAsrConf": 242
+    }, {
+      "utf8": " y",
+      "acAsrConf": 160
+    }, {
+      "utf8": " yo",
+      "acAsrConf": 242
+    }, {
+      "utf8": " le",
+      "acAsrConf": 226
+    }, {
+      "utf8": " digo customer",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 729600,
+    "dDurationMs": 5900,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Api punto",
+      "acAsrConf": 242
+    }, {
+      "utf8": " Jason",
+      "acAsrConf": 239
+    }, {
+      "utf8": "\nperdón",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 738720,
+    "dDurationMs": 3000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "js",
+      "acAsrConf": 231
+    } ]
+  }, {
+    "tStartMs": 748800,
+    "dDurationMs": 2900,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "compras",
+      "acAsrConf": 239
+    } ]
+  }, {
+    "tStartMs": 752160,
+    "dDurationMs": 4820,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Api\npunto",
+      "acAsrConf": 242
+    }, {
+      "utf8": " js",
+      "acAsrConf": 238
+    } ]
+  }, {
+    "tStartMs": 761940,
+    "dDurationMs": 7519,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "personal y",
+      "acAsrConf": 242
+    }, {
+      "utf8": " un",
+      "acAsrConf": 227
+    }, {
+      "utf8": " Api",
+      "acAsrConf": 156
+    }, {
+      "utf8": "\npunto",
+      "acAsrConf": 242
+    }, {
+      "utf8": " js",
+      "acAsrConf": 241
+    } ]
+  }, {
+    "tStartMs": 775980,
+    "dDurationMs": 6799,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "proyectos\nApi punto",
+      "acAsrConf": 242
+    }, {
+      "utf8": " js",
+      "acAsrConf": 213
+    } ]
+  }, {
+    "tStartMs": 786920,
+    "dDurationMs": 3840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "voy",
+      "acAsrConf": 207
+    }, {
+      "utf8": " a crear son los servicios",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 801360,
+    "dDurationMs": 3500,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Aunque era ventas",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 826880,
+    "dDurationMs": 6820,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "será que necesitamos ese detalle de",
+      "acAsrConf": 242
+    }, {
+      "utf8": "\nventas",
+      "acAsrConf": 221
+    }, {
+      "utf8": " y",
+      "acAsrConf": 201
+    }, {
+      "utf8": " venimos en",
+      "acAsrConf": 242
+    }, {
+      "utf8": " detalle",
+      "acAsrConf": 241
+    }, {
+      "utf8": " de ventas",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 830700,
+    "dDurationMs": 3000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "flota",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 848779,
+    "dDurationMs": 6300,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "fíjense",
+      "acAsrConf": 231
+    }, {
+      "utf8": " que aquí hasta ahora lo que\nestoy haciendo es creando el cascarón",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 857760,
+    "dDurationMs": 8180,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y estoy creando como en ese orden desde\nlo profundo hacia",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 864540,
+    "dDurationMs": 8099,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "lo",
+      "acAsrConf": 242
+    }, {
+      "utf8": "\ndel",
+      "acAsrConf": 191
+    }, {
+      "utf8": " frente cierto digamos",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 869000,
+    "dDurationMs": 8200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "definiendo por ahora ese tip de la\naplicación que es el Core de lo",
+      "acAsrConf": 242
+    }, {
+      "utf8": " que",
+      "acAsrConf": 229
+    } ]
+  }, {
+    "tStartMs": 875040,
+    "dDurationMs": 7739,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "necesitamos usar\ny",
+      "acAsrConf": 242
+    }, {
+      "utf8": " aquí",
+      "acAsrConf": 193
+    }, {
+      "utf8": " querían",
+      "acAsrConf": 220
+    } ]
+  }, {
+    "tStartMs": 879600,
+    "dDurationMs": 7160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "aquí colocaría todo lo",
+      "acAsrConf": 242
+    }, {
+      "utf8": " relacionado",
+      "acAsrConf": 238
+    }, {
+      "utf8": " hacia",
+      "acAsrConf": 242
+    }, {
+      "utf8": "\nlas",
+      "acAsrConf": 209
+    } ]
+  }, {
+    "tStartMs": 884100,
+    "dDurationMs": 9840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "consumo de las rutas",
+      "acAsrConf": 242
+    }, {
+      "utf8": "\nEntonces",
+      "acAsrConf": 240
+    }, {
+      "utf8": " como ya tenemos algo por acá",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 890899,
+    "dDurationMs": 6180,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "yo",
+      "acAsrConf": 242
+    }, {
+      "utf8": " sí",
+      "acAsrConf": 230
+    }, {
+      "utf8": " le voy a decir",
+      "acAsrConf": 242
+    }, {
+      "utf8": "\nla",
+      "acAsrConf": 230
+    }, {
+      "utf8": " ventana",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 897120,
+    "dDurationMs": 5480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y vamos a aprovechar el código que\nteníamos nosotros",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 908959,
+    "dDurationMs": 5701,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y vamos a comprobar si ese código servía\no no",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 930740,
+    "dDurationMs": 3599,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "era",
+      "acAsrConf": 229
+    }, {
+      "utf8": " por Dios",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 945839,
+    "dDurationMs": 2781,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "miren",
+      "acAsrConf": 198
+    }, {
+      "utf8": " ahí",
+      "acAsrConf": 242
+    }, {
+      "utf8": " está",
+      "acAsrConf": 238
+    } ]
+  }, {
+    "tStartMs": 949040,
+    "dDurationMs": 4919,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Ella",
+      "acAsrConf": 195
+    }, {
+      "utf8": " decía",
+      "acAsrConf": 232
+    }, {
+      "utf8": " Bueno pero por qué no\nhicieron",
+      "acAsrConf": 242
+    }, {
+      "utf8": " esto",
+      "acAsrConf": 233
+    } ]
+  }, {
+    "tStartMs": 954420,
+    "dDurationMs": 3680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "era",
+      "acAsrConf": 242
+    }, {
+      "utf8": " simple venirme",
+      "acAsrConf": 167
+    }, {
+      "utf8": " para acá",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 959339,
+    "dDurationMs": 9321,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pegar esto\ny simplemente decirle Bueno cómo se",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 964800,
+    "dDurationMs": 3860,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "llama nuestro",
+      "acAsrConf": 242
+    }, {
+      "utf8": " en",
+      "acAsrConf": 192
+    } ]
+  }, {
+    "tStartMs": 968880,
+    "dDurationMs": 3259,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Point",
+      "acAsrConf": 201
+    }, {
+      "utf8": " aquí está",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 974459,
+    "dDurationMs": 4341,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "control de control",
+      "acAsrConf": 242
+    }, {
+      "utf8": " de",
+      "acAsrConf": 239
+    } ]
+  }, {
+    "tStartMs": 979019,
+    "dDurationMs": 12961,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Cómo se llama clientes ya listo salió\neso era todo",
+      "acAsrConf": 242
+    }, {
+      "utf8": " todo",
+      "acAsrConf": 212
+    } ]
+  }, {
+    "tStartMs": 987980,
+    "dDurationMs": 4000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "control",
+      "acAsrConf": 242
+    }, {
+      "utf8": " clota",
+      "acAsrConf": 207
+    } ]
+  }, {
+    "tStartMs": 992160,
+    "dDurationMs": 2840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pego",
+      "acAsrConf": 217
+    }, {
+      "utf8": " acá",
+      "acAsrConf": 202
+    } ]
+  }, {
+    "tStartMs": 995100,
+    "dDurationMs": 3620,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Cómo se llama",
+      "acAsrConf": 242
+    }, {
+      "utf8": " a",
+      "acAsrConf": 201
+    }, {
+      "utf8": " flota",
+      "acAsrConf": 220
+    } ]
+  }, {
+    "tStartMs": 1001820,
+    "dDurationMs": 6379,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "control de\ny acá le pongo",
+      "acAsrConf": 242
+    }, {
+      "utf8": " flotas",
+      "acAsrConf": 172
+    } ]
+  }, {
+    "tStartMs": 1009380,
+    "dDurationMs": 6139,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "luego",
+      "acAsrConf": 242
+    }, {
+      "utf8": " viene",
+      "acAsrConf": 237
+    }, {
+      "utf8": " personal",
+      "acAsrConf": 242
+    }, {
+      "utf8": "\nokay",
+      "acAsrConf": 236
+    } ]
+  }, {
+    "tStartMs": 1023060,
+    "dDurationMs": 4139,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "aquí",
+      "acAsrConf": 233
+    }, {
+      "utf8": " le coloco personal",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1030319,
+    "dDurationMs": 3260,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "control",
+      "acAsrConf": 240
+    }, {
+      "utf8": " V",
+      "acAsrConf": 219
+    } ]
+  }, {
+    "tStartMs": 1039079,
+    "dDurationMs": 3860,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "control de ventas",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1044260,
+    "dDurationMs": 7600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Ah no perdón\ntrayectos tienen trayectos en",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1054500,
+    "dDurationMs": 2960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "barro galletas",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1057679,
+    "dDurationMs": 3021,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tengo",
+      "acAsrConf": 242
+    }, {
+      "utf8": " por",
+      "acAsrConf": 188
+    }, {
+      "utf8": " acá",
+      "acAsrConf": 237
+    } ]
+  }, {
+    "tStartMs": 1073039,
+    "dDurationMs": 3201,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "en",
+      "acAsrConf": 242
+    }, {
+      "utf8": " otras",
+      "acAsrConf": 203
+    }, {
+      "utf8": " ventas",
+      "acAsrConf": 213
+    } ]
+  }, {
+    "tStartMs": 1079700,
+    "dDurationMs": 4080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y me faltó detalle",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1086900,
+    "dDurationMs": 6300,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ventas",
+      "acAsrConf": 233
+    }, {
+      "utf8": "\nApi",
+      "acAsrConf": 242
+    }, {
+      "utf8": " punto",
+      "acAsrConf": 212
+    } ]
+  }, {
+    "tStartMs": 1100640,
+    "dDurationMs": 3000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "detalle",
+      "acAsrConf": 222
+    } ]
+  }, {
+    "tStartMs": 1106520,
+    "dDurationMs": 2659,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "control",
+      "acAsrConf": 223
+    } ]
+  }, {
+    "tStartMs": 1111860,
+    "dDurationMs": 6020,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de",
+      "acAsrConf": 242
+    }, {
+      "utf8": " ventas",
+      "acAsrConf": 214
+    }, {
+      "utf8": "\nlistos",
+      "acAsrConf": 213
+    } ]
+  }, {
+    "tStartMs": 1122120,
+    "dDurationMs": 3000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "entonces",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1127460,
+    "dDurationMs": 6980,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "como yo ya tengo acá mis carpetas de\nvuestras organizadas pues las voy a",
+      "acAsrConf": 242
+    }, {
+      "utf8": " las",
+      "acAsrConf": 174
+    } ]
+  }, {
+    "tStartMs": 1132080,
+    "dDurationMs": 2360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "voy a",
+      "acAsrConf": 223
+    }, {
+      "utf8": " utilizar",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1136760,
+    "dDurationMs": 8100,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "es",
+      "acAsrConf": 133
+    }, {
+      "utf8": " aquí tengo",
+      "acAsrConf": 242
+    }, {
+      "utf8": " una",
+      "acAsrConf": 240
+    }, {
+      "utf8": "\nen un control",
+      "acAsrConf": 242
+    }, {
+      "utf8": " por",
+      "acAsrConf": 196
+    }, {
+      "utf8": " acá",
+      "acAsrConf": 237
+    }, {
+      "utf8": " y no",
+      "acAsrConf": 242
+    }, {
+      "utf8": " mi",
+      "acAsrConf": 226
+    }, {
+      "utf8": " proyecto",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1142940,
+    "dDurationMs": 4820,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "original",
+      "acAsrConf": 242
+    }, {
+      "utf8": "\nclic",
+      "acAsrConf": 224
+    }, {
+      "utf8": " derecho",
+      "acAsrConf": 241
+    } ]
+  }, {
+    "tStartMs": 1149539,
+    "dDurationMs": 3201,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pegó",
+      "acAsrConf": 238
+    }, {
+      "utf8": " esto",
+      "acAsrConf": 237
+    }, {
+      "utf8": " acá",
+      "acAsrConf": 209
+    } ]
+  }, {
+    "tStartMs": 1155200,
+    "dDurationMs": 6120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "js",
+      "acAsrConf": 225
+    }, {
+      "utf8": "\nvengo a la carpeta de mi proyecto",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1186980,
+    "dDurationMs": 7980,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "me llevo estos dos el por si acaso lo\nnecesito acuérdense que yo les explicaba",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1192679,
+    "dDurationMs": 6360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Pues el yecoeri no es algo que",
+      "acAsrConf": 242
+    }, {
+      "utf8": " se ha",
+      "acAsrConf": 207
+    }, {
+      "utf8": "\nrequerido porque ya hoy en día no es",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1197299,
+    "dDurationMs": 7941,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mucho que se use\nPero hay librerías que lo pueden",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1201980,
+    "dDurationMs": 3260,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "requerir cierto",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1212320,
+    "dDurationMs": 6660,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ahorita le voy a enseñar una serie de\ncomplementos de plugins para que lo",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1218179,
+    "dDurationMs": 8581,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "miremos\na ver si están funcionando bien acá",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1222760,
+    "dDurationMs": 4000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Bueno",
+      "acAsrConf": 242
+    }, {
+      "utf8": " listos",
+      "acAsrConf": 179
+    } ]
+  }, {
+    "tStartMs": 1226880,
+    "dDurationMs": 8520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tenemos Este cuento Ahora yo les pasé a\nustedes una plantilla vamos a mirar esa",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1232880,
+    "dDurationMs": 5820,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "plantilla",
+      "acAsrConf": 242
+    }, {
+      "utf8": " como",
+      "acAsrConf": 236
+    }, {
+      "utf8": " la ajustamos a nuestro\nproyecto entonces",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1240200,
+    "dDurationMs": 3020,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "yo la tengo aquí",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1243320,
+    "dDurationMs": 8820,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "descomprimida",
+      "acAsrConf": 242
+    }, {
+      "utf8": "\naquí",
+      "acAsrConf": 234
+    }, {
+      "utf8": " a decirle",
+      "acAsrConf": 241
+    }, {
+      "utf8": " extraer",
+      "acAsrConf": 242
+    }, {
+      "utf8": " todo",
+      "acAsrConf": 239
+    } ]
+  }, {
+    "tStartMs": 1250220,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "se la van a encontrar allá en el\nclassroom",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1254240,
+    "dDurationMs": 9660,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y aquí está\nhay un",
+      "acAsrConf": 242
+    }, {
+      "utf8": " Main",
+      "acAsrConf": 171
+    } ]
+  }, {
+    "tStartMs": 1259460,
+    "dDurationMs": 8300,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hay un Style vamos a abrirla y vamos a\najustarla",
+      "acAsrConf": 242
+    }, {
+      "utf8": " a",
+      "acAsrConf": 240
+    }, {
+      "utf8": " nuestros nombres",
+      "acAsrConf": 242
+    }, {
+      "utf8": " okay",
+      "acAsrConf": 192
+    } ]
+  }, {
+    "tStartMs": 1268100,
+    "dDurationMs": 9240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "para que no tengamos de pronto alguna\nconfusión o algo así",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1271960,
+    "dDurationMs": 9760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "entonces",
+      "acAsrConf": 228
+    }, {
+      "utf8": " lo primero que voy a hacer\nes",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1278559,
+    "dDurationMs": 9181,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "abrir ese proyecto\ncierto ahora voy",
+      "acAsrConf": 242
+    }, {
+      "utf8": " a",
+      "acAsrConf": 200
+    }, {
+      "utf8": " ahora cierro lo que",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1285140,
+    "dDurationMs": 2600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "no necesito",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1293299,
+    "dDurationMs": 2781,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "por acá",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1297980,
+    "dDurationMs": 3199,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "está",
+      "acAsrConf": 242
+    }, {
+      "utf8": " este",
+      "acAsrConf": 226
+    }, {
+      "utf8": " señor",
+      "acAsrConf": 230
+    } ]
+  }, {
+    "tStartMs": 1303620,
+    "dDurationMs": 5780,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "js",
+      "acAsrConf": 224
+    }, {
+      "utf8": "\nal",
+      "acAsrConf": 240
+    }, {
+      "utf8": " mensaje",
+      "acAsrConf": 233
+    } ]
+  }, {
+    "tStartMs": 1309740,
+    "dDurationMs": 2780,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "es este",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1312820,
+    "dDurationMs": 8339,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "entonces miremos",
+      "acAsrConf": 231
+    }, {
+      "utf8": " tenemos una hoja de\nestilo donde hay un montón de reglas",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1317840,
+    "dDurationMs": 3319,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "bastante interesantes",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1323780,
+    "dDurationMs": 7500,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "incluso esta plantilla está dentro de\nlas versiones de",
+      "acAsrConf": 242
+    }, {
+      "utf8": " de",
+      "acAsrConf": 210
+    } ]
+  }, {
+    "tStartMs": 1332080,
+    "dDurationMs": 5579,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "css puro etcétera ahí en la página de\nbusto hay muchas plantillas que uno",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1336679,
+    "dDurationMs": 9901,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "puede utilizar\ny puede partir de ahí en este caso",
+      "acAsrConf": 242
+    }, {
+      "utf8": " esta",
+      "acAsrConf": 186
+    } ]
+  }, {
+    "tStartMs": 1341240,
+    "dDurationMs": 5340,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "viene con",
+      "acAsrConf": 242
+    }, {
+      "utf8": " css",
+      "acAsrConf": 237
+    }, {
+      "utf8": " totalmente puro",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1347419,
+    "dDurationMs": 8101,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Entonces vamos a\nutilizarlas",
+      "acAsrConf": 242
+    }, {
+      "utf8": " ustedes",
+      "acAsrConf": 238
+    }, {
+      "utf8": " se dan cuenta es un",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1351799,
+    "dDurationMs": 3721,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "css",
+      "acAsrConf": 226
+    }, {
+      "utf8": " bastante sencillo",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1358220,
+    "dDurationMs": 3680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "entonces",
+      "acAsrConf": 230
+    }, {
+      "utf8": " voy a",
+      "acAsrConf": 242
+    }, {
+      "utf8": " copiarlo",
+      "acAsrConf": 234
+    } ]
+  }, {
+    "tStartMs": 1365900,
+    "dDurationMs": 5840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "control c no me voy a hallar el archivo\nvoy a",
+      "acAsrConf": 242
+    }, {
+      "utf8": " quedar",
+      "acAsrConf": 197
+    }, {
+      "utf8": " todo allá",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1373940,
+    "dDurationMs": 10160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vengo para acá\nBusco mi css acá mi carpetita",
+      "acAsrConf": 242
+    }, {
+      "utf8": " le",
+      "acAsrConf": 183
+    }, {
+      "utf8": " va",
+      "acAsrConf": 225
+    }, {
+      "utf8": " a",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1380299,
+    "dDurationMs": 3801,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "dar clic derecho nuevo archivo",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1384940,
+    "dDurationMs": 7080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Styles",
+      "acAsrConf": 242
+    }, {
+      "utf8": " punto",
+      "acAsrConf": 213
+    }, {
+      "utf8": " css",
+      "acAsrConf": 231
+    }, {
+      "utf8": " el nombre pues en\ninglés en español eso es indiferente",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1393440,
+    "dDurationMs": 3260,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Ay",
+      "acAsrConf": 195
+    }, {
+      "utf8": " no me diga que quedó",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1408620,
+    "dDurationMs": 3020,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y",
+      "acAsrConf": 242
+    }, {
+      "utf8": " no",
+      "acAsrConf": 184
+    }, {
+      "utf8": " pego",
+      "acAsrConf": 242
+    }, {
+      "utf8": " acá",
+      "acAsrConf": 237
+    } ]
+  }, {
+    "tStartMs": 1412340,
+    "dDurationMs": 7199,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "la tarea de ustedes o la misión de\nustedes y deciden aceptarla y que deben",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1416840,
+    "dDurationMs": 7800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "aceptarla es analizar todas esas redes",
+      "acAsrConf": 242
+    }, {
+      "utf8": "\nsss",
+      "acAsrConf": 220
+    }, {
+      "utf8": " que",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1422000,
+    "dDurationMs": 6980,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hay en con detalles se sientan Oiga esto\npara qué es",
+      "acAsrConf": 242
+    }, {
+      "utf8": " Oigan",
+      "acAsrConf": 230
+    }, {
+      "utf8": " eso",
+      "acAsrConf": 242
+    }, {
+      "utf8": " que",
+      "acAsrConf": 238
+    }, {
+      "utf8": " están haciendo",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1429080,
+    "dDurationMs": 6020,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "etcétera",
+      "acAsrConf": 241
+    }, {
+      "utf8": "\nel acuerdo y Recuerden que es para que",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1432980,
+    "dDurationMs": 6559,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "se",
+      "acAsrConf": 242
+    }, {
+      "utf8": " ajuste",
+      "acAsrConf": 227
+    }, {
+      "utf8": " etcétera",
+      "acAsrConf": 242
+    }, {
+      "utf8": "\nentonces",
+      "acAsrConf": 212
+    }, {
+      "utf8": " son todas",
+      "acAsrConf": 242
+    }, {
+      "utf8": " las",
+      "acAsrConf": 184
+    }, {
+      "utf8": " cositas que",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1437000,
+    "dDurationMs": 2539,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tienen que hacer",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1439700,
+    "dDurationMs": 6599,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y aprovechen y aprovechen en review\nustedes analicen el código que no",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1444260,
+    "dDurationMs": 6380,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "entienden",
+      "acAsrConf": 216
+    }, {
+      "utf8": " algún favor es que tenemos\nesto listo porque es",
+      "acAsrConf": 242
+    }, {
+      "utf8": " para",
+      "acAsrConf": 239
+    }, {
+      "utf8": " qué es",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1453740,
+    "dDurationMs": 10140,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Main",
+      "acAsrConf": 241
+    }, {
+      "utf8": " es",
+      "acAsrConf": 209
+    }, {
+      "utf8": " como la el archivo principal\ncierto donde se controla",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1461240,
+    "dDurationMs": 7500,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "toda la navegación del menú que vamos a\nver ahora Ok y vamos a ir donde están",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1466760,
+    "dDurationMs": 5000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "los diseños cuando yo",
+      "acAsrConf": 242
+    }, {
+      "utf8": " lo he creado",
+      "acAsrConf": 199
+    }, {
+      "utf8": " los",
+      "acAsrConf": 219
+    }, {
+      "utf8": "\nbotones y demás",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1472039,
+    "dDurationMs": 8281,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tenemos que tratar de entender este\nseñor",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1476659,
+    "dDurationMs": 9781,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "para poderlo integrar dentro de nuestras\nopciones Entonces",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1482860,
+    "dDurationMs": 8020,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "yo creo que sería ser",
+      "acAsrConf": 242
+    }, {
+      "utf8": " Main",
+      "acAsrConf": 150
+    }, {
+      "utf8": " menú",
+      "acAsrConf": 127
+    }, {
+      "utf8": "\npero",
+      "acAsrConf": 204
+    }, {
+      "utf8": " bueno",
+      "acAsrConf": 197
+    } ]
+  }, {
+    "tStartMs": 1488140,
+    "dDurationMs": 5399,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vamos",
+      "acAsrConf": 235
+    }, {
+      "utf8": " a",
+      "acAsrConf": 232
+    }, {
+      "utf8": " marcar todo\ncontrol",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1501140,
+    "dDurationMs": 9320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "será que lo dejamos aquí en el principal",
+      "acAsrConf": 242
+    }, {
+      "utf8": "\nSí",
+      "acAsrConf": 236
+    }, {
+      "utf8": " es que no me gusta dejar como eso",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1507740,
+    "dDurationMs": 2720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "está entregado",
+      "acAsrConf": 186
+    } ]
+  }, {
+    "tStartMs": 1516200,
+    "dDurationMs": 2660,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sí nuevo",
+      "acAsrConf": 227
+    } ]
+  }, {
+    "tStartMs": 1523100,
+    "dDurationMs": 3000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hacerlo",
+      "acAsrConf": 209
+    } ]
+  }, {
+    "tStartMs": 1528700,
+    "dDurationMs": 3959,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "la contraria",
+      "acAsrConf": 211
+    }, {
+      "utf8": " a",
+      "acAsrConf": 238
+    }, {
+      "utf8": " ella",
+      "acAsrConf": 211
+    }, {
+      "utf8": " a",
+      "acAsrConf": 200
+    }, {
+      "utf8": " ese",
+      "acAsrConf": 211
+    }, {
+      "utf8": " señor",
+      "acAsrConf": 238
+    } ]
+  }, {
+    "tStartMs": 1541640,
+    "dDurationMs": 3560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Ah",
+      "acAsrConf": 188
+    }, {
+      "utf8": " no",
+      "acAsrConf": 242
+    }, {
+      "utf8": " sé",
+      "acAsrConf": 223
+    }, {
+      "utf8": " vamos a mirar",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1547940,
+    "dDurationMs": 6080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "no Pero porque es componente\nen los componentes",
+      "acAsrConf": 242
+    }, {
+      "utf8": " sí",
+      "acAsrConf": 202
+    } ]
+  }, {
+    "tStartMs": 1565640,
+    "dDurationMs": 8760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "lo mismo",
+      "acAsrConf": 242
+    }, {
+      "utf8": " tareita",
+      "acAsrConf": 234
+    }, {
+      "utf8": "\nanalicen",
+      "acAsrConf": 241
+    }, {
+      "utf8": " este",
+      "acAsrConf": 242
+    }, {
+      "utf8": " javascript",
+      "acAsrConf": 228
+    } ]
+  }, {
+    "tStartMs": 1571100,
+    "dDurationMs": 11120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "traten de entender ese",
+      "acAsrConf": 242
+    }, {
+      "utf8": " javascript",
+      "acAsrConf": 238
+    }, {
+      "utf8": "\nque en su gran mayoría Debería ser muy",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1577820,
+    "dDurationMs": 4400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sencillo para ustedes sí",
+      "acAsrConf": 242
+    }, {
+      "utf8": " o no",
+      "acAsrConf": 180
+    } ]
+  }, {
+    "tStartMs": 1583100,
+    "dDurationMs": 8300,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "acá Dice Héctor fíjense que yo puedo\nllamar múltiples etiquetas en el cual",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1589820,
+    "dDurationMs": 7979,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "será esto\nNosotros siempre llamamos",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1593799,
+    "dDurationMs": 6301,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "una sola pero yo puedo llamar varios\natributos",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1608480,
+    "dDurationMs": 6920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Sí\no sea para esas cosas que necesitamos",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1612620,
+    "dDurationMs": 7220,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "varias porque es un arreglo\nya cuando es una sola pues",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1620559,
+    "dDurationMs": 10661,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Bueno aquí tenemos el app.js\nEntonces nos vamos",
+      "acAsrConf": 242
+    }, {
+      "utf8": " para",
+      "acAsrConf": 203
+    }, {
+      "utf8": " el index",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1627980,
+    "dDurationMs": 7439,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "aquí tenemos esto y lo que hago es\nllamar",
+      "acAsrConf": 242
+    }, {
+      "utf8": " mire",
+      "acAsrConf": 194
+    } ]
+  }, {
+    "tStartMs": 1632419,
+    "dDurationMs": 7461,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Ah bueno aquí estoy incorporando voz",
+      "acAsrConf": 242
+    }, {
+      "utf8": " se",
+      "acAsrConf": 215
+    }, {
+      "utf8": "\nacuerdan",
+      "acAsrConf": 201
+    } ]
+  }, {
+    "tStartMs": 1636799,
+    "dDurationMs": 6620,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de nuestro Bots icon Para",
+      "acAsrConf": 242
+    }, {
+      "utf8": " qué",
+      "acAsrConf": 168
+    }, {
+      "utf8": " se",
+      "acAsrConf": 242
+    }, {
+      "utf8": " usa",
+      "acAsrConf": 234
+    }, {
+      "utf8": "\npara los",
+      "acAsrConf": 242
+    }, {
+      "utf8": " iconos",
+      "acAsrConf": 216
+    } ]
+  }, {
+    "tStartMs": 1644000,
+    "dDurationMs": 5960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "o algún control",
+      "acAsrConf": 242
+    }, {
+      "utf8": " sí",
+      "acAsrConf": 177
+    }, {
+      "utf8": "\ny vamos a ver si",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1657980,
+    "dDurationMs": 9120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "entonces aquí ya no es Main sino",
+      "acAsrConf": 242
+    }, {
+      "utf8": " Main",
+      "acAsrConf": 222
+    }, {
+      "utf8": "\nmenú",
+      "acAsrConf": 138
+    } ]
+  }, {
+    "tStartMs": 1664580,
+    "dDurationMs": 8780,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "aquí ya no es Style porque a mí se me\nantojó",
+      "acAsrConf": 242
+    }, {
+      "utf8": " a",
+      "acAsrConf": 239
+    }, {
+      "utf8": " seguirle la contraria yo le",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1670580,
+    "dDurationMs": 2780,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "puse",
+      "acAsrConf": 242
+    }, {
+      "utf8": " Styles",
+      "acAsrConf": 224
+    } ]
+  }, {
+    "tStartMs": 1676299,
+    "dDurationMs": 9120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "app.js",
+      "acAsrConf": 242
+    }, {
+      "utf8": "\nvamos",
+      "acAsrConf": 195
+    }, {
+      "utf8": " a",
+      "acAsrConf": 239
+    }, {
+      "utf8": " crearla",
+      "acAsrConf": 241
+    } ]
+  }, {
+    "tStartMs": 1680419,
+    "dDurationMs": 5000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vamos a crear la",
+      "acAsrConf": 242
+    }, {
+      "utf8": " app.js",
+      "acAsrConf": 238
+    }, {
+      "utf8": " aquí",
+      "acAsrConf": 242
+    }, {
+      "utf8": " en",
+      "acAsrConf": 241
+    }, {
+      "utf8": " la raíz",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1686059,
+    "dDurationMs": 8120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "digamos que es como así la única para\nevitar tanto",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1690940,
+    "dDurationMs": 3239,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tanta navegación",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1694640,
+    "dDurationMs": 4139,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "entre",
+      "acAsrConf": 238
+    }, {
+      "utf8": " carpetas listo",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1700460,
+    "dDurationMs": 3800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "entonces",
+      "acAsrConf": 222
+    }, {
+      "utf8": " aquí tenemos que construir algo",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1704620,
+    "dDurationMs": 4620,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pero",
+      "acAsrConf": 232
+    }, {
+      "utf8": " acá deberíamos hacerlo",
+      "acAsrConf": 242
+    }, {
+      "utf8": " con",
+      "acAsrConf": 210
+    } ]
+  }, {
+    "tStartMs": 1713120,
+    "dDurationMs": 4520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Yo podría hacerlo con",
+      "acAsrConf": 242
+    }, {
+      "utf8": " buen",
+      "acAsrConf": 185
+    }, {
+      "utf8": " componentes",
+      "acAsrConf": 223
+    }, {
+      "utf8": " o",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1717679,
+    "dDurationMs": 6021,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pues Sencillamente\ncopio aquí",
+      "acAsrConf": 242
+    }, {
+      "utf8": " Esteban",
+      "acAsrConf": 196
+    } ]
+  }, {
+    "tStartMs": 1724880,
+    "dDurationMs": 8220,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Ven aquí",
+      "acAsrConf": 242
+    }, {
+      "utf8": "\ny aquí",
+      "acAsrConf": 203
+    }, {
+      "utf8": " está",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1729500,
+    "dDurationMs": 10080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "el",
+      "acAsrConf": 242
+    }, {
+      "utf8": " Main",
+      "acAsrConf": 203
+    }, {
+      "utf8": " un",
+      "acAsrConf": 165
+    }, {
+      "utf8": " cuerpo",
+      "acAsrConf": 218
+    }, {
+      "utf8": " principal",
+      "acAsrConf": 239
+    }, {
+      "utf8": " no",
+      "acAsrConf": 227
+    }, {
+      "utf8": "\nesto aquí es",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1735039,
+    "dDurationMs": 9661,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "basura o sea información de\nrelleno ahí irían todos nuestros",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1742760,
+    "dDurationMs": 7039,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "componentes cuando lo vayamos a\nrenderizar",
+      "acAsrConf": 242
+    }, {
+      "utf8": " y",
+      "acAsrConf": 203
+    }, {
+      "utf8": " aquí",
+      "acAsrConf": 236
+    }, {
+      "utf8": " le voy a",
+      "acAsrConf": 242
+    }, {
+      "utf8": " dar",
+      "acAsrConf": 234
+    }, {
+      "utf8": " un",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1747559,
+    "dDurationMs": 2240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "control",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1750260,
+    "dDurationMs": 5000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "por",
+      "acAsrConf": 212
+    }, {
+      "utf8": " acá",
+      "acAsrConf": 152
+    }, {
+      "utf8": "\ny lo voy a pegar",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1756260,
+    "dDurationMs": 2600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "listo",
+      "acAsrConf": 190
+    } ]
+  }, {
+    "tStartMs": 1759380,
+    "dDurationMs": 9299,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "en este mail Pues",
+      "acAsrConf": 242
+    }, {
+      "utf8": " también",
+      "acAsrConf": 182
+    }, {
+      "utf8": " lo",
+      "acAsrConf": 206
+    }, {
+      "utf8": " puedo\nborrar si yo quiero",
+      "acAsrConf": 242
+    }, {
+      "utf8": " borrarlo",
+      "acAsrConf": 240
+    } ]
+  }, {
+    "tStartMs": 1766340,
+    "dDurationMs": 8520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vamos a dejarlo así y ahora pues vamos\nquitando cosas que de pronto no queremos",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1771640,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "o Recuerden que todo eso que acabo de\ntraerme para el proyecto que estamos",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1776480,
+    "dDurationMs": 6079,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "haciendo lo van a encontrar en la\nplantilla que descargue en",
+      "acAsrConf": 242
+    }, {
+      "utf8": " el",
+      "acAsrConf": 188
+    }, {
+      "utf8": " classroom",
+      "acAsrConf": 218
+    } ]
+  }, {
+    "tStartMs": 1784820,
+    "dDurationMs": 4940,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vamos a mirar que no se haya",
+      "acAsrConf": 242
+    }, {
+      "utf8": " descuadrado",
+      "acAsrConf": 201
+    }, {
+      "utf8": "\neso",
+      "acAsrConf": 240
+    } ]
+  }, {
+    "tStartMs": 1790520,
+    "dDurationMs": 4039,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que si se",
+      "acAsrConf": 242
+    }, {
+      "utf8": " descuadrón",
+      "acAsrConf": 196
+    }, {
+      "utf8": " les toca arreglarlo",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1799179,
+    "dDurationMs": 8521,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Ah okay No",
+      "acAsrConf": 242
+    }, {
+      "utf8": " cargó",
+      "acAsrConf": 226
+    }, {
+      "utf8": " el",
+      "acAsrConf": 238
+    }, {
+      "utf8": " estilo Pero bueno ya\nsabemos por qué no carga el estilo sí o",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1805760,
+    "dDurationMs": 8220,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "no\nentonces con esto le voy a mostrar un",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1812539,
+    "dDurationMs": 5640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "videito que yo dije que quería\nmostrarles",
+      "acAsrConf": 242
+    }, {
+      "utf8": " sí o",
+      "acAsrConf": 216
+    }, {
+      "utf8": " no",
+      "acAsrConf": 213
+    } ]
+  }, {
+    "tStartMs": 1815899,
+    "dDurationMs": 8400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "lo",
+      "acAsrConf": 235
+    }, {
+      "utf8": " voy a",
+      "acAsrConf": 242
+    }, {
+      "utf8": " mostrar",
+      "acAsrConf": 227
+    }, {
+      "utf8": "\ny me van a decir si ustedes han estado",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1820460,
+    "dDurationMs": 3839,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "en esa situación macabra",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1825080,
+    "dDurationMs": 4160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Y de paso nos vas",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1829460,
+    "dDurationMs": 13020,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "volvemos a mi Señor y acá es obviamente\nprofesor le colocó",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1838539,
+    "dDurationMs": 10921,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a colocar css que",
+      "acAsrConf": 242
+    }, {
+      "utf8": " la",
+      "acAsrConf": 208
+    }, {
+      "utf8": " carpeta\nque lo",
+      "acAsrConf": 242
+    }, {
+      "utf8": " contiene",
+      "acAsrConf": 225
+    } ]
+  }, {
+    "tStartMs": 1844820,
+    "dDurationMs": 4640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "entonces aquí debería ya aparecer",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1851020,
+    "dDurationMs": 4420,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pues",
+      "acAsrConf": 195
+    }, {
+      "utf8": " me gustó porque",
+      "acAsrConf": 242
+    }, {
+      "utf8": " bueno",
+      "acAsrConf": 229
+    } ]
+  }, {
+    "tStartMs": 1866240,
+    "dDurationMs": 4580,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "no algo pasó algo",
+      "acAsrConf": 242
+    }, {
+      "utf8": " pachón",
+      "acAsrConf": 236
+    } ]
+  }, {
+    "tStartMs": 1877159,
+    "dDurationMs": 4400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "se da la consola",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1881620,
+    "dDurationMs": 3299,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "fue bloqueado",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1886840,
+    "dDurationMs": 3780,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y se acuerdan eso",
+      "acAsrConf": 242
+    }, {
+      "utf8": " porque",
+      "acAsrConf": 207
+    }, {
+      "utf8": " es",
+      "acAsrConf": 190
+    } ]
+  }, {
+    "tStartMs": 1894440,
+    "dDurationMs": 4280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Ah",
+      "acAsrConf": 242
+    }, {
+      "utf8": " porque",
+      "acAsrConf": 229
+    }, {
+      "utf8": " es",
+      "acAsrConf": 240
+    }, {
+      "utf8": " que el profesor no le puso\njs",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1901340,
+    "dDurationMs": 9740,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sé",
+      "acAsrConf": 241
+    }, {
+      "utf8": " que son errores como tan simples que\nusted dice interesado en",
+      "acAsrConf": 242
+    }, {
+      "utf8": " A qué",
+      "acAsrConf": 184
+    }, {
+      "utf8": " es",
+      "acAsrConf": 155
+    } ]
+  }, {
+    "tStartMs": 1907340,
+    "dDurationMs": 3740,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y a",
+      "acAsrConf": 242
+    }, {
+      "utf8": " muchos",
+      "acAsrConf": 240
+    }, {
+      "utf8": " le",
+      "acAsrConf": 233
+    }, {
+      "utf8": " salió ese error",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1912020,
+    "dDurationMs": 11759,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vamos a mirar\nmaravilloso vea",
+      "acAsrConf": 242
+    }, {
+      "utf8": " si",
+      "acAsrConf": 206
+    }, {
+      "utf8": " sirve excelente",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1919059,
+    "dDurationMs": 8500,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ya",
+      "acAsrConf": 242
+    }, {
+      "utf8": " eso",
+      "acAsrConf": 231
+    }, {
+      "utf8": " era",
+      "acAsrConf": 241
+    }, {
+      "utf8": " todo lo que había que hacer\nEspero que esa plantilla la guarden por",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1925880,
+    "dDurationMs": 7440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "allá porque muchas veces eso no usa\nplantillas de dashboard para ser",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1929299,
+    "dDurationMs": 6141,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "administración y",
+      "acAsrConf": 242
+    }, {
+      "utf8": " hace eso no sirve",
+      "acAsrConf": 236
+    }, {
+      "utf8": " la",
+      "acAsrConf": 207
+    }, {
+      "utf8": "\nplantilla",
+      "acAsrConf": 235
+    } ]
+  }, {
+    "tStartMs": 1938419,
+    "dDurationMs": 9201,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Cómo se llama",
+      "acAsrConf": 242
+    }, {
+      "utf8": " Api",
+      "acAsrConf": 213
+    }, {
+      "utf8": "\nadmin",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1944500,
+    "dDurationMs": 3120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "se",
+      "acAsrConf": 197
+    }, {
+      "utf8": " ve",
+      "acAsrConf": 184
+    } ]
+  }, {
+    "tStartMs": 1955460,
+    "dDurationMs": 3020,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "aquí",
+      "acAsrConf": 242
+    }, {
+      "utf8": " está",
+      "acAsrConf": 183
+    } ]
+  }, {
+    "tStartMs": 1962260,
+    "dDurationMs": 3539,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hay una plantilla de",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1969640,
+    "dDurationMs": 6059,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "aquí",
+      "acAsrConf": 242
+    }, {
+      "utf8": " dice",
+      "acAsrConf": 236
+    }, {
+      "utf8": " descargue",
+      "acAsrConf": 231
+    }, {
+      "utf8": " gratis\n[Música]",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1984580,
+    "dDurationMs": 4000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "está dale",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1993200,
+    "dDurationMs": 3020,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Ah",
+      "acAsrConf": 205
+    }, {
+      "utf8": " okay",
+      "acAsrConf": 188
+    } ]
+  }, {
+    "tStartMs": 1997100,
+    "dDurationMs": 5720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Ah",
+      "acAsrConf": 176
+    }, {
+      "utf8": " okay",
+      "acAsrConf": 141
+    }, {
+      "utf8": "\nBueno mira",
+      "acAsrConf": 242
+    }, {
+      "utf8": " aquí",
+      "acAsrConf": 176
+    }, {
+      "utf8": " hay",
+      "acAsrConf": 242
+    }, {
+      "utf8": " otra",
+      "acAsrConf": 211
+    } ]
+  }, {
+    "tStartMs": 2004360,
+    "dDurationMs": 3020,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "está la otra",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2010320,
+    "dDurationMs": 8859,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "entonces hay muchas páginas muchas\nplantillas de",
+      "acAsrConf": 242
+    }, {
+      "utf8": " este",
+      "acAsrConf": 229
+    }, {
+      "utf8": " estilo que uno puede",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2015340,
+    "dDurationMs": 5959,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "llegar a utilizar OK Bueno",
+      "acAsrConf": 242
+    }, {
+      "utf8": " va",
+      "acAsrConf": 220
+    }, {
+      "utf8": " a",
+      "acAsrConf": 222
+    }, {
+      "utf8": " cerrar\nacá",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2023640,
+    "dDurationMs": 4500,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "descripción característica moderna",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2032620,
+    "dDurationMs": 3000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "utilizamos",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2036519,
+    "dDurationMs": 6061,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cuatro Bueno pero eso puede ser un\nproblema para nosotros que nosotros",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2039820,
+    "dDurationMs": 7579,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "estamos usando las 5 de pronto hay\ncambian clases o alguna cosa cuando la",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2044919,
+    "dDurationMs": 6740,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "montemos allá nuestro proyecto",
+      "acAsrConf": 242
+    }, {
+      "utf8": "\nno",
+      "acAsrConf": 239
+    }, {
+      "utf8": " nos va a funcionar Como debería",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2052960,
+    "dDurationMs": 5899,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "acá dice que si la quiere Pro entonces",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2060339,
+    "dDurationMs": 6080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "la entonces cualquiera de las dos\nopciones es totalmente",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2064780,
+    "dDurationMs": 7079,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "va Aquí tenemos\nesos menús ahorita vamos a empezar a",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2069820,
+    "dDurationMs": 9680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "modificar esto\nLa idea es tener aquí clientes",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2075599,
+    "dDurationMs": 10080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tiquetes",
+      "acAsrConf": 216
+    }, {
+      "utf8": " personal bueno etcétera\ny ahí poco a poco la vamos a ir",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2083159,
+    "dDurationMs": 6180,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "complementando listo\nBueno vamos a",
+      "acAsrConf": 242
+    }, {
+      "utf8": " ver",
+      "acAsrConf": 224
+    } ]
+  }, {
+    "tStartMs": 2089379,
+    "dDurationMs": 8720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Entonces esto que dice dashboard\nesto",
+      "acAsrConf": 242
+    }, {
+      "utf8": " yo",
+      "acAsrConf": 218
+    }, {
+      "utf8": " lo podría quitar",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2096540,
+    "dDurationMs": 5280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "entonces\nvoy a venir acá",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2102099,
+    "dDurationMs": 9260,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Mira a mí casi no me gusta tener esto\nacá porque",
+      "acAsrConf": 242
+    }, {
+      "utf8": " pues",
+      "acAsrConf": 239
+    }, {
+      "utf8": " me estorba",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2107800,
+    "dDurationMs": 3559,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ra",
+      "acAsrConf": 242
+    }, {
+      "utf8": " que",
+      "acAsrConf": 186
+    }, {
+      "utf8": " un",
+      "acAsrConf": 242
+    }, {
+      "utf8": " control",
+      "acAsrConf": 204
+    } ]
+  }, {
+    "tStartMs": 2114040,
+    "dDurationMs": 3920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "c y Esto me lo podría llevar para",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2119500,
+    "dDurationMs": 3200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "para la terminal",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2127440,
+    "dDurationMs": 6639,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hoy hoy sí",
+      "acAsrConf": 171
+    }, {
+      "utf8": " estoy siendo contradictorio a\nustedes",
+      "acAsrConf": 242
+    }, {
+      "utf8": " están",
+      "acAsrConf": 185
+    } ]
+  }, {
+    "tStartMs": 2135400,
+    "dDurationMs": 3140,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "en",
+      "acAsrConf": 242
+    }, {
+      "utf8": " Linux",
+      "acAsrConf": 179
+    } ]
+  }, {
+    "tStartMs": 2177220,
+    "dDurationMs": 8160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "bonita y hermosa ejecutándose allá en\notro lado",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2181780,
+    "dDurationMs": 9240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "entonces",
+      "acAsrConf": 242
+    }, {
+      "utf8": " va a",
+      "acAsrConf": 188
+    }, {
+      "utf8": " cerrar",
+      "acAsrConf": 238
+    }, {
+      "utf8": " esto por ahora no\nnecesito terminar",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2187240,
+    "dDurationMs": 10220,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y me voy hacia",
+      "acAsrConf": 242
+    }, {
+      "utf8": " donde",
+      "acAsrConf": 238
+    }, {
+      "utf8": " está\nmi menú principal mi parte principal Ah",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2194200,
+    "dDurationMs": 3260,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "bueno aquí está el",
+      "acAsrConf": 242
+    }, {
+      "utf8": " dashboard",
+      "acAsrConf": 214
+    } ]
+  }, {
+    "tStartMs": 2198540,
+    "dDurationMs": 4140,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "será que esto lo necesito",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2202780,
+    "dDurationMs": 5579,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Data",
+      "acAsrConf": 175
+    }, {
+      "utf8": "\nreportes",
+      "acAsrConf": 233
+    } ]
+  }, {
+    "tStartMs": 2208720,
+    "dDurationMs": 4260,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Ah",
+      "acAsrConf": 235
+    }, {
+      "utf8": " esto es",
+      "acAsrConf": 242
+    }, {
+      "utf8": " bisutería",
+      "acAsrConf": 241
+    } ]
+  }, {
+    "tStartMs": 2214720,
+    "dDurationMs": 3080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y",
+      "acAsrConf": 242
+    }, {
+      "utf8": " voy a",
+      "acAsrConf": 234
+    }, {
+      "utf8": " ahorrar",
+      "acAsrConf": 218
+    } ]
+  }, {
+    "tStartMs": 2217900,
+    "dDurationMs": 9080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y en teoría mi página ya quedaría Así\nnada más no tendría nada más que hacer",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2224740,
+    "dDurationMs": 2240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ahí",
+      "acAsrConf": 188
+    } ]
+  }, {
+    "tStartMs": 2228160,
+    "dDurationMs": 2660,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "perfecto",
+      "acAsrConf": 225
+    } ]
+  }, {
+    "tStartMs": 2232000,
+    "dDurationMs": 8060,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "aquí pues podría cargar todos los\nelementos que sean necesarios sí",
+      "acAsrConf": 242
+    }, {
+      "utf8": " o",
+      "acAsrConf": 237
+    }, {
+      "utf8": " no",
+      "acAsrConf": 199
+    } ]
+  }, {
+    "tStartMs": 2240300,
+    "dDurationMs": 5100,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vamos a empezar vamos a empezar",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2245520,
+    "dDurationMs": 10860,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a digamos a modificar las opciones que\ntiene",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2251160,
+    "dDurationMs": 9419,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "este menú para poderlas ajustar a",
+      "acAsrConf": 242
+    }, {
+      "utf8": " quién",
+      "acAsrConf": 188
+    }, {
+      "utf8": "\na nuestra aplicación cierto",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2261220,
+    "dDurationMs": 5480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vamos a empezar a explorar acá que\ntenemos de principal",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2266740,
+    "dDurationMs": 2960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a",
+      "acAsrConf": 238
+    }, {
+      "utf8": " leer",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2277260,
+    "dDurationMs": 7620,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y Saber",
+      "acAsrConf": 140
+    }, {
+      "utf8": " esto",
+      "acAsrConf": 189
+    }, {
+      "utf8": "\nvoy a ir a",
+      "acAsrConf": 242
+    }, {
+      "utf8": " cuadrar",
+      "acAsrConf": 200
+    }, {
+      "utf8": " esto acá",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2292839,
+    "dDurationMs": 3500,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "con",
+      "acAsrConf": 242
+    }, {
+      "utf8": " eso",
+      "acAsrConf": 202
+    }, {
+      "utf8": " acá",
+      "acAsrConf": 211
+    } ]
+  }, {
+    "tStartMs": 2297579,
+    "dDurationMs": 5481,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Ven para acá",
+      "acAsrConf": 191
+    }, {
+      "utf8": " los dos Qué pasó",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2310420,
+    "dDurationMs": 2659,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "señor",
+      "acAsrConf": 226
+    } ]
+  }, {
+    "tStartMs": 2334740,
+    "dDurationMs": 9900,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "listo",
+      "acAsrConf": 242
+    }, {
+      "utf8": " listo",
+      "acAsrConf": 236
+    }, {
+      "utf8": " aquí ya",
+      "acAsrConf": 242
+    }, {
+      "utf8": " tenemos",
+      "acAsrConf": 236
+    }, {
+      "utf8": " esto",
+      "acAsrConf": 241
+    }, {
+      "utf8": "\nentonces aquí tenemos elementos vamos a",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2341619,
+    "dDurationMs": 3021,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "buscar elements",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2345300,
+    "dDurationMs": 9240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "nuestro",
+      "acAsrConf": 163
+    }, {
+      "utf8": " que",
+      "acAsrConf": 239
+    }, {
+      "utf8": " será",
+      "acAsrConf": 242
+    }, {
+      "utf8": "\nun",
+      "acAsrConf": 189
+    }, {
+      "utf8": " Draft down por",
+      "acAsrConf": 242
+    }, {
+      "utf8": " acá",
+      "acAsrConf": 226
+    } ]
+  }, {
+    "tStartMs": 2351579,
+    "dDurationMs": 2961,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "básico",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2357640,
+    "dDurationMs": 7800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a ver miramos que por acá Aquí está",
+      "acAsrConf": 242
+    }, {
+      "utf8": "\nelements",
+      "acAsrConf": 232
+    } ]
+  }, {
+    "tStartMs": 2362920,
+    "dDurationMs": 8179,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Aquí está",
+      "acAsrConf": 242
+    }, {
+      "utf8": " nuestra",
+      "acAsrConf": 192
+    }, {
+      "utf8": " menú principal\nentonces aquí lo voy a colocar",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2368500,
+    "dDurationMs": 2599,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "clientes",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2379420,
+    "dDurationMs": 4040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vamos a ver",
+      "acAsrConf": 242
+    }, {
+      "utf8": " qué es lo",
+      "acAsrConf": 227
+    }, {
+      "utf8": " que está haciendo\nesto",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2389079,
+    "dDurationMs": 2841,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hay",
+      "acAsrConf": 197
+    } ]
+  }, {
+    "tStartMs": 2392200,
+    "dDurationMs": 4879,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "menú Aquí vamos a colocarle no sé",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2397320,
+    "dDurationMs": 4320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "eso se llama reportes vamos a poner",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2402160,
+    "dDurationMs": 2959,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "le",
+      "acAsrConf": 178
+    }, {
+      "utf8": " reportes",
+      "acAsrConf": 193
+    } ]
+  }, {
+    "tStartMs": 2405339,
+    "dDurationMs": 10341,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "entonces Aquí",
+      "acAsrConf": 242
+    }, {
+      "utf8": " le",
+      "acAsrConf": 178
+    }, {
+      "utf8": " voy a",
+      "acAsrConf": 199
+    }, {
+      "utf8": " colocar",
+      "acAsrConf": 242
+    }, {
+      "utf8": "\nlistar",
+      "acAsrConf": 240
+    }, {
+      "utf8": " clientes que",
+      "acAsrConf": 242
+    }, {
+      "utf8": " se",
+      "acAsrConf": 216
+    }, {
+      "utf8": " yo",
+      "acAsrConf": 225
+    } ]
+  }, {
+    "tStartMs": 2413500,
+    "dDurationMs": 7140,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mira aquí\nperfecto",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2417660,
+    "dDurationMs": 9880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Qué más le ponemos aquí\ncreo que no",
+      "acAsrConf": 242
+    }, {
+      "utf8": " más",
+      "acAsrConf": 229
+    }, {
+      "utf8": " no necesitamos nada más",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2424060,
+    "dDurationMs": 11039,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ahí simplemente es por por conservar el\nmenú de despliegue porque en muchas",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2429940,
+    "dDurationMs": 10320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ocasiones uno requiere Sí o sí tener ese\ntipo de despliegues que menos puede",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2437560,
+    "dDurationMs": 7380,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tener muchas sub opciones Entonces es un\nbuen ejemplo tenerlo",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2441780,
+    "dDurationMs": 10480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "te lo voy a dejar",
+      "acAsrConf": 181
+    }, {
+      "utf8": " acá",
+      "acAsrConf": 170
+    }, {
+      "utf8": "\nen",
+      "acAsrConf": 231
+    }, {
+      "utf8": " pocas",
+      "acAsrConf": 240
+    }, {
+      "utf8": " palabras reportes que haría con",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2447460,
+    "dDurationMs": 4800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "un solo que es pisar dientes",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2453220,
+    "dDurationMs": 6619,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y vamos a agregarle otras opciones a\nclientes",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2456420,
+    "dDurationMs": 3419,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vamos a",
+      "acAsrConf": 242
+    }, {
+      "utf8": " decirle",
+      "acAsrConf": 238
+    } ]
+  }, {
+    "tStartMs": 2460200,
+    "dDurationMs": 3419,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "crear clientes",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2474040,
+    "dDurationMs": 5460,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Vamos a",
+      "acAsrConf": 242
+    }, {
+      "utf8": " ponerle",
+      "acAsrConf": 200
+    }, {
+      "utf8": " acá\n[Música]",
+      "acAsrConf": 226
+    } ]
+  }, {
+    "tStartMs": 2477099,
+    "dDurationMs": 7941,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "buscador\nde clientes",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2482140,
+    "dDurationMs": 2900,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "qué sé",
+      "acAsrConf": 202
+    }, {
+      "utf8": " yo",
+      "acAsrConf": 239
+    } ]
+  }, {
+    "tStartMs": 2491579,
+    "dDurationMs": 6040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Aunque\npero en buscador clientes podemos hacer",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2495579,
+    "dDurationMs": 6661,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "esas opciones que podemos tener una\ntablet podemos",
+      "acAsrConf": 242
+    }, {
+      "utf8": " tener",
+      "acAsrConf": 185
+    }, {
+      "utf8": " varios botones y en",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2500320,
+    "dDurationMs": 5900,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "esos botones le decimos consultar mi\nestado de millas tú dime que salgo moda",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2504099,
+    "dDurationMs": 8121,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "usted tiene tantas millas\nvamos a hacerlo así",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2508380,
+    "dDurationMs": 3840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a ver cómo",
+      "acAsrConf": 242
+    }, {
+      "utf8": " cómo",
+      "acAsrConf": 236
+    }, {
+      "utf8": " nos va",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2514119,
+    "dDurationMs": 2901,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "aquí tenemos",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2517480,
+    "dDurationMs": 4040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "algo que dice",
+      "acAsrConf": 242
+    }, {
+      "utf8": " menú",
+      "acAsrConf": 154
+    } ]
+  }, {
+    "tStartMs": 2524440,
+    "dDurationMs": 2720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Facebook",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2532780,
+    "dDurationMs": 6980,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "el segundito",
+      "acAsrConf": 242
+    }, {
+      "utf8": " que",
+      "acAsrConf": 227
+    }, {
+      "utf8": " ya",
+      "acAsrConf": 179
+    }, {
+      "utf8": "\naquí",
+      "acAsrConf": 241
+    }, {
+      "utf8": " tenemos esto",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2545320,
+    "dDurationMs": 7759,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "aquí tenemos algo que dice\nadministración Cómo es que se llama",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2549579,
+    "dDurationMs": 3500,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "nuestra aerolínea",
+      "acAsrConf": 242
+    }, {
+      "utf8": " campus",
+      "acAsrConf": 205
+    } ]
+  }, {
+    "tStartMs": 2553359,
+    "dDurationMs": 5480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Airline",
+      "acAsrConf": 242
+    }, {
+      "utf8": "\nAhorita",
+      "acAsrConf": 206
+    }, {
+      "utf8": " estamos",
+      "acAsrConf": 207
+    } ]
+  }, {
+    "tStartMs": 2561760,
+    "dDurationMs": 3000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "administrador",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2564820,
+    "dDurationMs": 2900,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "app",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2569020,
+    "dDurationMs": 11099,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Bueno aquí tenemos esto\ntables",
+      "acAsrConf": 242
+    }, {
+      "utf8": " and forms",
+      "acAsrConf": 229
+    }, {
+      "utf8": " entonces aquí podríamos",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2578020,
+    "dDurationMs": 6500,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vamos a mirar si",
+      "acAsrConf": 242
+    }, {
+      "utf8": " esto",
+      "acAsrConf": 235
+    }, {
+      "utf8": " lo podemos cambiar\npor",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2581800,
+    "dDurationMs": 2720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "personal",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2585579,
+    "dDurationMs": 7040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vamos a mirar Si eso está ya pero ya\ntengo una curiosidad",
+      "acAsrConf": 242
+    }, {
+      "utf8": " de este",
+      "acAsrConf": 189
+    } ]
+  }, {
+    "tStartMs": 2597180,
+    "dDurationMs": 3419,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "porque",
+      "acAsrConf": 240
+    }, {
+      "utf8": " acá",
+      "acAsrConf": 239
+    } ]
+  }, {
+    "tStartMs": 2604180,
+    "dDurationMs": 6679,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "donde",
+      "acAsrConf": 242
+    }, {
+      "utf8": " está",
+      "acAsrConf": 240
+    }, {
+      "utf8": "\ndónde",
+      "acAsrConf": 205
+    }, {
+      "utf8": " está este",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2613440,
+    "dDurationMs": 5340,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "debemos buscar clientes pero yo lo\nmodifiqué o no",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2646180,
+    "dDurationMs": 3439,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Será que hay algo oculto",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2652619,
+    "dDurationMs": 5161,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Pero",
+      "acAsrConf": 239
+    }, {
+      "utf8": " es que yo lo modifiqué ya por\npersonal",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2660579,
+    "dDurationMs": 6020,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "será que está al otro lado más o menos\nnada",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2670119,
+    "dDurationMs": 6740,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cerrar esto cerremos esto subimos esto\nesto esto esto",
+      "acAsrConf": 242
+    }, {
+      "utf8": " esto",
+      "acAsrConf": 176
+    } ]
+  }, {
+    "tStartMs": 2681839,
+    "dDurationMs": 3841,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "qué",
+      "acAsrConf": 221
+    }, {
+      "utf8": " es lo",
+      "acAsrConf": 242
+    }, {
+      "utf8": " que",
+      "acAsrConf": 240
+    }, {
+      "utf8": " sucede con esto",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2686740,
+    "dDurationMs": 3379,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "trata",
+      "acAsrConf": 142
+    }, {
+      "utf8": " hacer",
+      "acAsrConf": 240
+    }, {
+      "utf8": " texto",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2692800,
+    "dDurationMs": 3980,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "yo no creo que eso se",
+      "acAsrConf": 242
+    }, {
+      "utf8": " lo",
+      "acAsrConf": 191
+    }, {
+      "utf8": " definan",
+      "acAsrConf": 237
+    }, {
+      "utf8": " acá",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2700619,
+    "dDurationMs": 6421,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "aunque no está",
+      "acAsrConf": 242
+    }, {
+      "utf8": "\nespérenme",
+      "acAsrConf": 226
+    }, {
+      "utf8": " a ver si todavía hay que",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2704380,
+    "dDurationMs": 2660,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "reiniciar",
+      "acAsrConf": 219
+    }, {
+      "utf8": " esto porque",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2708520,
+    "dDurationMs": 6020,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a ver crear",
+      "acAsrConf": 242
+    }, {
+      "utf8": "\nes",
+      "acAsrConf": 232
+    }, {
+      "utf8": " voy a",
+      "acAsrConf": 242
+    }, {
+      "utf8": " hacer",
+      "acAsrConf": 232
+    }, {
+      "utf8": " alguna prueba acá",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2715000,
+    "dDurationMs": 4819,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Es que este señor Ya me ha hecho pasar\nmalas",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2722200,
+    "dDurationMs": 3000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "argumentos",
+      "acAsrConf": 122
+    } ]
+  }, {
+    "tStartMs": 2727560,
+    "dDurationMs": 3180,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "está",
+      "acAsrConf": 198
+    }, {
+      "utf8": " bien",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2735819,
+    "dDurationMs": 9081,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Campos",
+      "acAsrConf": 230
+    }, {
+      "utf8": " seira",
+      "acAsrConf": 242
+    }, {
+      "utf8": " Pepe",
+      "acAsrConf": 176
+    }, {
+      "utf8": " buscador personal\nO sea que está por aquí abajo no",
+      "acAsrConf": 242
+    }, {
+      "utf8": " nada",
+      "acAsrConf": 186
+    } ]
+  }, {
+    "tStartMs": 2746920,
+    "dDurationMs": 7159,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Ah okay Espéreme",
+      "acAsrConf": 242
+    }, {
+      "utf8": " Espéreme",
+      "acAsrConf": 193
+    }, {
+      "utf8": "\nmirelo Acá está en",
+      "acAsrConf": 242
+    }, {
+      "utf8": " datatex",
+      "acAsrConf": 206
+    } ]
+  }, {
+    "tStartMs": 2754119,
+    "dDurationMs": 6681,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "es que ellos lo colocan\nellos lo colocan como un Data",
+      "acAsrConf": 242
+    }, {
+      "utf8": " hacer",
+      "acAsrConf": 213
+    } ]
+  }, {
+    "tStartMs": 2761920,
+    "dDurationMs": 5360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Ok personal\ny aquí está también vea",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2771819,
+    "dDurationMs": 7141,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mientes",
+      "acAsrConf": 199
+    }, {
+      "utf8": " a",
+      "acAsrConf": 242
+    }, {
+      "utf8": " ver",
+      "acAsrConf": 216
+    }, {
+      "utf8": "\nahora",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2776160,
+    "dDurationMs": 7560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "si",
+      "acAsrConf": 237
+    }, {
+      "utf8": " lo",
+      "acAsrConf": 204
+    }, {
+      "utf8": "\nven porque él se lo pasa se lo pasan al",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2781180,
+    "dDurationMs": 2540,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "javascript",
+      "acAsrConf": 210
+    } ]
+  }, {
+    "tStartMs": 2785339,
+    "dDurationMs": 5641,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pónganle cuidado Dónde está nuestro",
+      "acAsrConf": 242
+    }, {
+      "utf8": "\njavascript",
+      "acAsrConf": 165
+    } ]
+  }, {
+    "tStartMs": 2794440,
+    "dDurationMs": 3320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "está",
+      "acAsrConf": 209
+    }, {
+      "utf8": " por",
+      "acAsrConf": 242
+    }, {
+      "utf8": " aquí",
+      "acAsrConf": 240
+    }, {
+      "utf8": " lo vi",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2798099,
+    "dDurationMs": 2541,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "acá",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2801819,
+    "dDurationMs": 2780,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vamos",
+      "acAsrConf": 219
+    } ]
+  }, {
+    "tStartMs": 2806500,
+    "dDurationMs": 2960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y",
+      "acAsrConf": 232
+    }, {
+      "utf8": " otros",
+      "acAsrConf": 240
+    } ]
+  }, {
+    "tStartMs": 2814440,
+    "dDurationMs": 7320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mueve la lista\nellos ellos lo pasan por acá en los",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2820180,
+    "dDurationMs": 10980,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "contenidos de saiba\ny les colocan los atributos de manera",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2825940,
+    "dDurationMs": 9360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "dinámica esto es un pseudo",
+      "acAsrConf": 242
+    }, {
+      "utf8": " selector",
+      "acAsrConf": 238
+    }, {
+      "utf8": " el",
+      "acAsrConf": 242
+    }, {
+      "utf8": "\npiercing",
+      "acAsrConf": 230
+    } ]
+  }, {
+    "tStartMs": 2833260,
+    "dDurationMs": 4760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "acá es donde están teniendo los",
+      "acAsrConf": 242
+    }, {
+      "utf8": "\ndatasette",
+      "acAsrConf": 176
+    } ]
+  }, {
+    "tStartMs": 2840339,
+    "dDurationMs": 5881,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "fíjense que es muy importante la\ndocumentación fíjese que no está",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2844240,
+    "dDurationMs": 7980,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "documentado y acá no sabemos si está\ncierta este Data set de quién es",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2849480,
+    "dDurationMs": 6820,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "está consumiendo ahí ahí asumimos que es\ncualquiera de los que están ahí pero",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2856720,
+    "dDurationMs": 2420,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "bueno",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2860380,
+    "dDurationMs": 2479,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sí",
+      "acAsrConf": 220
+    } ]
+  }, {
+    "tStartMs": 2863440,
+    "dDurationMs": 3679,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ahí donde está la documentación",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2867280,
+    "dDurationMs": 7160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Ese es el perfil",
+      "acAsrConf": 242
+    }, {
+      "utf8": " esto",
+      "acAsrConf": 236
+    }, {
+      "utf8": " no no me interesa\nmirarlo aquí",
+      "acAsrConf": 242
+    }, {
+      "utf8": " vengamos",
+      "acAsrConf": 212
+    }, {
+      "utf8": " a",
+      "acAsrConf": 231
+    }, {
+      "utf8": " ver",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2875920,
+    "dDurationMs": 2540,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sí",
+      "acAsrConf": 191
+    } ]
+  }, {
+    "tStartMs": 2879819,
+    "dDurationMs": 9241,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que no hay nada más eso bueno ya vimos\nque es el Data set que contiene la",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2886420,
+    "dDurationMs": 7320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "información de nuestro menú digamos que\neso es importante",
+      "acAsrConf": 242
+    }, {
+      "utf8": " Por",
+      "acAsrConf": 229
+    }, {
+      "utf8": " qué",
+      "acAsrConf": 227
+    } ]
+  }, {
+    "tStartMs": 2891520,
+    "dDurationMs": 5839,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "porque así nos va a permitir ya\npersonalizar algunas otras cosas",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2898300,
+    "dDurationMs": 10260,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Sí ya porque yo",
+      "acAsrConf": 242
+    }, {
+      "utf8": " ya",
+      "acAsrConf": 240
+    }, {
+      "utf8": "\nyo modifiqué aquí este fíjense que aquí",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2904599,
+    "dDurationMs": 7461,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ya le puse Aquí le colocaron",
+      "acAsrConf": 242
+    }, {
+      "utf8": " datates",
+      "acAsrConf": 223
+    }, {
+      "utf8": " que\nes",
+      "acAsrConf": 242
+    }, {
+      "utf8": " el",
+      "acAsrConf": 187
+    }, {
+      "utf8": " nombre del datacent",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2912880,
+    "dDurationMs": 7820,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y ya si lo miro por acá\nvamos a tener esto Ahora sí vamos a",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2917920,
+    "dDurationMs": 9620,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "seguir allá nuestro",
+      "acAsrConf": 242
+    }, {
+      "utf8": "\nfirefox",
+      "acAsrConf": 220
+    }, {
+      "utf8": " a ver",
+      "acAsrConf": 242
+    }, {
+      "utf8": " si",
+      "acAsrConf": 237
+    }, {
+      "utf8": " ya lo toma que debería",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2925000,
+    "dDurationMs": 2540,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tomarlo ya",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2944380,
+    "dDurationMs": 5540,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cerrar esto",
+      "acAsrConf": 242
+    }, {
+      "utf8": "\nsegundito",
+      "acAsrConf": 182
+    } ]
+  }, {
+    "tStartMs": 2953859,
+    "dDurationMs": 9500,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "listo aquí ya tengo clientes\npersonal Aquí tengo crear clientes y",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2962020,
+    "dDurationMs": 7140,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tengo el buscador\nLa idea es que aquí vamos a tener",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2966160,
+    "dDurationMs": 3000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "nuestros",
+      "acAsrConf": 187
+    } ]
+  }, {
+    "tStartMs": 2969220,
+    "dDurationMs": 2720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "componentes",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2973720,
+    "dDurationMs": 8580,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "bueno Necesito que todos tengan por lo\nmenos esa sección de clientes porque",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2978880,
+    "dDurationMs": 9380,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vamos a hacer primero clientes Ok tengan\nacá reportes y yo leí aquí listar",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2985119,
+    "dDurationMs": 3141,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "clientes",
+      "acAsrConf": 242
+    }, {
+      "utf8": " me",
+      "acAsrConf": 215
+    }, {
+      "utf8": " muestra",
+      "acAsrConf": 242
+    }, {
+      "utf8": " acá",
+      "acAsrConf": 237
+    } ]
+  }, {
+    "tStartMs": 2989440,
+    "dDurationMs": 8159,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "crear",
+      "acAsrConf": 238
+    }, {
+      "utf8": " clientes\ncrear clientes ustedes me dirán si lo si",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2995560,
+    "dDurationMs": 9660,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "lo quieren que lo hagamos con un modal\ncuando Electric salga el modal y muestra",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 3000900,
+    "dDurationMs": 8820,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que el formulario",
+      "acAsrConf": 242
+    }, {
+      "utf8": " como",
+      "acAsrConf": 192
+    }, {
+      "utf8": " lo más",
+      "acAsrConf": 242
+    }, {
+      "utf8": " breve",
+      "acAsrConf": 236
+    }, {
+      "utf8": "\npodemos hacer un componente con el",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 3007440,
+    "dDurationMs": 7940,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "formulario sí lo podemos hacer vamos a\nhacerlo Después",
+      "acAsrConf": 242
+    }, {
+      "utf8": " manejar",
+      "acAsrConf": 222
+    }, {
+      "utf8": " un",
+      "acAsrConf": 242
+    }, {
+      "utf8": " modal",
+      "acAsrConf": 226
+    } ]
+  }, {
+    "tStartMs": 3013880,
+    "dDurationMs": 8340,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "[Música]"
+    }, {
+      "utf8": "\nbuscador Bueno",
+      "acAsrConf": 242
+    }, {
+      "utf8": " yo",
+      "acAsrConf": 240
+    }, {
+      "utf8": " creo que buscador",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 3019619,
+    "dDurationMs": 7941,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "podemos quitarlo y más bien dejamos\nlistar porque el cristal podemos tener",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 3025319,
+    "dDurationMs": 7981,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "toda la información también\nOh espere si quiero enseñarles aquí y en",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 3031560,
+    "dDurationMs": 9059,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "esta librería que yo",
+      "acAsrConf": 242
+    }, {
+      "utf8": " he usado",
+      "acAsrConf": 236
+    }, {
+      "utf8": " algunas\nveces que a mí me encanta",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 3036960,
+    "dDurationMs": 7820,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "se llama Data",
+      "acAsrConf": 242
+    }, {
+      "utf8": " tables",
+      "acAsrConf": 211
+    }, {
+      "utf8": " son una",
+      "acAsrConf": 242
+    }, {
+      "utf8": " es",
+      "acAsrConf": 236
+    }, {
+      "utf8": " una\nlibrería basada en javascript",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 3045560,
+    "dDurationMs": 7240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "donde yo puedo procesar información en\nforma de tablas",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 3050640,
+    "dDurationMs": 5719,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y él me tiene me monto un buscador y\nentonces yo",
+      "acAsrConf": 242
+    }, {
+      "utf8": " no",
+      "acAsrConf": 210
+    }, {
+      "utf8": " tengo que ponerme ese",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 3054180,
+    "dDurationMs": 2179,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "filtro",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 3057780,
+    "dDurationMs": 3980,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ahorita se las enseña a trabajar",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 3066599,
+    "dDurationMs": 4220,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pero la vemos ahorita la vemos ahorita",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 3071119,
+    "dDurationMs": 4381,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hagan primero lo otro",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 3097940,
+    "dDurationMs": 8399,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Bueno ya tenemos aquí nuestro dashboard\nnos vamos a ir con clientes",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 3106500,
+    "dDurationMs": 6200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cómo hacemos clientes cómo lo quieren",
+      "acAsrConf": 242
+    }, {
+      "utf8": "\ncómo me",
+      "acAsrConf": 236
+    }, {
+      "utf8": " componen o con un",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 3113160,
+    "dDurationMs": 4280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Bueno vamos a hacer un buen componen",
+      "acAsrConf": 242
+    }, {
+      "utf8": " a\nincomodar",
+      "acAsrConf": 238
+    } ]
+  }, {
+    "tStartMs": 3121160,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "un buen componente",
+      "acAsrConf": 242
+    }, {
+      "utf8": " interesante",
+      "acAsrConf": 231
+    }, {
+      "utf8": " Entonces\nvamos a mirar",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 3127940,
+    "dDurationMs": 5860,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vamos a empezar a",
+      "acAsrConf": 242
+    }, {
+      "utf8": " ver",
+      "acAsrConf": 233
+    }, {
+      "utf8": "\nimportante",
+      "acAsrConf": 241
+    } ]
+  }, {
+    "tStartMs": 3133859,
+    "dDurationMs": 8161,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "como vamos a tener muchos",
+      "acAsrConf": 242
+    }, {
+      "utf8": " web",
+      "acAsrConf": 226
+    }, {
+      "utf8": "\ncomponentes",
+      "acAsrConf": 236
+    }, {
+      "utf8": " vamos a",
+      "acAsrConf": 242
+    }, {
+      "utf8": " organizarlos",
+      "acAsrConf": 241
+    } ]
+  }, {
+    "tStartMs": 3138300,
+    "dDurationMs": 7940,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Vamos a",
+      "acAsrConf": 242
+    }, {
+      "utf8": " organizarnos",
+      "acAsrConf": 219
+    }, {
+      "utf8": " como por módulos es\npara que se vea más bonito la carpeta",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 3151319,
+    "dDurationMs": 2601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "entonces",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 3154260,
+    "dDurationMs": 7380,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vamos a\nvamos a hacerlo",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 3159420,
+    "dDurationMs": 7080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Bueno",
+      "acAsrConf": 242
+    }, {
+      "utf8": " si nos llevamos el",
+      "acAsrConf": 193
+    }, {
+      "utf8": " archivo\nentonces",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 3163500,
+    "dDurationMs": 3000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "customer",
+      "acAsrConf": 218
+    } ]
+  }, {
+    "tStartMs": 3167099,
+    "dDurationMs": 2781,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "raya",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 3170339,
+    "dDurationMs": 2720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "por punto",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 3174619,
+    "dDurationMs": 6301,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vamos",
+      "acAsrConf": 214
+    }, {
+      "utf8": " a capela\nSport",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 3185220,
+    "dDurationMs": 3000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "customer",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 3199400,
+    "dDurationMs": 4000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "html",
+      "acAsrConf": 242
+    }, {
+      "utf8": " alemán",
+      "acAsrConf": 234
+    } ]
+  }, {
+    "tStartMs": 3205520,
+    "dDurationMs": 4260,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "lo hacemos con",
+      "acAsrConf": 242
+    }, {
+      "utf8": " Shadow",
+      "acAsrConf": 189
+    }, {
+      "utf8": " Ruth",
+      "acAsrConf": 235
+    }, {
+      "utf8": " o",
+      "acAsrConf": 242
+    }, {
+      "utf8": " normal",
+      "acAsrConf": 238
+    } ]
+  }, {
+    "tStartMs": 3212099,
+    "dDurationMs": 6181,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "le oyen a\nechar",
+      "acAsrConf": 242
+    }, {
+      "utf8": " echados",
+      "acAsrConf": 238
+    } ]
+  }, {
+    "tStartMs": 3220440,
+    "dDurationMs": 3000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "constructor",
+      "acAsrConf": 222
+    } ]
+  }, {
+    "tStartMs": 3224339,
+    "dDurationMs": 7701,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "lo que pasa es que ustedes le oyen tanto\npero que cuando necesiten enviar Data",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 3230400,
+    "dDurationMs": 7020,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "entre componentes\nahí sí toca Porque todavía hay que hacer",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 3235740,
+    "dDurationMs": 11819,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Listen eso hay que hacer un montón de\ncosas pero no podemos podemos revisarlo",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 3240420,
+    "dDurationMs": 7139,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ahorita y y lo hacemos con el",
+      "acAsrConf": 242
+    }, {
+      "utf8": " agente",
+      "acAsrConf": 195
+    }, {
+      "utf8": " gpt",
+      "acAsrConf": 220
+    } ]
+  }, {
+    "tStartMs": 3248579,
+    "dDurationMs": 6780,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Sí sí\nahorita lo",
+      "acAsrConf": 242
+    }, {
+      "utf8": " revisados",
+      "acAsrConf": 210
+    }, {
+      "utf8": " para que se den",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 3253140,
+    "dDurationMs": 4820,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cuenta",
+      "acAsrConf": 242
+    }, {
+      "utf8": " que",
+      "acAsrConf": 203
+    }, {
+      "utf8": " respuesta",
+      "acAsrConf": 236
+    }, {
+      "utf8": " nos da",
+      "acAsrConf": 242
+    }, {
+      "utf8": "\nsúper",
+      "acAsrConf": 180
+    } ]
+  }, {
+    "tStartMs": 3259079,
+    "dDurationMs": 5701,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "acá pues nuestro famoso this",
+      "acAsrConf": 242
+    }, {
+      "utf8": " juntos",
+      "acAsrConf": 179
+    } ]
+  }, {
+    "tStartMs": 3267480,
+    "dDurationMs": 4260,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y",
+      "acAsrConf": 220
+    }, {
+      "utf8": " aquí tenemos renders",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 3277680,
+    "dDurationMs": 3679,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "en el",
+      "acAsrConf": 182
+    }, {
+      "utf8": " html",
+      "acAsrConf": 237
+    } ]
+  }, {
+    "tStartMs": 3282599,
+    "dDurationMs": 6500,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "es html pues como yo tengo la extensión\nmi amigo",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 3302880,
+    "dDurationMs": 2540,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "entonces",
+      "acAsrConf": 219
+    } ]
+  }, {
+    "tStartMs": 3305460,
+    "dDurationMs": 12540,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "gusto elementos punto\nAhora sí viene el nombrecito de nuestro",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 3314280,
+    "dDurationMs": 3720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "amigo que es",
+      "acAsrConf": 242
+    }, {
+      "utf8": " customer",
+      "acAsrConf": 236
+    } ]
+  }, {
+    "tStartMs": 3320520,
+    "dDurationMs": 3799,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y lo asociamos a la clase",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 3325460,
+    "dDurationMs": 9700,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Qué",
+      "acAsrConf": 242
+    }, {
+      "utf8": " belleza",
+      "acAsrConf": 238
+    }, {
+      "utf8": " muy bien ya\ntraemos el esquema",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 3332180,
+    "dDurationMs": 7480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pero es que aquí perdemos la\nfuncionalidad del html",
+      "acAsrConf": 242
+    }, {
+      "utf8": " relájense",
+      "acAsrConf": 217
+    } ]
+  }, {
+    "tStartMs": 3340020,
+    "dDurationMs": 9559,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "yo",
+      "acAsrConf": 240
+    }, {
+      "utf8": " usted hubiera hecho acá un archivo\nprueba punto html",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 3350099,
+    "dDurationMs": 6841,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "construye acá y luego copia y pego y me\nllevo para allá ya y al final pues borro",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 3355500,
+    "dDurationMs": 4980,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ese archivo para que presiono se dé\ncuenta que esa prueba y no me baje",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 3358079,
+    "dDurationMs": 8881,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "puntos porque pues",
+      "acAsrConf": 242
+    }, {
+      "utf8": " no",
+      "acAsrConf": 231
+    }, {
+      "utf8": " tenía nada que ver\ny",
+      "acAsrConf": 242
+    }, {
+      "utf8": " ya",
+      "acAsrConf": 239
+    }, {
+      "utf8": " fácil",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 3363480,
+    "dDurationMs": 3480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "entonces formulario",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 3367319,
+    "dDurationMs": 7081,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "fíjate vamos a tener en cuenta para\nnuestro cliente a ver",
+      "acAsrConf": 242
+    }, {
+      "utf8": " inventémonos",
+      "acAsrConf": 241
+    }, {
+      "utf8": " una",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 3372359,
+    "dDurationMs": 10081,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Data",
+      "acAsrConf": 240
+    }, {
+      "utf8": "\nPues el ID sí o no",
+      "acAsrConf": 242
+    }, {
+      "utf8": " Qué",
+      "acAsrConf": 224
+    }, {
+      "utf8": " es la",
+      "acAsrConf": 242
+    }, {
+      "utf8": " cédula",
+      "acAsrConf": 233
+    }, {
+      "utf8": " qué",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 3379319,
+    "dDurationMs": 3121,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "más",
+      "acAsrConf": 242
+    }, {
+      "utf8": " nombres",
+      "acAsrConf": 213
+    } ]
+  }, {
+    "tStartMs": 3382800,
+    "dDurationMs": 2779,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "apellidos",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 3385800,
+    "dDurationMs": 6620,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "email",
+      "acAsrConf": 242
+    }, {
+      "utf8": " qué más",
+      "acAsrConf": 225
+    }, {
+      "utf8": "\nel número de teléfono",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 3394380,
+    "dDurationMs": 3199,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "el número de teléfono",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 3399780,
+    "dDurationMs": 9360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sabe",
+      "acAsrConf": 220
+    }, {
+      "utf8": " que les voy a complicar la vida",
+      "acAsrConf": 242
+    }, {
+      "utf8": " acá",
+      "acAsrConf": 234
+    }, {
+      "utf8": "\nnormalmente en bases de datos el número",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 3405839,
+    "dDurationMs": 9901,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "telefónico es un campo multivalorado\nQué quiere decir que ese campo fue",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 3412740,
+    "dDurationMs": 8400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "asumir o tomar varios valores por\nejemplo usted tiene el teléfono móvil el",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 3418500,
+    "dDurationMs": 8460,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "teléfono de la oficina el teléfono de la\ncasa el teléfono de la suegra el",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 3424500,
+    "dDurationMs": 6559,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "teléfono de la novia el teléfono de la\notra novia y el teléfono de los etcétera",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 3429300,
+    "dDurationMs": 9240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "etcétera de los que quiera tener por ahí",
+      "acAsrConf": 242
+    }, {
+      "utf8": "\neso",
+      "acAsrConf": 177
+    }, {
+      "utf8": " donde quieren que lo contacte",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 3435540,
+    "dDurationMs": 8039,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "es normalmente nacen tablas intermedias\ny vamos a hacer una para enseñarles Cómo",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 3441240,
+    "dDurationMs": 6119,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "se generan las relaciones aquí en los\ndocumentos Recuerda que hay una parte de",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 3445680,
+    "dDurationMs": 4560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "relaciones que nosotros no vemos que yo\nles dije no eso no",
+      "acAsrConf": 242
+    }, {
+      "utf8": " no",
+      "acAsrConf": 195
+    }, {
+      "utf8": " usen",
+      "acAsrConf": 241
+    }, {
+      "utf8": " relaciones",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 3448859,
+    "dDurationMs": 6621,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "para que no se compliquen la existencia\npero vamos a complicarnos la existencia",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 3452940,
+    "dDurationMs": 2540,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que",
+      "acAsrConf": 216
+    }, {
+      "utf8": " un poquito",
+      "acAsrConf": 239
+    } ]
+  }, {
+    "tStartMs": 3456359,
+    "dDurationMs": 9541,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "entonces voy a tener por acá en mi Data\nAh bueno Y es que acá tenemos otra",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 3463260,
+    "dDurationMs": 8000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ventana ventas detalle",
+      "acAsrConf": 242
+    }, {
+      "utf8": " ventajas",
+      "acAsrConf": 196
+    }, {
+      "utf8": " tenemos",
+      "acAsrConf": 242
+    }, {
+      "utf8": "\nahí",
+      "acAsrConf": 241
+    } ]
+  }, {
+    "tStartMs": 3467579,
+    "dDurationMs": 9201,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "otra relación no la había visto entonces",
+      "acAsrConf": 242
+    }, {
+      "utf8": "\nva",
+      "acAsrConf": 211
+    }, {
+      "utf8": " a",
+      "acAsrConf": 238
+    }, {
+      "utf8": " poner aquí",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 3473940,
+    "dDurationMs": 2840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "clientes",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 3493140,
+    "dDurationMs": 5600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que te clame",
+      "acAsrConf": 242
+    }, {
+      "utf8": " yo",
+      "acAsrConf": 205
+    }, {
+      "utf8": " no está sirviendo",
+      "acAsrConf": 242
+    }, {
+      "utf8": " y",
+      "acAsrConf": 230
+    }, {
+      "utf8": "\nponer",
+      "acAsrConf": 242
+    }, {
+      "utf8": " cosas que",
+      "acAsrConf": 236
+    }, {
+      "utf8": " no",
+      "acAsrConf": 241
+    }, {
+      "utf8": " son",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 3499380,
+    "dDurationMs": 3679,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Listo ya quedó contactos",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 3503760,
+    "dDurationMs": 7500,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "entonces\naquí tenemos que",
+      "acAsrConf": 242
+    }, {
+      "utf8": " aquí",
+      "acAsrConf": 239
+    }, {
+      "utf8": " debemos tener algo",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 3508740,
+    "dDurationMs": 6200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que se llame\ncontactos",
+      "acAsrConf": 242
+    }, {
+      "utf8": " sí",
+      "acAsrConf": 240
+    }, {
+      "utf8": " o no",
+      "acAsrConf": 227
+    } ]
+  }, {
+    "tStartMs": 3521640,
+    "dDurationMs": 3000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "punto",
+      "acAsrConf": 198
+    } ]
+  }, {
+    "tStartMs": 3533520,
+    "dDurationMs": 9079,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "acá\nyo lo que le digo no es mentiras que con",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 3538319,
+    "dDurationMs": 4280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "una que hagan",
+      "acAsrConf": 242
+    }, {
+      "utf8": " el",
+      "acAsrConf": 226
+    }, {
+      "utf8": " resto",
+      "acAsrConf": 241
+    } ]
+  }, {
+    "tStartMs": 3547520,
+    "dDurationMs": 3180,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y",
+      "acAsrConf": 237
+    }, {
+      "utf8": " que",
+      "acAsrConf": 215
+    }, {
+      "utf8": " no",
+      "acAsrConf": 187
+    } ]
+  }, {
+    "tStartMs": 3565319,
+    "dDurationMs": 5961,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Ah no no",
+      "acAsrConf": 242
+    }, {
+      "utf8": " llamó",
+      "acAsrConf": 218
+    }, {
+      "utf8": " nada todavía",
+      "acAsrConf": 242
+    }, {
+      "utf8": "\nhabíamos",
+      "acAsrConf": 232
+    }, {
+      "utf8": " naita",
+      "acAsrConf": 199
+    } ]
+  }, {
+    "tStartMs": 3571940,
+    "dDurationMs": 7300,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Mire\nle voy a garantizar que hacemos customer",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 3576900,
+    "dDurationMs": 8100,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Y ustedes van a ser capaces de hacer por\nlo menos personal flota trayectos",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 3586380,
+    "dDurationMs": 8000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "solitos\nvamos a hacer la prueba",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 3591900,
+    "dDurationMs": 2480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "entonces",
+      "acAsrConf": 240
+    } ]
+  }, {
+    "tStartMs": 3594619,
+    "dDurationMs": 9661,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "necesitamos un formulario realmente pues\nformularios tenemos muchos yo no me voy",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 3600480,
+    "dDurationMs": 3800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a crear uno nuevo",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 3610040,
+    "dDurationMs": 4200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Sí pero yo lo",
+      "acAsrConf": 242
+    }, {
+      "utf8": " arranqué",
+      "acAsrConf": 223
+    }, {
+      "utf8": " de nuevo",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 3614280,
+    "dDurationMs": 6019,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "No me asusten\npero",
+      "acAsrConf": 242
+    }, {
+      "utf8": " sí",
+      "acAsrConf": 205
+    }, {
+      "utf8": " lo voy a detener",
+      "acAsrConf": 242
+    } ]
+  } ]
+}

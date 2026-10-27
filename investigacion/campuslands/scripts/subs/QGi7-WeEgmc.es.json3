@@ -1,0 +1,106 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  }, {
+    "mhModeHint": 2,
+    "juJustifCode": 0,
+    "sdScrollDir": 3
+  } ],
+  "wpWinPositions": [ {
+  
+  }, {
+    "apPoint": 6,
+    "ahHorPos": 20,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  } ],
+  "events": [ {
+    "tStartMs": 0,
+    "id": 1,
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 0,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Hola, me presento. Mi nombre es Fabián\nCamilo Pertus Torres, tengo 21 años y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 4240,
+    "dDurationMs": 6800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "nací en Cúcuta. Durante los primeros 15\naños de mi vida viví en Cúcuta. Luego me",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 9320,
+    "dDurationMs": 6600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mudé a Santa Marta para terminar mis\nestudios hasta los 17 años.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 14080,
+    "dDurationMs": 4640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Luego del fallecimiento de mi padre, me\nbusqué me mudé a Bucaramanga buscando",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 17760,
+    "dDurationMs": 5599,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "nuevas\noportunidades. Tengo un nivel C1 en",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 20920,
+    "dDurationMs": 6800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "inglés y he trabajado como game designer\ny parcialmente como desarrollador. Me",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 25439,
+    "dDurationMs": 7280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "enteré de Campus Land debido a mi madre\nque me presentó estas",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 29320,
+    "dDurationMs": 8640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "oportunidades y este desarrollo único en\nprogramación.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 34399,
+    "dDurationMs": 3561,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Por eso decidí convertirme en un",
+      "acAsrConf": 0
+    } ]
+  } ]
+}

@@ -6,3 +6,25 @@ automation/*/store/
 *.tmp
 *.bak
 .env
+diego_investigacion/.chrome_profile/
+
+# Python y ejecución local de automation/
+__pycache__/
+*.pyc
+*.log
+automation/.estado_*.json
+
+# Medios pesados (audio, video, fotogramas): viven en disco, no en git
+*.mp4
+*.mov
+*.wav
+*.ogg
+*.mp3
+*.m4a
+sources/audio/
+diego_investigacion/03_imagenes/
+diego_investigacion/04_videos_y_audios/
+diego_instagram/03_carruseles_e_imagenes/
+diego_instagram/04_reels_y_videos/
+*.hyb
+*.old

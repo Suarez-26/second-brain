@@ -1,0 +1,426 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  }, {
+    "mhModeHint": 2,
+    "juJustifCode": 0,
+    "sdScrollDir": 3
+  } ],
+  "wpWinPositions": [ {
+  
+  }, {
+    "apPoint": 6,
+    "ahHorPos": 20,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  } ],
+  "events": [ {
+    "tStartMs": 0,
+    "id": 1,
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 6640,
+    "dDurationMs": 9119,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "bueno descripción del proyecto Este es\nun proyecto que tiene como objetivo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 11759,
+    "dDurationMs": 9841,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "diseñar un o implementar de de un o\nimplementar un sistema de base de datos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 18400,
+    "dDurationMs": 11639,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "para la finca campus eh\neh con esto tenemos como fin eh mejorar",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 26720,
+    "dDurationMs": 9159,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "la eficiencia y la sostenibilidad de del\nproceso operativo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 31759,
+    "dDurationMs": 10041,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ah eh los requisitos para ese proyecto\npues requiere tener instalado my sequal",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 40200,
+    "dDurationMs": 7199,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "en la versión\n8.0.4 eh También necesitamos my squal",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 45800,
+    "dDurationMs": 6960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Word que es el que vamos a utilizar para\nejecutar la base de datos entonces",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 49879,
+    "dDurationMs": 8121,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "iniciamos con la instalación entonces\niniciamos ejecutando el archivo ddl que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 55960,
+    "dDurationMs": 11159,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "es la creación de las de las tablas y la\nbase de datos entonces amos el",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 62640,
+    "dDurationMs": 4479,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "archivo y como vemos se",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 67280,
+    "dDurationMs": 8400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ejecuta y como vemos se ejecuta\nexcelente todo en query eh Al final",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 73200,
+    "dDurationMs": 11040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tengo un s tablet para ver todas las\ntablas de de finca campus que se crearon",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 80200,
+    "dDurationMs": 12199,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y pasamos al siguiente archivo el\ndml en el dml tenemos inserciones con",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 89000,
+    "dDurationMs": 11119,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "datos random eh teniendo en cuenta que\nesta finca está enfocada en la venta de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 94759,
+    "dDurationMs": 12281,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cacao Entonces ejecutamos todos los\ninserts y damos como resultado todo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 103920,
+    "dDurationMs": 11400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "query ahora procederemos a ejecutar los\nprimeros 20 seleccionados por ejemplo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 111439,
+    "dDurationMs": 8921,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Porque si los ejecutamos todos e my cc\npresentará el error de que no se pueden",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 118479,
+    "dDurationMs": 7560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "no por una razón\nque desconocemos no se pueden ejecutar",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 122840,
+    "dDurationMs": 7520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "todos de una vez pero como vemos se\npueden ejecutar los s digamos que a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 128200,
+    "dDurationMs": 8560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ejecutar uno r digamos que este por\nejemplo lo ejecutamos y como pueden",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 133480,
+    "dDurationMs": 7160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "observar totalmente ejecutable el código\ncomo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 137560,
+    "dDurationMs": 9120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tal Bueno vamos a proceder a ejecutar\neventos eh vamos a comprobar que todos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 143239,
+    "dDurationMs": 8961,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "estén en excelentes condiciones con que\ntodos marquen query Entonces ejecutamos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 149599,
+    "dDurationMs": 7761,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "los eventos y efectivamente Pues todos\nse Ejecutan son 20",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 154560,
+    "dDurationMs": 8840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "eventos 10 de mi compañero y 10 de mi\npersona así lo hicimos en todos los en",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 160280,
+    "dDurationMs": 7280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "todos los scripts eh cada uno hizo la\nmitad de cada uno de los scripts y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 166000,
+    "dDurationMs": 7360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "procederemos con los\nsiguientes ahora seguimos con la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 170879,
+    "dDurationMs": 7881,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "explicación de parte de las funciones\nque en este caso sí se pueden ejecutar",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 176120,
+    "dDurationMs": 8800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "todas como vemos todas marcan query\nincluyendo también un resultado Y esto",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 182040,
+    "dDurationMs": 7520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "es gracias a que como son más poquitas\nconsultas que debe realizar má igual no",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 187159,
+    "dDurationMs": 9881,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "marcará el error mencionado en los\nSelect en este caso hicimos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 193159,
+    "dDurationMs": 9881,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "las las funciones de 10 mi compañeros y\n10,000 personas para de esta forma hacer",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 199519,
+    "dDurationMs": 8121,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "más eficiente las consultas de funciones\ny así ahorrarnos bastante tiempo Bueno",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 205959,
+    "dDurationMs": 6401,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ahora vamos con procedimientos los\nejecutamos y todos van a marcar query",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 210200,
+    "dDurationMs": 7959,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "porque están\nexcelente como vemos todos marcan query",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 216040,
+    "dDurationMs": 8479,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "con su respectivo\nllamado pros seguiré explicando la parte",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 222080,
+    "dDurationMs": 7159,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de triggers como podemos observar\nahorita ejecutamos solos los Trigger y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 227080,
+    "dDurationMs": 8280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "literalmente se crean O sea si\nactualizamos acá podemos ver que hasta",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 232400,
+    "dDurationMs": 9759,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "toda la lista de los triggers se\nencuentra disponible en este en este",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 238120,
+    "dDurationMs": 8080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "momento Digamos como cual nos ofrece una\nlista de Por ejemplo si se tiene un",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 244599,
+    "dDurationMs": 5241,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "error nos mostrará los detalles de ese\nerror y la tabla en este caso nos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 247680,
+    "dDurationMs": 8480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mostrará que la inserción es correcta\ngracias al logotipo y aparte de eso nos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 252840,
+    "dDurationMs": 7880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mostrará qué consulta es y también nos\nincluye el código de esta consulta en",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 258239,
+    "dDurationMs": 8041,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "este caso el Trigger nada más es un\ndisparador entonces continuamos con",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 263360,
+    "dDurationMs": 9800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "roles de usuario y permisos vamos a\nejecutar el código y como vemos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 270320,
+    "dDurationMs": 8840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "se ejecuta con un s para verificar cada\nuno de los permisos del usuario y vemos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 275240,
+    "dDurationMs": 3920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que cada usuario tiene su respectivo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 279720,
+    "dDurationMs": 11280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "permiso y con esto finalizamos eh la\npresentación de de las consultas de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 287639,
+    "dDurationMs": 3361,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "nuestro proyecto",
+      "acAsrConf": 0
+    } ]
+  } ]
+}

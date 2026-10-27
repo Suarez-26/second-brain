@@ -1,0 +1,4272 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  }, {
+    "mhModeHint": 2,
+    "juJustifCode": 0,
+    "sdScrollDir": 3
+  } ],
+  "wpWinPositions": [ {
+  
+  }, {
+    "apPoint": 6,
+    "ahHorPos": 20,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  } ],
+  "events": [ {
+    "tStartMs": 0,
+    "id": 1,
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 979,
+    "dDurationMs": 5641,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "bueno mis estimados Campers continuamos\ncon el ejercicio",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 7220,
+    "dDurationMs": 8339,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y las",
+      "acAsrConf": 242
+    }, {
+      "utf8": " y las de",
+      "acAsrConf": 200
+    }, {
+      "utf8": " ese",
+      "acAsrConf": 235
+    }, {
+      "utf8": " sacrificio que\nestamos haciendo el día de hoy valga la",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 13380,
+    "dDurationMs": 2179,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pena",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 15660,
+    "dDurationMs": 8420,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "entonces\nlo siguiente que vamos a hacer es",
+      "acAsrConf": 242
+    }, {
+      "utf8": " cuando",
+      "acAsrConf": 234
+    } ]
+  }, {
+    "tStartMs": 20640,
+    "dDurationMs": 8240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vemos",
+      "acAsrConf": 242
+    }, {
+      "utf8": " click",
+      "acAsrConf": 201
+    }, {
+      "utf8": " sobre este botón\nse nos",
+      "acAsrConf": 242
+    }, {
+      "utf8": " abra",
+      "acAsrConf": 238
+    } ]
+  }, {
+    "tStartMs": 27410,
+    "dDurationMs": 7390,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "[Música]"
+    }, {
+      "utf8": "\nelmas",
+      "acAsrConf": 237
+    }, {
+      "utf8": " Pero entonces cómo vamos a hacer",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 31140,
+    "dDurationMs": 8880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Esto bueno lo primero\nvamos a ubicarnos",
+      "acAsrConf": 242
+    }, {
+      "utf8": " en",
+      "acAsrConf": 178
+    } ]
+  }, {
+    "tStartMs": 47180,
+    "dDurationMs": 5039,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a",
+      "acAsrConf": 226
+    }, {
+      "utf8": " llevarnos esto Tal",
+      "acAsrConf": 242
+    }, {
+      "utf8": " cual",
+      "acAsrConf": 192
+    } ]
+  }, {
+    "tStartMs": 54680,
+    "dDurationMs": 9339,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "maravilloso control\ny nos vamos a ir para el componente o el",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 61320,
+    "dDurationMs": 5659,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "componente de la lista eso lo vamos a\npegar por aquí",
+      "acAsrConf": 242
+    }, {
+      "utf8": " abajo",
+      "acAsrConf": 186
+    } ]
+  }, {
+    "tStartMs": 67939,
+    "dDurationMs": 10601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "maravilloso",
+      "acAsrConf": 242
+    }, {
+      "utf8": "\nmaravilloso",
+      "acAsrConf": 177
+    }, {
+      "utf8": " habla vamos a organizar esto",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 74580,
+    "dDurationMs": 9120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vamos a borrar este comentario",
+      "acAsrConf": 242
+    }, {
+      "utf8": " no me\ninteresa",
+      "acAsrConf": 208
+    } ]
+  }, {
+    "tStartMs": 80060,
+    "dDurationMs": 10980,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vamos a",
+      "acAsrConf": 242
+    }, {
+      "utf8": " ir",
+      "acAsrConf": 228
+    }, {
+      "utf8": " ordenando esto",
+      "acAsrConf": 242
+    }, {
+      "utf8": "\nPues dice",
+      "acAsrConf": 201
+    }, {
+      "utf8": " que",
+      "acAsrConf": 241
+    }, {
+      "utf8": " ante todo el orden",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 87420,
+    "dDurationMs": 3620,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "lo",
+      "acAsrConf": 242
+    }, {
+      "utf8": " decimos",
+      "acAsrConf": 200
+    }, {
+      "utf8": " acá",
+      "acAsrConf": 158
+    } ]
+  }, {
+    "tStartMs": 92260,
+    "dDurationMs": 3280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "[Música]"
+    } ]
+  }, {
+    "tStartMs": 97400,
+    "dDurationMs": 9500,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "este señor\n[Música]",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 111079,
+    "dDurationMs": 7500,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "estos amigos",
+      "acAsrConf": 131
+    }, {
+      "utf8": " por",
+      "acAsrConf": 206
+    }, {
+      "utf8": " acá",
+      "acAsrConf": 164
+    }, {
+      "utf8": "\ny creo que tenemos suficiente",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 121040,
+    "dDurationMs": 3780,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ahora tomamos",
+      "acAsrConf": 242
+    }, {
+      "utf8": " esto",
+      "acAsrConf": 209
+    } ]
+  }, {
+    "tStartMs": 125119,
+    "dDurationMs": 7601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "creo que ahí está como bien está\nperfecto",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 129179,
+    "dDurationMs": 8640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vamos a cambiarle como primera medida\nvamos a cambiarle el aire",
+      "acAsrConf": 242
+    }, {
+      "utf8": " entonces",
+      "acAsrConf": 224
+    } ]
+  }, {
+    "tStartMs": 139980,
+    "dDurationMs": 5899,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "lsd",
+      "acAsrConf": 167
+    }, {
+      "utf8": "\nVamos a ponerle",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 148099,
+    "dDurationMs": 4441,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "así",
+      "acAsrConf": 224
+    }, {
+      "utf8": " se llama",
+      "acAsrConf": 242
+    }, {
+      "utf8": " nuestro",
+      "acAsrConf": 229
+    } ]
+  }, {
+    "tStartMs": 153980,
+    "dDurationMs": 6600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Ok Perfecto entonces por acá vamos a\ntener",
+      "acAsrConf": 242
+    }, {
+      "utf8": " los siguientes",
+      "acAsrConf": 209
+    } ]
+  }, {
+    "tStartMs": 161340,
+    "dDurationMs": 7940,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "nosotros necesitamos crear\nel listener de este botón",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 169379,
+    "dDurationMs": 5661,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Entonces\nel botón que tenemos nosotros para",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 175920,
+    "dDurationMs": 5660,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mí",
+      "acAsrConf": 198
+    }, {
+      "utf8": " por",
+      "acAsrConf": 179
+    }, {
+      "utf8": " acá",
+      "acAsrConf": 219
+    }, {
+      "utf8": "\nvamos a colocarle",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 184379,
+    "dDurationMs": 3381,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y",
+      "acAsrConf": 201
+    }, {
+      "utf8": " se va a",
+      "acAsrConf": 193
+    }, {
+      "utf8": " llamar",
+      "acAsrConf": 182
+    } ]
+  }, {
+    "tStartMs": 195800,
+    "dDurationMs": 6060,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vamos a",
+      "acAsrConf": 242
+    }, {
+      "utf8": " hacerlo",
+      "acAsrConf": 193
+    }, {
+      "utf8": " lo",
+      "acAsrConf": 231
+    }, {
+      "utf8": " más simple posible\nPero efectivo",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 200760,
+    "dDurationMs": 7640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ahora\ndespués de definir ese punto",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 205159,
+    "dDurationMs": 7741,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tenemos que tenemos para\nnuestro código",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 210440,
+    "dDurationMs": 10920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tenemos por acá\nrecordemos que siempre es importante",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 217760,
+    "dDurationMs": 3600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "crearnos",
+      "acAsrConf": 242
+    }, {
+      "utf8": " una",
+      "acAsrConf": 240
+    } ]
+  }, {
+    "tStartMs": 222959,
+    "dDurationMs": 10801,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "una",
+      "acAsrConf": 229
+    }, {
+      "utf8": " función",
+      "acAsrConf": 242
+    }, {
+      "utf8": " entonces",
+      "acAsrConf": 211
+    }, {
+      "utf8": "\nvamos a decirle por acá",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 229879,
+    "dDurationMs": 7181,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que necesitamos una función",
+      "acAsrConf": 242
+    }, {
+      "utf8": " del diseño",
+      "acAsrConf": 195
+    }, {
+      "utf8": "\npara",
+      "acAsrConf": 242
+    }, {
+      "utf8": " llamar",
+      "acAsrConf": 223
+    } ]
+  }, {
+    "tStartMs": 237599,
+    "dDurationMs": 2780,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "moda",
+      "acAsrConf": 176
+    } ]
+  }, {
+    "tStartMs": 253700,
+    "dDurationMs": 6779,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y vamos a hacer acá\nlo que sabemos",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 269720,
+    "dDurationMs": 9300,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a cargar\nnuestros",
+      "acAsrConf": 242
+    }, {
+      "utf8": " selector",
+      "acAsrConf": 239
+    }, {
+      "utf8": " de nuestro botón que",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 276600,
+    "dDurationMs": 2420,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "se llama",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 283220,
+    "dDurationMs": 5940,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "incluso no podemos decirle podemos\ndecirle",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 291660,
+    "dDurationMs": 4259,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mejor",
+      "acAsrConf": 179
+    }, {
+      "utf8": " son muchos",
+      "acAsrConf": 242
+    }, {
+      "utf8": " puntos",
+      "acAsrConf": 170
+    } ]
+  }, {
+    "tStartMs": 305070,
+    "dDurationMs": 3060,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "[Música]"
+    } ]
+  }, {
+    "tStartMs": 331500,
+    "dDurationMs": 5419,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a colocar por aquí\nno",
+      "acAsrConf": 242
+    }, {
+      "utf8": " sé",
+      "acAsrConf": 189
+    } ]
+  }, {
+    "tStartMs": 337139,
+    "dDurationMs": 9441,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "allí recordemos que estos son argumentos\nson argumentos",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 342780,
+    "dDurationMs": 3800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "eso es una función de",
+      "acAsrConf": 242
+    }, {
+      "utf8": " flecha",
+      "acAsrConf": 210
+    } ]
+  }, {
+    "tStartMs": 347240,
+    "dDurationMs": 5399,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y a continuación voy a empezar a definir",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 354600,
+    "dDurationMs": 6379,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "El diseño no sé lo que voy a hacer es\ndecir aquí Señor",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 369060,
+    "dDurationMs": 4220,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y",
+      "acAsrConf": 192
+    }, {
+      "utf8": " Aquí vamos a poner el evento que",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 376199,
+    "dDurationMs": 3801,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "toma el argumento de referencia",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 382819,
+    "dDurationMs": 3301,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vemos",
+      "acAsrConf": 204
+    }, {
+      "utf8": " por",
+      "acAsrConf": 242
+    }, {
+      "utf8": " acá",
+      "acAsrConf": 239
+    } ]
+  }, {
+    "tStartMs": 387199,
+    "dDurationMs": 10681,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y",
+      "acAsrConf": 179
+    }, {
+      "utf8": " sencillo lo que voy a buscar",
+      "acAsrConf": 242
+    }, {
+      "utf8": " es",
+      "acAsrConf": 203
+    }, {
+      "utf8": "\nimprimir en con solo un mensaje primero",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 394580,
+    "dDurationMs": 11800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "por ahora simplemente me voy a dejar el\nmensaje en consola",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 400880,
+    "dDurationMs": 5500,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "para esto voy a decirle",
+      "acAsrConf": 242
+    }, {
+      "utf8": " consola",
+      "acAsrConf": 183
+    } ]
+  }, {
+    "tStartMs": 421560,
+    "dDurationMs": 11419,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "esa función la vamos a llamar después de\nque se termine",
+      "acAsrConf": 242
+    }, {
+      "utf8": " de",
+      "acAsrConf": 227
+    }, {
+      "utf8": " renderizar la lista",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 430800,
+    "dDurationMs": 9080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "si yo no hago",
+      "acAsrConf": 242
+    }, {
+      "utf8": "\ndesde",
+      "acAsrConf": 240
+    }, {
+      "utf8": " antes no voy a poder cargar los",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 437460,
+    "dDurationMs": 2420,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "eventos",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 440039,
+    "dDurationMs": 10761,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de Ese botón Entonces vamos a hacerlo\nacá después de que ya se asigne todo",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 447500,
+    "dDurationMs": 3300,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "voy a decirle",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 451039,
+    "dDurationMs": 5581,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "junto con\nmoda",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 457460,
+    "dDurationMs": 7679,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vamos a comprobar\nsi esto está funcionando o no",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 471680,
+    "dDurationMs": 10900,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "me",
+      "acAsrConf": 242
+    }, {
+      "utf8": " aparece",
+      "acAsrConf": 227
+    }, {
+      "utf8": " dos y aquí me aparece pues\nfabuloso",
+      "acAsrConf": 242
+    }, {
+      "utf8": " ahora",
+      "acAsrConf": 176
+    } ]
+  }, {
+    "tStartMs": 480000,
+    "dDurationMs": 10340,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "lo siguiente que voy a hacer es imprimir\naquí en la consola el código",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 485720,
+    "dDurationMs": 12900,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "el código de elemento que deseo\nbueno mis estimados",
+      "acAsrConf": 242
+    }, {
+      "utf8": " Campos",
+      "acAsrConf": 208
+    }, {
+      "utf8": " Entonces",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 494660,
+    "dDurationMs": 3960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tenemos grandes retos",
+      "acAsrConf": 242
+    }, {
+      "utf8": " acá",
+      "acAsrConf": 227
+    } ]
+  }, {
+    "tStartMs": 498720,
+    "dDurationMs": 7759,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ya nosotros tenemos\ntenemos una respuesta",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 504419,
+    "dDurationMs": 6141,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "si yo le doy acá",
+      "acAsrConf": 242
+    }, {
+      "utf8": "\nva",
+      "acAsrConf": 166
+    }, {
+      "utf8": " a tener",
+      "acAsrConf": 199
+    }, {
+      "utf8": " Okidoki",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 510620,
+    "dDurationMs": 9940,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pero tenemos que aparecer nuestro\nEntonces vamos a mirar",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 516979,
+    "dDurationMs": 7441,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Vamos a entrar a la página de\nbusto vamos a buscar",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 522500,
+    "dDurationMs": 6839,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "componentes\nvamos a buscar por acá",
+      "acAsrConf": 242
+    }, {
+      "utf8": " en",
+      "acAsrConf": 140
+    } ]
+  }, {
+    "tStartMs": 529440,
+    "dDurationMs": 11579,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "modal y por acá nos da una pista nos da\nuna pista",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 535459,
+    "dDurationMs": 12661,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "este señor lms que vaya y busque El",
+      "acAsrConf": 242
+    }, {
+      "utf8": "\nmodal",
+      "acAsrConf": 239
+    }, {
+      "utf8": " y por acá me dice que le puedo",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 544260,
+    "dDurationMs": 3860,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "agregar el",
+      "acAsrConf": 242
+    }, {
+      "utf8": " listener",
+      "acAsrConf": 224
+    } ]
+  }, {
+    "tStartMs": 548640,
+    "dDurationMs": 8540,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vamos a ver\nvamos a ver cómo funciona esto",
+      "acAsrConf": 242
+    }, {
+      "utf8": " es",
+      "acAsrConf": 192
+    } ]
+  }, {
+    "tStartMs": 553740,
+    "dDurationMs": 14240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "totalmente cierto\nOK Yo creo",
+      "acAsrConf": 242
+    }, {
+      "utf8": " que",
+      "acAsrConf": 223
+    }, {
+      "utf8": " este es el yo me imagino",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 562140,
+    "dDurationMs": 5840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que se va a cargar ejecutar el elemento",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 573600,
+    "dDurationMs": 6679,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "en este tema vamos a",
+      "acAsrConf": 242
+    }, {
+      "utf8": " revisar",
+      "acAsrConf": 199
+    }, {
+      "utf8": "\ntenemos listas",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 584420,
+    "dDurationMs": 9400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tratando de utilizar tiempo buscando\ncódigo",
+      "acAsrConf": 242
+    }, {
+      "utf8": " de",
+      "acAsrConf": 185
+    }, {
+      "utf8": " otros proyectos que ya tengo",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 590339,
+    "dDurationMs": 3481,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "montados entonces",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 595040,
+    "dDurationMs": 7620,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "la",
+      "acAsrConf": 189
+    }, {
+      "utf8": " documentación",
+      "acAsrConf": 233
+    }, {
+      "utf8": " nosotros hacemos un\nmodal se",
+      "acAsrConf": 242
+    }, {
+      "utf8": " llama",
+      "acAsrConf": 224
+    } ]
+  }, {
+    "tStartMs": 599300,
+    "dDurationMs": 7680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vamos",
+      "acAsrConf": 242
+    }, {
+      "utf8": " a",
+      "acAsrConf": 224
+    }, {
+      "utf8": " tratar de abrirlo\npor acá",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 604580,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y le voy a decir\nacá abrir",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 612140,
+    "dDurationMs": 10379,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "esto como estamos con componentes en las\ncosas se nos hace un poquito más extensa",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 619580,
+    "dDurationMs": 6900,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pero mucho más ordenado\nvenimos para ajustar",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 626779,
+    "dDurationMs": 3901,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "acá me voy a copiar esto",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 630980,
+    "dDurationMs": 3240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "en",
+      "acAsrConf": 206
+    }, {
+      "utf8": " visual",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 637920,
+    "dDurationMs": 7039,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "por acá Entonces el modal para mí se\nllama",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 648779,
+    "dDurationMs": 3000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cuando",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 661200,
+    "dDurationMs": 5520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ahora",
+      "acAsrConf": 181
+    }, {
+      "utf8": "\nmismo",
+      "acAsrConf": 201
+    } ]
+  }, {
+    "tStartMs": 680160,
+    "dDurationMs": 4700,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "si recordamos vamos a",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 685260,
+    "dDurationMs": 10620,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cocinar si recordamos por acá\nnuestro botón nuestro botón",
+      "acAsrConf": 242
+    }, {
+      "utf8": " tiene",
+      "acAsrConf": 221
+    } ]
+  }, {
+    "tStartMs": 692779,
+    "dDurationMs": 10141,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "esa",
+      "acAsrConf": 242
+    }, {
+      "utf8": " opción",
+      "acAsrConf": 211
+    }, {
+      "utf8": "\npuede ser todo el moda",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 698300,
+    "dDurationMs": 11279,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "es",
+      "acAsrConf": 182
+    }, {
+      "utf8": " el",
+      "acAsrConf": 221
+    }, {
+      "utf8": " botón que se encarga de abrir\nel",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 704480,
+    "dDurationMs": 5099,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Entonces vamos a",
+      "acAsrConf": 242
+    }, {
+      "utf8": " cogernos",
+      "acAsrConf": 236
+    }, {
+      "utf8": " esto con",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 710399,
+    "dDurationMs": 8841,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "todo Vámonos al formulario de la lista\npor acá donde",
+      "acAsrConf": 242
+    }, {
+      "utf8": " está",
+      "acAsrConf": 241
+    }, {
+      "utf8": " nuestro",
+      "acAsrConf": 242
+    }, {
+      "utf8": " botón",
+      "acAsrConf": 230
+    }, {
+      "utf8": " de",
+      "acAsrConf": 233
+    } ]
+  }, {
+    "tStartMs": 720019,
+    "dDurationMs": 3241,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "editar",
+      "acAsrConf": 198
+    }, {
+      "utf8": " botón",
+      "acAsrConf": 195
+    } ]
+  }, {
+    "tStartMs": 744920,
+    "dDurationMs": 8220,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Ya lo tenemos",
+      "acAsrConf": 242
+    }, {
+      "utf8": " acá",
+      "acAsrConf": 190
+    }, {
+      "utf8": "\nentonces",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 749000,
+    "dDurationMs": 4140,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "aquí nosotros se llama",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 754100,
+    "dDurationMs": 4440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vamos a buscarlo por acá",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 761480,
+    "dDurationMs": 3720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vamos a cambiar ese",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 772440,
+    "dDurationMs": 13339,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "qué esperaría acá",
+      "acAsrConf": 242
+    }, {
+      "utf8": " lo",
+      "acAsrConf": 216
+    }, {
+      "utf8": " esperaría",
+      "acAsrConf": 240
+    }, {
+      "utf8": " que",
+      "acAsrConf": 220
+    }, {
+      "utf8": "\nse nos",
+      "acAsrConf": 242
+    }, {
+      "utf8": " abra",
+      "acAsrConf": 194
+    }, {
+      "utf8": " el",
+      "acAsrConf": 240
+    }, {
+      "utf8": " modo",
+      "acAsrConf": 187
+    } ]
+  }, {
+    "tStartMs": 780899,
+    "dDurationMs": 4880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Pero entonces tenemos que darle",
+      "acAsrConf": 242
+    }, {
+      "utf8": " acá",
+      "acAsrConf": 238
+    } ]
+  }, {
+    "tStartMs": 790100,
+    "dDurationMs": 5340,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "después de que esté el don cargado\ndebidamente",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 803360,
+    "dDurationMs": 3100,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "[Música]"
+    } ]
+  }, {
+    "tStartMs": 810770,
+    "dDurationMs": 6599,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "[Música]"
+    } ]
+  }, {
+    "tStartMs": 830130,
+    "dDurationMs": 3370,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "[Música]"
+    } ]
+  }, {
+    "tStartMs": 834920,
+    "dDurationMs": 9880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tenemos que agregar algo más Ah okay\nfalta agregar este elemento",
+      "acAsrConf": 242
+    }, {
+      "utf8": " control",
+      "acAsrConf": 127
+    } ]
+  }, {
+    "tStartMs": 846170,
+    "dDurationMs": 10750,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "[Música]"
+    }, {
+      "utf8": "\npara que no salga",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 853579,
+    "dDurationMs": 10241,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "digamos fijo y no se oculta cuando le\npor fuera es muy importante eso nos va a",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 861360,
+    "dDurationMs": 9500,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ayudar a que el usuario no Cometa\nbarbaridades o",
+      "acAsrConf": 242
+    }, {
+      "utf8": " se hace",
+      "acAsrConf": 205
+    }, {
+      "utf8": " errores",
+      "acAsrConf": 228
+    }, {
+      "utf8": " en sus",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 868139,
+    "dDurationMs": 5901,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "extremos",
+      "acAsrConf": 242
+    }, {
+      "utf8": " burradas",
+      "acAsrConf": 216
+    }, {
+      "utf8": "\npor",
+      "acAsrConf": 225
+    }, {
+      "utf8": " acá",
+      "acAsrConf": 210
+    } ]
+  }, {
+    "tStartMs": 874980,
+    "dDurationMs": 2780,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "dice",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 879920,
+    "dDurationMs": 5020,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que no se",
+      "acAsrConf": 202
+    }, {
+      "utf8": " está",
+      "acAsrConf": 236
+    }, {
+      "utf8": " cargando muy",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 888500,
+    "dDurationMs": 12120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Ah okay Okay claro tiene toda la razón\nacá como esto es",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 896240,
+    "dDurationMs": 8800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "un iPhone todo con el símbolo numeral\nno se os olvide",
+      "acAsrConf": 242
+    }, {
+      "utf8": " estimados",
+      "acAsrConf": 212
+    } ]
+  }, {
+    "tStartMs": 907399,
+    "dDurationMs": 5281,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "por lo menos no sale error igual",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 914120,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "su formulario que piense que no lo\ntuvimos que reconstruir lo tenemos",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 919380,
+    "dDurationMs": 10380,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "totalmente\nDinámico y esto me parece",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 924139,
+    "dDurationMs": 10021,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "una belleza Entonces vamos a mirar\ntodo lo que hicimos todo lo que hicimos",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 932279,
+    "dDurationMs": 8461,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "si se dan cuenta\nnos va a garantizar el manejo total de",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 937500,
+    "dDurationMs": 10199,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "nuestra interfaz de usuario y esta base\ntotalmente dinámica es lo más",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 944220,
+    "dDurationMs": 10100,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "interesante Ok perfecto pero entonces\naquí nos falta algo muy importante que",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 950699,
+    "dDurationMs": 11601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cuando le demos",
+      "acAsrConf": 242
+    }, {
+      "utf8": " clic",
+      "acAsrConf": 216
+    }, {
+      "utf8": " sobre el botón\nsobre el botón",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 956600,
+    "dDurationMs": 5700,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "se obtenga se obtenga el ID",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 966060,
+    "dDurationMs": 11700,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "del usuario que quiere el mundo vamos a\nrevisar cómo lo hacemos bien en este",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 973500,
+    "dDurationMs": 10820,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "caso en este caso nos va a tocar a Ese\nbotón agregarle nuestro amigo inquieto",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 981360,
+    "dDurationMs": 2960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "en",
+      "acAsrConf": 242
+    }, {
+      "utf8": " datacentro",
+      "acAsrConf": 232
+    } ]
+  }, {
+    "tStartMs": 985920,
+    "dDurationMs": 5159,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Data",
+      "acAsrConf": 207
+    }, {
+      "utf8": "\ny",
+      "acAsrConf": 187
+    } ]
+  }, {
+    "tStartMs": 998600,
+    "dDurationMs": 3239,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "va",
+      "acAsrConf": 185
+    }, {
+      "utf8": " a",
+      "acAsrConf": 242
+    }, {
+      "utf8": " ser",
+      "acAsrConf": 183
+    }, {
+      "utf8": " igual",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1004660,
+    "dDurationMs": 4919,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pesos",
+      "acAsrConf": 199
+    }, {
+      "utf8": "\nle ponemos",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1012860,
+    "dDurationMs": 5789,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "punto\n[Música]",
+      "acAsrConf": 194
+    } ]
+  }, {
+    "tStartMs": 1021639,
+    "dDurationMs": 6060,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Ok Ok\nperfecto",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1025540,
+    "dDurationMs": 5879,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "en este momento",
+      "acAsrConf": 242
+    }, {
+      "utf8": "\ntenemos nuestra",
+      "acAsrConf": 190
+    }, {
+      "utf8": " Data",
+      "acAsrConf": 167
+    } ]
+  }, {
+    "tStartMs": 1032000,
+    "dDurationMs": 7520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ahora\nen nuestro método",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1035679,
+    "dDurationMs": 3841,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "por acá por acá",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1039560,
+    "dDurationMs": 5600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "[Música]"
+    }, {
+      "utf8": "\nmenos",
+      "acAsrConf": 229
+    }, {
+      "utf8": " esto",
+      "acAsrConf": 218
+    } ]
+  }, {
+    "tStartMs": 1046400,
+    "dDurationMs": 3860,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tengo que extraer",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1065179,
+    "dDurationMs": 2421,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "punto",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1078340,
+    "dDurationMs": 4259,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "está",
+      "acAsrConf": 241
+    }, {
+      "utf8": " funcionando\n[Música]",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1086140,
+    "dDurationMs": 7080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "punto",
+      "acAsrConf": 179
+    }, {
+      "utf8": " y",
+      "acAsrConf": 194
+    }, {
+      "utf8": "\nvamos a mirar",
+      "acAsrConf": 239
+    }, {
+      "utf8": " por acá",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1099160,
+    "dDurationMs": 12060,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ambas muy definido vamos a revisar vamos\na revisar si ve que nos quedan",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1107500,
+    "dDurationMs": 3720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Bueno",
+      "acAsrConf": 240
+    }, {
+      "utf8": " chicos entonces",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1112520,
+    "dDurationMs": 12960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ya logramos abrir el mudado ahora lo que\nnecesito es pasar el ID del usuario que",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1121700,
+    "dDurationMs": 6859,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "voy a modificar para buscarlo con la\nsolicitud",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1126580,
+    "dDurationMs": 8640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Pero entonces\npor acá tenemos lo siguiente",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1132500,
+    "dDurationMs": 2720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tenemos",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1135500,
+    "dDurationMs": 9419,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que debemos agregarle el Data set pero\nveamos por aquí en Data set al cual",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1142100,
+    "dDurationMs": 9620,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "estamos haciendo el ID y le pasamos el\naire resulta que en mi caso estoy usando",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1148460,
+    "dDurationMs": 9000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "unos iconos de voz icon pero resulta que\nhay una Independencia entre el botón y",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1154400,
+    "dDurationMs": 7100,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "el icono Entonces cuando yo lo vea el\nbotón todo funciona bien porque tiene",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1162220,
+    "dDurationMs": 9360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pero en su defecto el icono no tenía el\nData Entonces al momento de hacer clic a",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1169340,
+    "dDurationMs": 9719,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "la",
+      "acAsrConf": 236
+    }, {
+      "utf8": " imagen\nestá reconociendo la imagen y no el",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1175160,
+    "dDurationMs": 13500,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "botón entonces lo que hice fue agregarle\nel mismo Data que A quién a la imagen",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1183460,
+    "dDurationMs": 9099,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "por qué no entiendo por qué pero si me\nestaba influyendo entonces es muy",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1190160,
+    "dDurationMs": 8040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "importante esto cuando utilicemos este\ntipo uno este tipo de iconos pasado un",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1195440,
+    "dDurationMs": 10040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "texto en Fuentes hay que tener\nprecaución con esto Entonces ya con esto",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1202360,
+    "dDurationMs": 8280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "programado y funcionando\ntodo una bellezura por acá",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1210880,
+    "dDurationMs": 10860,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Aquí",
+      "acAsrConf": 239
+    }, {
+      "utf8": " reemplace",
+      "acAsrConf": 237
+    }, {
+      "utf8": " los botones pensando que\nera los botones Pero no eran los botones",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1218080,
+    "dDurationMs": 9839,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "te lo reemplace por una por un enlace\npuse las clases de btn y VPN Entonces es",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1225679,
+    "dDurationMs": 8221,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "muy importante que como yo quiero abrir\ncon un botón de",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1231160,
+    "dDurationMs": 11980,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "editar Quiero abrir el meta entonces\naquí lo tengo ahora ahora qué tengo que",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1238700,
+    "dDurationMs": 9740,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hacer después de que ya logre obtener la\ninformación",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1244660,
+    "dDurationMs": 3780,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tengo que llamar",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1248620,
+    "dDurationMs": 8320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tengo que llamar el formulario\ny recordemos que el formulario se está",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1254419,
+    "dDurationMs": 11101,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "llamando por acá en el modal ya está\ncargadito todo hermoso y bello entonces",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1261340,
+    "dDurationMs": 6360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "lo que voy a hacer por acá es lo\nsiguiente",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1273860,
+    "dDurationMs": 3080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "es",
+      "acAsrConf": 194
+    }, {
+      "utf8": " por",
+      "acAsrConf": 232
+    }, {
+      "utf8": " acá",
+      "acAsrConf": 198
+    } ]
+  }, {
+    "tStartMs": 1277640,
+    "dDurationMs": 10140,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "aquí",
+      "acAsrConf": 235
+    }, {
+      "utf8": " hay algo muy importante que debemos\ntener en",
+      "acAsrConf": 242
+    }, {
+      "utf8": " cuenta",
+      "acAsrConf": 234
+    } ]
+  }, {
+    "tStartMs": 1284200,
+    "dDurationMs": 7479,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Es",
+      "acAsrConf": 189
+    }, {
+      "utf8": " que este formulario vamos a tener un\npequeño inconveniente resulta",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1300140,
+    "dDurationMs": 8600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "aquí tenemos\ndonde guardar es decir cuando termine",
+      "acAsrConf": 242
+    }, {
+      "utf8": " de",
+      "acAsrConf": 181
+    } ]
+  }, {
+    "tStartMs": 1306679,
+    "dDurationMs": 2061,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "guardar",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1312679,
+    "dDurationMs": 3740,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "va a quedar activo en",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1318740,
+    "dDurationMs": 9360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ok Ya quedar activo\nPues yo le estoy diciendo que sí o sí",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1325179,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "la acción que se va a llevar a cabo es\nun pozo",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1332679,
+    "dDurationMs": 7801,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y al ser un post pues ahí donde vamos a\ntener un gran problema",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1342940,
+    "dDurationMs": 8940,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Entonces\nsí yo lo que estoy haciendo lo que",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1347780,
+    "dDurationMs": 12920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "quiero hacer es un\ntendría que tener en cuenta",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1355059,
+    "dDurationMs": 12841,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y verificar y cambiar ese método post\npor un get primero para consultar",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1365980,
+    "dDurationMs": 7540,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "bueno\nperdón",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1370000,
+    "dDurationMs": 11940,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que",
+      "acAsrConf": 239
+    }, {
+      "utf8": " es para editar\nEntonces",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1375580,
+    "dDurationMs": 6360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sí",
+      "acAsrConf": 219
+    }, {
+      "utf8": " necesitaríamos saber en este momento",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1382240,
+    "dDurationMs": 12360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Qué hacer con ese elemento\nvoy a hacer una prueba desde mi lista",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1390400,
+    "dDurationMs": 11580,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Qué tipo de prueba voy a hacer\nvoy a buscar por acá la manera",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1398900,
+    "dDurationMs": 6380,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de que este botón\nponerle un nombre",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1417919,
+    "dDurationMs": 4201,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "voy a tratar de",
+      "acAsrConf": 242
+    }, {
+      "utf8": " deshabilitarlo",
+      "acAsrConf": 231
+    } ]
+  }, {
+    "tStartMs": 1423679,
+    "dDurationMs": 14041,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y habilitar el de editar vamos a mirar\nvoy a tratar de hacer esto desde lista",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1433600,
+    "dDurationMs": 9780,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "se supone que aquí ya está cargado en el\nDomo",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1438940,
+    "dDurationMs": 4440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y ya está cargado el formulario",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1444100,
+    "dDurationMs": 10559,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "entonces\nvengo allá Vamos allá",
+      "acAsrConf": 242
+    }, {
+      "utf8": " Vamos allá",
+      "acAsrConf": 223
+    }, {
+      "utf8": " a",
+      "acAsrConf": 242
+    }, {
+      "utf8": " ver",
+      "acAsrConf": 237
+    } ]
+  }, {
+    "tStartMs": 1451400,
+    "dDurationMs": 3259,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cómo logramos hacer esto",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1464539,
+    "dDurationMs": 5131,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "guardar\n[Música]",
+      "acAsrConf": 222
+    } ]
+  }, {
+    "tStartMs": 1477100,
+    "dDurationMs": 7079,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "es una función de",
+      "acAsrConf": 242
+    }, {
+      "utf8": " flecha",
+      "acAsrConf": 241
+    }, {
+      "utf8": "\nla función",
+      "acAsrConf": 208
+    }, {
+      "utf8": " de",
+      "acAsrConf": 242
+    }, {
+      "utf8": " flecha",
+      "acAsrConf": 197
+    } ]
+  }, {
+    "tStartMs": 1488179,
+    "dDurationMs": 2901,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "control",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1492620,
+    "dDurationMs": 7939,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "p",
+      "acAsrConf": 193
+    }, {
+      "utf8": " Entonces cuál es el",
+      "acAsrConf": 242
+    }, {
+      "utf8": " vector",
+      "acAsrConf": 186
+    }, {
+      "utf8": "\nvamos a sacar",
+      "acAsrConf": 242
+    }, {
+      "utf8": " un",
+      "acAsrConf": 220
+    }, {
+      "utf8": " VPN",
+      "acAsrConf": 225
+    } ]
+  }, {
+    "tStartMs": 1500600,
+    "dDurationMs": 13160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "6 y aquí voy a buscar el nombre que yo\nle digo a ese elemento",
+      "acAsrConf": 242
+    }, {
+      "utf8": " crear",
+      "acAsrConf": 182
+    } ]
+  }, {
+    "tStartMs": 1509799,
+    "dDurationMs": 3961,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "esperemos",
+      "acAsrConf": 242
+    }, {
+      "utf8": " que",
+      "acAsrConf": 236
+    }, {
+      "utf8": " todo esto funcione",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1517900,
+    "dDurationMs": 7120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "le voy a",
+      "acAsrConf": 242
+    }, {
+      "utf8": " decir",
+      "acAsrConf": 229
+    }, {
+      "utf8": "\nbpm",
+      "acAsrConf": 242
+    }, {
+      "utf8": " 6.6",
+      "acAsrConf": 190
+    } ]
+  }, {
+    "tStartMs": 1542059,
+    "dDurationMs": 8821,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "en teoría voy a llamar\npero en qué momento íbamos a ocultar",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1547880,
+    "dDurationMs": 3000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ocultar",
+      "acAsrConf": 175
+    } ]
+  }, {
+    "tStartMs": 1551179,
+    "dDurationMs": 10620,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "nos debería llamar cuando le dé clic\nsobre",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1556720,
+    "dDurationMs": 5079,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "el botón de actualizar entonces",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1566659,
+    "dDurationMs": 7861,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vamos a ver\nluego",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1571779,
+    "dDurationMs": 6181,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "no",
+      "acAsrConf": 242
+    }, {
+      "utf8": " no",
+      "acAsrConf": 239
+    }, {
+      "utf8": " funciona",
+      "acAsrConf": 238
+    }, {
+      "utf8": "\nno",
+      "acAsrConf": 242
+    }, {
+      "utf8": " funcionó",
+      "acAsrConf": 224
+    } ]
+  }, {
+    "tStartMs": 1614059,
+    "dDurationMs": 5360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vamos a hacer",
+      "acAsrConf": 242
+    }, {
+      "utf8": " algo",
+      "acAsrConf": 233
+    }, {
+      "utf8": "\npor orden",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1664279,
+    "dDurationMs": 4161,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vamos a buscar Ese",
+      "acAsrConf": 242
+    }, {
+      "utf8": " botón",
+      "acAsrConf": 240
+    } ]
+  }, {
+    "tStartMs": 1672679,
+    "dDurationMs": 3860,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vamos a colocar",
+      "acAsrConf": 242
+    }, {
+      "utf8": " en",
+      "acAsrConf": 229
+    }, {
+      "utf8": " el",
+      "acAsrConf": 242
+    }, {
+      "utf8": " Style",
+      "acAsrConf": 176
+    } ]
+  }, {
+    "tStartMs": 1683980,
+    "dDurationMs": 3420,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "estoy",
+      "acAsrConf": 242
+    }, {
+      "utf8": " en",
+      "acAsrConf": 241
+    }, {
+      "utf8": " dos puntos",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1689060,
+    "dDurationMs": 5239,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "[Música]"
+    }, {
+      "utf8": "\nbuscamos",
+      "acAsrConf": 240
+    }, {
+      "utf8": " alguna",
+      "acAsrConf": 239
+    }, {
+      "utf8": " manera",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1745700,
+    "dDurationMs": 2780,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "entonces",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1756559,
+    "dDurationMs": 7201,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Vamos a",
+      "acAsrConf": 242
+    }, {
+      "utf8": " ponerle",
+      "acAsrConf": 234
+    }, {
+      "utf8": " pausa para ganar la\ncarta",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1759880,
+    "dDurationMs": 7380,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Bueno chicos después de un",
+      "acAsrConf": 242
+    }, {
+      "utf8": " buen",
+      "acAsrConf": 241
+    }, {
+      "utf8": " rato\npero bastante",
+      "acAsrConf": 242
+    }, {
+      "utf8": " rato",
+      "acAsrConf": 224
+    } ]
+  }, {
+    "tStartMs": 1767860,
+    "dDurationMs": 8980,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "llegamos a una consola muy interesante\nresulta que cuando utilizamos",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1773360,
+    "dDurationMs": 6740,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "componentes componentes para poder\ncompartir información de componente a",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1778820,
+    "dDurationMs": 6800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "otro Pues\nes bastante complejo sobre todo porque",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1783440,
+    "dDurationMs": 8219,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "necesitamos usar otro tipo de elementos\nque nos van a permitir hacer esas",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1788240,
+    "dDurationMs": 10140,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "transiciones Entonces",
+      "acAsrConf": 242
+    }, {
+      "utf8": " qué",
+      "acAsrConf": 175
+    }, {
+      "utf8": " se hizo\npara una simplicidad",
+      "acAsrConf": 242
+    }, {
+      "utf8": " de",
+      "acAsrConf": 235
+    }, {
+      "utf8": " dentro del",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1795380,
+    "dDurationMs": 9799,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "proyecto es lo que se hizo fue colocar\nnuevamente el",
+      "acAsrConf": 242
+    }, {
+      "utf8": " formulario",
+      "acAsrConf": 237
+    }, {
+      "utf8": " de clientes en",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1801860,
+    "dDurationMs": 3319,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "el listado",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1805299,
+    "dDurationMs": 8921,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "en",
+      "acAsrConf": 242
+    }, {
+      "utf8": " el",
+      "acAsrConf": 209
+    }, {
+      "utf8": "\nLa idea es entonces",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1810220,
+    "dDurationMs": 6959,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que aquí voy a personalizar este señor y",
+      "acAsrConf": 242
+    }, {
+      "utf8": "\nlo",
+      "acAsrConf": 231
+    }, {
+      "utf8": " voy",
+      "acAsrConf": 236
+    }, {
+      "utf8": " a",
+      "acAsrConf": 231
+    }, {
+      "utf8": " decir",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1823340,
+    "dDurationMs": 8120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "[Música]"
+    }, {
+      "utf8": "\nAquí le voy a decir",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1827799,
+    "dDurationMs": 3661,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que es editar",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1840860,
+    "dDurationMs": 8720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "por",
+      "acAsrConf": 242
+    }, {
+      "utf8": " aquí",
+      "acAsrConf": 188
+    }, {
+      "utf8": "\nme voy a cambiar",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1846340,
+    "dDurationMs": 3240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "este",
+      "acAsrConf": 242
+    }, {
+      "utf8": " nombre",
+      "acAsrConf": 233
+    } ]
+  }, {
+    "tStartMs": 1864100,
+    "dDurationMs": 3660,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tenemos una opción",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1868419,
+    "dDurationMs": 6120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "nos va a servir para lo que necesitamos\nhacer",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1889640,
+    "dDurationMs": 5360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y",
+      "acAsrConf": 218
+    }, {
+      "utf8": " aquí va",
+      "acAsrConf": 242
+    }, {
+      "utf8": " saliendo",
+      "acAsrConf": 234
+    }, {
+      "utf8": " un montón de código\nmuy interesante",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1909200,
+    "dDurationMs": 3000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "documentación",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 1927260,
+    "dDurationMs": 10340,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "0\n[Música]",
+      "acAsrConf": 129
+    } ]
+  }, {
+    "tStartMs": 1932559,
+    "dDurationMs": 5041,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "componentes botones",
+      "acAsrConf": 242
+    }, {
+      "utf8": " dónde",
+      "acAsrConf": 229
+    }, {
+      "utf8": " están",
+      "acAsrConf": 231
+    } ]
+  }, {
+    "tStartMs": 1950620,
+    "dDurationMs": 3299,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "para",
+      "acAsrConf": 210
+    }, {
+      "utf8": " acá",
+      "acAsrConf": 190
+    } ]
+  }, {
+    "tStartMs": 1989559,
+    "dDurationMs": 4360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sigue trayendo",
+      "acAsrConf": 242
+    }, {
+      "utf8": " este",
+      "acAsrConf": 195
+    } ]
+  }, {
+    "tStartMs": 2024480,
+    "dDurationMs": 3720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vamos a poner",
+      "acAsrConf": 236
+    }, {
+      "utf8": " el",
+      "acAsrConf": 162
+    }, {
+      "utf8": " nombre",
+      "acAsrConf": 236
+    } ]
+  }, {
+    "tStartMs": 2040539,
+    "dDurationMs": 5301,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "o pronto puede ser que esté cargado el\notro",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2054359,
+    "dDurationMs": 3601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y",
+      "acAsrConf": 235
+    }, {
+      "utf8": " el botón",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2115380,
+    "dDurationMs": 13739,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "por acá ya el chiste\ncerramos cerramos",
+      "acAsrConf": 242
+    }, {
+      "utf8": " cerramos",
+      "acAsrConf": 227
+    }, {
+      "utf8": " ahora",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2125460,
+    "dDurationMs": 3659,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que",
+      "acAsrConf": 236
+    }, {
+      "utf8": " tenemos que hacer",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2130200,
+    "dDurationMs": 4740,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "acá le cambié el ID al botón",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2135720,
+    "dDurationMs": 8399,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Esa esa propiedad en Buscar se utiliza\npara especificar Cuál es la referencia",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2142420,
+    "dDurationMs": 10100,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "del modal\ndespués de que presiona acá que debería",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2148000,
+    "dDurationMs": 15060,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ser en teoría Llamar",
+      "acAsrConf": 242
+    }, {
+      "utf8": " llamar",
+      "acAsrConf": 237
+    }, {
+      "utf8": " el evento\nque va a consultar",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2155760,
+    "dDurationMs": 14160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "la Data o sea este señor pero pero en un\nusuario específico",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2164520,
+    "dDurationMs": 5400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "o sea c que necesito",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2172800,
+    "dDurationMs": 4020,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "si no tenemos por acá",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2176940,
+    "dDurationMs": 5580,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "unos",
+      "acAsrConf": 240
+    }, {
+      "utf8": "\ndebe",
+      "acAsrConf": 242
+    }, {
+      "utf8": " Buscar",
+      "acAsrConf": 241
+    }, {
+      "utf8": " Data",
+      "acAsrConf": 229
+    } ]
+  }, {
+    "tStartMs": 2188099,
+    "dDurationMs": 8461,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "aquí tenemos",
+      "acAsrConf": 242
+    }, {
+      "utf8": " un nuevo",
+      "acAsrConf": 198
+    }, {
+      "utf8": " Buscar",
+      "acAsrConf": 224
+    }, {
+      "utf8": " Data",
+      "acAsrConf": 238
+    }, {
+      "utf8": " vamos\na definir un método",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2202060,
+    "dDurationMs": 5000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vamos a decirle que",
+      "acAsrConf": 242
+    }, {
+      "utf8": " se van a",
+      "acAsrConf": 233
+    }, {
+      "utf8": " buscar",
+      "acAsrConf": 242
+    }, {
+      "utf8": " por",
+      "acAsrConf": 199
+    } ]
+  }, {
+    "tStartMs": 2210839,
+    "dDurationMs": 8760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "entonces",
+      "acAsrConf": 242
+    }, {
+      "utf8": "\nEntonces",
+      "acAsrConf": 183
+    }, {
+      "utf8": " por acá vamos a decirlo",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2221079,
+    "dDurationMs": 3441,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y por acá",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2230339,
+    "dDurationMs": 6901,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "signo\ny vamos a colocarle",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2239400,
+    "dDurationMs": 4780,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que corresponde el código configuración",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2256619,
+    "dDurationMs": 9000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "entonces necesito importar esto\na primero necesitamos exportarlo",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2271859,
+    "dDurationMs": 4621,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vamos",
+      "acAsrConf": 221
+    }, {
+      "utf8": " a",
+      "acAsrConf": 242
+    }, {
+      "utf8": " analizar",
+      "acAsrConf": 234
+    }, {
+      "utf8": " que donde lo utilizamos",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2279420,
+    "dDurationMs": 6120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "como pertenece a un mismo activo",
+      "acAsrConf": 242
+    }, {
+      "utf8": " como\nmás",
+      "acAsrConf": 143
+    }, {
+      "utf8": " control",
+      "acAsrConf": 242
+    }, {
+      "utf8": " V",
+      "acAsrConf": 230
+    } ]
+  }, {
+    "tStartMs": 2286060,
+    "dDurationMs": 5180,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "muy sencillo\nvamos",
+      "acAsrConf": 242
+    }, {
+      "utf8": " a",
+      "acAsrConf": 227
+    } ]
+  }, {
+    "tStartMs": 2291339,
+    "dDurationMs": 7881,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vamos ahora\na hacer lo siguiente acá es",
+      "acAsrConf": 242
+    }, {
+      "utf8": " el elemento",
+      "acAsrConf": 178
+    } ]
+  }, {
+    "tStartMs": 2300240,
+    "dDurationMs": 11280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "podríamos llegar podemos llegar\nel",
+      "acAsrConf": 242
+    }, {
+      "utf8": " formulario",
+      "acAsrConf": 240
+    } ]
+  }, {
+    "tStartMs": 2306780,
+    "dDurationMs": 4740,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tenemos esta información",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2342900,
+    "dDurationMs": 8880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "recordemos que\nél nos",
+      "acAsrConf": 242
+    }, {
+      "utf8": " devuelve",
+      "acAsrConf": 239
+    }, {
+      "utf8": " una promesa",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2348000,
+    "dDurationMs": 3780,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Vamos a darle",
+      "acAsrConf": 242
+    }, {
+      "utf8": " clic",
+      "acAsrConf": 205
+    }, {
+      "utf8": " en",
+      "acAsrConf": 136
+    }, {
+      "utf8": " control",
+      "acAsrConf": 221
+    } ]
+  }, {
+    "tStartMs": 2351820,
+    "dDurationMs": 3560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "para",
+      "acAsrConf": 242
+    }, {
+      "utf8": " ser",
+      "acAsrConf": 186
+    }, {
+      "utf8": " ordenaditos",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2365440,
+    "dDurationMs": 3139,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Aquí vamos",
+      "acAsrConf": 242
+    }, {
+      "utf8": " a",
+      "acAsrConf": 182
+    } ]
+  }, {
+    "tStartMs": 2373020,
+    "dDurationMs": 7740,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "entonces lo que vamos a hacer acá",
+      "acAsrConf": 242
+    }, {
+      "utf8": "\nEste",
+      "acAsrConf": 213
+    }, {
+      "utf8": " señor",
+      "acAsrConf": 135
+    } ]
+  }, {
+    "tStartMs": 2382780,
+    "dDurationMs": 4040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y vamos a",
+      "acAsrConf": 242
+    }, {
+      "utf8": " ponerlo",
+      "acAsrConf": 240
+    } ]
+  }, {
+    "tStartMs": 2388660,
+    "dDurationMs": 4220,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "por acá",
+      "acAsrConf": 224
+    }, {
+      "utf8": " o es una promesa de nos espera",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2394060,
+    "dDurationMs": 4039,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y por acá le voy a decir",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2401820,
+    "dDurationMs": 7660,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "esperando que me retorno\nacá le voy a decir",
+      "acAsrConf": 242
+    }, {
+      "utf8": " es",
+      "acAsrConf": 229
+    } ]
+  }, {
+    "tStartMs": 2410500,
+    "dDurationMs": 2359,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "punto",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2419680,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y le tengo que pasar el ID o se hace\nTarget",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2430619,
+    "dDurationMs": 13240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vamos",
+      "acAsrConf": 217
+    }, {
+      "utf8": " a eliminar",
+      "acAsrConf": 207
+    }, {
+      "utf8": " esto",
+      "acAsrConf": 175
+    }, {
+      "utf8": "\ny esperaríamos que en este momento ya me",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2439780,
+    "dDurationMs": 11900,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "reciba la Data el lápiz y me",
+      "acAsrConf": 242
+    }, {
+      "utf8": " retornado",
+      "acAsrConf": 213
+    }, {
+      "utf8": "\nvamos a",
+      "acAsrConf": 242
+    }, {
+      "utf8": " ver",
+      "acAsrConf": 226
+    } ]
+  }, {
+    "tStartMs": 2446740,
+    "dDurationMs": 4940,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "si 12 es por acá",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2453720,
+    "dDurationMs": 8220,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "definido bueno eso ya es otra cosa\ntenemos",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2459780,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tenemos un",
+      "acAsrConf": 242
+    }, {
+      "utf8": " error",
+      "acAsrConf": 241
+    }, {
+      "utf8": "\nvamos a cerrar",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2465960,
+    "dDurationMs": 4860,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "esto a ver qué pasó",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2475740,
+    "dDurationMs": 4859,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "el error",
+      "acAsrConf": 198
+    }, {
+      "utf8": " bueno miremos",
+      "acAsrConf": 242
+    }, {
+      "utf8": " acá",
+      "acAsrConf": 203
+    } ]
+  }, {
+    "tStartMs": 2480700,
+    "dDurationMs": 7740,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ahora lo que\nlo que vamos a hacer es",
+      "acAsrConf": 242
+    }, {
+      "utf8": " a",
+      "acAsrConf": 190
+    }, {
+      "utf8": " verificar acá",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2485560,
+    "dDurationMs": 9620,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "las cosas\naquí ya le",
+      "acAsrConf": 242
+    }, {
+      "utf8": " pase",
+      "acAsrConf": 194
+    }, {
+      "utf8": " el",
+      "acAsrConf": 242
+    }, {
+      "utf8": " aire",
+      "acAsrConf": 133
+    } ]
+  }, {
+    "tStartMs": 2492420,
+    "dDurationMs": 7740,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "aquí creó un método\nes igual a x seleccionado aquí invocó",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2501599,
+    "dDurationMs": 8500,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "le paso la x que he seleccionado\nrecordemos que este señor corresponde al",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2511960,
+    "dDurationMs": 4520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Este Entonces cuando ejecuto por acá",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2516599,
+    "dDurationMs": 7861,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "me va a traer esa información\nvamos por acá Carlos",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2524760,
+    "dDurationMs": 8099,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "información\nSí yo tengo por acá me va a traer la",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2530740,
+    "dDurationMs": 2119,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "información",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2535500,
+    "dDurationMs": 8700,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "lo que necesito hacer es obtener bueno\nenviarle la Data al formulario",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2544380,
+    "dDurationMs": 6300,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Entonces vamos a mirar cómo hacemos esto",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2552180,
+    "dDurationMs": 9300,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Okay muy bien continuando entonces\nme voy aquí para visual",
+      "acAsrConf": 242
+    }, {
+      "utf8": " Studio",
+      "acAsrConf": 144
+    } ]
+  }, {
+    "tStartMs": 2558640,
+    "dDurationMs": 9959,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "aquí ya hago la consulta\nhago la petición a Jason server",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2565500,
+    "dDurationMs": 10060,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "o luego una petición allí es un Server\nsi todo se cumple",
+      "acAsrConf": 242
+    }, {
+      "utf8": " una",
+      "acAsrConf": 231
+    }, {
+      "utf8": " promesa",
+      "acAsrConf": 232
+    } ]
+  }, {
+    "tStartMs": 2572579,
+    "dDurationMs": 7081,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cargo la información del formulario y le\npasó result",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2577980,
+    "dDurationMs": 8280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "corresponde\nal objeto que viene desde la respuesta",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2584920,
+    "dDurationMs": 8120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "del servidor\ntenemos",
+      "acAsrConf": 242
+    }, {
+      "utf8": " acá",
+      "acAsrConf": 214
+    } ]
+  }, {
+    "tStartMs": 2588640,
+    "dDurationMs": 10820,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "por Data creo una referencia formulario\ndesestructura Data en cada una de las",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2596560,
+    "dDurationMs": 2900,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "variables que tenemos",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2600660,
+    "dDurationMs": 8439,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "por acá\ntengo la información",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2605040,
+    "dDurationMs": 11440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "contenida del usuario y aquí utilizo un\nciclo este ciclo lo utilizo para",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2613140,
+    "dDurationMs": 9840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "recorrer cada una de las entradas del\nformulario y se asignan a la variable",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2619920,
+    "dDurationMs": 14620,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "bar o pareja\np",
+      "acAsrConf": 242
+    }, {
+      "utf8": " 0",
+      "acAsrConf": 237
+    }, {
+      "utf8": " punto vale es igual a p1 p 0",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2629980,
+    "dDurationMs": 10560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "corresponde al nombre de la llave y uno\ncorresponde al valor",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2637359,
+    "dDurationMs": 7341,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "entonces aquí asociamos los elementos de\nlos formularios para poder obtener la",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2643180,
+    "dDurationMs": 10340,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Data\nqué va a suceder entonces acá lo que va",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2648579,
+    "dDurationMs": 10520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a suceder es que cuando el usuario\nseleccione nuestro señor va a pasar la",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2657040,
+    "dDurationMs": 8160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "información directamente el formulario\ncuando selecciona este señor va a pasar",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2662440,
+    "dDurationMs": 7700,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "la información al formulario Y así\nsucesivamente para cada uno de los",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2668800,
+    "dDurationMs": 5720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "elementos\nentonces importante que los que lo",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2673060,
+    "dDurationMs": 9420,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tengan en cuenta ahora\nque me falta hacer acá acá me falta",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2678160,
+    "dDurationMs": 11780,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hacer la petición de la edición es decir\nque me modifique los datos y",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2686160,
+    "dDurationMs": 10260,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "me los muestro nuevamente en pantalla",
+      "acAsrConf": 242
+    }, {
+      "utf8": " ok",
+      "acAsrConf": 186
+    }, {
+      "utf8": "\nA ver vamos a mirar cómo se hace esto",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2693000,
+    "dDurationMs": 12359,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Recuerden que nosotros tenemos\nsolicitudes que hacer Entonces por acá",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2700859,
+    "dDurationMs": 10980,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "recordemos que tenemos un dato\nOk donde",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2707880,
+    "dDurationMs": 12400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "va a recibir la información\nla información de ese archivo o ese",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2716560,
+    "dDurationMs": 11640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "objeto Jason donde Data punto ID obtengo\nla llave Ok entonces con eso ya tenemos",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2725380,
+    "dDurationMs": 8100,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "para modificar la información vamos a\nver",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2730200,
+    "dDurationMs": 9879,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "lo primero que tengo que hacer\nes establecer referencia obviamente",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2736200,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "obviamente al botón de guardar del\nformulario",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2743579,
+    "dDurationMs": 3301,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a",
+      "acAsrConf": 225
+    }, {
+      "utf8": " este",
+      "acAsrConf": 208
+    }, {
+      "utf8": " señor",
+      "acAsrConf": 210
+    } ]
+  }, {
+    "tStartMs": 2748440,
+    "dDurationMs": 8220,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a este señor Perdón donde le cambiamos\nla acción a Foot",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2758040,
+    "dDurationMs": 10480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Pues el objetivo el objetivo de\ncambiarle a esto que cuando yo ya me la",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2764140,
+    "dDurationMs": 10040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "información Data él va a analizarme qué\nfue lo que o qué petición le hice en",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2771940,
+    "dDurationMs": 8639,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "este caso pues también está definido acá\nde todas formas para una mejor posición",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2778140,
+    "dDurationMs": 8820,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ese put que yo le envío desde el botón\nes para utilizar esta",
+      "acAsrConf": 242
+    }, {
+      "utf8": " función",
+      "acAsrConf": 210
+    } ]
+  }, {
+    "tStartMs": 2784560,
+    "dDurationMs": 7920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Entonces\nvamos a ver cómo lo hacemos",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2792940,
+    "dDurationMs": 10200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "con opción\nsin necesidad de usar el Pull vamos",
+      "acAsrConf": 242
+    }, {
+      "utf8": " a",
+      "acAsrConf": 239
+    } ]
+  }, {
+    "tStartMs": 2799119,
+    "dDurationMs": 10021,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ver si yo lo tengo",
+      "acAsrConf": 239
+    }, {
+      "utf8": " acá Así cambio yo lo",
+      "acAsrConf": 242
+    }, {
+      "utf8": "\nmodifiqué",
+      "acAsrConf": 225
+    }, {
+      "utf8": " eso",
+      "acAsrConf": 242
+    }, {
+      "utf8": " está",
+      "acAsrConf": 230
+    }, {
+      "utf8": " bien",
+      "acAsrConf": 224
+    } ]
+  }, {
+    "tStartMs": 2806319,
+    "dDurationMs": 9621,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "venimos",
+      "acAsrConf": 210
+    }, {
+      "utf8": " para acá\ny vamos a generar vamos a generar el",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2813160,
+    "dDurationMs": 6020,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "diseño de Ese botón",
+      "acAsrConf": 242
+    }, {
+      "utf8": "\nde",
+      "acAsrConf": 187
+    }, {
+      "utf8": " Ese",
+      "acAsrConf": 199
+    }, {
+      "utf8": " botón",
+      "acAsrConf": 191
+    } ]
+  }, {
+    "tStartMs": 2824040,
+    "dDurationMs": 9420,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "como todo está fríamente calculado y\ntodo viaja a través de una función y de",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2831280,
+    "dDurationMs": 2180,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "parámetros",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2834880,
+    "dDurationMs": 11959,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "acá básicamente lo que estoy haciendo es\nobteniendo la información del formulario",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2842700,
+    "dDurationMs": 4139,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y acá se la voy a pasar",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2847839,
+    "dDurationMs": 14301,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "esa información del formulario viene de\nesta variable Data listo Entonces vamos",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2857560,
+    "dDurationMs": 12500,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a verificar si esto funciona a su nombre\ncontrol c pero entonces",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2865859,
+    "dDurationMs": 4201,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tendría que revisar",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2870780,
+    "dDurationMs": 9760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "el segundo chequeo\nentonces hacer esto control c y voy a",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2877839,
+    "dDurationMs": 7161,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "crear acá en la parte superior del\nllamado",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2881520,
+    "dDurationMs": 3480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a ese método",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2890099,
+    "dDurationMs": 11461,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Bueno\npues como decimos crucemos los dedos",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2895680,
+    "dDurationMs": 5880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vamos a modificar a",
+      "acAsrConf": 242
+    }, {
+      "utf8": " este",
+      "acAsrConf": 239
+    }, {
+      "utf8": " amigo",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2906099,
+    "dDurationMs": 5121,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vamos a poner Luis",
+      "acAsrConf": 242
+    }, {
+      "utf8": " Carlos",
+      "acAsrConf": 216
+    } ]
+  }, {
+    "tStartMs": 2913300,
+    "dDurationMs": 3620,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vamos a cambiar acá",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2919580,
+    "dDurationMs": 6700,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "[Música]"
+    }, {
+      "utf8": "\nemail.com",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2923400,
+    "dDurationMs": 8520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "teléfono móvil\n5556666",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2928560,
+    "dDurationMs": 9720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y le voy a dar en editar\nUps dice opc no está definido",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2939359,
+    "dDurationMs": 15281,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "porque acá nos faltan colocar toma o\nPC para que salgas vamos desde nuestra",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2949859,
+    "dDurationMs": 10980,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "por acá",
+      "acAsrConf": 242
+    }, {
+      "utf8": " o PC y por aquí",
+      "acAsrConf": 199
+    }, {
+      "utf8": " está",
+      "acAsrConf": 151
+    }, {
+      "utf8": "\nes una variable",
+      "acAsrConf": 242
+    }, {
+      "utf8": " entonces",
+      "acAsrConf": 238
+    }, {
+      "utf8": " acá nos toca",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2958619,
+    "dDurationMs": 7561,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "volver a repetir",
+      "acAsrConf": 242
+    }, {
+      "utf8": "\nel",
+      "acAsrConf": 100
+    }, {
+      "utf8": " proceso",
+      "acAsrConf": 211
+    } ]
+  }, {
+    "tStartMs": 2962579,
+    "dDurationMs": 3601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "o",
+      "acAsrConf": 242
+    }, {
+      "utf8": " sea",
+      "acAsrConf": 212
+    }, {
+      "utf8": " con",
+      "acAsrConf": 241
+    }, {
+      "utf8": " este",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2966880,
+    "dDurationMs": 3000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Marcos",
+      "acAsrConf": 234
+    } ]
+  }, {
+    "tStartMs": 2975900,
+    "dDurationMs": 4000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mp",
+      "acAsrConf": 242
+    }, {
+      "utf8": " 203.com",
+      "acAsrConf": 222
+    } ]
+  }, {
+    "tStartMs": 2984460,
+    "dDurationMs": 9800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vamos a poner por acá un valor\n5557 y vamos ahorita esperemos que",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2991960,
+    "dDurationMs": 8240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "funcione\nse corrigió",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 2996240,
+    "dDurationMs": 7800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y por acá\nno nos está haciendo nada",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 3004920,
+    "dDurationMs": 3740,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "O sea",
+      "acAsrConf": 242
+    }, {
+      "utf8": " que lo",
+      "acAsrConf": 170
+    }, {
+      "utf8": " que",
+      "acAsrConf": 219
+    }, {
+      "utf8": " está pasando",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 3015920,
+    "dDurationMs": 9360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "voy",
+      "acAsrConf": 201
+    }, {
+      "utf8": " a",
+      "acAsrConf": 230
+    }, {
+      "utf8": " detener",
+      "acAsrConf": 241
+    }, {
+      "utf8": " video Voy a comprobar\nbueno bueno chicos Qué pena con ustedes",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 3022140,
+    "dDurationMs": 8040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pero hay que hacer un pequeño",
+      "acAsrConf": 242
+    }, {
+      "utf8": " cambiocito",
+      "acAsrConf": 209
+    }, {
+      "utf8": "\nEspero que no los entregue",
+      "acAsrConf": 242
+    }, {
+      "utf8": " Ah",
+      "acAsrConf": 213
+    }, {
+      "utf8": " ya sé que",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 3028440,
+    "dDurationMs": 6020,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "no",
+      "acAsrConf": 235
+    }, {
+      "utf8": "\nresulta",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 3031579,
+    "dDurationMs": 7561,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que aquí este método\nde recibir la Data y el ID que yo voy a",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 3038280,
+    "dDurationMs": 9559,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "modificar\nla Data y el aire que yo voy a buscar y",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 3043319,
+    "dDurationMs": 14161,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "aquí en el método lo mismo y en la ruta\nde modifique El Data punto",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 3052099,
+    "dDurationMs": 11881,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Y de paso el ID de inglés y ya con eso\nes suficiente para que esto funcione muy",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 3060960,
+    "dDurationMs": 3020,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "bien",
+      "acAsrConf": 242
+    }, {
+      "utf8": " un",
+      "acAsrConf": 226
+    }, {
+      "utf8": " ejemplo",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 3064579,
+    "dDurationMs": 3841,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vamos a poner acá",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 3069020,
+    "dDurationMs": 4000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "María",
+      "acAsrConf": 242
+    }, {
+      "utf8": " Antonieta",
+      "acAsrConf": 237
+    } ]
+  }, {
+    "tStartMs": 3080819,
+    "dDurationMs": 8481,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y lo voy a editar\nfíjense que ya que la parte superior",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 3085700,
+    "dDurationMs": 8200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "lleva actualizado excelente\nes que en la medida que uno va",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 3091740,
+    "dDurationMs": 10700,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "desarrollando pues tiene que ir haciendo\ncambios Sí o sí durante el proceso",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 3097160,
+    "dDurationMs": 5280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "chicos",
+      "acAsrConf": 182
+    }, {
+      "utf8": " miren",
+      "acAsrConf": 223
+    }, {
+      "utf8": " aquí",
+      "acAsrConf": 233
+    }, {
+      "utf8": " ya",
+      "acAsrConf": 234
+    }, {
+      "utf8": " tenemos",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 3102920,
+    "dDurationMs": 15100,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "listar ya tenemos crear y ya tenemos\nmodificar fabuloso nos haría falta el de",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 3113940,
+    "dDurationMs": 12600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "eliminar Pero bueno yo quiero que\nustedes traten de hacer de eliminar",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 3121520,
+    "dDurationMs": 13079,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y con eso pues quedan listos para su\nprueba Aquí está el método",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 3129440,
+    "dDurationMs": 5159,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "yo",
+      "acAsrConf": 242
+    }, {
+      "utf8": " creería",
+      "acAsrConf": 231
+    }, {
+      "utf8": " que cuando llamen el método",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 3135440,
+    "dDurationMs": 8940,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Esto me pase\nes decir",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 3142220,
+    "dDurationMs": 10200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "esta Data\nesta Data yo creería que solamente pasan",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 3148980,
+    "dDurationMs": 3440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "un elemento llamado",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 3155599,
+    "dDurationMs": 3061,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "el",
+      "acAsrConf": 142
+    }, {
+      "utf8": " nombre",
+      "acAsrConf": 193
+    } ]
+  }, {
+    "tStartMs": 3161119,
+    "dDurationMs": 5940,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Quiero borrar",
+      "acAsrConf": 194
+    }, {
+      "utf8": " y",
+      "acAsrConf": 226
+    }, {
+      "utf8": " aquí",
+      "acAsrConf": 214
+    }, {
+      "utf8": " este señor",
+      "acAsrConf": 226
+    } ]
+  }, {
+    "tStartMs": 3167339,
+    "dDurationMs": 3980,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y este señor va a ser",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 3173480,
+    "dDurationMs": 8859,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "con esto\ndebería funcionar entonces que tienen",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 3179280,
+    "dDurationMs": 7740,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que hacer Ustedes muy juiciosamente y\napasionadamente tienen que venir a",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 3185160,
+    "dDurationMs": 10640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "listar",
+      "acAsrConf": 188
+    }, {
+      "utf8": "\ny poner la referencia en el botón de",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 3190800,
+    "dDurationMs": 5000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "eliminar que lo tenemos por acá",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 3200300,
+    "dDurationMs": 10539,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Pero recuerde que sí o sí\ndebemos colocarle un",
+      "acAsrConf": 242
+    }, {
+      "utf8": " Data",
+      "acAsrConf": 188
+    } ]
+  }, {
+    "tStartMs": 3220220,
+    "dDurationMs": 11820,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "yo",
+      "acAsrConf": 242
+    }, {
+      "utf8": " le",
+      "acAsrConf": 178
+    }, {
+      "utf8": " recomiendo\nque el nombre",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 3226140,
+    "dDurationMs": 13500,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "lo cambien pues para evitarte ponerlo\nEntonces por ejemplo",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 3235640,
+    "dDurationMs": 4000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ponemos minúscula",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 3242940,
+    "dDurationMs": 9379,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ahora\ninteresante sería que yo tuviera un",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 3248280,
+    "dDurationMs": 4039,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "formulario modal cierto",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 3253220,
+    "dDurationMs": 10980,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que se abriera para preguntarme Oigan\nquiere eliminar el registro sí o no",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 3261740,
+    "dDurationMs": 9040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "entonces\nhagan eso y si a mí me queda un espacio",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 3267859,
+    "dDurationMs": 7260,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "con mucho gusto les",
+      "acAsrConf": 242
+    }, {
+      "utf8": " colaboro",
+      "acAsrConf": 196
+    }, {
+      "utf8": " pero ya\nsería en otra ocasión o sea",
+      "acAsrConf": 242
+    }, {
+      "utf8": " mañana",
+      "acAsrConf": 238
+    } ]
+  }, {
+    "tStartMs": 3275540,
+    "dDurationMs": 9240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "si alcanzó no les prometo nada pero ya\nque tienen suficiente material para que",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 3282599,
+    "dDurationMs": 9781,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "revise\ny bueno el buscador",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 3288619,
+    "dDurationMs": 9061,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "miren muy bien muy bien estoy muy bien\nla parte de git",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 3294980,
+    "dDurationMs": 5879,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que",
+      "acAsrConf": 224
+    }, {
+      "utf8": " por acá\nvemos esto",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 3305050,
+    "dDurationMs": 3089,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "[Música]"
+    } ]
+  }, {
+    "tStartMs": 3309859,
+    "dDurationMs": 10601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "en Jason server\npor acá",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 3315980,
+    "dDurationMs": 9760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y hagan pruebas por favor con las\nbúsquedas",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 3321440,
+    "dDurationMs": 8040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "miren Aquí se están demasiado claro muy\npendiente",
+      "acAsrConf": 242
+    }, {
+      "utf8": " para",
+      "acAsrConf": 226
+    }, {
+      "utf8": " ordenar",
+      "acAsrConf": 236
+    } ]
+  }, {
+    "tStartMs": 3329780,
+    "dDurationMs": 9339,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y ya si estos elementos no cumplen con\nlas necesidades para",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 3336180,
+    "dDurationMs": 10740,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "lo que se les pidan la prueba ya tendrán\nque manipular los elementos con arreglos",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 3342900,
+    "dDurationMs": 10040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "con desestructuración con el con el\noperador spread etcétera listo",
+      "acAsrConf": 242
+    }, {
+      "utf8": " chicos",
+      "acAsrConf": 234
+    } ]
+  }, {
+    "tStartMs": 3350220,
+    "dDurationMs": 7980,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Este es el último videito Espero que\ntodo esto que hicimos el día de hoy Les",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 3356819,
+    "dDurationMs": 7321,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sirva\npara presentar la prueba Les deseo en",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 3361500,
+    "dDurationMs": 7680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "verdad Muchos éxitos y mucha\nconcentración un abrazo y buen fin de",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 3367140,
+    "dDurationMs": 5100,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "semana bueno lo que queda el fin de\nsemana chao",
+      "acAsrConf": 242
+    } ]
+  } ]
+}

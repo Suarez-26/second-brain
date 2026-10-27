@@ -1,0 +1,122 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  }, {
+    "mhModeHint": 2,
+    "juJustifCode": 0,
+    "sdScrollDir": 3
+  } ],
+  "wpWinPositions": [ {
+  
+  }, {
+    "apPoint": 6,
+    "ahHorPos": 20,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  } ],
+  "events": [ {
+    "tStartMs": 0,
+    "id": 1,
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1480,
+    "dDurationMs": 5640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Mucho gusto. Mi nombre es Isabela\nCarrillo Saín. Tengo 18 años.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 5400,
+    "dDurationMs": 4880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Actualmente me encuentro viviendo en la\nciudad de Florida Blanca. Anteriormente",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 9200,
+    "dDurationMs": 7320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "estaba viviendo en la ciudad de\nManizales. Eh, conocí a Campus Lands por",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 13320,
+    "dDurationMs": 8320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "redes sociales. Eh, vi que tenían el\ntema de desarrollo de software y eso fue",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 18439,
+    "dDurationMs": 8441,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "lo que me impulsó a venir y viajar hasta\nBucaramanga para poder presentar los",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 23640,
+    "dDurationMs": 7039,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "exámenes, todo. Eh, pasé y ahora me\nencuentro estudiando aquí. de mi",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 28640,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "motivación fue que desde pequeña me\ngustó mucho el tema de los códigos y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 32680,
+    "dDurationMs": 6360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "todo eso, el tema del software. Eh,\nactualmente estoy aquí en Campus L y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 37480,
+    "dDurationMs": 7680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "todo me ha parecido muy bueno. Los\nprofesores han sido buenos guías en todo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 41879,
+    "dDurationMs": 7481,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "este aprendizaje y recomiendo totalmente\nCampus L. Las instalaciones son muy",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 46840,
+    "dDurationMs": 6239,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "buenas y todo es muy\nrecomendado. Gracias. M.",
+      "acAsrConf": 0
+    } ]
+  } ]
+}

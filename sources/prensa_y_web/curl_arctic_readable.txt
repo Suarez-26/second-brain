@@ -1,0 +1,46 @@
+=== CURL: ramajudicial_gbp (status=None) URL=https://distritocaldas.ramajudicial.gov.co/sinsac/index.php?controller=menu&action=mod_procesos_jurisdiccionales ===
+
+
+=== CURL: informacolombia_gbp (status=None) URL=https://www.informacolombia.com/directorio-empresas/actividad/620_DESARROLLO-DE-SISTEMAS-INFORMATICOS-PLANIFICACION-ANALISIS-DISENO-PROGRAMACION-PRUEBAS-CONSULTORIA-INFORMATICA-Y-ACTIVIDADES-RELACIONADAS?qPg=26 ===
+
+
+=== CURL: vanguardia_leeche_2 (status=None) URL=https://portales.vanguardia.com/especiales-vanguardia/contenido/500-empresas-2022/revista-500egds-2022.pdf ===
+
+
+=== CURL: zonafranca_hubux (status=None) URL=https://www.zonafrancasantander.com/categorias/oficinas ===
+
+
+=== CURL: magneto_hubux_2 (status=None) URL=https://www.magneto365.com/co/empleos/analista-administrativo-y-financiero-1100019 ===
+
+
+=== CURL: metropolitano_new_1 (status=None) URL=https://metropolitano.com.co/gobernacion-firma-convenio-con-campuslands-para-formacion-de-200-jovenes-programadores/ ===
+
+
+=== CURL: metropolitano_new_2 (status=None) URL=https://metropolitano.com.co/campuslands-generara-400-empleos-en-tecnologia-en-bucaramanga/ ===
+
+
+=== CURL: metropolitano_2026_10_09 (status=None) URL=https://metropolitano.com.co/adoptar-inteligencia-artificial-es-cuestion-de-supervivencia-para-las-empresas-diego-tarazona-ceo-de-campuslands/ ===
+
+
+=== CURL: metropolitano_2026_04_24 (status=None) URL=https://metropolitano.com.co/campuslands-generara-400-empleos-en-tecnologia-en-bucaramanga/ ===
+
+
+=== CURL: metropolitano_2025_10_07 (status=None) URL=https://metropolitano.com.co/gobernacion-firma-convenio-con-campuslands-para-formacion-de-200-jovenes-programadores/ ===
+
+
+=== CURL: fedesoft_1 (status=None) URL=https://premiosingenio.fedesoft.org/ ===
+
+
+=== CURL: fedesoft_2 (status=None) URL=https://softic.fedesoft.org/ ===
+
+
+=== CURL: fedesoft_3 (status=None) URL=https://fedesoft.org/directory/campuslands-sas-bic/ ===
+
+
+=== CURL: fedesoft_4 (status=None) URL=https://fedesoft.org/campuslands-aterriza-en-guatemala-una-nueva-era-para-la-formacion-tecnologica-en-latinoamerica/ ===
+
+
+=== CURL: fedesoft_5 (status=None) URL=https://fedesoft.org/fedesoft-exalto-la-excelencia-del-software-colombiano-en-los-premios-ingenio-2025/ ===
+
+
+=== CURL: fedesoft_dir_1 (status=None) URL=https://fedesoft.org/directory/campuslands-sas-bic/ ===

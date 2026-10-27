@@ -1,0 +1,874 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  }, {
+    "mhModeHint": 2,
+    "juJustifCode": 0,
+    "sdScrollDir": 3
+  } ],
+  "wpWinPositions": [ {
+  
+  }, {
+    "apPoint": 6,
+    "ahHorPos": 20,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  } ],
+  "events": [ {
+    "tStartMs": 0,
+    "id": 1,
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1639,
+    "dDurationMs": 10880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "listo Listo ya Bueno Hola Buenas noches\nMi nombre es David Alberto Medina y mi",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 9200,
+    "dDurationMs": 9839,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "compañero Uriel Fabián somos del grupo\nj2 y vamos a exponer nuestro proyecto de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 15480,
+    "dDurationMs": 9039,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "python listo entonces pues vamos a\ncomenzar explicando lo que contiene todo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 21720,
+    "dDurationMs": 7200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "nuestro visual iniciamos rápidamente con\nla carpeta llamada datos donde vamos a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 26640,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "encontrar todas las bases de datos\nrequeridas para el proyecto que pues",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 31279,
+    "dDurationMs": 7161,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tiene los nombres de campers\ncoordinadores e los grupos rutas",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 35559,
+    "dDurationMs": 6281,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "trainers eh seguido la carpeta de\nmódulos donde vamos a encontrar la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 39800,
+    "dDurationMs": 5599,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mayoría de archivos. pii que tienen\nbásicamente los mismos nombres",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 43160,
+    "dDurationMs": 8120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mencionados anteriormente Y finalizamos\ncon el nuestro archivo principal Main",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 48440,
+    "dDurationMs": 8240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que es donde pues vamos a a ejecutarlo a\ncontinuación para poder Eh pues explicar",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 54000,
+    "dDurationMs": 9239,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y Mostrar que todo está en\nfuncionamiento listo entonces comenzamos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 60120,
+    "dDurationMs": 7280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Eh pues se imprimen los dos primeros\nmenús subimos un poquito porque creo que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 65600,
+    "dDurationMs": 7159,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "dice como Bienvenidos a campus l Sí es\ncorrecto y pues ya ahí luego vienen las",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 70560,
+    "dDurationMs": 6960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tres opciones principales que te pide\ningresar si eres Camper un trainer o",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 74680,
+    "dDurationMs": 7040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "coordinador listo entonces empezamos\nexplicando la parte de Camper Vamos a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 79600,
+    "dDurationMs": 8440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "entrar como Camper dándole el número uno\ny aquí nos vota eh si te quieres",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 84560,
+    "dDurationMs": 8239,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "registrar si deseas ingresar o vamos a\nir atrás vamos entonces a hacer un un",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 90400,
+    "dDurationMs": 6719,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pequeño ejemplo de de registrar un nuevo\nCamper damos la opción número uno ahí",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 95680,
+    "dDurationMs": 8439,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "nos va a pedir los datos\nque que solicitamos el nombre los",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 100640,
+    "dDurationMs": 11479,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "apellidos el número de de identificación\no el ID eh la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 109000,
+    "dDurationMs": 11680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "dirección creo que luego sigue como\nacudiente a ver Sin nombre de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 116439,
+    "dDurationMs": 10161,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "acudiente teléfono teléfono móvil\ny terminamos con con teléfono fijo que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 125039,
+    "dDurationMs": 6280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "en este caso colocamos la opción de si\naplica de si no aplica pues puedes",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 128840,
+    "dDurationMs": 7119,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ingresar el número cero y lo toma listo\nentonces ahí ya queda",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 133160,
+    "dDurationMs": 8840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "registrado vamos a ir a para confirmar\nque está registrado vamos a la base de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 138080,
+    "dDurationMs": 10320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "datos o ingresamos de una vez eh Como\nbase de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 142879,
+    "dDurationMs": 5521,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "datos podos mirar que aquí ya se creó",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 150280,
+    "dDurationMs": 7120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Aquí ya está creado Uriel Vargas Vamos a\ningresar Igualmente Bueno ya sigue",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 155640,
+    "dDurationMs": 6599,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "explicando ingresar correcto con el\nnombre identificación que que acabamos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 159239,
+    "dDurationMs": 3000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de ingresar del",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 166800,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Camper listo y en este caso pues como Lo\nacabamos de ingresar tenemos tres",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 170680,
+    "dDurationMs": 8320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "opciones trabajadas que son inscrito\naprobado Y cursando entonces en este",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 176159,
+    "dDurationMs": 6601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "caso como Lo acabamos de ingresar va a\naparecer como inscrito entonces este es",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 180959,
+    "dDurationMs": 7401,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "el menú para la los Campers recién\ninscritos donde bueno el primero la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 185959,
+    "dDurationMs": 6761,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "primera opción era presentar examen\nsegunda opción era ver estado de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 189799,
+    "dDurationMs": 6401,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "inscripción y tercera cerrar sección en\nla la primera que era presentar un",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 194840,
+    "dDurationMs": 5720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "examen pues era como un Plus que\nqueríamos agregar pero pues por tiempo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 197840,
+    "dDurationMs": 8000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "no no nos alcanzó lo que sí podemos ver\nEs el el estado de inscripción vamos a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 203640,
+    "dDurationMs": 5480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "revisarlo y ahí dice su estado de\ninscripción actualmente es inscrito como",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 207560,
+    "dDurationMs": 6920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Lo acabamos de ver también en la base de\ndatos listo vamos a en este caso vamos a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 213720,
+    "dDurationMs": 6439,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a\ncambiar",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 216159,
+    "dDurationMs": 9961,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "para para ingresar perdón como un camper\nque está cursando que nos va a mostrar",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 223280,
+    "dDurationMs": 8679,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "un menú completamente diferente vamos a\nbuscar un ejemplo que ya",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 228480,
+    "dDurationMs": 9080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "esté cursando Vamos a ingresar de nuevo\ncon el",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 234000,
+    "dDurationMs": 7200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ID y este es el menú para los Campers\nque se encuentran cursando Entonces",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 239879,
+    "dDurationMs": 5761,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tenemos la primera opción que dice\nrevisar horario de clases la segunda que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 243000,
+    "dDurationMs": 7120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "es revisar notas de cursos y la tercera\nSencillamente es cerrar sesión en este",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 247159,
+    "dDurationMs": 9281,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "caso pues alcanzamos a a finalizar la de\nrevisar notas que lo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 253640,
+    "dDurationMs": 8279,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hicimos Vamos a\nentrar",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 259239,
+    "dDurationMs": 6121,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "uno bueno entonces como lo mencioné\nanteriormente Este es el menú para",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 263360,
+    "dDurationMs": 5360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cuando un camper ya está cursando lo\nrepito rápidamente hay que revisar",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 267240,
+    "dDurationMs": 5120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "horario de clase la segunda opción es\nrevisar la notas del curso y la tercera",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 270960,
+    "dDurationMs": 4799,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cerrar sesión en este caso vamos a\nrevisar el funcionamiento de la segunda",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 274039,
+    "dDurationMs": 7521,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que es revisar notas de\ncurso y aquí pues tenemos las notas eh",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 279400,
+    "dDurationMs": 6280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "disponibles que son Bueno pues por\nmódulo si no estoy mal que es",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 283080,
+    "dDurationMs": 10200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "introducción a a la algoritmia\nprogramación web javascript",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 289160,
+    "dDurationMs": 9440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "eh se pronuncia Ajá y la última que\nvendría ha siendo sprot vamos a a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 296360,
+    "dDurationMs": 7399,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "confirmar con la primera opción puede\nser que es opción introducción Perdón al",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 301000,
+    "dDurationMs": 7039,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "algoritmia y ahí podemos encontrar las\ntres notas que en este caso no se han",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 305680,
+    "dDurationMs": 6600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "registrado aún y vamos a confirmar\ntambién con javascript puede ser para",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 310199,
+    "dDurationMs": 7321,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "confirmar que que las otras opciones\ntambién estén validadas y ahí están las",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 314880,
+    "dDurationMs": 10319,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "notas de javascript\nlisto vamos a la opción anterior",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 322840,
+    "dDurationMs": 7600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Eh bueno Vamos a ingresar ahora como\ntrainer la segunda",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 327440,
+    "dDurationMs": 9400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "opción y aquí pues sencill ente tenemos\ningresar o ir atrás vamos a a ingresar",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 333840,
+    "dDurationMs": 7880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "nos va a mostrar el menú ingresamos con\nel número de identificación ya con un eh",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 340520,
+    "dDurationMs": 6600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "nuestra base de\ndatos Y pues acá Bueno tenemos el menú",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 344639,
+    "dDurationMs": 8641,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de lo que si el tiempo nos hubiera\nalcanzado lo hubiéramos ejecutado que es",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 349680,
+    "dDurationMs": 8440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "rápidamente evaluar Campers segundo\nseguimiento académico el tercero los ver",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 356120,
+    "dDurationMs": 7160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "módulos y el cuarto rápidamente que es\nver mis cursos es eso como tal por",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 361600,
+    "dDurationMs": 6840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "trainers que pues por tiempo no\nalcanzamos Entonces ya repasamos la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 365479,
+    "dDurationMs": 8401,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "parte de campers parte de trainers y lo\nque viene siendo coordinadores Ya mi",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 370160,
+    "dDurationMs": 9080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "compañero lo va a explicar bueno como mi\ncompañero estaba explicando ya habiendo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 377360,
+    "dDurationMs": 7080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "dicho las funcionalidades del Camper y\nel trainer Vamos a ingresar ahora como",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 381280,
+    "dDurationMs": 9240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "coordinador podemos tenemos la opción de\nregistro no no tenemos la opción de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 387120,
+    "dDurationMs": 7799,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "registro en este caso por tiempo no\nalcanzamos a hacer el registro pero",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 392840,
+    "dDurationMs": 5000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vamos a probar el ingreso con este\nusuario ya creado",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 397880,
+    "dDurationMs": 7800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "previamente que\npausa vamos a volverlo a ejecutar",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 403479,
+    "dDurationMs": 9280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Espérame\nrapidito es que si lo ejecuté mal",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 409360,
+    "dDurationMs": 8920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ingresar crear\ntrainer Ay",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 415440,
+    "dDurationMs": 7080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "no Bueno entonces aquí tenemos el menú\nde los",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 420360,
+    "dDurationMs": 8679,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de los coordinadores vamos a crear una\nnueva ruta si está grabando bien aquí",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 426479,
+    "dDurationMs": 8681,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "nos elige los módulos y como cada\nmateria o cada tema que se en cada",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 430840,
+    "dDurationMs": 10799,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "módulo vamos a elegir python Java sql y\nspringboot nos sale una pequeña lista de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 437680,
+    "dDurationMs": 9760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "los trainers que existen Y quién se va a\nhacer cargo de esa de esa ruta Vamos a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 444680,
+    "dDurationMs": 2760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ponerle",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 448520,
+    "dDurationMs": 11679,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "eh Vamos a ponerle a cargo al trainer\njolber el nombre de la ruta eh ruta ruta",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 458120,
+    "dDurationMs": 8479,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Spring\nBoot listo ahí ya dice que fue creada",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 463120,
+    "dDurationMs": 10680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "con éxito y aquí vemos en rutas que\nefectivamente se creó la ruta Spring",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 469240,
+    "dDurationMs": 10799,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Boot con el profe yolber perfecto luego\nvamos a crear un",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 475400,
+    "dDurationMs": 9560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "grupo elegimos La ruta de que va a ese\nese grupo y aquí nos da una pequeña",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 482759,
+    "dDurationMs": 7201,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "lista de los Campers que no cuentan con\ngrupo vamos a agregar al Camper número",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 487199,
+    "dDurationMs": 8440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "8o que es Uriel vamos a agregar otro\nCamper sí agregamos El Siete que es",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 492159,
+    "dDurationMs": 9320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "David y ya no quiero agregar más aquí un\npoco mal formateada la salida pero si",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 498240,
+    "dDurationMs": 8160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "nos damos cuenta al mirar en grupos ya\nvemos que se crea correctamente el grupo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 504319,
+    "dDurationMs": 9160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "número tres con el profesor jolber el\nCamper Uriel y el camper",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 510360,
+    "dDurationMs": 8799,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "David vamos a seguir explicando lo de\ncrear",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 514399,
+    "dDurationMs": 11201,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "trainer ingresamos un nombre Eh Pedro no\nme s el apellido va a poner Pérez número",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 523919,
+    "dDurationMs": 8521,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de identificación\n1000 ya ahí ya fue creado con éxito y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 529560,
+    "dDurationMs": 11880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "también podemos ver de que en trainers\nse acaba de crear el trainer",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 536000,
+    "dDurationMs": 5440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Pedro y subir notas de admisión",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 543200,
+    "dDurationMs": 7680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "bueno Y eso sería todo por coordinadores\nEntonces mi compañero David va a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 548360,
+    "dDurationMs": 7919,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "terminar con la explicación del\nproyecto listo entonces pues eso fue",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 553480,
+    "dDurationMs": 9479,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "todo nuestro proyecto final de de python\nde parte de los Campers Uriel Fabi y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 559360,
+    "dDurationMs": 11840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "David Medina esperamos pues sea de su\nagrado para el profesor",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 565240,
+    "dDurationMs": 5960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Pedro Hasta luego Hasta luego",
+      "acAsrConf": 0
+    } ]
+  } ]
+}

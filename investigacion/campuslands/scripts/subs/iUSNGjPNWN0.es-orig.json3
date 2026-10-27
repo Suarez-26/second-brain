@@ -1,0 +1,557 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  }, {
+    "mhModeHint": 2,
+    "juJustifCode": 0,
+    "sdScrollDir": 3
+  } ],
+  "wpWinPositions": [ {
+  
+  }, {
+    "apPoint": 6,
+    "ahHorPos": 20,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  } ],
+  "events": [ {
+    "tStartMs": 0,
+    "id": 1,
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 330,
+    "dDurationMs": 2560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "[Música]"
+    } ]
+  }, {
+    "tStartMs": 6500,
+    "dDurationMs": 6639,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "la fundación it es una organización sin\nánimo de lucro que busca generar el",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 11160,
+    "dDurationMs": 7440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cambio social a partir de la formación\nintegral de jóvenes vulnerables nuestra",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 16379,
+    "dDurationMs": 7441,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "brújula apunta a formar esos diamantes\nen bruto Hola a todos Bienvenidos a este",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 22140,
+    "dDurationMs": 5639,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "espacio de historias que inspiran hoy\ntenemos con nosotros a David un",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 25980,
+    "dDurationMs": 6440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "estudiante de la fundación iti que ha\nencontrado una transformación de vida en",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 30060,
+    "dDurationMs": 7260,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "su paso por esta fundación David\nbienvenido Muchas gracias por",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 34140,
+    "dDurationMs": 8759,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "acompañarnos Mi nombre es David Fernando\nRodríguez Gutiérrez tengo 18 años desde",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 41219,
+    "dDurationMs": 6981,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "el municipio de bucarazica Norte\nSantander el pedacito de cielo Muchas",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 46200,
+    "dDurationMs": 8039,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "gracias por la entrevista y\ncuéntanos David como un Norte",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 51480,
+    "dDurationMs": 9200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "santandereano",
+      "acAsrConf": 206
+    }, {
+      "utf8": " llega",
+      "acAsrConf": 242
+    }, {
+      "utf8": " Barranquilla",
+      "acAsrConf": 235
+    }, {
+      "utf8": " a\nformarse Bueno",
+      "acAsrConf": 242
+    }, {
+      "utf8": " pues",
+      "acAsrConf": 240
+    }, {
+      "utf8": " el año pasado yo",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 57660,
+    "dDurationMs": 8999,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "estaba en 11 grados hasta ahora me",
+      "acAsrConf": 242
+    }, {
+      "utf8": " gra",
+      "acAsrConf": 224
+    }, {
+      "utf8": "\nde bachillerato como me enteré de la",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 64140,
+    "dDurationMs": 7519,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "fundación it Bueno yo pertenecía a un\ngrupo de danzas que se llama presión",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 68939,
+    "dDurationMs": 7981,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "folclórica en el municipio de bucarazica\nme dedicaba al baile y al estudio",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 74159,
+    "dDurationMs": 8640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mientras sacaba el bachillerato por\nmedio de una tía me comunicaron que",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 78659,
+    "dDurationMs": 11941,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "habían una fundación que ayudaba a los\njóvenes que salía de bachillerato y que",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 87060,
+    "dDurationMs": 8760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "fue una oportunidad que tomé de entrar\nen la parte del desarrollo de la",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 92400,
+    "dDurationMs": 8640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "programación y Bueno aquí estoy aparte\nde ser bailarín qué más hacías antes en",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 98100,
+    "dDurationMs": 10460,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tu cara bueno pues aparte yo soy\ncampesino Vengo del campo son cosas que",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 105860,
+    "dDurationMs": 9579,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "no las voy a negar y\ny es un orgullo decir que soy del campo",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 111780,
+    "dDurationMs": 8940,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Porque allá nací",
+      "acAsrConf": 242
+    }, {
+      "utf8": " llegué",
+      "acAsrConf": 216
+    }, {
+      "utf8": " aquí",
+      "acAsrConf": 236
+    }, {
+      "utf8": " a la ciudad\ny es un cambio extremo pero me ha",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 117420,
+    "dDurationMs": 7860,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "servido profesionalmente y personalmente\ncuéntanos Cómo ha sido ese",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 122820,
+    "dDurationMs": 8100,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "acompañamiento esta oportunidad y cómo\nha sido esa formación integral en la",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 127920,
+    "dDurationMs": 8520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "fundación bueno la formación Pues\nnosotros pasamos por un proceso",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 133640,
+    "dDurationMs": 8140,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de aprendizaje el primer mes que\nentramos a la fundación",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 138500,
+    "dDurationMs": 10140,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a cargo los líderes nos iban orientando\nen la parte del aprendizaje de Ahí",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 144480,
+    "dDurationMs": 11640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pasamos una etapa de selección Y eso y\nnos han ayudado en la parte económica y",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 152120,
+    "dDurationMs": 8199,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "en aprendizaje David en la fundación y\nti tenemos un eslogan muy claro Y es que",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 158280,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "nosotros ayudamos a transformar la vida\ny a tocar la vida de ustedes como",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 162360,
+    "dDurationMs": 7140,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "estudiantes y de sus familias que son\nlos que siempre están detrás de uno",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 166620,
+    "dDurationMs": 7320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "dando la energía cuéntanos Cómo ha sido\ntu experiencia y si tú estás de acuerdo",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 170940,
+    "dDurationMs": 7820,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "realmente con esta Sí estoy de acuerdo\nporque la fundación no me",
+      "acAsrConf": 242
+    }, {
+      "utf8": " cambió",
+      "acAsrConf": 233
+    }, {
+      "utf8": " la vida",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 176700,
+    "dDurationMs": 8100,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a mí sino la de mi familia también\nporque cuando",
+      "acAsrConf": 242
+    }, {
+      "utf8": " yo",
+      "acAsrConf": 241
+    }, {
+      "utf8": " en el pueblo Pues yo",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 182760,
+    "dDurationMs": 7500,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "saqué grado y ellos decían Bueno qué voy\na hacer con con David A qué se va a",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 187860,
+    "dDurationMs": 8580,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "dedicar Bueno me contacté con la\nfundación para ellos así un orgullo que",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 193620,
+    "dDurationMs": 7160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "su hijo crezca profesionalmente en la\nciudad Claro que yo no me voy a olvidar",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 198180,
+    "dDurationMs": 7320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "del pueblo también porque son mis raíces\nVengo del campo y me siento muy",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 203519,
+    "dDurationMs": 7261,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "orgulloso de ellos pero me siento muy\ncontento porque estoy creciendo a nivel",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 208319,
+    "dDurationMs": 9361,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "profesional en la parte del desarrollo\nen la programación junto a la fundación",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 213480,
+    "dDurationMs": 11100,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "y junto a wow que ha sido mi gran ayuda\nen mi vida A todos los que nos están",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 221280,
+    "dDurationMs": 9120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "viendo a esos papás a esos chicos como\ntú que están buscando una oportunidad y",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 228120,
+    "dDurationMs": 7679,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que son esos diamantes en bruto que\nestán en sus casas qué consejo le daría",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 232799,
+    "dDurationMs": 9440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Bueno yo les daría un consejo que que\ncuando cuando",
+      "acAsrConf": 242
+    }, {
+      "utf8": " se",
+      "acAsrConf": 238
+    }, {
+      "utf8": " les",
+      "acAsrConf": 240
+    }, {
+      "utf8": " dé la oportunidad",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 238560,
+    "dDurationMs": 8819,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "de pertenecer a\nque la tomen porque son oportunidades",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 244980,
+    "dDurationMs": 8100,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "que no sean todos los días a mí me\nprestaron la oportunidad de empezar",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 249360,
+    "dDurationMs": 8760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "desde cero solo con el bachillerato y he\ncrecido full este año que fue que empecé",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 255239,
+    "dDurationMs": 8841,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "el proceso de formación y siento que voy\npara arriba y que a esos chicos que",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 262139,
+    "dDurationMs": 8521,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "están en casa que",
+      "acAsrConf": 242
+    }, {
+      "utf8": "\nque",
+      "acAsrConf": 226
+    }, {
+      "utf8": " tomen",
+      "acAsrConf": 241
+    }, {
+      "utf8": " la iniciativa de salir",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 267720,
+    "dDurationMs": 7560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "adelante y más en el con el apoyo de una\nfundación como la de",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 272699,
+    "dDurationMs": 7440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "David Muchas gracias por contarnos tu\nhistoria Muchas gracias por acompañarnos",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 277800,
+    "dDurationMs": 8280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Y mil gracias por creer en la fundación\ny ti Bueno para mí es un placer",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 282120,
+    "dDurationMs": 8820,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "contarles la historia los jóvenes que\nson el presente y el futuro de la",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 288540,
+    "dDurationMs": 7379,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sociedad a partir de la transformación\nde su vida y las de sus familias porque",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 293639,
+    "dDurationMs": 7261,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "la educación es el arma más poderosa\npara cambiar el mundo dejando tu chispa",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 299160,
+    "dDurationMs": 6780,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "abrimos la puerta hacia las\noportunidades de formación integral",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 302900,
+    "dDurationMs": 7780,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "psicosocial profesional y laboral de\nellos con la posibilidad de obtener un",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 308340,
+    "dDurationMs": 8870,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ingreso fijo y progresivo desde el\ninicio de su formación",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 312840,
+    "dDurationMs": 9270,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "deja tu chispa porque juntos somos más\n[Música]",
+      "acAsrConf": 242
+    } ]
+  } ]
+}

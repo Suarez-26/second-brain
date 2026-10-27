@@ -1,0 +1,210 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  }, {
+    "mhModeHint": 2,
+    "juJustifCode": 0,
+    "sdScrollDir": 3
+  } ],
+  "wpWinPositions": [ {
+  
+  }, {
+    "apPoint": 6,
+    "ahHorPos": 20,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  } ],
+  "events": [ {
+    "tStartMs": 0,
+    "id": 1,
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 560,
+    "dDurationMs": 8440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Bienvenido al lugar en donde Nada es\nimposible un lugar en donde",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 6279,
+    "dDurationMs": 7480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "transformamos el no se puede por un Y si\nhacemos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 11000,
+    "dDurationMs": 7520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "más porque somos más que un centro de\nentrenamiento para",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 16320,
+    "dDurationMs": 7119,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "programadores somos un ecosistema\nexponencial que crea agentes de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 21119,
+    "dDurationMs": 7841,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cambio a través de innovación\ncolaborativa y diversidad",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 26160,
+    "dDurationMs": 8840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cultural creamos entornos de crecimiento\nescalable",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 31039,
+    "dDurationMs": 8680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mi objetivo es crecer crecer pero no yo\nsola sino ayudar a crecer a los demás",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 37320,
+    "dDurationMs": 7160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "porque escribimos el código que conecta\na personas y transforma las necesidades",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 42120,
+    "dDurationMs": 2360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "en",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 44520,
+    "dDurationMs": 6920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "oportunidades formamos perfiles ti de\nalto nivel que superan las expectativas",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 49559,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "del\nmercado convertimos las ideas en",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 54079,
+    "dDurationMs": 7440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "poderosas respuestas de transformación\nsocial que impactan y aceleran la",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 58079,
+    "dDurationMs": 6881,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "economía regional tengo 19 años y\ngracias a campus Land tengo mi propia",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 63280,
+    "dDurationMs": 6040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "empresa campus Land me brindó los\nrecursos necesarios para pasar de",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 66680,
+    "dDurationMs": 9040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "simplemente una idea o un sueño a algo\nreal tenemos programado en nuestro ADN",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 72439,
+    "dDurationMs": 8561,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "el emprendimiento la creatividad y la\ninnovación creemos en la gente como",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 78119,
+    "dDurationMs": 9121,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "activo de valor para alcanzar el éxito\nes la mejor plataforma y el mejor",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 83439,
+    "dDurationMs": 9161,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "entorno para superar tus propios límites\nte empuja y te lleva Más allá de lo que",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 90000,
+    "dDurationMs": 7920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "crees que puedes lograr somos ambiciosos\ny exigentes porque entendemos que somos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 95000,
+    "dDurationMs": 8079,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "los mejores somos los mejores somos los\nmejores somos los mejores somos los",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 100240,
+    "dDurationMs": 6280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mejores en campus l somos los mejores\nsomos campus",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 112360,
+    "dDurationMs": 3000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "lands",
+      "acAsrConf": 0
+    } ]
+  } ]
+}

@@ -28,4 +28,40 @@ Formato: `AAAA-MM-DD HH:MM | acción | archivo | fuente`. La escribe la corrida 
 2026-10-14 | cierre | meta/last-session.md, decision-log.md, open-loops.md | cierre de sesión
 2026-10-16 | creación | prospectos/ (README, base-de-conocimiento), .claude/commands/responder-prospecto.md, inbox/prospectos/ | sesión con Pao
 2026-10-16 | optimización | sources/linkedin/ (9 fuentes archivadas), linkedin/ (9 fuentes validadas e integradas), eliminación Linkedln/, .gitignore (*.exe), areas/ (campuslands, second-brain), meta/ (start-here, current-priorities, last-session, decision-log, open-loops), presentaciones/README.md, journal/2026-10-16.md | consolidación del vault a nivel 10/10
+2026-10-17 | creación | automation/whatsapp-mcp/whatsapp-bridge-node/index.js, automation/claude_whatsapp_bot.py, automation/bot_config.json, automation/iniciar_whatsapp_claude.ps1, .mcp.json, PARCHES.md | puente WhatsApp en Node.js (puerto 8085), MCP en Claude Desktop/Code y bot interactivo de Claude (chat propio + copiloto/auto prospectos)
+2026-10-20 | extracción e investigación exhaustiva | diego_investigacion/ (01, 01b, 01c, 02_publicaciones/ [107 posts + comentarios + reacciones + menciones], 03_imagenes/, 04_videos_y_audios/ [>50 videos], 05_transcripciones/ [4 formatos], 06_analisis_maestro_diego.md), investigacion/diego-tarazona/memoria/{perfil,cronologia,campuslands-hechos,pendientes-de-confirmar}.md, people/diego-tarazona.md | extracción 100% íntegra desde el primer al último post de Diego Tarazona en LinkedIn con Playwright, descarga 720p de videos y transcripción multimodal con Faster-Whisper
+2026-10-20 | interconexión total del grafo | diego_investigacion/README.md, diego_instagram/README.md, organizaciones/ (8 notas + README), people/ (andres-lizarazo, sandra-charry, maria-camila-canas), diego_investigacion/02_publicaciones/ (337 notas conectadas), diego_investigacion/05_transcripciones/ (83 notas conectadas), diego_instagram/ (77 notas conectadas), campuslands corpus (149 notas conectadas) | eliminación de huérfanos y colapso del anillo exterior en la vista gráfica de Obsidian hacia los nodos centrales y temáticos
+2026-10-20 | ingesta institucional canónica | sources/presentaciones/campus-magazine-may-2026-canva.md, presentaciones/README.md, investigacion/diego-tarazona/memoria/{cronologia,perfil,campuslands-hechos,pendientes-de-confirmar}.md, people/diego-tarazona.md | extracción íntegra de la revista de Canva (12 páginas, Equipo Hunter Mayo 2026); resolución canónica de nacimiento (1982), frase materna, primera sede (Provincia de Soto II), ecosistema de empresas (IAF, Plazoleta Digital), 4 pilares formativos y proyección Ciudadela 2027
 
+2026-10-22 11:47 | AUDIO_INGEST | journal/2026-10-22.md | Audio transcripto (audio.ogg)
+2026-10-22 11:50 | AUDIO_INGEST | journal/2026-10-22.md | Audio transcripto (audio.ogg)
+2026-10-22 12:51 | TASK_ADD | meta/open-loops.md | Nuevo loop: Elaborar un análisis sobre el impacto y futuro de la inteligencia artificial y los agentes
+2026-10-22 12:51 | JOURNAL_REPORT | journal/2026-10-22.md | Actividades registradas (12:51)
+2026-10-22 12:52 | MEETING_MINUTES | sources/reuniones/2026-10-22_acuerdo-del-cohete-social-para-estratos-.md | Minuta: Acuerdo del cohete social para estratos 1 y 2
+2026-10-22 12:52 | TASK_ADD | meta/open-loops.md | Nuevo loop: Enviar la propuesta formal el viernes
+2026-10-22 13:13 | TASK_ADD | meta/open-loops.md | Nuevo loop: Buscar y recomendar cursos de Python para principiantes
+2026-10-22 13:13 | JOURNAL_REPORT | journal/2026-10-22.md | Actividades registradas (13:13)
+2026-10-22 15:45 | INBOX_EXTERNO | inbox/whatsapp/573001234567.md | Mensaje de 573001234567
+2026-10-22 16:02 | INBOX_EXTERNO | inbox/whatsapp/573173769917.md | Mensaje de 573173769917
+2026-10-22 16:02 | INBOX_EXTERNO | inbox/whatsapp/573173769917.md | Mensaje de 573173769917
+2026-10-24 10:41 | INBOX_EXTERNO | inbox/whatsapp/573247571239.md | Mensaje de 573247571239
+2026-10-24 10:41 | INBOX_EXTERNO | inbox/whatsapp/573247571239.md | Mensaje de 573247571239
+2026-10-24 10:43 | INBOX_EXTERNO | inbox/whatsapp/573247571239.md | Mensaje de 573247571239
+2026-10-24 10:46 | INBOX_EXTERNO | inbox/whatsapp/573247571239.md | Mensaje de 573247571239
+2026-10-24 10:47 | INBOX_EXTERNO | inbox/whatsapp/573247571239.md | Mensaje de 573247571239
+2026-10-24 10:47 | INBOX_EXTERNO | inbox/whatsapp/573247571239.md | Mensaje de 573247571239
+2026-10-24 11:35 | INBOX_EXTERNO | inbox/whatsapp/573247571239.md | Mensaje de 573247571239
+2026-10-24 11:37 | INBOX_EXTERNO | inbox/whatsapp/573247571239.md | Mensaje de 573247571239
+2026-10-24 12:19 | INBOX_EXTERNO | inbox/whatsapp/573247571239.md | Mensaje de 573247571239
+2026-10-24 12:19 | INBOX_EXTERNO | inbox/whatsapp/573247571239.md | Mensaje de 573247571239
+2026-10-24 12:21 | INBOX_EXTERNO | inbox/whatsapp/573247571239.md | Mensaje de 573247571239
+2026-10-24 12:22 | INBOX_EXTERNO | inbox/whatsapp/573247571239.md | Mensaje de 573247571239
+2026-10-24 12:23 | INBOX_EXTERNO | inbox/whatsapp/573247571239.md | Mensaje de 573247571239
+2026-10-24 12:23 | INBOX_EXTERNO | inbox/whatsapp/573247571239.md | Mensaje de 573247571239
+2026-10-24 12:24 | INBOX_EXTERNO | inbox/whatsapp/573247571239.md | Mensaje de 573247571239
+2026-10-24 12:25 | INBOX_EXTERNO | inbox/whatsapp/573247571239.md | Mensaje de 573247571239
+2026-10-24 12:26 | INBOX_EXTERNO | inbox/whatsapp/573247571239.md | Mensaje de 573247571239
+2026-10-24 12:53 | INBOX_EXTERNO | inbox/whatsapp/573247571239.md | Mensaje de 573247571239
+2026-10-27 | cambio | automation/whatsapp_webhook_server.py | Token de acceso y verify token de Meta sacados del código a .env; Pao rotará el token (sesión manual)
+2026-10-27 | cambio | .gitignore | Ignorados medios pesados (mp4/wav/ogg, imágenes y videos de diego_*), __pycache__, *.log y estado del bot (sesión manual)
+2026-10-27 | cambio | automation/kapso_whatsapp_bot.py | Respuestas a terceros pasan a modo copiloto (borrador al admin: Enviar/Editar/Descartar); remitente vacío ya no cuenta como admin (sesión manual)
