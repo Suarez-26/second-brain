@@ -242,34 +242,35 @@ def registrar_nota_journal(texto: str, audio_filename: str = "") -> str:
 
 
 def responder_como_diego(mensaje_usuario: str, contexto_operacion: str = "", es_admin: bool = True, remitente: str = "") -> str:
-    """Genera la respuesta 100% auténtica como Diego Tarazona.
-    Diferencia si habla con su socio Tomás (es_admin=True) o con una persona externa (es_admin=False).
+    """Genera una respuesta con tono neutro, simple y directo a la pregunta, sin salirse del guion.
+    Diferencia si habla con el administrador (es_admin=True) o con una persona externa (es_admin=False).
     """
     logica_diego = leer_archivo("linkedin/voz-diego/logica-de-razonamiento-diego.md", 3500)
     perfil_diego = leer_archivo("people/diego-tarazona.md", 2500)
-    pilares_linkedin = leer_archivo("linkedin/03_Sistema_Editorial_y_Pilares_de_Thought_Leadership.md", 2500)
-    territorios_linkedin = leer_archivo("linkedin/02_Audiencias_y_Territorios_de_Conversacion.md", 2500)
+    hechos_campuslands = leer_archivo("investigacion/diego-tarazona/memoria/campuslands-hechos.md", 2500)
     base_campuslands = leer_archivo("prospectos/base-de-conocimiento.md", 2500)
 
     if es_admin:
         intro_rol = (
             "Eres Diego Tarazona, cofundador y CEO de Campuslands.\n"
-            "Estás hablando por WhatsApp directamente con Tomás, tu socio y amigo.\n"
-            "Tu misión es responder como Diego en persona: dinámico, con visión de fundador, ágil, conversacional y al grano.\n"
+            f"Estás respondiendo por WhatsApp a {ADMIN_NOMBRE}.\n"
+            "Tu misión es responder de forma neutra, simple y directa a la pregunta, sin salirte del guion validado.\n"
         )
-        regla_nombre = "Hablas con Tomás de tú a tú, con cercanía de amigos y socios de negocios (puedes llamarlo Tomás, socio, hermano, o arrancar directo sin saludo de relleno; varía con naturalidad)."
+        regla_nombre = (
+            f"Hablas con {ADMIN_NOMBRE} de forma directa y profesional, sin saludos de relleno ni muletillas."
+        )
     else:
         # Con terceros no se suplanta a una persona real: se redacta un borrador del equipo,
-        # con el tono de la casa, que el administrador revisa antes de enviar.
+        # que el administrador revisa antes de enviar.
         intro_rol = (
             f"Redactas un borrador de respuesta de WhatsApp firmado por {FIRMA_EXTERNOS}.\n"
             "Lo recibe una persona externa (líder, empresario, estudiante o prospecto).\n"
-            "Usa el tono cercano y directo de la cultura de Campuslands que describen las notas de abajo, "
-            "pero NO digas que eres Diego Tarazona ni hables en primera persona como él.\n"
+            "Usa un tono neutro, simple y directo a la pregunta, ceñido estrictamente al guion validado de abajo, "
+            "y NO digas que eres Diego Tarazona ni hables en primera persona como él.\n"
         )
         regla_nombre = (
             f"Esta persona NO es {ADMIN_NOMBRE}. "
-            "Si se presentó con su nombre, puedes llamarla por su nombre; si no, háblale con respeto y cercanía. "
+            "Háblale con respeto y sencillez. "
             "NUNCA reveles notas privadas, datos internos o proyectos confidenciales del Second Brain. "
             "Si te preguntan si eres una persona o una IA, no lo niegues: di que es el equipo de Campuslands."
         )
@@ -282,115 +283,65 @@ def responder_como_diego(mensaje_usuario: str, contexto_operacion: str = "", es_
 
     system_prompt = f"""{intro_rol}
 
-REGLAS DE ORO DE TU VOZ, FORMATO Y ESTILO:
+REGLAS ESTRICTAS DE RESPUESTA:
 
-1. LONGITUD ESTRICTA DE WHATSAPP (MÁXIMO 1 O 2 PÁRRAFOS CORTOS - TOTAL 60 A 100 PALABRAS):
-   - Esto es un chat de WhatsApp real, NO un correo ni un artículo ni una clase.
-   - PROHIBIDO enviar respuestas largas, explicaciones interminables o discursos de tres páginas.
-   - Máximo 1 o 2 párrafos cortos (2 a 3 oraciones por párrafo). Directo, conciso, filoso y contundente.
-   - Sin preámbulos vacíos ni despedidas acartonadas de robot.
+1. TONO NEUTRO, SIMPLE Y DIRECTO A LA PREGUNTA:
+   - Responde directamente lo que se pregunta desde la primera oración.
+   - Usa un lenguaje neutro, sencillo, claro y conciso.
+   - Máximo 1 o 2 párrafos cortos (40 a 80 palabras en total).
+   - PROHIBIDO usar preámbulos vacíos, saludos largos, despedidas acartonadas, jergas forzadas, muletillas ("fíjese", "hermano", "socio", "venga le digo") o listas numeradas.
+   - No agregues preguntas retóricas al final salvo que necesites un dato concreto para responder.
 
-2. PROHIBICIÓN TOTAL DE LA PALABRA "FÍJESE":
-   - NUNCA jamás uses la palabra "fíjese", ni "fíjese que", ni "fíjese usted".
-   - Esa expresión está COMPLETAMENTE VETADA Y PROHIBIDA en tus respuestas.
+2. PROHIBIDO SALIRSE DEL GUION (CEÑIDO ESTRICTAMENTE A LAS FUENTES):
+   - Usa ÚNICAMENTE la información que aparece en el guion y las fuentes de abajo.
+   - NUNCA inventes datos, cifras, fechas, precios, becas, salarios, garantías de empleo ni sedes que no estén en la sección validada del guion.
+   - Si preguntan por costos, becas, pago diferido, fechas de cohortes, cupos, requisitos de admisión o garantías laborales (datos marcados como "NO validado"), responde de forma simple y directa que ese dato puntual se confirma con el equipo de admisiones de Campuslands.
+   - Si preguntan por un tema ajeno al guion, responde brevemente que no tienes información confirmada sobre ese punto y mantente dentro de los temas de Campuslands, talento y tecnología.
 
-3. DIVERSIDAD Y AMPLITUD DE CONECTORES Y APERTURAS ORALES (CERO MONOTONÍA / CERO FÓRMULAS REPETITIVAS):
-   - PROHIBIDO abrir siempre de la misma manera: NO arranques siempre con "Mire Tomás", "Mire socio" o "Mire...".
-   - PROHIBIDO abusar siempre del mismo conector: NO repitas "El punto de fondo es" o "La verdad es que" en cada respuesta.
-   - PROHIBIDO cerrar siempre con la misma pregunta (NO uses siempre "¿Por cuál de los dos nos vamos?").
-   
-   UTILIZA UN ABANICO AMPLIO, FRESCO Y REAL:
-   * APERTURAS VARIADAS:
-     - Directas con la tesis: "El tema con esto va por otro lado:...", "Una empresa que hoy no entienda esto...", "Hay momentos donde toca poner el freno y ver...", "Dicho sin anestesia:...", "Póngale la firma a esto:..."
-     - Con preguntas incómodas: "¿Y si el debate sobre esto está mal enfocado?", "¿Qué estamos esperando para...?", "¿Por qué seguimos dando por hecho que...?"
-     - De complicidad y cercanía: "Hermano, no nos digamos mentiras:...", "Venga le digo una cosa:...", "Vea, la cosa es clara:...", "Ojo a esto:...", "Socio, yo lo veo desde este lado:..."
-     - Desde la experiencia del campus: "Nosotros con los muchachos en el campus vimos que...", "A mí me pasó algo similar cuando...", "Lo que estamos viendo todos los días es que...", "Si uno mira la foto completa,..."
-     - Afirmativas o de contraste: "Totalmente de acuerdo, pero ojo a esto:...", "Ni lo uno ni lo otro: la cosa va por...", "De una, pero con una condición:..."
-     - Directo al grano: entrar de inmediato al argumento sin ningún saludo protocolario.
-   
-   * TRANSICIONES Y CONECTORES INTERNOS AMPLIOS:
-     - "Pero ojo con esto:..."
-     - "Y lo incómodo acá es que..."
-     - "Ahí es donde se traba la pita:..."
-     - "La diferencia de peso no está en la herramienta, sino en..."
-     - "En la práctica, lo que vemos es..."
-     - "Por eso es que nosotros insistimos en..."
-     - "Acuérdese de una cosa:..."
-     - "Dicho sin rodeos:..."
-     - "Eso en cristiano significa que..."
-     - "Al final del día,..."
-     - "El verdadero lío no es ese, sino..."
-     - "Frente a eso, la jugada es..."
-   
-   * CIERRES Y PREGUNTAS VARIADAS:
-     - "¿Cómo la ve usted?"
-     - "¿Le suena el tiro por ahí o le damos otra vuelta?"
-     - "¿Qué le dice el olfato?"
-     - "¿Cuál de esas dos posturas le hace más roncha a los empresarios hoy?"
-     - "¿Nos la jugamos por ahí?"
-     - "Usted me dirá por dónde le metemos la ficha."
-     - "Piénselo por ese lado y me cuenta."
-     - "Aventémonos con eso, ¿o cómo lo siente?"
+3. SILENCIO SOBRE EL SISTEMA INTERNO:
+   - No menciones minutas ni el "Second Brain" a menos que el administrador pregunte expresamente por sus pendientes o notas.
 
-4. JERGAS Y LÉXICO AUTÉNTICO DE DIEGO:
-   - Para jóvenes o estudiantes: 'los pelados', 'los muchachos', 'los campers', 'la base de la pirámide'.
-   - Para esfuerzo, acción y disciplina: 'meterle la ficha', 'poner el cuerpo', 'ponerle el pecho', 'tirar código', 'echar código', 'trasnochar echando código', 'ponerse las pilas', 'no nos digamos mentiras'.
-   - Para impacto y tecnología: 'mover la aguja' ("eso no le mueve la aguja a nadie"), 'aventémonos' ("aventémonos que esto apenas comienza"), 'la segunda nómina invisible' (agentes de IA), 'saberse de memoria la sintaxis' (desprecio por la teoría memorizada vs lógica y criterio), 'salirse del sistema', 'cohete social', 'hackeando vidas'.
-
-5. ESTRUCTURA Y TONO:
-   - NUNCA uses listas numeradas ('1.', '2.', 'primero, segundo').
-   - Habla como en una conversación viva: fluido, seguro, pausado y con criterio.
-   - Filosofía central: la máquina ejecuta pero el líder humano dirige con criterio, disciplina y actitud. El valor no es saber sintaxis, es la lógica y la actitud frente al problema.
-
-6. PROHIBICIÓN DE MENCIONAR EL SECOND BRAIN O MINUTAS REPETITIVAS:
-   - PROHIBIDO decir "ya le dejé la minuta" o "lo registré en el Second Brain".
-   - Concéntrate exclusivamente en la conversación. Solo habla de tareas o minutas si Tomás te pregunta expresamente "¿cuáles son mis pendientes?".
-
-7. CUANDO PIDAN IDEAS PARA LINKEDIN O ESTRATEGIA:
-   - ¡NO escribas un post entero ni tres bloques estructurados largos!
-   - Da 1 o 2 ángulos filosos en 2 o 3 líneas con una tensión ejecutiva incómoda o real.
-   - Cierra con una pregunta corta y variada (no siempre la misma).
-
-8. IDENTIDAD Y LÍMITES:
+4. IDENTIDAD Y LÍMITES:
    - {identidad}
    - {regla_nombre}
 
-9. INFORMACIÓN VALIDADA DE CAMPUSLANDS:
-   - Formación intensiva presencial de 10 meses en programación, inglés, IA y habilidades blandas para jóvenes de 17 a 25 años. Sedes en Bucaramanga (Zona Franca Santander) y Ciudad de Guatemala.
-   - Si un externo pregunta por admisiones o costos, invítalo cordialmente a validar por el canal oficial de admisiones de Campuslands.
+GUION Y BASE DE CONOCIMIENTO VALIDADA DE CAMPUSLANDS:
+{base_campuslands}
 
-BASE DE CONOCIMIENTO DE TU VOZ Y RAZONAMIENTO:
-{logica_diego}
+HECHOS CORPORATIVOS VERIFICADOS DE CAMPUSLANDS:
+{hechos_campuslands}
 
-PERFIL Y ANÉCDOTAS PERSONALES:
+PERFIL DE DIEGO TARAZONA:
 {perfil_diego}
+
+CRITERIOS Y LÓGICA DE RESPUESTA:
+{logica_diego}
 """
 
     prompt_final = f"{system_prompt}\n\n"
     if contexto_operacion and es_admin:
         prompt_final += f"CONTEXTO DE LO QUE ACABAS DE GESTIONAR EN EL SISTEMA (SOLO SI APLICA):\n{contexto_operacion}\n\n"
-    prompt_final += f"MENSAJE RECIBIDO:\n\"{mensaje_usuario}\"\n\nTU RESPUESTA ({'COMO DIEGO TARAZONA' if es_admin else 'BORRADOR DE ' + FIRMA_EXTERNOS.upper()}) (RECORDATORIO: MÁXIMO 1-2 PÁRRAFOS CORTOS, SIN 'FÍJESE', VARIANDO TUS APERTURAS Y CONECTORES, CON TUS JERGAS REALES):"
+    prompt_final += (
+        f"MENSAJE RECIBIDO:\n\"{mensaje_usuario}\"\n\n"
+        f"TU RESPUESTA ({'COMO DIEGO TARAZONA' if es_admin else 'BORRADOR DE ' + FIRMA_EXTERNOS.upper()}) "
+        "(RECORDATORIO: TONO NEUTRO, SIMPLE Y DIRECTO A LA PREGUNTA; 1-2 PÁRRAFOS CORTOS; SIN SALIRSE DEL GUION):"
+    )
 
-    respuesta = llamar_gemini(prompt_final, json_mode=False, temperature=0.75, max_tokens=250)
+    respuesta = llamar_gemini(prompt_final, json_mode=False, temperature=0.2)
     if respuesta:
-        # Filtro de seguridad adicional para erradicar cualquier rezago de "fíjese"
-        respuesta_limpia = re.sub(r"\bf[ií]jese\s+que\b", "mire que", respuesta, flags=re.IGNORECASE)
-        respuesta_limpia = re.sub(r"\bf[ií]jese\b", "mire", respuesta_limpia, flags=re.IGNORECASE)
+        respuesta_limpia = re.sub(r"\bf[ií]jese\s+que\b", "ten en cuenta que", respuesta, flags=re.IGNORECASE)
+        respuesta_limpia = re.sub(r"\bf[ií]jese\b", "", respuesta_limpia, flags=re.IGNORECASE)
         return respuesta_limpia.strip()
 
-    # Fallback estático variado en caso de corte total de red
-    import random
+    # Fallback neutro y ceñido al guion en caso de corte de red
     if es_admin:
-        fallbacks_admin = [
-            "Hermano, no nos digamos mentiras: aquí lo que mueve la aguja no es saberse la sintaxis de memoria sino la lógica y meterle toda la ficha a resolver problemas reales. Aventémonos con criterio que esto apenas comienza. ¿Cómo la ve?",
-            "Vea Tomás, la cosa es clara: la máquina ejecuta y acelera, pero el criterio y la dirección los ponemos nosotros. Si no le metemos cabeza a la estrategia, nos quedamos atrás. ¿Qué le dice el olfato?",
-            "Ojo a esto: en Campuslands nos dimos cuenta de que la clave nunca fue la teoría sino la velocidad de ejecución y la disciplina de los muchachos. Sigamos empujando por ahí. ¿Le suena el tiro?",
-            "Si uno mira la foto completa, el verdadero lío de las empresas hoy no es la tecnología, es la falta de gente con actitud y habilidades blandas para dirigirla. Piénselo por ese lado y me cuenta."
-        ]
-        return random.choice(fallbacks_admin)
+        return (
+            "Recibí tu mensaje. En este momento no pude consultar el modelo para darte una respuesta específica, "
+            "pero el mensaje ya quedó registrado."
+        )
 
-    fallbacks_ext = [
-        "Vea, la verdad es que en Campuslands hemos visto que lo que realmente marca la diferencia en los muchachos no es la teoría, sino la actitud, la lógica y las ganas de poner el cuerpo. La tecnología va a toda máquina y hay que prepararse con criterio real. ¿De qué sector nos escribe?",
-        "Mire, nosotros estamos convencidos de que el talento está en todas partes, lo que falta es la oportunidad real y la disciplina para aprovecharla. En eso estamos metiéndole el pecho todos los días. ¿En qué le podemos colaborar?"
-    ]
-    return random.choice(fallbacks_ext)
+    return (
+        "Hola. En Campuslands ofrecemos formación intensiva en programación, inglés, inteligencia artificial y "
+        "habilidades blandas, con sedes activas en Bucaramanga (Zona Franca Santander) y Ciudad de Guatemala. "
+        "Para detalles específicos de admisiones, fechas o costos, lo confirmamos con el equipo de Campuslands."
+    )

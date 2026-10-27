@@ -83,3 +83,4 @@ Formato: `AAAA-MM-DD HH:MM | acción | archivo | fuente`. La escribe la corrida 
 2026-10-27 11:08 | BORRADOR | inbox/whatsapp/otros/15551234567.md | Borrador #3 en espera de aprobación
 2026-10-27 11:11 | INBOX_EXTERNO | inbox/whatsapp/otros/15551234567.md | Mensaje de 15551234567
 2026-10-27 11:12 | BORRADOR | inbox/whatsapp/otros/15551234567.md | Borrador #4 en espera de aprobación
+2026-10-27 11:37 | cambio | automation/audio_processor.py, automation/claude_whatsapp_bot.py, linkedin/voz-diego/logica-de-razonamiento-diego.md, .claude/commands/responder-prospecto.md | Ajuste de modo de respuesta a tono neutro, simple y directo a la pregunta, ceñido estrictamente al guion validado (sesión manual)
