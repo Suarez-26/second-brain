@@ -1,3 +1,9 @@
+---
+fecha: 2026-10-20
+contexto: campuslands
+tipo: prompt
+---
+
 # Prompt Maestro: Extracción Forense, Estilometría y Análisis de Reels de Instagram (Diego Tarazona & Campuslands)
 
 > **Instrucciones de uso:** 

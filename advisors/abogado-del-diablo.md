@@ -1,4 +1,5 @@
 ---
+fecha: 2026-10-13
 nombre: Abogado del diablo (arquetipo)
 enfoque: buscar fallas, riesgos y supuestos no probados
 ---

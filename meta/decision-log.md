@@ -77,3 +77,18 @@ Formato: fecha · decisión · por qué · alternativas descartadas.
 - **Por qué:** Obsidian Graph View mostraba un anillo masivo de nodos periféricos desconectados. La conexión bidireccional y los MOCs colapsan los huérfanos en cúmulos navegables y hacen que cada pieza de información sea localizable y utilizable en consultas, Dataview y grafos locales.
 - **Alternativas descartadas:** dejar las publicaciones con rutas relativas de archivo Markdown (`../03_imagenes/`) que no crean aristas en el grafo de Obsidian.
 
+
+## 2026-10-27 · Un solo escritor del vault y aprobación humana para la Capa 1
+- **Decisión:** toda la automatización escribe con `automation/vault_io.py` (bloqueo entre procesos, escritura atómica, log y commit por lote). `meta/` solo cambia con aprobación explícita: el LLM crea propuestas en `state.db` y Pao responde `Aceptar N`. Los pendientes llevan ID estable `[OL-nnn]`.
+- **Por qué:** tres procesos reescribían `open-loops.md` sin coordinarse, y el bot cerraba pendientes por coincidencia de palabras. Además había 11 días sin commit, así que la reversión con git que se autorizó el 13-oct no existía en la práctica.
+- **Descartado:** mantener el cierre automático con un umbral más alto (sigue siendo un falso positivo silencioso en la Capa 1).
+
+## 2026-10-27 · Terceros solo con borrador aprobado y sin suplantar a Diego
+- **Decisión:** los dos bots responden a terceros solo con un borrador aprobado (`Enviar N`); el modo auto queda desactivado. Los borradores van firmados por `FIRMA_EXTERNOS` ("Equipo Campuslands") y no niegan ser una IA. El webhook de Kapso exige firma HMAC.
+- **Por qué:** regla 7. El bot de Kapso respondía solo, como "Diego Tarazona", a cualquier número, y el webhook aceptaba payloads sin autenticar, incluido un remitente admin falsificado.
+- **Pendiente:** si Diego autoriza hablar en su nombre (OL-016), basta con cambiar `FIRMA_EXTERNOS`.
+
+## 2026-10-27 · Búsqueda local sin embeddings externos
+- **Decisión:** índice FTS5 (BM25, sin distinguir acentos, con filtros de capa, contexto y calidad), expuesto por MCP. No hay embeddings.
+- **Por qué:** los embeddings con una API externa sacarían el contenido del vault del equipo, y uno local pide dependencias pesadas. Con ~800 notas, BM25 con filtros resuelve la mayoría de las búsquedas. Se puede revisar si el vault crece.
+- **Descartado:** revertir el enlazado automático del 20-oct: los enlaces por mención son útiles; el corpus queda marcado `crudo`.

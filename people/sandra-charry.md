@@ -1,4 +1,5 @@
 ---
+fecha: 2026-10-20
 nombre: Sandra Charry
 contexto: campuslands
 relacion: Directora de Talento Tech y Alianzas Estratégicas en Campuslands

@@ -1,4 +1,5 @@
 ---
+fecha: 2026-10-13
 tipo: bitacora
 ---
 
@@ -65,3 +66,11 @@ Formato: `AAAA-MM-DD HH:MM | acción | archivo | fuente`. La escribe la corrida 
 2026-10-27 | cambio | automation/whatsapp_webhook_server.py | Token de acceso y verify token de Meta sacados del código a .env; Pao rotará el token (sesión manual)
 2026-10-27 | cambio | .gitignore | Ignorados medios pesados (mp4/wav/ogg, imágenes y videos de diego_*), __pycache__, *.log y estado del bot (sesión manual)
 2026-10-27 | cambio | automation/kapso_whatsapp_bot.py | Respuestas a terceros pasan a modo copiloto (borrador al admin: Enviar/Editar/Descartar); remitente vacío ya no cuenta como admin (sesión manual)
+2026-10-27 09:46 | cambio | meta/open-loops.md | IDs estables OL-nnn para los pendientes abiertos
+2026-10-27 09:52 | cambio | automation/ | Refactorización: vault_io, cola SQLite, pendientes con propuestas, índice FTS5, MCP buscar, HMAC en webhook Kapso (sesión manual)
+2026-10-27 09:52 | cambio | automation/claude_whatsapp_bot.py | Modo auto desactivado: terceros siempre por copiloto (sesión manual)
+2026-10-27 09:52 | cambio | meta/open-loops.md | IDs OL-001..OL-012 asignados; nuevos OL-013..OL-018 (sesión manual)
+2026-10-27 09:52 | cambio | journal/2026-10-24.md | Movido a automation/_archivo/pruebas_journal/: era prueba del bot (sesión manual)
+2026-10-27 09:52 | cambio | inbox/whatsapp/ | 3 historiales de terceros movidos a inbox/whatsapp/otros/ (sesión manual)
+2026-10-27 09:52 | cambio | varios | Frontmatter completado en 32 notas (fecha desde git o fecha de creación conocida; contexto empresarial -> campuslands) (sesión manual)
+2026-10-27 09:52 | cambio | journal/resumenes/ | Creados 2026-W42 y 2026-W43 (sesión manual)

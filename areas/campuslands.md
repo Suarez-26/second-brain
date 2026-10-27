@@ -1,4 +1,5 @@
 ---
+fecha: 2026-10-16
 area: Campuslands
 contexto: campuslands
 actualizado: 2026-10-16

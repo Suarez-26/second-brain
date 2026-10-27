@@ -1,0 +1,8 @@
+# Núcleo del pipeline y bots
+flask>=3.0
+requests>=2.31
+python-dotenv>=1.0
+# Servidores MCP (buscar y whatsapp); 2.x usa MCPServer
+mcp>=2.0
+# Opcional: transcripción local de audios (si Kapso no trae transcripción). Pesado (~200 MB).
+# faster-whisper>=1.0

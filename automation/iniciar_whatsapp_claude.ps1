@@ -2,7 +2,8 @@ $ErrorActionPreference = "Stop"
 $Raiz = Split-Path -Parent $PSScriptRoot
 $BridgeDir = Join-Path $PSScriptRoot "whatsapp-mcp\whatsapp-bridge-node"
 $BotScript = Join-Path $PSScriptRoot "claude_whatsapp_bot.py"
-$PythonExe = "C:\Users\tomas\AppData\Local\Python\pythoncore-3.14-64\python.exe"
+$PythonExe = if ($env:SECOND_BRAIN_PYTHON) { $env:SECOND_BRAIN_PYTHON } else { (Get-Command python -ErrorAction SilentlyContinue).Source }
+if (-not $PythonExe) { Write-Host "ERROR: no encuentro python en el PATH (o define SECOND_BRAIN_PYTHON)." -ForegroundColor Red; exit 1 }
 
 Write-Host "==========================================================" -ForegroundColor Cyan
 Write-Host " Iniciando Sistema Interactivo Claude + WhatsApp (Pao)" -ForegroundColor Cyan

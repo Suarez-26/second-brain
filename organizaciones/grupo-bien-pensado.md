@@ -1,6 +1,7 @@
 ---
+fecha: 2026-10-20
 nombre: Grupo Bien Pensado
-contexto: empresarial
+contexto: campuslands
 tipo: organizacion
 relacion: Holding matriz empresarial fundada y presidida por Diego Tarazona
 fuentes:

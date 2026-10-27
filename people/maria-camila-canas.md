@@ -1,4 +1,5 @@
 ---
+fecha: 2026-10-20
 nombre: María Camila Cañas Sánchez
 contexto: campuslands
 relacion: Directora de Empleabilidad y Relaciones Corporativas en Campuslands

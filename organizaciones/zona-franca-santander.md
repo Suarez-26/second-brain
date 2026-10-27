@@ -1,4 +1,5 @@
 ---
+fecha: 2026-10-20
 nombre: Zona Franca Santander
 contexto: campuslands
 tipo: organizacion

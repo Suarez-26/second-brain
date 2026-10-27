@@ -1,4 +1,5 @@
 ---
+fecha: 2026-10-20
 nombre: ProColombia
 contexto: campuslands
 tipo: organizacion

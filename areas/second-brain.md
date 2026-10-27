@@ -1,4 +1,5 @@
 ---
+fecha: 2026-10-16
 area: Second Brain & Productividad
 contexto: personal
 actualizado: 2026-10-16

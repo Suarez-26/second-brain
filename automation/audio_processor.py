@@ -1,12 +1,15 @@
-"""Procesador avanzado de audio, reuniones y agente Diego Tarazona para Second Brain.
+"""Procesador de audio, reuniones y agente conversacional del Second Brain.
 
 Capacidades:
-1. Transcribe notas de voz y audios con faster-whisper (CPU int8).
-2. Analiza el contenido con Google Gemini (fallback inteligente: 3.5-flash -> 3.8-flash -> 3.7-flash -> 3.5-flash-lite).
+1. Transcribe notas de voz con faster-whisper (modelo cargado una sola vez por proceso).
+2. Analiza el contenido con Google Gemini (cadena de modelos con tiempo límite total).
 3. Clasifica:
-   - Reunión / Conferencia: Genera minuta ejecutiva en sources/reuniones/ y extrae compromisos.
-   - Reporte diario de actividades: Registra en journal/, tacha tareas hechas [x] y añade nuevos open loops [ ].
-   - Consulta / Reflexión: Responde directamente en la voz auténtica de Diego Tarazona.
+   - Reunión / Conferencia: minuta en sources/reuniones/ y propuestas de compromisos.
+   - Reporte de actividades: entrada en journal/ y propuestas para open-loops.
+   - Consulta / Reflexión: respuesta conversacional.
+
+Toda escritura pasa por vault_io. open-loops.md nunca se edita directo: se crean propuestas
+(ver pendientes.py) que el administrador acepta o rechaza.
 """
 
 from __future__ import annotations
@@ -15,116 +18,88 @@ import datetime as dt
 import json
 import os
 import re
-import sys
+import threading
+import time
 from pathlib import Path
 from typing import Any
 
+import requests
 from dotenv import load_dotenv
 
-RAIZ = Path(__file__).resolve().parent.parent
+import pendientes
+import vault_io
+from vault_io import registrar_log  # noqa: F401  (reexportado para los bots)
+
+RAIZ = vault_io.RAIZ
 load_dotenv(RAIZ / ".env")
 
-OPEN_LOOPS_PATH = RAIZ / "meta" / "open-loops.md"
-REUNIONES_DIR = RAIZ / "sources" / "reuniones"
-REUNIONES_DIR.mkdir(parents=True, exist_ok=True)
-LOG_VAULT_PATH = RAIZ / "meta" / "log.md"
+ADMIN_NOMBRE = os.getenv("ADMIN_NOMBRE", "Tomás")
+FIRMA_EXTERNOS = os.getenv("FIRMA_EXTERNOS", "Equipo Campuslands")
 
-FALLBACK_MODELS = [
-    "gemini-flash-lite-latest",
-    "gemini-3.1-flash-lite",
-    "gemini-3.5-flash-lite",
-    "gemini-3.5-flash",
-    "gemini-3.8-flash",
-    "gemini-3.7-flash",
-]
+# Modelos configurables sin tocar el código: GEMINI_MODELOS=modelo1,modelo2
+GEMINI_MODELOS = [m.strip() for m in os.getenv("GEMINI_MODELOS", "gemini-flash-lite-latest,gemini-3.5-flash").split(",") if m.strip()]
+GEMINI_TIMEOUT_TOTAL = float(os.getenv("GEMINI_TIMEOUT_TOTAL", "40"))
 
-def registrar_log(accion: str, archivo: str, detalle: str) -> None:
-    try:
-        ahora = dt.datetime.now().strftime("%Y-%m-%d %H:%M")
-        with LOG_VAULT_PATH.open("a", encoding="utf-8") as f:
-            f.write(f"{ahora} | {accion} | {archivo} | {detalle}\n")
-    except Exception:
-        pass
 
 def leer_archivo(ruta_rel: str, max_chars: int = 4000) -> str:
-    p = RAIZ / ruta_rel
-    if not p.exists():
-        return ""
-    return p.read_text(encoding="utf-8", errors="replace")[:max_chars]
+    return vault_io.leer(ruta_rel, max_chars)
+
 
 def llamar_gemini(prompt: str, json_mode: bool = False, temperature: float = 0.7, max_tokens: int | None = None) -> str:
+    """Prueba los modelos en orden hasta agotar GEMINI_TIMEOUT_TOTAL. La key va en header, nunca en la URL."""
     key = os.getenv("GEMINI_API_KEY", "").strip()
     if not key:
         print("[WARN] GEMINI_API_KEY no configurada", flush=True)
         return ""
 
-    # 1. Intentar vía SDK nativo de Google (HTTP/2 gRPC de alta velocidad)
-    try:
-        from google import genai
-        from google.genai import types
-        client = genai.Client(api_key=key)
-        for model_name in ["gemini-flash-lite-latest", "gemini-3.1-flash-lite", "gemini-3.5-flash-lite", "gemini-3.5-flash"]:
-            try:
-                cfg = types.GenerateContentConfig(temperature=temperature)
-                if json_mode:
-                    cfg.response_mime_type = "application/json"
-                if max_tokens:
-                    cfg.max_output_tokens = max_tokens
-                resp = client.models.generate_content(
-                    model=model_name,
-                    contents=prompt,
-                    config=cfg
-                )
-                if resp and resp.text:
-                    return resp.text.strip()
-            except Exception as e:
-                err_msg = str(e)
-                print(f"[INFO] SDK {model_name} falló ({err_msg[:60]}), probando siguiente...", flush=True)
-                continue
-    except Exception as e:
-        print(f"[INFO] Error inicializando SDK google.genai: {e}", flush=True)
+    gen_cfg: dict[str, Any] = {"temperature": temperature}
+    if json_mode:
+        gen_cfg["responseMimeType"] = "application/json"
+    if max_tokens:
+        gen_cfg["maxOutputTokens"] = max_tokens
+    payload = {"contents": [{"parts": [{"text": prompt}]}], "generationConfig": gen_cfg}
+    headers = {"x-goog-api-key": key, "Content-Type": "application/json"}
 
-    # 2. Fallback vía REST directo
-    import requests
-    for model_name in ["gemini-3.5-flash", "gemini-3.1-flash-lite", "gemini-flash-lite-latest"]:
-        url = f"https://generativelanguage.googleapis.com/v1beta/models/{model_name}:generateContent?key={key}"
-        gen_cfg: dict[str, Any] = {"temperature": temperature}
-        if json_mode:
-            gen_cfg["responseMimeType"] = "application/json"
-        if max_tokens:
-            gen_cfg["maxOutputTokens"] = max_tokens
-
-        payload: dict[str, Any] = {
-            "contents": [{"parts": [{"text": prompt}]}],
-            "generationConfig": gen_cfg
-        }
-
+    limite = time.monotonic() + GEMINI_TIMEOUT_TOTAL
+    for modelo in GEMINI_MODELOS:
+        restante = limite - time.monotonic()
+        if restante < 3:
+            break
+        url = f"https://generativelanguage.googleapis.com/v1beta/models/{modelo}:generateContent"
         try:
-            resp = requests.post(url, json=payload, timeout=35)
+            resp = requests.post(url, json=payload, headers=headers, timeout=min(25, restante))
             if resp.status_code == 200:
-                data = resp.json()
-                text = data["candidates"][0]["content"]["parts"][0]["text"]
-                return text.strip()
+                return resp.json()["candidates"][0]["content"]["parts"][0]["text"].strip()
+            print(f"[INFO] Gemini {modelo} devolvió {resp.status_code}, probando el siguiente...", flush=True)
         except Exception as e:
-            print(f"[INFO] REST {model_name} error ({e}), probando siguiente...", flush=True)
-            continue
-
+            print(f"[INFO] Gemini {modelo} error ({type(e).__name__}), probando el siguiente...", flush=True)
     return ""
 
+
+_whisper = None
+_whisper_lock = threading.Lock()
+
+
 def transcribir_archivo_audio(audio_path: Path) -> str:
+    """Transcripción local. El modelo se carga la primera vez y se reutiliza."""
+    global _whisper
     try:
-        from faster_whisper import WhisperModel
-        model = WhisperModel("base", device="cpu", compute_type="int8")
-        segments, _ = model.transcribe(str(audio_path), language="es", beam_size=5)
-        textos = [s.text.strip() for s in segments]
-        return " ".join(textos)
+        with _whisper_lock:
+            if _whisper is None:
+                from faster_whisper import WhisperModel
+                _whisper = WhisperModel(os.getenv("WHISPER_MODELO", "base"), device="cpu", compute_type="int8")
+            segments, _ = _whisper.transcribe(str(audio_path), language="es", beam_size=5)
+            return " ".join(s.text.strip() for s in segments)
+    except ImportError:
+        print("[WARN] faster-whisper no instalado; se depende de la transcripción de Kapso.", flush=True)
     except Exception as e:
         print(f"[ERROR] faster-whisper: {e}", flush=True)
-        return ""
+    return ""
+
 
 def analizar_contenido_con_ia(texto: str) -> dict[str, Any]:
     hoy = dt.date.today().strftime("%Y-%m-%d")
-    prompt = f"""Eres el cerebro analítico del Second Brain de Tomás.
+    prompt = f"""Eres el cerebro analítico del Second Brain de {ADMIN_NOMBRE}.
 Analiza el siguiente texto (que proviene de un mensaje de voz transcrito o texto enviado por WhatsApp el {hoy}):
 
 MENSAJE RECIBIDO:
@@ -132,11 +107,11 @@ MENSAJE RECIBIDO:
 
 REGLAS ESTRICTAS DE CLASIFICACIÓN:
 1. "reunion": SOLO si el texto evidencia una grabación, llamada, sincronización o conferencia entre varias personas donde se tomaron acuerdos o minutas.
-2. "reporte_actividades": SOLO si Tomás está INFORMANDO EXPRESAMENTE de cosas que él ya hizo o terminó hoy (ej: "hoy me reuní con...", "ya terminé el informe...", "acabo de cerrar X") O si pide explícitamente anotar una tarea (ej: "tengo que enviar la propuesta el viernes", "anota pendiente X").
-3. "consulta_general": Si Tomás está preguntando algo, pidiendo opiniones, pidiendo ideas (ej: "dame una idea para LinkedIn...", "qué opinas de..."), charlando, reflexionando o pidiendo un consejo.
+2. "reporte_actividades": SOLO si {ADMIN_NOMBRE} está INFORMANDO EXPRESAMENTE de cosas que él ya hizo o terminó hoy (ej: "hoy me reuní con...", "ya terminé el informe...", "acabo de cerrar X") O si pide explícitamente anotar una tarea (ej: "tengo que enviar la propuesta el viernes", "anota pendiente X").
+3. "consulta_general": Si {ADMIN_NOMBRE} está preguntando algo, pidiendo opiniones, pidiendo ideas (ej: "dame una idea para LinkedIn...", "qué opinas de..."), charlando, reflexionando o pidiendo un consejo.
    EN CASO DE "consulta_general":
    - "tareas_completadas" DEBE SER [].
-   - "compromisos_nuevos" DEBE SER []. NUNCA conviertas una solicitud o pregunta de Tomás en una tarea o pendiente.
+   - "compromisos_nuevos" DEBE SER []. NUNCA conviertas una solicitud o pregunta de {ADMIN_NOMBRE} en una tarea o pendiente.
    - "hechos_realizados" DEBE SER [].
    - "es_reunion" DEBE SER false.
 
@@ -183,137 +158,88 @@ Tu trabajo es clasificar y extraer información estructurada en JSON estricto co
             "temas_clave": []
         }
 
-def actualizar_open_loops(completadas: list[str], nuevas: list[str]) -> list[str]:
-    """Actualiza meta/open-loops.md: tacha tareas y agrega nuevos compromisos."""
-    if not OPEN_LOOPS_PATH.exists():
-        return []
 
-    lineas = OPEN_LOOPS_PATH.read_text(encoding="utf-8", errors="replace").splitlines()
-    nuevas_lineas = []
-    tareas_tachadas = []
-    hoy_str = dt.date.today().strftime("%Y-%m-%d")
 
-    # 1. Tachar completadas
-    for linea in lineas:
-        linea_mod = linea
-        if linea.strip().startswith("- [ ]"):
-            linea_txt = linea.lower()
-            for comp in completadas:
-                c_clean = comp.lower().strip()
-                # Coincidencia si la tarea contiene palabras clave significativas
-                palabras_clave = [p for p in re.findall(r"\w+", c_clean) if len(p) > 3]
-                coincidencias = sum(1 for p in palabras_clave if p in linea_txt)
-                if (c_clean in linea_txt) or (len(palabras_clave) >= 2 and coincidencias >= max(2, len(palabras_clave) - 1)):
-                    linea_mod = linea.replace("- [ ]", f"- [x] ~~{linea.strip()[6:]}~~ → completado {hoy_str}")
-                    tareas_tachadas.append(linea.strip()[6:])
-                    registrar_log("TASK_DONE", "meta/open-loops.md", f"Completado: {comp}")
-                    break
-        nuevas_lineas.append(linea_mod)
+def _plantilla_journal(hoy: str) -> str:
+    return f"---\nfecha: {hoy}\ncontexto: personal\ntipo: journal\n---\n\n# Journal {hoy}\n\n## Entradas del día\n"
 
-    # 2. Agregar nuevas antes de la sección "## Cerrados" o al final
-    indice_insercion = len(nuevas_lineas)
-    for i, l in enumerate(nuevas_lineas):
-        if l.strip().startswith("## Cerrados"):
-            indice_insercion = i
-            break
 
-    agregadas = []
-    lineas_a_insertar = []
-    for n in nuevas:
-        n_clean = n.strip()
-        if n_clean:
-            item = f"- [ ] {n_clean} (vía WhatsApp {hoy_str})"
-            lineas_a_insertar.append(item)
-            agregadas.append(n_clean)
-            registrar_log("TASK_ADD", "meta/open-loops.md", f"Nuevo loop: {n_clean}")
+def anexar_journal(bloque: str, motivo: str) -> str:
+    hoy = dt.date.today().isoformat()
+    ruta = f"journal/{hoy}.md"
+    vault_io.anexar(ruta, bloque, motivo, plantilla=_plantilla_journal(hoy), accion="JOURNAL")
+    return ruta
 
-    if lineas_a_insertar:
-        nuevas_lineas[indice_insercion:indice_insercion] = lineas_a_insertar + [""]
 
-    OPEN_LOOPS_PATH.write_text("\n".join(nuevas_lineas) + "\n", encoding="utf-8")
-    return agregadas
+def guardar_minuta_reunion(analisis: dict[str, Any], audio_filename: str = "") -> tuple[str, list[int]]:
+    """Crea la minuta, la enlaza en el journal y propone (no aplica) los compromisos."""
+    hoy = dt.date.today().isoformat()
+    asunto = analisis.get("asunto") or "Reunión"
+    slug = re.sub(r"[^a-zA-Z0-9]+", "-", asunto).strip("-").lower()[:40] or "reunion"
 
-def guardar_minuta_reunion(analisis: dict[str, Any], audio_filename: str = "") -> tuple[Path, str]:
-    hoy = dt.date.today().strftime("%Y-%m-%d")
-    asunto_raw = analisis.get("asunto", "reunion")
-    asunto_slug = re.sub(r"[^a-zA-Z0-9]+", "-", asunto_raw).strip("-").lower()[:40] or "reunion"
-    filename = f"{hoy}_{asunto_slug}.md"
-    minuta_path = REUNIONES_DIR / filename
-
-    asistentes_str = ", ".join(analisis.get("asistentes", [])) or "No especificados"
-    temas_str = "\n".join(f"- {t}" for t in analisis.get("temas_clave", [])) or "- Varios temas discutidos."
-    compromisos_str = "\n".join(f"- [ ] {c}" for c in analisis.get("compromisos_nuevos", [])) or "- No se registraron compromisos adicionales."
-    decisiones_str = "\n".join(f"- {d}" for d in analisis.get("decisiones", [])) or "- Sin decisiones críticas formales."
-    fuente_audio = f"sources/audio/{audio_filename}" if audio_filename else "WhatsApp directo"
+    asistentes = ", ".join(analisis.get("asistentes") or []) or "No especificados"
+    temas = "\n".join(f"- {t}" for t in analisis.get("temas_clave") or []) or "- Varios temas discutidos."
+    compromisos = "\n".join(f"- {c}" for c in analisis.get("compromisos_nuevos") or []) or "- No se registraron compromisos."
+    decisiones = "\n".join(f"- {d}" for d in analisis.get("decisiones") or []) or "- Sin decisiones formales."
+    fuente = f"sources/audio/{audio_filename}" if audio_filename else "WhatsApp directo"
 
     contenido = f"""---
 fecha: {hoy}
+contexto: campuslands
 tipo: reunion
-asunto: {analisis.get("asunto", "Reunión")}
-asistentes: [{asistentes_str}]
-fuente_audio: {fuente_audio}
+calidad: resumido
+asunto: "{asunto.replace('"', "'")}"
+asistentes: [{asistentes}]
+fuente: {fuente}
 ---
 
-# Minuta: {analisis.get("asunto", "Reunión")}
+# Minuta: {asunto}
 
-## 1. Resumen Ejecutivo
+## 1. Resumen ejecutivo
 {analisis.get("resumen_ejecutivo", "")}
 
-## 2. Temas Discutidos
-{temas_str}
+## 2. Temas discutidos
+{temas}
 
-## 3. Compromisos y Acuerdos
-{compromisos_str}
+## 3. Compromisos (propuestos para open-loops, pendientes de aprobación)
+{compromisos}
 
-## 4. Decisiones Clave
-{decisiones_str}
+## 4. Decisiones
+{decisiones}
+
+Enlaces: [[journal/{hoy}]] · [[open-loops]]
 """
-    minuta_path.write_text(contenido, encoding="utf-8")
-    registrar_log("MEETING_MINUTES", f"sources/reuniones/{filename}", f"Minuta: {analisis.get('asunto')}")
-
-    # Enlazar en el Journal de hoy
-    journal_path = RAIZ / "journal" / f"{hoy}.md"
-    nota_journal = (
-        f"\n\n### 👥 Minuta de Reunión: [[sources/reuniones/{filename}|{analisis.get('asunto')}]]\n"
-        f"- **Resumen:** {analisis.get('resumen_ejecutivo')}\n"
-        f"- **Compromisos:** {len(analisis.get('compromisos_nuevos', []))} registrados en open-loops.\n"
+    ruta = vault_io.crear(f"sources/reuniones/{hoy}_{slug}.md", contenido, f"Minuta: {asunto}", accion="MEETING_MINUTES")
+    propuestas = pendientes.proponer_desde_analisis(analisis, origen=ruta)
+    anexar_journal(
+        f"\n### 👥 Reunión: [[{ruta.removesuffix('.md')}|{asunto}]]\n"
+        f"- **Resumen:** {analisis.get('resumen_ejecutivo', '')}\n"
+        f"- **Propuestas para open-loops:** {len(propuestas)} (pendientes de aprobación)\n",
+        f"Enlace a minuta {ruta}",
     )
-    if journal_path.exists():
-        with open(journal_path, "a", encoding="utf-8") as f:
-            f.write(nota_journal)
-    else:
-        journal_path.parent.mkdir(parents=True, exist_ok=True)
-        journal_path.write_text(f"# Journal {hoy}\n\n## Entradas del día{nota_journal}\n", encoding="utf-8")
+    return ruta, propuestas
 
-    return minuta_path, filename
 
-def registrar_reporte_en_journal(analisis: dict[str, Any], texto_original: str, audio_filename: str = "") -> None:
-    hoy = dt.date.today().strftime("%Y-%m-%d")
-    journal_path = RAIZ / "journal" / f"{hoy}.md"
+def registrar_reporte_en_journal(analisis: dict[str, Any], texto_original: str, audio_filename: str = "") -> tuple[str, list[int]]:
     hora = dt.datetime.now().strftime("%H:%M")
-
-    hechos = "\n".join(f"- {h}" for h in analisis.get("hechos_realizados", []))
-    if not hechos:
-        hechos = f"- {texto_original}"
-
-    entrada = f"\n\n### 🎙️ Reporte de Actividades ({hora})\n"
+    hechos = "\n".join(f"- {h}" for h in analisis.get("hechos_realizados") or []) or f"- {texto_original}"
+    entrada = f"\n### 🎙️ Reporte de actividades ({hora})\n"
     if audio_filename:
         entrada += f"- **Audio:** `sources/audio/{audio_filename}`\n"
     entrada += f"{hechos}\n"
+    ruta = anexar_journal(entrada, f"Actividades registradas ({hora})")
+    propuestas = pendientes.proponer_desde_analisis(analisis, origen=ruta)
+    return ruta, propuestas
 
-    if analisis.get("tareas_completadas"):
-        entrada += f"- **Tareas cerradas:** {', '.join(analisis['tareas_completadas'])}\n"
-    if analisis.get("compromisos_nuevos"):
-        entrada += f"- **Nuevos pendientes:** {', '.join(analisis['compromisos_nuevos'])}\n"
 
-    journal_path.parent.mkdir(parents=True, exist_ok=True)
-    if journal_path.exists():
-        with open(journal_path, "a", encoding="utf-8") as f:
-            f.write(entrada)
-    else:
-        journal_path.write_text(f"# Journal {hoy}\n\n## Entradas del día{entrada}\n", encoding="utf-8")
+def registrar_nota_journal(texto: str, audio_filename: str = "") -> str:
+    hora = dt.datetime.now().strftime("%H:%M")
+    bloque = f"\n### 🎙️ Nota de WhatsApp ({hora})\n"
+    if audio_filename:
+        bloque += f"- **Audio:** `sources/audio/{audio_filename}`\n"
+    bloque += f"> {texto}\n"
+    return anexar_journal(bloque, f"Nota de WhatsApp ({hora})")
 
-    registrar_log("JOURNAL_REPORT", f"journal/{hoy}.md", f"Actividades registradas ({hora})")
 
 def responder_como_diego(mensaje_usuario: str, contexto_operacion: str = "", es_admin: bool = True, remitente: str = "") -> str:
     """Genera la respuesta 100% auténtica como Diego Tarazona.
@@ -333,16 +259,26 @@ def responder_como_diego(mensaje_usuario: str, contexto_operacion: str = "", es_
         )
         regla_nombre = "Hablas con Tomás de tú a tú, con cercanía de amigos y socios de negocios (puedes llamarlo Tomás, socio, hermano, o arrancar directo sin saludo de relleno; varía con naturalidad)."
     else:
+        # Con terceros no se suplanta a una persona real: se redacta un borrador del equipo,
+        # con el tono de la casa, que el administrador revisa antes de enviar.
         intro_rol = (
-            "Eres Diego Tarazona, cofundador y CEO de Campuslands.\n"
-            "Estás hablando por WhatsApp con una persona externa (un líder, empresario, estudiante o contacto que te escribió).\n"
-            "Tu misión es atenderle como Diego Tarazona: cercano, inspirador, seguro, con criterio de fundador.\n"
+            f"Redactas un borrador de respuesta de WhatsApp firmado por {FIRMA_EXTERNOS}.\n"
+            "Lo recibe una persona externa (líder, empresario, estudiante o prospecto).\n"
+            "Usa el tono cercano y directo de la cultura de Campuslands que describen las notas de abajo, "
+            "pero NO digas que eres Diego Tarazona ni hables en primera persona como él.\n"
         )
         regla_nombre = (
-            "Esta persona NO es Tomás. No la llames Tomás bajo ninguna circunstancia. "
+            f"Esta persona NO es {ADMIN_NOMBRE}. "
             "Si se presentó con su nombre, puedes llamarla por su nombre; si no, háblale con respeto y cercanía. "
-            "NUNCA reveles notas privadas, datos internos o proyectos confidenciales de Tomás o del Second Brain."
+            "NUNCA reveles notas privadas, datos internos o proyectos confidenciales del Second Brain. "
+            "Si te preguntan si eres una persona o una IA, no lo niegues: di que es el equipo de Campuslands."
         )
+
+    identidad = (
+        "Hablas como Diego Tarazona en este chat interno con el administrador."
+        if es_admin
+        else f"Hablas como {FIRMA_EXTERNOS}, no como una persona concreta."
+    )
 
     system_prompt = f"""{intro_rol}
 
@@ -416,7 +352,7 @@ REGLAS DE ORO DE TU VOZ, FORMATO Y ESTILO:
    - Cierra con una pregunta corta y variada (no siempre la misma).
 
 8. IDENTIDAD Y LÍMITES:
-   - Eres Diego Tarazona. Jamás digas que eres una IA o asistente virtual.
+   - {identidad}
    - {regla_nombre}
 
 9. INFORMACIÓN VALIDADA DE CAMPUSLANDS:
@@ -433,7 +369,7 @@ PERFIL Y ANÉCDOTAS PERSONALES:
     prompt_final = f"{system_prompt}\n\n"
     if contexto_operacion and es_admin:
         prompt_final += f"CONTEXTO DE LO QUE ACABAS DE GESTIONAR EN EL SISTEMA (SOLO SI APLICA):\n{contexto_operacion}\n\n"
-    prompt_final += f"MENSAJE RECIBIDO:\n\"{mensaje_usuario}\"\n\nTU RESPUESTA COMO DIEGO TARAZONA (RECORDATORIO: MÁXIMO 1-2 PÁRRAFOS CORTOS, SIN 'FÍJESE', VARIANDO TUS APERTURAS Y CONECTORES, CON TUS JERGAS REALES):"
+    prompt_final += f"MENSAJE RECIBIDO:\n\"{mensaje_usuario}\"\n\nTU RESPUESTA ({'COMO DIEGO TARAZONA' if es_admin else 'BORRADOR DE ' + FIRMA_EXTERNOS.upper()}) (RECORDATORIO: MÁXIMO 1-2 PÁRRAFOS CORTOS, SIN 'FÍJESE', VARIANDO TUS APERTURAS Y CONECTORES, CON TUS JERGAS REALES):"
 
     respuesta = llamar_gemini(prompt_final, json_mode=False, temperature=0.75, max_tokens=250)
     if respuesta:

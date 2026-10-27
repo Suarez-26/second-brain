@@ -1,4 +1,5 @@
 ---
+fecha: 2026-10-20
 nombre: Andrés Lizarazo
 contexto: campuslands
 relacion: Co-fundador y socio estratégico de Campuslands

@@ -1,4 +1,5 @@
 ---
+fecha: 2026-10-20
 nombre: Corporación Universitaria Minuto de Dios (UNIMINUTO)
 contexto: campuslands
 tipo: organizacion

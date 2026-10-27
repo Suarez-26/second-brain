@@ -1,4 +1,5 @@
 ---
+fecha: 2026-10-13
 nombre: Voz de bienestar (arquetipo)
 enfoque: sostenibilidad, descanso, sentido
 ---

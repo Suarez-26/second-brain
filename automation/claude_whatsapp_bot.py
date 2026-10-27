@@ -3,12 +3,11 @@
 Funciones principales:
 1. Chat directo con Pao (en su chat consigo misma o usando @claude):
    - Responde preguntas sobre el Second Brain (prioridades, pendientes, notas, LinkedIn, etc.).
-   - Permite controlar el bot desde WhatsApp (/estado, /modo copiloto, /modo auto, /modo off, /ayuda).
+   - Permite controlar el bot desde WhatsApp (/estado, /modo copiloto, /modo off, /ayuda).
 2. Modo Copiloto para Prospectos de Campuslands:
    - Cuando escribe un prospecto/contacto, redacta un borrador usando SOLO prospectos/base-de-conocimiento.md.
    - Envía el borrador al chat propio de Pao. Si Pao responde "Enviar" (o "Editar: <texto>"), lo envía al prospecto.
-3. Modo Automático para Prospectos:
-   - Si se activa (/modo auto), responde directamente al prospecto con la base de conocimiento validada y avisa a Pao.
+3. El modo automático está desactivado (regla 7 de CLAUDE.md): "auto" en la config se trata como copiloto.
 """
 
 from __future__ import annotations
@@ -33,12 +32,13 @@ if hasattr(sys.stderr, "reconfigure"):
     sys.stderr.reconfigure(encoding="utf-8", errors="replace")
 
 RAIZ = Path(__file__).resolve().parent.parent
+sys.path.insert(0, str(RAIZ / "automation"))
+import vault_io  # noqa: E402
 STORE_DIR = RAIZ / "automation" / "whatsapp-mcp" / "whatsapp-bridge" / "store"
 MESSAGES_DB = STORE_DIR / "messages.db"
 WHATSAPP_DB = STORE_DIR / "whatsapp.db"
 CONFIG_PATH = RAIZ / "automation" / "bot_config.json"
 ESTADO_BOT_PATH = RAIZ / "automation" / ".estado_bot_whatsapp.json"
-LOG_VAULT_PATH = RAIZ / "meta" / "log.md"
 API_BASE_URL = os.environ.get("WHATSAPP_API_BASE_URL", "http://127.0.0.1:8085/api")
 
 PATRONES_INYECCION = [
@@ -103,17 +103,13 @@ def guardar_estado(estado: dict[str, Any]) -> None:
     # Mantener listas acotadas para no crecer indefinidamente
     estado["ids_procesados"] = estado.get("ids_procesados", [])[-500:]
     estado["ids_enviados_bot"] = estado.get("ids_enviados_bot", [])[-500:]
-    ESTADO_BOT_PATH.write_text(json.dumps(estado, ensure_ascii=False, indent=2), encoding="utf-8")
+    tmp = ESTADO_BOT_PATH.with_suffix(".tmp")
+    tmp.write_text(json.dumps(estado, ensure_ascii=False, indent=2), encoding="utf-8")
+    os.replace(tmp, ESTADO_BOT_PATH)
 
 
 def registrar_log_vault(accion: str, archivo: str, detalle: str) -> None:
-    try:
-        ahora = dt.datetime.now().strftime("%Y-%m-%d %H:%M")
-        linea = f"{ahora} | {accion} | {archivo} | {detalle}\n"
-        with LOG_VAULT_PATH.open("a", encoding="utf-8") as f:
-            f.write(linea)
-    except Exception as e:
-        print(f"[WARN] No se pudo escribir en meta/log.md: {e}")
+    vault_io.registrar_log(accion, archivo, detalle)
 
 
 def obtener_mi_jid() -> str | None:
@@ -380,7 +376,6 @@ def procesar_comando_pao(texto: str, mi_jid: str, cfg: dict[str, Any], estado: d
             "• *Editar: <tu texto>* (o *Editar <ID>: <texto>*): envía tu versión corregida al prospecto.\n"
             "• *Descartar* (o *Descartar <ID>*): descarta el borrador pendiente.\n"
             "• */modo copiloto*: te consulto cada respuesta antes de enviarla al prospecto.\n"
-            "• */modo auto*: respondo directo a prospectos usando solo `base-de-conocimiento.md`.\n"
             "• */modo off*: desactiva respuestas a terceros (solo chateas tú conmigo).\n"
             "• */estado*: muestra configuración actual y borradores en cola."
         )
@@ -402,7 +397,9 @@ def procesar_comando_pao(texto: str, mi_jid: str, cfg: dict[str, Any], estado: d
         )
 
     # 2. Cambio de modo en caliente
-    m_modo = re.match(r"^/?modo\s+(copiloto|auto|off)\b", tl)
+    if re.match(r"^/?modo\s+auto\b", tl):
+        return "⛔ El modo auto está desactivado: toda respuesta a terceros pasa por tu aprobación (regla 7)."
+    m_modo = re.match(r"^/?modo\s+(copiloto|off)\b", tl)
     if m_modo:
         nuevo_modo = m_modo.group(1)
         cfg["modo_prospectos"] = nuevo_modo
@@ -509,6 +506,9 @@ def manejar_mensaje_tercero(
     modo = cfg.get("modo_prospectos", "copiloto")
     if modo == "off":
         return
+    if modo == "auto":
+        # Regla 7 de CLAUDE.md: nada sale a terceros sin aprobación. "auto" se trata como copiloto.
+        modo = "copiloto"
 
     # Ignorar grupos salvo que estén explícitamente en chats_prospectos
     chats_prospectos = set(cfg.get("chats_prospectos", []))

@@ -1,24 +1,41 @@
 ---
-fecha: 2026-10-20
+fecha: 2026-10-27
 tipo: contexto-operativo
 ---
 
-# Última sesión (2026-10-20)
+# Última sesión (2026-10-27)
 
 ## Qué se hizo
-- **Extracción e Investigación Exhaustiva de Diego Tarazona en LinkedIn:** Se completó al 100% la extracción histórica de publicaciones (107 posts propios, 3 posts destacados, 138 menciones de terceros, 87 posts corporativos de Campuslands, 59 comentarios y 60 reacciones de Diego).
-- **Descargas Audiovisuales y Transcripciones Multimodales:** Se descargaron 83 videos (720p) y audios (WAV), extrayendo fotogramas clave y generando 83 transcripciones multimodales en 4 formatos (literal cronometrado, guion audio-visual, resumen ejecutivo, hallazgos estratégicos).
-- **Resolución de Huérfanos y Conexión Bidireccional del Grafo de Obsidian:**
-  - Se crearon notas de entidad para personas clave: [[people/andres-lizarazo|Andrés Lizarazo]], [[people/sandra-charry|Sandra Charry]] y [[people/maria-camila-canas|María Camila Cañas]].
-  - Se creó el directorio y notas de organizaciones aliadas: `organizaciones/` ([[organizaciones/fedesoft|Fedesoft]], [[organizaciones/zona-franca-santander|Zona Franca Santander]], [[organizaciones/uniminuto|UNIMINUTO]], [[organizaciones/inexsu|INEXSU]], [[organizaciones/grupo-bien-pensado|Grupo Bien Pensado]], [[organizaciones/andi|ANDI]], [[organizaciones/procolombia|ProColombia]], [[organizaciones/cenisoft|CENISOFT]], [[organizaciones/README|MOC Organizaciones]]).
-  - Se crearon los MOCs maestros: [[diego_investigacion/README|MOC Investigación Diego Tarazona (LinkedIn)]] y [[diego_instagram/README|MOC Instagram Diego Tarazona]].
-  - Se ejecutó script de enlace automático para interconectar todas las 337 publicaciones, 83 transcripciones, 77 archivos de Instagram y 149 grabaciones históricas de Campuslands.
-  - El anillo de nodos huérfanos se redujo de más de 715 a 0 dentro del contenido del vault. El grafo central ahora nuclea más de 500-660 conexiones hacia Diego Tarazona y Campuslands.
-- **Actualización de la Memoria Central:** Se enlazaron y consolidaron [[people/diego-tarazona]], [[areas/campuslands]], [[diego_investigacion/06_analisis_maestro_diego]] y la memoria de verificación.
+- **Auditoría y refactorización del pipeline de automatización** (ver [[automation/PARCHES]], sección 2026-10-27).
+- **Seguridad:**
+  - Token de Meta fuera del código, en `.env` (falta rotarlo: OL-013).
+  - El webhook de Kapso exige firma HMAC y escucha solo en localhost.
+  - La key de Gemini va en header.
+  - El bot de prueba que contestaba lo mismo que recibía quedó archivado.
+- **Integridad:**
+  - Todo escribe por `automation/vault_io.py` (bloqueo, escritura atómica, log y commit git automático).
+  - Cola SQLite con reintentos en lugar de los JSON.
+  - `open-loops.md` lleva IDs `[OL-nnn]`; el LLM solo propone y Pao aprueba con `Aceptar N`.
+- **Terceros:**
+  - Copiloto obligatorio en los dos bots; el modo auto quedó desactivado.
+  - Borradores firmados "Equipo Campuslands", no como Diego.
+  - Mensajes de terceros en `inbox/whatsapp/otros/`.
+- **Recuperación:**
+  - Índice local FTS5 (`automation/indice.py`) y servidor MCP `second-brain-buscar`, registrado en `.mcp.json` con rutas relativas.
+  - Se instaló el SDK `mcp`.
+- **Datos:**
+  - Esquema de frontmatter con `calidad` (crudo | resumido | verificado) y validador: 0 de 123 notas con problemas.
+  - Fuente canónica sobre Diego declarada en `CLAUDE.md`.
+  - Resúmenes [[2026-W42]] y [[2026-W43]].
+- **Pruebas:** 13 pruebas automáticas en `automation/tests/` (vault temporal), todas pasan. El bot arrancó en local y rechazó POST sin firma.
+- Commit de restauración `995fff0` antes de los cambios.
 
 ## Quedó a medias
-- Ningún pendiente técnico de extracción o conexión. El grafo se encuentra 100% interconectado y estructurado.
+- No se probó contra WhatsApp real (OL-017): todo el flujo de Kapso se verificó con simulaciones.
+- `faster-whisper` no está instalado en este equipo; los audios dependen de la transcripción de Kapso.
+- `.obsidian/workspace.json` todavía guarda rutas de `C:\Users\tomas` (lo regenera Obsidian solo).
 
 ## Siguiente paso
-- Utilizar el corpus interconectado para la generación de ideas y copys editoriales en `linkedin/banco-de-contenido/`.
-- Monitorear respuestas a prospectos de Campuslands apalancadas en el dossier y hechos validados.
+- Rotar el token (OL-013) y confirmar si OL-012 fue una reunión real.
+- Arrancar `iniciar_bot.bat` y probar un ciclo real con un número de prueba (OL-017).
+- Dejar la infraestructura quieta y usar el sistema: journal propio y 3 piezas para `linkedin/banco-de-contenido/`.

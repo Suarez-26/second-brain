@@ -19,3 +19,40 @@ La carpeta `whatsapp-mcp/` está en `.gitignore`; este archivo documenta la conf
    - **Modo Copiloto (`copiloto`):** Cuando escribe un prospecto/contacto, Claude redacta el borrador con `prospectos/base-de-conocimiento.md` y lo envía al chat propio de Pao; solo sale al prospecto cuando Pao responde `Enviar` o `Editar: <texto>`.
    - **Modo Automático (`auto`):** Si Pao envía `/modo auto` en su chat, Claude responde directamente a los prospectos usando únicamente la información validada y notifica a Pao.
    - **Anti-inyección:** Mensajes de terceros con patrones de inyección de prompts se bloquean y registran como `ALERTA` en `meta/log.md`.
+
+## Refactorización del 2026-10-27 (integridad, seguridad y recuperación)
+
+### Arquitectura
+```
+Kapso ─POST /webhook (HMAC X-Webhook-Signature)─► cola SQLite (state.db) ─► worker (reintentos)
+Puente WhatsApp Web ─► store/messages.db ─► claude_whatsapp_bot.py (polling)
+exportar_whatsapp.py ─► inbox/whatsapp/{yo,otros}/
+              todo escribe a través de ▼
+vault_io.py: bloqueo entre procesos + escritura atómica + meta/log.md + commit git por lote
+      journal/, sources/reuniones/, inbox/  → libre
+      meta/ (Capa 1) y el resto           → solo con aprobación explícita
+indice.py (FTS5) ◄─ mcp_buscar.py (MCP: buscar, leer_nota, estado_pendientes)
+```
+
+### Módulos
+- `vault_io.py`: único escritor del vault. Ningún script escribe Markdown por su cuenta.
+- `cola.py`: `state.db` (ignorado por git) con la cola de mensajes (deduplicación por id, 3 reintentos con espera de 30 s, 2 min y 10 min; lo interrumpido se recupera al arrancar), los borradores del copiloto y las propuestas sobre open-loops.
+- `pendientes.py`: los pendientes llevan ID estable (`[OL-012]`). El LLM **solo propone** agregar o cerrar; nada cambia en `meta/open-loops.md` hasta que el administrador responde `Aceptar N`.
+- `indice.py`: índice local (`index.db`, BM25, sin distinguir acentos, incremental). El corpus crudo (`diego_*`, `inbox/`, `sources/`) se indexa marcado `crudo` y no sale por defecto.
+- `mcp_buscar.py`: servidor MCP de solo lectura sobre el índice.
+- `validar_frontmatter.py`: reporte del esquema de metadatos (no reescribe).
+- `tests/test_pipeline.py`: `python -m unittest discover -s automation/tests` (vault temporal, no toca el real).
+
+### Bot de Kapso (`kapso_whatsapp_bot.py`)
+- Escucha solo en `127.0.0.1`; el túnel de Cloudflare entra por localhost.
+- Rechaza todo POST sin firma HMAC válida. `iniciar_kapso_bot.ps1` guarda el secreto de cada webhook en `automation/.secretos/` (ignorado por git). Para pruebas locales sin Kapso: `KAPSO_WEBHOOK_INSECURE=1`.
+- El remitente solo se toma como administrador si la firma es válida y el número coincide con `ADMIN_PHONE_NUMBER`.
+- Terceros: su mensaje va a `inbox/whatsapp/otros/<número>.md` y la respuesta queda como borrador. El borrador va firmado por `FIRMA_EXTERNOS` (por defecto "Equipo Campuslands"), no como Diego.
+- Comandos del administrador: `Ayuda`, `Estado`, `Borradores`, `Enviar N`, `Editar N: texto`, `Descartar N`, `Propuestas`, `Aceptar N`, `Rechazar N`.
+- Limitación de WhatsApp: el texto libre al administrador solo llega dentro de las 24 h siguientes a su último mensaje al número del bot.
+
+### Otros cambios
+- Gemini: la key va en el header `x-goog-api-key` (nunca en la URL); cadena de modelos configurable con `GEMINI_MODELOS` y tiempo límite total `GEMINI_TIMEOUT_TOTAL` (40 s).
+- Whisper se carga una vez por proceso (`WHISPER_MODELO`, por defecto `base`).
+- Lanzadores con `python` del PATH (o `SECOND_BRAIN_PYTHON`); corregido el uso de `$pid` (variable reservada de PowerShell), que impedía registrar los webhooks.
+- Archivados en `automation/_archivo/`: el bot de prueba `whatsapp_webhook_server.py` y los scripts manuales `test_*.py`.

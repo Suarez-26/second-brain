@@ -1,6 +1,7 @@
 ---
+fecha: 2026-10-20
 tipo: moc
-contexto: empresarial
+contexto: campuslands
 actualizado: 2026-10-20
 ---
 

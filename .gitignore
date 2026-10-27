@@ -28,3 +28,9 @@ diego_instagram/03_carruseles_e_imagenes/
 diego_instagram/04_reels_y_videos/
 *.hyb
 *.old
+
+# Estado y secretos de la automatización
+automation/.secretos/
+automation/state.db*
+automation/index.db*
+*.md.lock

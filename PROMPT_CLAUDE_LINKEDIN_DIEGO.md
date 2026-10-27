@@ -1,3 +1,9 @@
+---
+fecha: 2026-10-20
+contexto: campuslands
+tipo: prompt
+---
+
 # Prompt Maestro para Claude: Agente Extractor y Transcriptor de LinkedIn (Diego)
 
 > **Instrucciones de uso:** 

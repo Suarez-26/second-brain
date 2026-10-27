@@ -21,6 +21,8 @@ from collections import defaultdict
 from pathlib import Path
 
 RAIZ = Path(__file__).resolve().parent.parent
+sys.path.insert(0, str(RAIZ / "automation"))
+import vault_io  # noqa: E402
 STORE = RAIZ / "automation" / "whatsapp-mcp" / "whatsapp-bridge" / "store"
 ESTADO = Path(os.environ.get("SB_ESTADO", RAIZ / "automation" / ".estado_whatsapp.json"))
 CONFIG = Path(os.environ.get("SB_CONFIG", RAIZ / "automation" / "chats_permitidos.json"))
@@ -168,18 +170,27 @@ def main() -> int:
 
     escritos = 0
     for (destino, dia), lineas in grupos.items():
-        carpeta = args.salida / destino
-        carpeta.mkdir(parents=True, exist_ok=True)
-        archivo = carpeta / f"{dia}.md"
-        cabecera = ""
-        if not archivo.exists():
-            confianza = "contenido-de-pao" if destino.split("/")[0] == "yo" else "datos-de-terceros"
-            cabecera = f"---\nfecha: {dia}\nfuente: whatsapp\nconfianza: {confianza}\ndestino: {destino}\n---\n\n"
-        with archivo.open("a", encoding="utf-8") as f:
-            f.write(cabecera + "\n".join(lineas) + "\n")
+        archivo = (args.salida / destino / f"{dia}.md").resolve()
+        confianza = "contenido-de-pao" if destino.split("/")[0] == "yo" else "datos-de-terceros"
+        contexto = "personal" if confianza == "contenido-de-pao" else "otro"
+        cabecera = (
+            f"---\nfecha: {dia}\ncontexto: {contexto}\ntipo: whatsapp\ncalidad: crudo\n"
+            f"fuente: whatsapp\nconfianza: {confianza}\ndestino: {destino}\n---\n\n"
+        )
+        texto = "\n".join(lineas) + "\n"
+        if archivo.is_relative_to(RAIZ):
+            # Dentro del vault: bloqueo, escritura atómica, log y commit (vault_io)
+            vault_io.anexar(archivo.relative_to(RAIZ).as_posix(), texto, f"{len(lineas)} mensajes exportados",
+                            plantilla=cabecera, accion="WHATSAPP_EXPORT")
+        else:
+            archivo.parent.mkdir(parents=True, exist_ok=True)
+            with archivo.open("a", encoding="utf-8") as f:
+                f.write(("" if archivo.exists() else cabecera) + texto)
         escritos += len(lineas)
 
-    ESTADO.write_text(json.dumps({"ultimo_timestamp": ultimo}), encoding="utf-8")
+    tmp = ESTADO.with_suffix(".tmp")
+    tmp.write_text(json.dumps({"ultimo_timestamp": ultimo}), encoding="utf-8")
+    os.replace(tmp, ESTADO)
     print(f"Exportados {escritos} mensajes nuevos de {len(permitidos)} chat(s) permitido(s).")
     return 0
 

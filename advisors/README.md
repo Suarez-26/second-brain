@@ -1,3 +1,9 @@
+---
+fecha: 2026-10-13
+contexto: personal
+tipo: nota
+---
+
 # Panel de asesores
 
 Cada archivo `.md` de esta carpeta es una "voz" con un punto de vista propio.

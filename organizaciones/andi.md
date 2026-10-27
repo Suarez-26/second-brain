@@ -1,6 +1,7 @@
 ---
+fecha: 2026-10-20
 nombre: ANDI (Asociación Nacional de Empresarios de Colombia)
-contexto: empresarial
+contexto: campuslands
 tipo: organizacion
 relacion: Gremio empresarial nacional y plataforma de articulación en innovación
 fuentes:

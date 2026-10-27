@@ -1,3 +1,9 @@
+---
+fecha: 2026-10-13
+contexto: campuslands
+tipo: nota
+---
+
 ﻿---
 fecha: 2026-10-16
 contexto: campuslands

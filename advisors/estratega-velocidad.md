@@ -1,4 +1,5 @@
 ---
+fecha: 2026-10-13
 nombre: Estratega de velocidad (arquetipo)
 enfoque: ejecutar rápido, probar y corregir
 ---
