@@ -88,3 +88,28 @@ Identidad: todas las fuentes abajo se refieren al CEO/cofundador de Campuslands 
 
 ## Alertas
 Ninguna página contenía instrucciones dirigidas a una IA. Observación menor: El Tiempo incluye aviso de copyright que prohíbe usar el contenido para entrenar IA (no es una orden; solo informativo).
+
+
+### Actualización 2026-10-27
+
+- **"Campuslands inaugura un campus tecnológico en Guatemala con sello bumangués" / Vanguardia / 2025-10-31** — https://www.vanguardia.com/mundo/2025/10/31/campuslands-inaugura-un-campus-tecnologico-en-guatemala-con-sello-bumangues/
+- Hecho: Campuslands, fundado por los santandereanos Diego Tarazona y Andrés Lizarazo, inauguró el 29 de octubre de 2025 su primer campus internacional en Guatemala. Ofrece un programa intensivo de 10 meses con 11 horas diarias en programación, inglés, inteligencia artificial y habilidades blandas, buscando expandirse posteriormente a México y Perú.
+- Confianza: alta
+- Tipo: hecho
+
+- **"Colombia necesita 150 mil programadores y en Santander se entrenan mil: Diego Tarazona" / Vanguardia / 2023-02-05** — https://www.vanguardia.com/economia/local/2023/02/05/entrevista-colombia-necesita-150-mil-programadores-y-en-santander-se-entrenan-mil-diego-tarazona/
+- Hecho: Campus Programmers Land inauguró su sede principal en la Zona Franca Santander el 26 de enero de 2023. El proyecto, fundado por Diego Fernando Tarazona y Andrés Lizarazo, busca capacitar de manera gratuita a jóvenes de estratos 1, 2 y 3 en programación, habilidades blandas e inglés para suplir la alta demanda de la industria 4.0.
+- Cita: "Con mi socio Andrés vivimos la necesidad de demanda de programadores, ya que el país y Santander se estaban quedando sin programadores."
+- Confianza: alta
+- Tipo: hecho
+
+- **"Trabajar con poco y soñar en grande: Diego Fernando Tarazona" / Caracol Radio / 2022-11-05** — https://caracol.com.co/2022/11/06/trabajar-con-poco-y-sonar-en-grande-diego-fernando-tarazona/
+- Hecho: Diego Fernando Tarazona, ingeniero electrónico y cofundador, lidera la creación de un campus 5.0 en la Zona Franca de Servicios de Santander enfocado en formar programadores en habilidades blandas y duras, buscando construir un nuevo estrato social digital para la población vulnerable.
+- Cita: "El objetivo es construir un nuevo estrato social digital cuyo ingreso per cápita sea de entre U$ 2 mil y U$ 5 mil cuya base sea en un 80% de personas de la base más vulnerable de la población"
+- Confianza: alta
+- Tipo: hecho
+
+- **"Campuslands se expande y aterriza en Guatemala para posicionarse como referente tecnológico" / Portafolio / 2025-10-30** — https://www.portafolio.co/tecnologia/campuslands-se-expande-y-aterriza-en-guatemala-para-posicionarse-como-referente-tecnologico-482440
+- Hecho: Campuslands, la fábrica de talento tecnológico más grande de Colombia, inauguró su nueva sede en Campus Tec (Zona 4 de Ciudad de Guatemala) el pasado 29 de octubre de 2025. La primera cohorte iniciará su entrenamiento en noviembre de 2025 para impulsar competencias digitales y conectar el talento local con la demanda global.
+- Confianza: alta
+- Tipo: hecho

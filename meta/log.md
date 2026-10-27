@@ -92,3 +92,8 @@ Formato: `AAAA-MM-DD HH:MM | acción | archivo | fuente`. La escribe la corrida 
 2026-10-27 14:29 | BORRADOR | inbox/whatsapp/otros/573009998877.md | Borrador #7 en espera de aprobación
 2026-10-27 14:47 | JOURNAL | journal/2026-10-27.md | Actividades registradas (14:47)
 2026-10-27 14:47 | PROPUESTA | meta/open-loops.md | Propuesta #1 creada desde journal/2026-10-27.md
+2026-10-27 15:06 | INVESTIGACION_DIARIA | investigacion/diego-tarazona/fuentes/prensa.md | Nuevas fuentes de prensa (4)
+2026-10-27 15:06 | HITO_CAMPUSLANDS | investigacion/diego-tarazona/memoria/campuslands-hechos.md | Hito corporativo: Campuslands inaugura un campus tecnológico en Guatemala con sello bumangués
+2026-10-27 15:06 | HITO_CAMPUSLANDS | investigacion/diego-tarazona/memoria/campuslands-hechos.md | Hito corporativo: Colombia necesita 150 mil programadores y en Santander se entrenan mil: Diego Tarazona
+2026-10-27 15:06 | HITO_CAMPUSLANDS | investigacion/diego-tarazona/memoria/campuslands-hechos.md | Hito corporativo: Trabajar con poco y soñar en grande: Diego Fernando Tarazona
+2026-10-27 15:06 | HITO_CAMPUSLANDS | investigacion/diego-tarazona/memoria/campuslands-hechos.md | Hito corporativo: Campuslands se expande y aterriza en Guatemala para posicionarse como referente tecnológico

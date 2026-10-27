@@ -78,3 +78,11 @@ La revista institucional oficial documenta con nombre propio las historias de tr
 - **Premios INGENIO 2025 (Fedesoft):** Ganador en la categoría "Aliado Académico Destacado en Talento TI" (`post_011.mp4`, `post_038.mp4`).
 - **Premios BritCham Colombia Lazos a la Sostenibilidad 2024:** Ganador en la categoría "Mejor Gestión de Talento Humano PyMEs" (`post_048`, `post_056`).
 - **Personajes del Año 2023 (Vanguardia Liberal):** Diego Tarazona seleccionado por su impacto en Santander (`post_067`).
+
+- **2025-10-31 (Vanguardia):** Campuslands, fundado por los santandereanos Diego Tarazona y Andrés Lizarazo, inauguró el 29 de octubre de 2025 su primer campus internacional en Guatemala. Ofrece un programa intensivo de 10 meses con 11 horas diarias en programación, inglés, inteligencia artificial y habilidades blandas, buscando expandirse posteriormente a México y Perú.
+
+- **2023-02-05 (Vanguardia):** Campus Programmers Land inauguró su sede principal en la Zona Franca Santander el 26 de enero de 2023. El proyecto, fundado por Diego Fernando Tarazona y Andrés Lizarazo, busca capacitar de manera gratuita a jóvenes de estratos 1, 2 y 3 en programación, habilidades blandas e inglés para suplir la alta demanda de la industria 4.0.
+
+- **2022-11-05 (Caracol Radio):** Diego Fernando Tarazona, ingeniero electrónico y cofundador, lidera la creación de un campus 5.0 en la Zona Franca de Servicios de Santander enfocado en formar programadores en habilidades blandas y duras, buscando construir un nuevo estrato social digital para la población vulnerable.
+
+- **2025-10-30 (Portafolio):** Campuslands, la fábrica de talento tecnológico más grande de Colombia, inauguró su nueva sede en Campus Tec (Zona 4 de Ciudad de Guatemala) el pasado 29 de octubre de 2025. La primera cohorte iniciará su entrenamiento en noviembre de 2025 para impulsar competencias digitales y conectar el talento local con la demanda global.
