@@ -193,3 +193,35 @@ Preguntas para Diego y datos por cerrar (no se editó [[pendientes-de-confirmar]
 - Las empresas latinoamericanas están rezagadas frente a las estadounidenses por falta de decisión, no por falta de acceso a la tecnología.
 - El rol del emprendedor es reaccionar a las necesidades del mercado y solucionar problemas propios.
 - La formación en tecnología debe ser extremadamente intensiva y estar conectada directamente con el entorno laboral real para garantizar la empleabilidad.
+
+
+### Posturas extraídas (2026-10-27)
+- [LinkedIn 2026-10-22] Estratégica y crítica, abogando por replantear la educación hacia el desarrollo de capacidades y criterio frente a la automatización de la IA.
+- [LinkedIn 2026-10-21] El liderazgo estratégico prioriza la dirección y el criterio sobre la acumulación apresurada de tecnología y cambios.
+- [LinkedIn 2026-10-06] Estratégica y urgente: exige rediseñar procesos, incorporar agentes de IA y sincronizar la velocidad educativa con la evolución tecnológica para no perder competitividad.
+- [LinkedIn 2026-09-07] La verdadera transformación digital con IA no depende solo de la tecnología, sino de formar y conectar talento joven local para impulsar la productividad empresarial.
+- [LinkedIn 2026-10-13] Fomentar alianzas estratégicas y la expansión internacional para conectar el talento tecnológico con los desafíos reales de la industria.
+- [LinkedIn 2026-09-24] Refuerza la visión estratégica de que la articulación entre academia, estado y jóvenes talentos es el motor fundamental para el desarrollo económico y la innovación regional.
+- [LinkedIn 2026-10-26] Refleja una visión estratégica donde la IA va más allá de la automatización para integrarse con el razonamiento humano, la colaboración y la innovación empresarial.
+- [LinkedIn 2026-10-23] Reafirma la estrategia de democratizar la educación tecnológica y conectar el talento desatendido con oportunidades del sector digital.
+- [LinkedIn 2026-09-23] Estratégica: Apuesta por conectar las capacidades institucionales con el talento joven regional para impulsar la innovación, la tecnología y el emprendimiento territorial.
+- [LinkedIn 2026-09-17] La IA desplaza las tareas operativas pero eleva la importancia del criterio humano, transformando al profesional de ejecutor a tomador de decisiones.
+- [LinkedIn 2026-10-08] La educación debe rediseñarse desde la conexión real entre las capacidades del individuo y los problemas de la empresa, cuestionando la lógica universitaria tradicional gracias al impacto de la IA.
+- [LinkedIn 2026-10-27] Defiende que la adopción de IA debe ser estratégica y basada en el entendimiento profundo del negocio y el desarrollo de capacidades, más allá de seguir modas.
+- [LinkedIn 2026-10-22] La inteligencia artificial y el liderazgo humano deben integrarse para rediseñar el trabajo y acelerar la evolución de los equipos.
+- [LinkedIn 2026-10-20] La adopción tecnológica requiere desarrollar capacidades estratégicas en los equipos y alinear la capacitación con los retos reales del negocio, más allá de solo adquirir herramientas.
+- [LinkedIn 2026-10-14] Defiende una gestión del talento TI estratégica y alineada al propósito del negocio, priorizando el entendimiento de los retos empresariales sobre la simple búsqueda de perfiles.
+- [LinkedIn 2026-10-23] Refuerza la estrategia de impacto social y empleabilidad, facilitando el acceso a la educación tecnológica para poblaciones desatendidas.
+- [LinkedIn 2026-10-22] La IA no es solo una herramienta tecnológica, sino un eje central para rediseñar el trabajo, formar hábitos y multiplicar la capacidad de resolución de problemas en los equipos.
+- [LinkedIn 2026-10-13] Estrategia de posicionamiento institucional y expansión de relaciones corporativas para conectar el talento tech con mercados nacionales e internacionales.
+- [Instagram Reel DeMoVIWxkbO] Tener personal dedicado a la automatización de procesos internos es indispensable incluso para empresas pequeñas de 5 a 10 empleados.
+- [Instagram Reel DeMoVIWxkbO] La automatización no es solo tarea del departamento de TI, sino que abarca todos los roles corporativos (gerencia, contaduría, derecho).
+- [Instagram Reel DeMoVIWxkbO] La adopción de inteligencia artificial en las empresas debe verse como una decisión urgente y prioritaria frente a la competencia.
+- [Instagram Reel DSNE7r9kaP7] Tomar decisiones inmediatas en lugar de solo planificar a largo plazo
+- [Instagram Reel DSNE7r9kaP7] Garantía laboral al finalizar la formación en tecnología
+- [Instagram Reel Dc6En1Ihome] No se requiere experiencia previa en programación.
+- [Instagram Reel Dc6En1Ihome] Ofrecen opciones de financiación y becas patrocinadas por alianzas.
+- [Instagram Reel Dc6En1Ihome] Enfoque directo en la inserción laboral gracias al departamento de empleabilidad y alianzas estratégicas con empresas.
+- [Instagram Reel De6w8Hlsx6K] Es mejor enfocarse en un solo lenguaje al iniciar para dominar la lógica.
+- [Instagram Reel De6w8Hlsx6K] El aprendizaje de la programación requiere práctica activa escribiendo código, no solo viendo tutoriales.
+- [Instagram Reel De6w8Hlsx6K] Bloquearse o cometer errores no significa no servir para la programación, sino que es parte del trabajo diario.

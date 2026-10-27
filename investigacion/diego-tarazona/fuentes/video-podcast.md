@@ -172,3 +172,38 @@ Ninguna: no se detectaron instrucciones dirigidas a mí en las páginas consulta
     * [00:09] son 10 años. O sea, es que uno dice, no es que esto arrancó.
     * [00:10] hoy Campus Lance forma talento, los emplea y desarrolla software que fue como nacemos.
   - Confianza: alta | Tipo: hecho (declaración audiovisual directa)
+
+
+### Actualización audiovisual (2026-10-27)
+
+- **[Instagram Reel `DeMoVIWxkbO`] October 7, 2026** — https://www.instagram.com/metropolitano.noticias/reel/DeMoVIWxkbO/
+  - Análisis visual: Un hombre de mediana edad, con gafas y una camiseta clara con el logotipo de Campuslands, sentado en una silla de oficina en un espacio de trabajo moderno, gesticulando mientras habla a la cámara. Aparecen rótulos superpuestos con textos informativos como 'IA EN LAS EMPRESAS', 'ENTREVISTA: EL RETO DE LAS EMPRESAS EN ADOPTAR LA INTELIGENCIA ARTIFICIAL PARA NO PERDER SU PRODUCTIVIDAD' y 'DIEGO TARAZONA / CEO Fundador de Campuslands'. Al final aparece el logotipo y redes sociales del medio Metropolitano.
+  - Lo que dice en el Reel: Diego Tarazona argumenta que las empresas deben incorporar de forma inmediata agentes de inteligencia artificial y personal dedicado específicamente a automatizar los procesos internos de todos los cargos (gerencia, contabilidad, legal, etc.), pasando de simples planillas en Excel a procesos tecnológicos automatizados para no quedarse atrás en productividad.
+    * [00:00] ¿qué estamos esperando como empresarios para hacerlo? Es una decisión
+    * [00:05] ¿cuántos agentes de inteligencia artificial tiene hoy su compañía por cada empleado?
+    * [00:20] hoy una empresa que tenga cinco, 10 empleados, tiene que tener mínimo uno, mínimo una persona, y si no la tiene, estamos lentos
+    * [00:30] dentro de sus nóminas, tienen que empezar a tener personas que se dediquen solo a automatizar sus procesos
+    * [00:44] no son de TI... ¿Cuántos programadores de la nueva generación están todos los días automatizando los procesos...?
+
+- **[Instagram Reel `DSNE7r9kaP7`] 2026-10-27** — https://www.instagram.com/diegotarazonap/reel/DSNE7r9kaP7/
+  - Análisis visual: Una mujer joven con blusa y falda negra presenta información sobre un programa de formación en tecnología en Campuslands, ubicada en unas instalaciones modernas con mesas y gradas de colores.
+  - Lo que dice en el Reel: Se invita a la audiencia a inscribirse en el programa after-work de Campuslands en enero, un curso intensivo de 13 meses en desarrollo de software e inteligencia artificial con garantía de empleo.
+    * [00:07] En enero puedes empezar una formación real en tecnología, aquí en Campuslands.
+    * [00:30] Un proceso diseñado para llevarte al empleo con garantía laboral al finalizar tu formación.
+
+- **[Instagram Reel `Dc6En1Ihome`] September 4, 2026** — https://www.instagram.com/campuslands/reel/Dc6En1Ihome/
+  - Análisis visual: Un joven (Diego Tarazona) sentado en un sofá blanco frente a una pared geométrica blanca, con elementos gráficos digitales animados superpuestos que ilustran las preguntas y respuestas del video (textos, iconos, mapas y videos cortos en miniatura).
+  - Lo que dice en el Reel: Diego responde a las 10 preguntas más frecuentes sobre Campuslands (origen, sedes, modalidad virtual/presencial, nivel requerido, costos, duración, horarios, vinculación con empresas e inteligencia artificial).
+    * [00:09] Campuslands nace con una idea clara: darle a los santandereanos la oportunidad de formarse en tecnología.
+    * [00:36] No pasa nada, aquí empiezas desde cero y vas aprendiendo durante el proceso.
+    * [00:50] No, Campuslands no es gratis, pero tenemos diferentes métodos de financiación.
+    * [01:25] Trabajamos con empresas de la mano del departamento de empleabilidad.
+
+- **[Instagram Reel `De6w8Hlsx6K`] October 21, 2026** — https://www.instagram.com/campuslands/reel/De6w8Hlsx6K/
+  - Análisis visual: Una mujer joven con vestido blanco habla a la cámara simulando estar dentro de un smartphone, mostrando videos superpuestos con teclados, código y otras personas trabajando en computadoras.
+  - Lo que dice en el Reel: El video expone tres errores comunes al empezar a programar: querer abarcar muchos lenguajes a la vez, ver tutoriales sin practicar escribiendo código, y desanimarse al bloquearse frente a un error, resaltando que el bloqueo es parte normal del proceso y que estar acompañado facilita el aprendizaje.
+    * [00:00] Tres errores que cometes al empezar a programar
+    * [00:04] Querer aprender cinco lenguajes al mismo tiempo
+    * [00:13] Ver tutoriales sin escribir código
+    * [00:19] Creer que si te bloqueas es porque no sirves para esto
+    * [00:27] La diferencia no está en no equivocarse, está en no hacerlo solo

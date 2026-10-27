@@ -109,3 +109,25 @@ Formato: `AAAA-MM-DD HH:MM | acción | archivo | fuente`. La escribe la corrida 
 2026-10-27 15:35 | HITO_CAMPUSLANDS | investigacion/diego-tarazona/memoria/campuslands-hechos.md | Hito corporativo: “Trabajar con poco y soñar en grande”: Diego Fernando Tarazona
 2026-10-27 15:35 | HITO_CAMPUSLANDS | investigacion/diego-tarazona/memoria/campuslands-hechos.md | Hito corporativo: Campuslands se expande y aterriza en Guatemala para posicionarse como referente tecnológico
 2026-10-27 15:35 | POSTURAS_DIEGO | investigacion/diego-tarazona/memoria/temas-y-posturas.md | Nuevas posturas de Diego Tarazona (14)
+2026-10-27 16:15 | LINKEDIN_POST | diego_investigacion/02_publicaciones/auto_li_2026-10-22_751902922211.md | Post LinkedIn 2026-10-22
+2026-10-27 16:15 | LINKEDIN_POST | diego_investigacion/02_publicaciones/auto_li_2026-10-21_751869985554.md | Post LinkedIn 2026-10-21
+2026-10-27 16:15 | LINKEDIN_POST | diego_investigacion/02_publicaciones/auto_li_2026-10-06_751332528842.md | Post LinkedIn 2026-10-06
+2026-10-27 16:15 | LINKEDIN_POST | diego_investigacion/02_publicaciones/auto_li_2026-09-07_750282100943.md | Post LinkedIn 2026-09-07
+2026-10-27 16:15 | LINKEDIN_POST | diego_investigacion/02_publicaciones/auto_li_2026-10-13_751582703097.md | Post LinkedIn 2026-10-13
+2026-10-27 16:15 | LINKEDIN_POST | diego_investigacion/02_publicaciones/auto_li_2026-09-24_750900119480.md | Post LinkedIn 2026-09-24
+2026-10-27 16:15 | LINKEDIN_POST | diego_investigacion/02_publicaciones/auto_li_2026-10-26_752060624321.md | Post LinkedIn 2026-10-26
+2026-10-27 16:15 | LINKEDIN_POST | diego_investigacion/02_publicaciones/auto_li_2026-10-23_751952154079.md | Post LinkedIn 2026-10-23
+2026-10-27 16:15 | LINKEDIN_POST | diego_investigacion/02_publicaciones/auto_li_2026-09-23_750862036157.md | Post LinkedIn 2026-09-23
+2026-10-27 16:15 | LINKEDIN_POST | diego_investigacion/02_publicaciones/auto_li_2026-09-17_750641744919.md | Post LinkedIn 2026-09-17
+2026-10-27 16:15 | LINKEDIN_POST | diego_investigacion/02_publicaciones/auto_li_2026-09-04_750165346095.md | Post LinkedIn 2026-09-04
+2026-10-27 16:15 | LINKEDIN_POST | diego_investigacion/02_publicaciones/auto_li_2026-10-08_751409346964.md | Post LinkedIn 2026-10-08
+2026-10-27 16:15 | LINKEDIN_POST | diego_investigacion/02_publicaciones/auto_li_2026-10-27_752086189332.md | Post LinkedIn 2026-10-27
+2026-10-27 16:15 | LINKEDIN_POST | diego_investigacion/02_publicaciones/auto_li_2026-10-22_751905934503.md | Post LinkedIn 2026-10-22
+2026-10-27 16:15 | LINKEDIN_POST | diego_investigacion/02_publicaciones/auto_li_2026-10-20_751835634242.md | Post LinkedIn 2026-10-20
+2026-10-27 16:15 | LINKEDIN_POST | diego_investigacion/02_publicaciones/auto_li_2026-10-14_751612986557.md | Post LinkedIn 2026-10-14
+2026-10-27 16:15 | LINKEDIN_POST | diego_investigacion/02_publicaciones/auto_li_2026-10-23_751952154079-2.md | Post LinkedIn 2026-10-23
+2026-10-27 16:15 | LINKEDIN_POST | diego_investigacion/02_publicaciones/auto_li_2026-10-22_751905934503-2.md | Post LinkedIn 2026-10-22
+2026-10-27 16:15 | LINKEDIN_POST | diego_investigacion/02_publicaciones/auto_li_2026-10-13_751582703097-2.md | Post LinkedIn 2026-10-13
+2026-10-27 16:15 | REDES_INVESTIGACION | investigacion/diego-tarazona/fuentes/redes-sociales.md | Actualización LinkedIn (19) e Instagram (12)
+2026-10-27 16:15 | VIDEO_INVESTIGACION | investigacion/diego-tarazona/fuentes/video-podcast.md | Nuevas piezas de video/reels (4)
+2026-10-27 16:15 | POSTURAS_DIEGO | investigacion/diego-tarazona/memoria/temas-y-posturas.md | Nuevas posturas de Diego (29)
