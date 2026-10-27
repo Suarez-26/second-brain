@@ -90,3 +90,5 @@ Formato: `AAAA-MM-DD HH:MM | acción | archivo | fuente`. La escribe la corrida 
 2026-10-27 11:43 | BORRADOR | inbox/whatsapp/otros/15551234567.md | Borrador #6 en espera de aprobación
 2026-10-27 14:29 | INBOX_EXTERNO | inbox/whatsapp/otros/573009998877.md | Mensaje de 573009998877
 2026-10-27 14:29 | BORRADOR | inbox/whatsapp/otros/573009998877.md | Borrador #7 en espera de aprobación
+2026-10-27 14:47 | JOURNAL | journal/2026-10-27.md | Actividades registradas (14:47)
+2026-10-27 14:47 | PROPUESTA | meta/open-loops.md | Propuesta #1 creada desde journal/2026-10-27.md
