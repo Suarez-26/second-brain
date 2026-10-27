@@ -78,3 +78,6 @@ Formato: `AAAA-MM-DD HH:MM | acción | archivo | fuente`. La escribe la corrida 
 2026-10-27 11:02 | BORRADOR | inbox/whatsapp/otros/15551234567.md | Borrador #1 en espera de aprobación
 2026-10-27 11:02 | INBOX_EXTERNO | inbox/whatsapp/otros/573167755887.md | Mensaje de 573167755887
 2026-10-27 11:03 | BORRADOR | inbox/whatsapp/otros/573167755887.md | Borrador #2 en espera de aprobación
+2026-10-27 11:07 | INBOX_EXTERNO | inbox/whatsapp/otros/15551234567.md | Mensaje de 15551234567
+2026-10-27 11:08 | INBOX_EXTERNO | inbox/whatsapp/otros/15551234567.md | Mensaje de 15551234567
+2026-10-27 11:08 | BORRADOR | inbox/whatsapp/otros/15551234567.md | Borrador #3 en espera de aprobación
