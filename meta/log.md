@@ -102,3 +102,10 @@ Formato: `AAAA-MM-DD HH:MM | acción | archivo | fuente`. La escribe la corrida 
 2026-10-27 15:06 | HITO_CAMPUSLANDS | investigacion/diego-tarazona/memoria/campuslands-hechos.md | Hito corporativo: Colombia necesita 150 mil programadores y en Santander se entrenan mil: Diego Tarazona
 2026-10-27 15:06 | HITO_CAMPUSLANDS | investigacion/diego-tarazona/memoria/campuslands-hechos.md | Hito corporativo: Trabajar con poco y soñar en grande: Diego Fernando Tarazona
 2026-10-27 15:06 | HITO_CAMPUSLANDS | investigacion/diego-tarazona/memoria/campuslands-hechos.md | Hito corporativo: Campuslands se expande y aterriza en Guatemala para posicionarse como referente tecnológico
+2026-10-27 15:35 | VIDEO_INVESTIGACION | investigacion/diego-tarazona/fuentes/video-podcast.md | Nuevas piezas audiovisuales (4)
+2026-10-27 15:35 | PRENSA_INVESTIGACION | investigacion/diego-tarazona/fuentes/prensa.md | Nuevas notas de prensa (4)
+2026-10-27 15:35 | HITO_CAMPUSLANDS | investigacion/diego-tarazona/memoria/campuslands-hechos.md | Hito corporativo: Campuslands inaugura un campus tecnológico en Guatemala con sello bumangués
+2026-10-27 15:35 | HITO_CAMPUSLANDS | investigacion/diego-tarazona/memoria/campuslands-hechos.md | Hito corporativo: Colombia necesita 150 mil programadores y en Santander se entrenan mil: Diego Tarazona
+2026-10-27 15:35 | HITO_CAMPUSLANDS | investigacion/diego-tarazona/memoria/campuslands-hechos.md | Hito corporativo: “Trabajar con poco y soñar en grande”: Diego Fernando Tarazona
+2026-10-27 15:35 | HITO_CAMPUSLANDS | investigacion/diego-tarazona/memoria/campuslands-hechos.md | Hito corporativo: Campuslands se expande y aterriza en Guatemala para posicionarse como referente tecnológico
+2026-10-27 15:35 | POSTURAS_DIEGO | investigacion/diego-tarazona/memoria/temas-y-posturas.md | Nuevas posturas de Diego Tarazona (14)

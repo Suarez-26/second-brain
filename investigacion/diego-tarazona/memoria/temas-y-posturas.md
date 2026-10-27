@@ -176,3 +176,20 @@ Preguntas para Diego y datos por cerrar (no se editó [[pendientes-de-confirmar]
 11. **Cifras de terceros o sin fuente.** "5 a 1" y cinco agentes de IA por trabajador en 2027 (datos "de Estados Unidos"), David Vélez sobre universidades, 100 % de sus jóvenes con cuentas de Nubank/Nequi/Daviplata, ninis 27,1 %, 180 empresas en 7 países. ¿Hay fuente o estudio que pueda citar?
 12. **Perfil de los campers.** >50 % sin programar antes, >40 % ninis, 95 % de colegio público, <20 % rural (foro 2023-10). ¿Siguen vigentes en 2026 y quién las mide?
 13. **Betr corto (2024-11-06).** Confirmar que es de Diego y que es un recorte de la entrevista larga, y a qué banco se refiere el ejemplo de 21.000 empleados (el subtítulo dice "Bancolombia"; no verificado).
+
+
+### Posturas extraídas (2026-10-27)
+- El éxito principal de un programa de formación radica en la inserción laboral efectiva de sus estudiantes.
+- Emprender de mayor tiene la desventaja de las deudas y la familia, pero aporta experiencia y resiliencia.
+- La formación técnica no es suficiente por sí sola; debe ir acompañada obligatoriamente de habilidades blandas y dominio de un segundo idioma como el inglés.
+- La educación tradicional universitaria es demasiado lenta y puede desactualizarse frente a la velocidad del mercado actual.
+- Nadie puede detener el avance global de la inteligencia artificial.
+- La educación tecnológica debe ser un espacio disruptivo diferente a lo tradicional (colegios o universidades).
+- La educación debe evolucionar para impactar a múltiples generaciones, desde niños hasta profesionales experimentados, integrando la tecnología.
+- Las habilidades blandas y la actitud de resiliencia ante lo desconocido son más importantes que el conocimiento previo para triunfar en una empresa.
+- La formación de talento tecnológico debe nacer muchas veces de la necesidad de las propias empresas.
+- Un empleado debe actuar con mentalidad de dueño, buscando crecer y aportar valor constante a la compañía.
+- La inteligencia artificial no debe causar temor sino que debe ser adoptada rápidamente para crecer y protegerse.
+- Las empresas latinoamericanas están rezagadas frente a las estadounidenses por falta de decisión, no por falta de acceso a la tecnología.
+- El rol del emprendedor es reaccionar a las necesidades del mercado y solucionar problemas propios.
+- La formación en tecnología debe ser extremadamente intensiva y estar conectada directamente con el entorno laboral real para garantizar la empleabilidad.

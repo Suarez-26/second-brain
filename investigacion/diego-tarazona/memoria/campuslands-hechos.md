@@ -94,3 +94,11 @@ La revista institucional oficial documenta con nombre propio las historias de tr
 - **2022-11-06 (Caracol Radio):** Diego Fernando Tarazona, ingeniero electrónico y emprendedor, impulsa la creación de un campus virtual 5.0 en la Zona Franca de Santander para formar programadores en habilidades duras (programación, inglés) y blandas (liderazgo). El proyecto busca construir un nuevo estrato social digital enfocado en la población vulnerable.
 
 - **2025-10-30 (Portafolio):** Campuslands, la fábrica de talento tecnológico más grande de Colombia, inauguró oficialmente su nueva sede en Campus Tec, Zona 4 de Ciudad de Guatemala, el pasado 29 de octubre de 2025. Su primera cohorte iniciará entrenamientos en noviembre de 2025 para impulsar competencias digitales y la empleabilidad local.
+
+- **2025-10-31 (Vanguardia):** Campuslands, fundado por los santandereanos Diego Tarazona y Andrés Lizarazo, inauguró su primer campus internacional en Guatemala el 29 de octubre de 2025. El programa educativo intensivo de 10 meses ofrece formación en programación, inglés, inteligencia artificial y habilidades blandas, con planes de expansión hacia México y Perú.
+
+- **2023-02-05 (Vanguardia):** Diego Fernando Tarazona, cofundador de Campus (junto a Andrés Lizarazo), inauguró el 26 de enero la sede principal de Campus Programmers Land en la Zona Franca Santander. El proyecto busca formar de manera gratuita a jóvenes de estratos 1, 2 y 3 en programación, inglés y habilidades blandas para conectarlos con ofertas laborales internacionales que superan los 1.000 dólares mensuales.
+
+- **2022-11-06 (Caracol Radio):** Diego Fernando Tarazona es un ingeniero electrónico y emprendedor que lidera la creación de un campus 5.0 en la Zona Franca de Servicios de Santander para formar programadores en programación, inglés y habilidades blandas. El proyecto busca construir un nuevo estrato social digital enfocado en la población vulnerable.
+
+- **2025-10-30 (Portafolio):** Campuslands, la fábrica de talento tecnológico más grande de Colombia, inauguró su nueva sede en Campus Tec, ubicado en la Zona 4 de Ciudad de Guatemala, el pasado 29 de octubre de 2025. Su primera cohorte en dicho país iniciará entrenamiento en noviembre de 2025 con el objetivo de posicionarlo como un referente tecnológico en la región.

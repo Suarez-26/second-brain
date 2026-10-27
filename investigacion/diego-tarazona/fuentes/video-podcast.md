@@ -133,3 +133,42 @@ Contradicciones entre piezas (se registran, no se resuelven; ver [[pendientes-de
 
 ## ALERTAS
 Ninguna: no se detectaron instrucciones dirigidas a mí en las páginas consultadas.
+
+
+### Actualización audiovisual 2026-10-27
+
+- **"La historia de cómo una idea puede cambiar vidas - Diego Tarazona -The Human Code-Ep 04" / Campuslands  / 37:44** — https://www.youtube.com/watch?v=s8CMhCGFI6U
+  - Lo que dice Diego: Diego Tarazona relata su origen humilde y su trayectoria laboral de 17 años donde aprendió a emprender desde adentro. Explica cómo la pandemia impulsó la creación de Campuslands ante la alta demanda de talento tecnológico. Detalla que el diferencial de la institución radica en su enfoque intensivo, su ambiente laboral presencial 24/7 y la garantía de inserción laboral.
+  - Citas de Diego:
+    * [00:00] Un líder se debe preocupar es por armar el mejor equipo, por lograr tener siempre a quién llamar para solucionar las cosas.
+    * [00:03] Cuando uno, cuando yo llegué a esta compañía, llegué en la base de esta compañía, éramos 40 personas.
+    * [00:04] Allá no los va a salvar el conocimiento, sino esa esas habilidades blandas de decir, supero tacos.
+    * [00:09] En un mundo donde está cambiando tan rápido, en un año podemos quedar desactualizados con lo que estamos aprendiendo.
+  - Confianza: alta | Tipo: hecho (declaración audiovisual directa)
+
+- **"🎙️ "Nadie va a parar el avance de la Inteligencia Artificial: Diego Tarazona, CEO de Campuslands" / Metropolitano Noticias / 17:32** — https://www.youtube.com/watch?v=kANZD8FTN5Y
+  - Lo que dice Diego: Diego Tarazona afirma que la inteligencia artificial traerá abundancia y debe adoptarse de inmediato, no solo para crecer sino para protegerse. Señala que Colombia está rezagada frente a EE.UU. en adopción tecnológica por falta de decisión empresarial, y explica cómo Campuslands ha evolucionado para formar a tres generaciones distintas ante la disrupción digital.
+  - Citas de Diego:
+    * [00:01] la inteligencia artificial vino para traer abundancia en el mundo. O sea, yo cero temor le tengo
+    * [00:04] nadie lo va a parar, no hay forma que lo pare
+    * [00:05] si nos comparamos contra Estados Unidos, estamos lejos, o sea, estamos 5 a un y eso está mal
+    * [00:09] hoy nuestra carrera, nuestra profesión, nuestras especializaciones... se quedaron cortos si no dominamos la IA
+  - Confianza: alta | Tipo: hecho (declaración audiovisual directa)
+
+- **"Jarte Guapanela con don Emilio - Diego Tarazona: Fundador Campuslands" / Emilio 3 peñas / 16:40** — https://www.youtube.com/watch?v=I-3waHqlUPk
+  - Lo que dice Diego: Diego Tarazona explica que Campuslands es un espacio disruptivo y presencial en Bucaramanga para formar a jóvenes (principalmente de estratos 1, 2 y 3) como programadores, combinando habilidades técnicas, liderazgo y un segundo idioma como el inglés. El modelo se financia mediante el patrocinio de empresas nacionales e internacionales y busca conectar laboralmente a todos sus egresados, logrando que trabajen remotamente para empresas locales o del exterior.
+  - Citas de Diego:
+    * [00:01] campus Lance nace como un espacio disruptivo para desarrollar habilidades digitales en jóvenes que se quieran formar como programadores
+    * [00:07] la historia de vida de cada uno de ellos hace que no Solo nosotros nos motivemos a hacer esto sino que empresas y empresarios quieran patrocinar la formación de ello
+    * [00:09] no solo formarlos sino el principal reto y donde queremos ser diferentes es que los conectemos laboralmente
+    * [00:10] somos el el primer Campus de formación de programadores 100% presencial de Colombia y de latinoamérica
+  - Confianza: alta | Tipo: hecho (declaración audiovisual directa)
+
+- **"Diego Tarazona × Ryan Hamill — Entrevistando Empresarios: Campusland → hamilll.com" / Ryan Hamill / 36:11** — https://www.youtube.com/watch?v=wuc9sv84B6o
+  - Lo que dice Diego: Diego Tarazona relata su transición de empleado durante 17 años a emprendedor maduro. Explica cómo, tras varios intentos de software y un supermercado digital en pandemia, nació Campuslands en 2020 para resolver la escasez de programadores formando su propio talento tecnológico.
+  - Citas de Diego:
+    * [00:04] emprender mayor es muy complejo. Emprender viejo es demasiado complejo, pero es posible.
+    * [00:07] nació como la solución, como todo lo que hacen los emprendedores, solucionar sus propios problemas.
+    * [00:09] son 10 años. O sea, es que uno dice, no es que esto arrancó.
+    * [00:10] hoy Campus Lance forma talento, los emplea y desarrolla software que fue como nacemos.
+  - Confianza: alta | Tipo: hecho (declaración audiovisual directa)
