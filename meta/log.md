@@ -131,3 +131,5 @@ Formato: `AAAA-MM-DD HH:MM | acción | archivo | fuente`. La escribe la corrida 
 2026-10-27 16:15 | REDES_INVESTIGACION | investigacion/diego-tarazona/fuentes/redes-sociales.md | Actualización LinkedIn (19) e Instagram (12)
 2026-10-27 16:15 | VIDEO_INVESTIGACION | investigacion/diego-tarazona/fuentes/video-podcast.md | Nuevas piezas de video/reels (4)
 2026-10-27 16:15 | POSTURAS_DIEGO | investigacion/diego-tarazona/memoria/temas-y-posturas.md | Nuevas posturas de Diego (29)
+2026-10-27 16:27 | INBOX_EXTERNO | inbox/whatsapp/otros/15551234567.md | Mensaje de 15551234567
+2026-10-27 16:27 | BORRADOR | inbox/whatsapp/otros/15551234567.md | Borrador #8 en espera de aprobación
