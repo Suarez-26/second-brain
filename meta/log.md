@@ -134,3 +134,5 @@ Formato: `AAAA-MM-DD HH:MM | acción | archivo | fuente`. La escribe la corrida 
 2026-10-27 16:27 | INBOX_EXTERNO | inbox/whatsapp/otros/15551234567.md | Mensaje de 15551234567
 2026-10-27 16:27 | BORRADOR | inbox/whatsapp/otros/15551234567.md | Borrador #8 en espera de aprobación
 2026-10-28 07:50 | REDES_INVESTIGACION | investigacion/diego-tarazona/fuentes/redes-sociales.md | Actualización LinkedIn (0) e Instagram (1)
+2026-10-28 14:38 | INBOX_EXTERNO | inbox/whatsapp/otros/15551234567.md | Mensaje de 15551234567
+2026-10-28 14:38 | BORRADOR | inbox/whatsapp/otros/15551234567.md | Borrador #9 en espera de aprobación
