@@ -138,3 +138,8 @@ Formato: `AAAA-MM-DD HH:MM | acción | archivo | fuente`. La escribe la corrida 
 2026-10-28 14:38 | BORRADOR | inbox/whatsapp/otros/15551234567.md | Borrador #9 en espera de aprobación
 2026-10-28 16:01 | JOURNAL | journal/2026-10-28.md | Actividades registradas (16:01)
 2026-10-28 16:01 | PROPUESTA | meta/open-loops.md | Propuesta #2 creada desde journal/2026-10-28.md
+2026-10-29 07:46 | LINKEDIN_POST | diego_investigacion/02_publicaciones/auto_li_2026-10-28_752122431936.md | Post LinkedIn 2026-10-28
+2026-10-29 07:46 | LINKEDIN_POST | diego_investigacion/02_publicaciones/auto_li_2026-10-28_752123773957.md | Post LinkedIn 2026-10-28
+2026-10-29 07:46 | LINKEDIN_POST | diego_investigacion/02_publicaciones/auto_li_2026-10-28_752101867024.md | Post LinkedIn 2026-10-28
+2026-10-29 07:46 | REDES_INVESTIGACION | investigacion/diego-tarazona/fuentes/redes-sociales.md | Actualización LinkedIn (3) e Instagram (0)
+2026-10-29 07:46 | POSTURAS_DIEGO | investigacion/diego-tarazona/memoria/temas-y-posturas.md | Nuevas posturas de Diego (2)

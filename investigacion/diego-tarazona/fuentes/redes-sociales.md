@@ -331,3 +331,40 @@ Una noche para conversar, descubrir qué se está construyendo desde S
   - Descripción/Caption: 13 likes, 0 comments - campuslands on October 27, 2026: "Visión no está solo. En su mente viven las IAs que Tony Stark dejó atrás, y cada una tiene algo que enseñarle: a protegerse, a hablar con la gente, a divertirse, a reparar lo que está roto 💪
 
 Y mientras veíamos VisionQuest pensamos: nosotros también vivimos rodeados de IAs. Las usamos para estudiar, para trabajar, para escribir ese correo qu
+
+
+## Actualización automática (2026-10-29)
+
+### LinkedIn (Publicaciones y Comentarios)
+
+- **[2026-10-28] Diego Tarazona Pinzón: "Saber tecnología es necesario para entrar al mercado tech...."** — https://es.linkedin.com/posts/diegotarazonapinzon_talentotech-empleabilidad-tecnolog%C3%ADa-activity-7521224319365042178-E7cp
+  - Fecha exacta ISO: `2026-10-28T15:00:15.326Z` | Reacciones: 4 | Comentarios: 0
+  - Síntesis de lo que plantea: Diego Tarazona argumenta que el conocimiento técnico ya no es suficiente para aportar valor real en el mercado actual. Propone que la formación debe integrar habilidades de resolución de problemas, adaptabilidad y aprendizaje continuo para enfrentar un entorno tecnológico en constante cambio.
+  - Cita textual: "Saber tecnología es necesario para entrar al mercado tech. But no siempre es suficiente para aportar valor."
+  - Cita textual: "El reto no es preparar personas únicamente para las herramientas que existen hoy, sino desarrollar su capacidad para seguir aprendiendo."
+  - Texto íntegro:
+    > Saber tecnología es necesario para entrar al mercado tech. Pero no siempre es suficiente para aportar valor.  Durante mucho tiempo, la conversación sobre talento tecnológico se ha concentrado en una pregunta:  ¿Qué tecnologías debe aprender una persona para ser empleable?  Creo que hoy esa pregunta se queda corta.  Las empresas necesitan personas que, además de tener conocimientos técnicos, puedan entender problemas, trabajar con otros, aprender continuamente y adaptarse a contextos que cambian rápido.  Saber programar, utilizar una herramienta de IA o dominar una tecnología puede abrir una puerta. Pero no necesariamente determina cuánto valor podrá aportar una persona dentro de un equipo.  Por eso, formar talento tech hacia el futuro implica ampliar la mirada:  conocimiento técnico + capacidad para entender problemas + capacidad de aprender y adaptarse.  La tecnología va a seguir cambiando.  El reto no es preparar personas únicamente para las herramientas que existen hoy, sino desarrollar su capacidad para seguir aprendiendo y resolviendo problemas cuando esas herramientas cambien.  ¿Qué capacidad, además de la técnica, está marcando más diferencia en el talento tech que buscan hoy las empresas?  #TalentoTech #Empleabilidad #Tecnología #Talento #FuturoDelTrabajo
+
+- **[2026-10-28] Campuslands: "Hay cosas que sí dan miedo en una empresa...."** — https://es.linkedin.com/posts/campuslands_hay-cosas-que-s%C3%AD-dan-miedo-en-una-empresa-activity-7521237739573248000-Ll8M
+  - Fecha exacta ISO: `2026-10-28T15:53:34.953Z` | Reacciones: 5 | Comentarios: 1
+  - Síntesis de lo que plantea: Campuslands utiliza una temática de Halloween para reflexionar sobre los verdaderos miedos empresariales: proyectos estancados y falta de capacidades digitales. Ofrece soluciones basadas en formación y talento tecnológico para cerrar estas brechas organizacionales.
+  - Cita textual: "uno de los mayores desafíos de la transformación digital no es acceder a nuevas tecnologías, sino contar con las capacidades necesarias"
+  - Cita textual: "Es qué capacidades necesita para seguir avanzando."
+  - Comentarios de la comunidad:
+    * [2026-10-29] johan sebsatian sarmiento chaves: "XD"
+  - Texto íntegro:
+    > Hay cosas que sí dan miedo en una empresa.  Y no, no estamos hablando de fantasmas. 👻   Hablamos de proyectos estratégicos que no avanzan, tecnologías que no se aprovechan y contrataciones que no responden a las necesidades reales del negocio.  Porque uno de los mayores desafíos de la transformación digital no es acceder a nuevas tecnologías, sino contar con las capacidades necesarias para convertirlas en resultados.  En Campuslands creemos que el verdadero avance comienza por identificar qué necesita cada organización: desarrollar talento, incorporar nuevas competencias o fortalecer sus equipos.  Desde la formación tecnológica y la conexión con talento especializado, ayudamos a las empresas a cerrar esa brecha.  Este Halloween, la pregunta no es qué le da miedo a tu empresa… Es qué capacidades necesita para seguir avanzando.  ¿Cuál de estos retos enfrenta hoy tu organización?   #Campuslands #TransformaciónDigital #TalentoTecnológico #InteligenciaArtificial #Halloween
+
+- **[2026-10-28] Felipe Novoa: "Hágase el favor y escríbale este prompt a chat gpt y le va a cantar las verdades 🤣🤣..."** — https://www.linkedin.com/posts/felipenovoaufk_h%C3%A1gase-el-favor-y-escr%C3%ADbale-este-prompt-a-activity-7521018670249197568-mzY2
+  - Fecha exacta ISO: `2026-10-28T01:23:04.756Z` | Reacciones: 268 | Comentarios: 10
+  - Síntesis de lo que plantea: Felipe Novoa comparte un prompt viral para que ChatGPT critique sin filtros y usando jerga colombiana basada en el historial del usuario, generando risas y alta interacción por la precisión de las respuestas de la IA.
+  - Cita textual: "based on everything you know about me, roast and dont hold back."
+  - Cita textual: "jajajajaja me volvió mierda en 3, 2, 1"
+  - Comentarios de la comunidad:
+    * [2026-10-28] Julian Arango: "jajajajaja me volvió mierda en 3, 2, 1"
+    * [2026-10-28] Santiago Donado Torres: "Este es el mejor ejercicio con ChatGPT que he hecho ultimamente. Este man me jodió!"
+    * [2026-10-28] Giancarlo Mañon Hoepelman: "Eso te pasa por no decirle porfavor y gracias 😅"
+    * [2026-10-28] Juan Pablo Domínguez Ospina: "Felipe Novoa tienes un exorcista para recomendar? No sé cómo sacar ese engendro de mi chat. Ya nada será igual 🤐"
+    * [2026-10-28] Luis Yair Aguilar Rojas: "Jajajaajaja ni te cuento que me dijo 😂"
+  - Texto íntegro:
+    > Hágase el favor y escríbale este prompt a chat gpt y le va a cantar las verdades 🤣🤣  based on everything you know about me, roast and dont hold back. Say it in colombian slang. Just like this, but add way more colombian swear words  Que risaaaaaaaaa. Pero sabe más de lo que uno piensa

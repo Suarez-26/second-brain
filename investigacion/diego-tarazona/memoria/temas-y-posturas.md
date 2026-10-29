@@ -225,3 +225,8 @@ Preguntas para Diego y datos por cerrar (no se editó [[pendientes-de-confirmar]
 - [Instagram Reel De6w8Hlsx6K] Es mejor enfocarse en un solo lenguaje al iniciar para dominar la lógica.
 - [Instagram Reel De6w8Hlsx6K] El aprendizaje de la programación requiere práctica activa escribiendo código, no solo viendo tutoriales.
 - [Instagram Reel De6w8Hlsx6K] Bloquearse o cometer errores no significa no servir para la programación, sino que es parte del trabajo diario.
+
+
+### Posturas extraídas (2026-10-29)
+- [LinkedIn 2026-10-28] La educación tecnológica debe evolucionar más allá de la enseñanza de herramientas, enfocándose en desarrollar adaptabilidad y resolución de problemas.
+- [LinkedIn 2026-10-28] El verdadero avance en la transformación digital depende de desarrollar talento y competencias reales, no solo de adquirir nuevas tecnologías.
