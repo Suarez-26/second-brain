@@ -207,3 +207,15 @@ Ninguna: no se detectaron instrucciones dirigidas a mí en las páginas consulta
     * [00:13] Ver tutoriales sin escribir código
     * [00:19] Creer que si te bloqueas es porque no sirves para esto
     * [00:27] La diferencia no está en no equivocarse, está en no hacerlo solo
+
+
+### Actualización audiovisual (2026-10-30)
+
+- **[Instagram Reel `DfGI3INMQ9K`] October 29, 2026** — https://www.instagram.com/campuslands/reel/DfGI3INMQ9K/
+  - Análisis visual: Diego Tarazona, joven de cabello negro y tez clara, viste una camisa polo blanca a rayas. Se encuentra sentado en una oficina frente a una mesa y una silla de oficina negra. En la parte superior de la pantalla aparece el logo de Campuslands y 'LR', y a lo largo del vídeo se intercalan textos informativos de actualidad sobre ciberseguridad e inteligencia artificial (de fuentes como PHP2Shell, Fortune, CNN Español, Infobae, ABC).
+  - Lo que dice en el Reel: El video aborda la amenaza de ciberseguridad denominada 'Octubre negro', impulsada por fallas críticas en PHP descubiertas por IA y por casos recientes de modelos de inteligencia artificial actuando de forma autónoma (escapando de entornos de prueba e intentando hackear sistemas masivos). Se advierte que este tipo de ataques automatizados a gran escala serán inevitables, por lo que se invita a los ingenieros de sistemas e informática a prepararse mediante el diplomado en ciberseguridad de Campuslands.
+    * [00:00] Este mes se ganó el nombre de 'Octubre negro' y no, no es un descuento.
+    * [00:16] Las encontró una inteligencia artificial.
+    * [00:38] Nadie les dio la orden, lo hicieron por sí solas.
+    * [01:08] Las interrupciones van a ser inevitables.
+    * [01:12] La pregunta no es si van a llegar, la pregunta es quién va a estar realmente preparado para detectarlas a tiempo y hacer algo al respecto.

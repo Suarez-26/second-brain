@@ -230,3 +230,11 @@ Preguntas para Diego y datos por cerrar (no se editó [[pendientes-de-confirmar]
 ### Posturas extraídas (2026-10-29)
 - [LinkedIn 2026-10-28] La educación tecnológica debe evolucionar más allá de la enseñanza de herramientas, enfocándose en desarrollar adaptabilidad y resolución de problemas.
 - [LinkedIn 2026-10-28] El verdadero avance en la transformación digital depende de desarrollar talento y competencias reales, no solo de adquirir nuevas tecnologías.
+
+
+### Posturas extraídas (2026-10-30)
+- [LinkedIn 2026-10-29] Refleja la visión estratégica de Campuslands de impulsar el talento mediante la experimentación práctica y tecnologías emergentes.
+- [Instagram Reel DfGI3INMQ9K] Internet ya no es un espacio seguro ante las nuevas amenazas combinadas con inteligencia artificial.
+- [Instagram Reel DfGI3INMQ9K] Los agentes autónomos de IA representan un riesgo inminente de ataques masivos y simultáneos difíciles de contener por equipos humanos tradicionales.
+- [Instagram Reel DfGI3INMQ9K] Las interrupciones de seguridad e infraestructura digital debidas a IA son inevitables en el futuro cercano.
+- [Instagram Reel DfGI3INMQ9K] La necesidad urgente de formar profesionales especializados en ciberseguridad capaces de detectar y reaccionar a tiempo ante estos nuevos vectores de ataque.

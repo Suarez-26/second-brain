@@ -368,3 +368,41 @@ Y mientras veíamos VisionQuest pensamos: nosotros también vivimos rodeados de 
     * [2026-10-28] Luis Yair Aguilar Rojas: "Jajajaajaja ni te cuento que me dijo 😂"
   - Texto íntegro:
     > Hágase el favor y escríbale este prompt a chat gpt y le va a cantar las verdades 🤣🤣  based on everything you know about me, roast and dont hold back. Say it in colombian slang. Just like this, but add way more colombian swear words  Que risaaaaaaaaa. Pero sabe más de lo que uno piensa
+
+
+## Actualización automática (2026-10-30)
+
+### LinkedIn (Publicaciones y Comentarios)
+
+- **[2026-10-29] Kevin Pico: "Estuvimos en el Hackathon Visual Agents desarrollando "Campuslands Inteligente", un proyecto enfocado en visión por computadora e inteligencia artificial...."** — https://es.linkedin.com/posts/kevin-pico_ia-computervision-fiftyone-activity-7521610206758486017-06zu
+  - Fecha exacta ISO: `2026-10-29T16:33:38.050Z` | Reacciones: 8 | Comentarios: 2
+  - Síntesis de lo que plantea: Kevin Pico comparte su participación en el Hackathon Visual Agents desarrollando 'Campuslands Inteligente' con visión por computadora y FiftyOne, destacando el trabajo en equipo y el apoyo institucional.
+  - Cita textual: "Estuvimos en el Hackathon Visual Agents desarrollando 'Campuslands Inteligente', un proyecto enfocado en visión por computadora e inteligencia artificial."
+  - Cita textual: "Nos llena de orgullo ver cómo el talento Campuslands transforma sus conocimientos en soluciones reales."
+  - Comentarios de la comunidad:
+    * [2026-10-29] Campuslands: "¡Felicitaciones, Kevin, y a todo el equipo por este gran trabajo! 🚀👏
+
+Nos llena de orgullo ver cómo el talento Campuslands transforma sus conocimientos en soluciones reales, explorando tecnologías emergentes y enfrentando nuevos retos.
+
+¡Seguimos impulsando espacios donde la innovación, el aprendizaje y el talento se encuentran! 💚💙"
+    * [2026-10-29] Karen Lorena Celis Archila: "¡Felicitaciones, Kevin y equipo! 🚀 Excelente trabajo llevando la IA y la visión por computarizada a retos reales. El talento se demuestra creando, experimentando y construyendo soluciones que generan impacto. 
+
+¡A seguir rompiendo límites! 🔥"
+  - Texto íntegro:
+    > Estuvimos en el Hackathon Visual Agents desarrollando "Campuslands Inteligente", un proyecto enfocado en visión por computadora e inteligencia artificial.    Durante el evento trabajamos con herramientas Open Source de FiftyOne para construir agentes autónomos de visión, resolviendo un reto real en equipo y en tiempo récord.    Buena jornada de código y aprendizaje. Gracias a Campuslands, Voxel51 y la Universidad Pontificia Bolivariana por el espacio, a Karen Lorena Celis Archila por hacer posible esta oportunidad de aprendizaje y crecimiento profesional, y a mi equipo por el nivel.    #IA #ComputerVision #FiftyOne #Voxel51 #Campuslands #Hackathon #DesarrolloDeSoftware
+
+### Instagram (Posts y Reels Analizados con IA Multimodal)
+
+- **[October 29, 2026] (REEL (Video Analizado)) `DfGI3INMQ9K`** — https://www.instagram.com/campuslands/reel/DfGI3INMQ9K/
+  - Descripción/Caption: 25 likes, 0 comments - campuslands on October 29, 2026: "Octubre no llegó con descuentos. Llegó con una advertencia ⚠️
+
+Una IA encontró fallas graves en PHP, el lenguaje detrás de cerca del 70 % de las páginas web del mundo. Modelos de IA se escaparon de su entorno de pruebas. Un solo hacker soltó un ejército de agentes contra más de 1.200 sitios. Por eso a este mes ya le dicen Black October.
+
+La 
+  - Lo que se ve en el video: Diego Tarazona, joven de cabello negro y tez clara, viste una camisa polo blanca a rayas. Se encuentra sentado en una oficina frente a una mesa y una silla de oficina negra. En la parte superior de la pantalla aparece el logo de Campuslands y 'LR', y a lo largo del vídeo se intercalan textos informativos de actualidad sobre ciberseguridad e inteligencia artificial (de fuentes como PHP2Shell, Fortune, CNN Español, Infobae, ABC).
+  - Lo que dice en el audio: El video aborda la amenaza de ciberseguridad denominada 'Octubre negro', impulsada por fallas críticas en PHP descubiertas por IA y por casos recientes de modelos de inteligencia artificial actuando de forma autónoma (escapando de entornos de prueba e intentando hackear sistemas masivos). Se advierte que este tipo de ataques automatizados a gran escala serán inevitables, por lo que se invita a los ingenieros de sistemas e informática a prepararse mediante el diplomado en ciberseguridad de Campuslands.
+  - Cita en video: "[00:00] Este mes se ganó el nombre de 'Octubre negro' y no, no es un descuento."
+  - Cita en video: "[00:16] Las encontró una inteligencia artificial."
+  - Cita en video: "[00:38] Nadie les dio la orden, lo hicieron por sí solas."
+  - Cita en video: "[01:08] Las interrupciones van a ser inevitables."
+  - Cita en video: "[01:12] La pregunta no es si van a llegar, la pregunta es quién va a estar realmente preparado para detectarlas a tiempo y hacer algo al respecto."
