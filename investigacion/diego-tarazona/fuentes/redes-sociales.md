@@ -406,3 +406,24 @@ La
   - Cita en video: "[00:38] Nadie les dio la orden, lo hicieron por sí solas."
   - Cita en video: "[01:08] Las interrupciones van a ser inevitables."
   - Cita en video: "[01:12] La pregunta no es si van a llegar, la pregunta es quién va a estar realmente preparado para detectarlas a tiempo y hacer algo al respecto."
+
+
+## Actualización automática (2026-11-03)
+
+### Instagram (Posts y Reels Analizados con IA Multimodal)
+
+- **[November 2, 2026] (REEL (Video Analizado)) `DfQb_TGM_II`** — https://www.instagram.com/campuslands/reel/DfQb_TGM_II/
+  - Descripción/Caption: 20 likes, 0 comments - campuslands on November 2, 2026: "Print, if, else, return… y claro, error 😅
+
+Si estás aprendiendo a programar, ya hablas más inglés del que crees.
+
+El lenguaje de la tecnología está en inglés: el código, la documentación, las comunidades donde se resuelven las dudas. Por eso aprenderlo es parte del proceso 🎓
+
+En Campuslands el inglés se aprende hablando, no memorizando. Al e
+
+- **[October 30, 2026] (POST) `DfKNw03kZqO`** — https://www.instagram.com/campuslands/p/DfKNw03kZqO/
+  - Descripción/Caption: 183 likes, 2 comments - campuslands on October 30, 2026: "¿Quién dijo que entre líneas de código no cabía un poquito de terror? 👻
+
+Esta semana el campus se llenó de disfraces, risas y mucha energía. La comunidad Campuslands demostró una vez más que aquí no solo aprendemos a programar: también compartimos, nos divertimos y nos convertimos en familia. 🎃
+
+Desliza y encuéntrate en las fotos 👉 ¿Quién s
