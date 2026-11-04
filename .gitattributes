@@ -1,0 +1,14 @@
+# GitHub Linguist Overrides
+# Excluir fuentes externas descargadas y scripts de soporte del cómputo de lenguajes
+
+# Fuentes web y material de investigación externo
+sources/** linguist-vendored
+*.html linguist-vendored
+
+# Scripts auxiliares de integración y agentes (Kapso Node.js / Claude skills)
+.agents/** linguist-vendored
+.claude/** linguist-vendored
+presentaciones/** linguist-vendored
+
+# Subtítulos y transcripciones externas
+*.vtt linguist-vendored
