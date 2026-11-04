@@ -151,3 +151,5 @@ Formato: `AAAA-MM-DD HH:MM | acción | archivo | fuente`. La escribe la corrida 
 2026-11-03 11:49 | JOURNAL | journal/2026-11-03.md | Actividades registradas (11:49)
 2026-11-03 11:49 | PROPUESTA | meta/open-loops.md | Propuesta #3 creada desde journal/2026-11-03.md
 2026-11-03 16:42 | JOURNAL | journal/2026-11-03.md | Actividades registradas (16:42)
+2026-11-04 09:13 | INBOX_EXTERNO | inbox/whatsapp/otros/15551234567.md | Mensaje de 15551234567
+2026-11-04 09:13 | BORRADOR | inbox/whatsapp/otros/15551234567.md | Borrador #10 en espera de aprobación
