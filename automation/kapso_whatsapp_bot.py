@@ -41,7 +41,9 @@ import pendientes  # noqa: E402
 import vault_io  # noqa: E402
 from audio_processor import (  # noqa: E402
     analizar_contenido_con_ia,
+    analizar_imagen_con_ia,
     guardar_minuta_reunion,
+    registrar_imagen_en_journal,
     registrar_nota_journal,
     registrar_reporte_en_journal,
     responder_como_diego,
@@ -51,6 +53,8 @@ from audio_processor import (  # noqa: E402
 RAIZ = vault_io.RAIZ
 AUDIO_DIR = RAIZ / "sources" / "audio"
 AUDIO_DIR.mkdir(parents=True, exist_ok=True)
+IMAGENES_DIR = RAIZ / "sources" / "imagenes"
+IMAGENES_DIR.mkdir(parents=True, exist_ok=True)
 SECRETOS_DIR = Path(__file__).resolve().parent / ".secretos"
 
 app = Flask(__name__)
@@ -142,13 +146,23 @@ def enviar_mensaje_kapso(to: str, texto: str, phone_id: str | None = None) -> bo
         return False
 
 
+def _hacer_descarga(url: str) -> requests.Response:
+    """Descarga medios manejando endpoints de Kapso, URLs de ActiveStorage y lookaside de Meta."""
+    if "api.kapso.ai" in url:
+        return requests.get(url, headers={"X-API-Key": KAPSO_API_KEY}, stream=True, timeout=25)
+    if "lookaside.fbsbx.com" in url:
+        token = os.getenv("WHATSAPP_ACCESS_TOKEN", "")
+        headers = {"Authorization": f"Bearer {token}"} if token else {}
+        return requests.get(url, headers=headers, stream=True, timeout=25)
+    return requests.get(url, stream=True, timeout=25)
+
+
 def descargar_audio_kapso(media_id_o_url: str, sender: str, phone_id: str) -> tuple[Path | None, str]:
-    headers = {"X-API-Key": KAPSO_API_KEY}
     download_url = media_id_o_url
     if not media_id_o_url.startswith("http"):
         meta_url = f"{KAPSO_API_BASE_URL}/meta/whatsapp/v24.0/{media_id_o_url}?phone_number_id={phone_id}"
         try:
-            r = requests.get(meta_url, headers=headers, timeout=12)
+            r = requests.get(meta_url, headers={"X-API-Key": KAPSO_API_KEY}, timeout=12)
             if r.status_code == 200:
                 download_url = r.json().get("url", media_id_o_url)
         except Exception as e:
@@ -156,14 +170,52 @@ def descargar_audio_kapso(media_id_o_url: str, sender: str, phone_id: str) -> tu
 
     dest_path = AUDIO_DIR / f"{dt.datetime.now():%Y-%m-%d_%H%M%S}_{re.sub(r'[^0-9]', '', sender)}.ogg"
     try:
-        res = requests.get(download_url, headers=headers, stream=True, timeout=25)
+        res = _hacer_descarga(download_url)
         if res.status_code == 200:
             with open(dest_path, "wb") as f:
                 for chunk in res.iter_content(chunk_size=8192):
                     f.write(chunk)
             return dest_path, dest_path.name
+        else:
+            print(f"[ERROR] Descarga de audio HTTP {res.status_code} desde {download_url[:120]}", flush=True)
     except Exception as e:
         print(f"[ERROR] Descargando audio: {e}", flush=True)
+    return None, ""
+
+
+def descargar_imagen_kapso(media_id_o_url: str, sender: str, phone_id: str, mime_type: str = "image/jpeg") -> tuple[Path | None, str]:
+    download_url = media_id_o_url
+    if not media_id_o_url.startswith("http"):
+        meta_url = f"{KAPSO_API_BASE_URL}/meta/whatsapp/v24.0/{media_id_o_url}?phone_number_id={phone_id}"
+        try:
+            r = requests.get(meta_url, headers={"X-API-Key": KAPSO_API_KEY}, timeout=12)
+            if r.status_code == 200:
+                download_url = r.json().get("url", media_id_o_url)
+        except Exception as e:
+            print(f"[WARN] No se obtuvo la URL de la imagen {media_id_o_url}: {e}", flush=True)
+
+    ext = ".jpg"
+    mime_l = (mime_type or "").lower()
+    if "png" in mime_l:
+        ext = ".png"
+    elif "webp" in mime_l:
+        ext = ".webp"
+    elif "gif" in mime_l:
+        ext = ".gif"
+
+    dest_path = IMAGENES_DIR / f"{dt.datetime.now():%Y-%m-%d_%H%M%S}_{re.sub(r'[^0-9]', '', sender)}{ext}"
+    try:
+        res = _hacer_descarga(download_url)
+        if res.status_code == 200:
+            with open(dest_path, "wb") as f:
+                for chunk in res.iter_content(chunk_size=8192):
+                    f.write(chunk)
+            print(f"[OK] Imagen guardada: {dest_path.name} ({dest_path.stat().st_size} bytes)", flush=True)
+            return dest_path, dest_path.name
+        else:
+            print(f"[ERROR] Descarga de imagen HTTP {res.status_code} desde {download_url[:120]}", flush=True)
+    except Exception as e:
+        print(f"[ERROR] Descargando imagen: {e}", flush=True)
     return None, ""
 
 
@@ -174,7 +226,9 @@ def registrar_mensaje_externo(remitente: str, texto: str, tipo_msg: str = "texto
     num = re.sub(r"\D", "", remitente) or "desconocido"
     entrada = f"\n### [{dt.datetime.now():%Y-%m-%d %H:%M}] {tipo_msg.upper()}\n"
     if audio_file:
-        entrada += f"- **Audio:** `sources/audio/{audio_file}`\n"
+        carpeta = "sources/imagenes" if tipo_msg == "imagen" else "sources/audio"
+        etiqueta = "Imagen" if tipo_msg == "imagen" else "Audio"
+        entrada += f"- **{etiqueta}:** `{carpeta}/{audio_file}`\n"
     entrada += f"- **Mensaje:** {texto}\n"
     plantilla = (
         f"---\nfecha: {dt.date.today()}\ncontexto: otro\ntipo: whatsapp-tercero\ncalidad: crudo\n---\n\n"
@@ -204,7 +258,7 @@ def responder(remitente: str, mensaje_original: str, respuesta: str, phone_id: s
 
 AYUDA_ADMIN = (
     "🧠 *Second Brain por WhatsApp*\n\n"
-    "• Escríbeme o mándame audios: reuniones → minuta; reportes del día → journal.\n"
+    "• Escríbeme, mándame audios o imágenes: reuniones → minuta; reportes/fotos → journal.\n"
     "• *Borradores*: respuestas a contactos en espera. *Enviar N*, *Editar N: texto*, *Descartar N*.\n"
     "• *Propuestas*: cambios sugeridos a open-loops. *Aceptar N*, *Rechazar N*.\n"
     "• *Estado*: cola de mensajes y pendientes."
@@ -274,8 +328,20 @@ def procesar_comando_admin(texto: str) -> str | None:
 
 # --- Procesamiento --------------------------------------------------------------------
 
-def _aviso_propuestas(ids: list[int]) -> str:
-    return f"\n\n📋 {len(ids)} propuesta(s) para open-loops. Responde *Propuestas* para revisarlas." if ids else ""
+def _es_feedback_conversacional(texto: str) -> bool:
+    """Detecta si el mensaje es retroalimentación, corrección o charla sobre una respuesta del bot, para no registrarlo como actividad."""
+    t = texto.lower()
+    patrones = [
+        r"\bya\s+(?:la\s+|lo\s+)?(?:hice|publiqu[eé]|sub[ií]|hicimos|mand[eé]|envi[eé])\b",
+        r"\besta\s+publicaci[oó]n\s+ya\b",
+        r"\bdame\s+otra\s+(?:idea|opci[oó]n|propuesta)\b",
+        r"\botra\s+idea\b",
+        r"\bcambia\s+(?:el\s+)?(?:enfoque|[aá]ngulo)\b",
+        r"\bno\s+me\s+gusta\b",
+        r"\beso\s+no\s+(?:me\s+)?sirve\b",
+        r"\bno\s+quiero\s+eso\b",
+    ]
+    return any(re.search(p, t) for p in patrones)
 
 
 def procesar_mensaje_texto(texto: str, remitente: str) -> str:
@@ -283,19 +349,24 @@ def procesar_mensaje_texto(texto: str, remitente: str) -> str:
         registrar_mensaje_externo(remitente, texto, tipo_msg="texto")
         return responder_como_diego(texto, es_admin=False, remitente=remitente)
 
+    from audio_processor import es_saludo_o_cortesia_simple
+    if es_saludo_o_cortesia_simple(texto):
+        return responder_como_diego(texto, es_admin=True, remitente=remitente)
+
+    if _es_feedback_conversacional(texto):
+        return responder_como_diego(texto, es_admin=True, remitente=remitente)
+
     analisis = analizar_contenido_con_ia(texto)
-    contexto_op, extra = "", ""
+    contexto_op = ""
     if analisis.get("es_reunion"):
         ruta, ids = guardar_minuta_reunion(analisis)
-        contexto_op = f"Se generó la minuta en {ruta}."
-        extra = f"\n\n📁 *Minuta:* `{ruta}`" + _aviso_propuestas(ids)
+        contexto_op = "Se generó la minuta de la reunión internamente."
     elif analisis.get("tipo") == "reporte_actividades" and (
         analisis.get("tareas_completadas") or analisis.get("compromisos_nuevos") or analisis.get("hechos_realizados")
     ):
         ruta, ids = registrar_reporte_en_journal(analisis, texto)
-        contexto_op = f"Se registraron las actividades en {ruta}."
-        extra = f"\n\n📝 *Journal:* `{ruta}`" + _aviso_propuestas(ids)
-    return f"🎙️ *Diego Tarazona:*\n\n{responder_como_diego(texto, contexto_operacion=contexto_op, es_admin=True, remitente=remitente)}{extra}"
+        contexto_op = "Se registraron las actividades internamente."
+    return responder_como_diego(texto, contexto_operacion=contexto_op, es_admin=True, remitente=remitente)
 
 
 def procesar_audio(audio_filename: str, transcript: str, remitente: str) -> str:
@@ -304,20 +375,31 @@ def procesar_audio(audio_filename: str, transcript: str, remitente: str) -> str:
         return responder_como_diego(transcript, es_admin=False, remitente=remitente)
 
     analisis = analizar_contenido_con_ia(transcript)
-    contexto_op, extra = "", ""
+    contexto_op = ""
     if analisis.get("es_reunion"):
         ruta, ids = guardar_minuta_reunion(analisis, audio_filename=audio_filename)
-        contexto_op = f"Transcribiste la reunión y generaste la minuta en {ruta}."
-        extra = f"\n\n📁 *Minuta:* `{ruta}`" + _aviso_propuestas(ids)
+        contexto_op = "Transcribiste la reunión y generaste la minuta internamente."
     elif analisis.get("tipo") == "reporte_actividades" and (
         analisis.get("tareas_completadas") or analisis.get("compromisos_nuevos") or analisis.get("hechos_realizados")
     ):
         ruta, ids = registrar_reporte_en_journal(analisis, transcript, audio_filename=audio_filename)
-        contexto_op = f"Registraste las actividades en {ruta}."
-        extra = f"\n\n📝 *Journal:* `{ruta}`" + _aviso_propuestas(ids)
+        contexto_op = "Registraste las actividades internamente."
     else:
         registrar_nota_journal(transcript, audio_filename=audio_filename)
-    return f"🎙️ *Diego Tarazona:*\n\n{responder_como_diego(transcript, contexto_operacion=contexto_op, es_admin=True, remitente=remitente)}{extra}"
+    return responder_como_diego(transcript, contexto_operacion=contexto_op, es_admin=True, remitente=remitente)
+
+
+def procesar_imagen(image_path: Path, image_filename: str, caption: str, remitente: str) -> str:
+    analisis = analizar_imagen_con_ia(image_path, caption=caption)
+    if not es_administrador(remitente):
+        desc = analisis.get("descripcion") or "Imagen adjunta"
+        registrar_mensaje_externo(remitente, f"[Imagen: {caption or 'Sin pie de foto'}] {desc}", tipo_msg="imagen", audio_file=image_filename)
+        return responder_como_diego(caption or "Hola, te comparto esta imagen", es_admin=False, remitente=remitente, image_path=image_path)
+
+    ruta, ids = registrar_imagen_en_journal(image_filename, caption, analisis)
+    contexto_op = f"Se registró la imagen internamente con asunto: {analisis.get('asunto', 'Imagen')}."
+    msg_texto = caption if caption else (analisis.get("descripcion") or "Te comparto esta imagen")
+    return responder_como_diego(msg_texto, contexto_operacion=contexto_op, es_admin=True, remitente=remitente, image_path=image_path)
 
 
 def extraer_mensajes(data: Any) -> list[tuple[dict[str, Any], str, str]]:
@@ -358,7 +440,14 @@ def procesar_payload(data: dict[str, Any]) -> None:
             if not transcript and "Transcript:" in (kapso_info.get("content") or ""):
                 transcript = kapso_info["content"].split("Transcript:")[-1].strip()
 
-            media_id = (msg.get("audio") or {}).get("id") or kapso_info.get("media_url") or ""
+            media_id = (
+                kapso_info.get("media_url")
+                or (kapso_info.get("media_data") or {}).get("url")
+                or (msg.get("audio") or {}).get("link")
+                or (msg.get("audio") or {}).get("url")
+                or (msg.get("audio") or {}).get("id")
+                or ""
+            )
             audio_path, audio_filename = descargar_audio_kapso(media_id, remitente, phone_id) if media_id else (None, "")
             if not transcript and audio_path and audio_path.exists():
                 transcript = transcribir_archivo_audio(audio_path)
@@ -372,6 +461,30 @@ def procesar_payload(data: dict[str, Any]) -> None:
                 registrar_mensaje_externo(remitente, "[nota de voz sin transcripción]", tipo_msg="audio", audio_file=audio_filename)
                 responder(remitente, "[nota de voz sin transcripción]",
                           "Hola, recibimos tu nota de voz pero no logramos escucharla bien. ¿Nos la reenvías o nos escribes por aquí?", phone_id)
+
+        elif tipo == "image":
+            kapso_info = msg.get("kapso") or {}
+            img_info = msg.get("image") or {}
+            media_id = (
+                kapso_info.get("media_url")
+                or (kapso_info.get("media_data") or {}).get("url")
+                or img_info.get("link")
+                or img_info.get("url")
+                or img_info.get("id")
+                or ""
+            )
+            mime_type = img_info.get("mime_type") or "image/jpeg"
+            caption = img_info.get("caption") or (kapso_info.get("content") if kapso_info.get("content") and kapso_info.get("content") != "[image]" else "") or ""
+
+            img_path, img_filename = descargar_imagen_kapso(media_id, remitente, phone_id, mime_type) if media_id else (None, "")
+            if img_path and img_path.exists():
+                respuesta = procesar_imagen(img_path, img_filename, caption, remitente)
+                responder(remitente, f"[imagen] {caption}".strip(), respuesta, phone_id)
+            elif es_administrador(remitente):
+                enviar_mensaje_kapso(remitente, "📷 Recibí la imagen pero hubo un problema al descargarla. ¿Me la reenvías?", phone_id)
+            else:
+                registrar_mensaje_externo(remitente, "[imagen sin descarga]", tipo_msg="imagen")
+                responder(remitente, "[imagen]", "Hola, recibimos una imagen pero no pudimos abrirla correctamente. ¿Nos la podrías reenviar?", phone_id)
 
         elif tipo == "text":
             texto = (msg.get("text") or {}).get("body", "") or (msg.get("kapso") or {}).get("content", "")

@@ -49,7 +49,7 @@ Write-Host "OK: Endpoint webhook: $webhookUrl" -ForegroundColor Green
 
 # 4. Recrear webhooks en Kapso. El secreto de firma de cada uno queda en automation\.secretos\ (ignorado por git)
 Write-Host "3/3: Sincronizando webhooks en Kapso..." -ForegroundColor Yellow
-$targetPhones = if ($env:KAPSO_PHONE_NUMBER_IDS) { $env:KAPSO_PHONE_NUMBER_IDS -split "," } else { @("597907523413541", "1455485914304122") }
+$targetPhones = if ($env:KAPSO_PHONE_NUMBER_IDS) { $env:KAPSO_PHONE_NUMBER_IDS -split "," } else { @("597907523413541") }
 
 try {
     $listJson = & node --env-file="$EnvFile" "$SkillsDir\list.js" --scope project
@@ -64,7 +64,7 @@ try {
 } catch { Write-Host "WARN: no se pudieron listar los webhooks anteriores: $_" -ForegroundColor Yellow }
 
 # Los secretos viejos ya no sirven: sus webhooks se borraron arriba
-if (Test-Path $SecretosDir) { Remove-Item (Join-Path $SecretosDir "*.json") -Force -ErrorAction SilentlyContinue }
+if (Test-Path $SecretosDir) { Get-ChildItem -Path $SecretosDir -Filter "*.json" | Remove-Item -Force }
 New-Item -ItemType Directory -Force $SecretosDir | Out-Null
 
 $conectados = 0

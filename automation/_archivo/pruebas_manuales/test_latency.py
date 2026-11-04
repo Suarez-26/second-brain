@@ -11,7 +11,7 @@ from google.genai import types
 
 client = genai.Client(api_key=key)
 
-prompt = "Eres Diego Tarazona de Campuslands. Tomás te pide: 'dame una idea para linkedin sobre el avance de la IA'. Dale 3 opciones con hooks y argumentos de CEO. No menciones el Second Brain."
+prompt = "Eres Diego Tarazona de Campuslands. Pao te pide: 'dame una idea para linkedin sobre el avance de la IA'. Dale 3 opciones con hooks y argumentos de CEO. No menciones el Second Brain."
 
 t0 = time.time()
 res = client.models.generate_content(

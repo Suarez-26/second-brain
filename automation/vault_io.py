@@ -63,7 +63,7 @@ def bloqueo(ruta: Path, timeout: float = 15.0, caducidad: float = 120.0) -> Iter
             os.write(fd, str(os.getpid()).encode())
             os.close(fd)
             break
-        except FileExistsError:
+        except (FileExistsError, PermissionError):
             # Un .lock viejo es de un proceso que murió a mitad de escritura
             try:
                 if time.time() - lock.stat().st_mtime > caducidad:
