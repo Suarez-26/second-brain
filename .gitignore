@@ -22,6 +22,8 @@ automation/.estado_*.json
 *.mp3
 *.m4a
 sources/audio/
+sources/imagenes/*
+!sources/imagenes/.gitkeep
 diego_investigacion/03_imagenes/
 diego_investigacion/04_videos_y_audios/
 diego_instagram/03_carruseles_e_imagenes/
