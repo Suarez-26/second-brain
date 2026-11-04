@@ -155,3 +155,5 @@ Formato: `AAAA-MM-DD HH:MM | acción | archivo | fuente`. La escribe la corrida 
 2026-11-04 09:13 | BORRADOR | inbox/whatsapp/otros/15551234567.md | Borrador #10 en espera de aprobación
 2026-11-04 09:34 | JOURNAL | journal/2026-11-04.md | Imagen 2026-11-04_093419_573044521694.jpg (09:34)
 2026-11-04 09:34 | PROPUESTA | meta/open-loops.md | Propuesta #4 creada desde journal/2026-11-04.md
+2026-11-04 09:35 | JOURNAL | journal/2026-11-04.md | Imagen 2026-11-04_093534_573044521694.jpg (09:35)
+2026-11-04 09:35 | PROPUESTA | meta/open-loops.md | Propuesta #5 creada desde journal/2026-11-04.md
