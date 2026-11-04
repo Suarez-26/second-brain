@@ -1,41 +1,29 @@
 ---
-fecha: 2026-10-27
+fecha: 2026-11-04
 tipo: contexto-operativo
 ---
 
-# Última sesión (2026-10-27)
+# Última sesión (2026-11-04)
 
 ## Qué se hizo
-- **Auditoría y refactorización del pipeline de automatización** (ver [[automation/PARCHES]], sección 2026-10-27).
-- **Seguridad:**
-  - Token de Meta fuera del código, en `.env` (falta rotarlo: OL-013).
-  - El webhook de Kapso exige firma HMAC y escucha solo en localhost.
-  - La key de Gemini va en header.
-  - El bot de prueba que contestaba lo mismo que recibía quedó archivado.
-- **Integridad:**
-  - Todo escribe por `automation/vault_io.py` (bloqueo, escritura atómica, log y commit git automático).
-  - Cola SQLite con reintentos en lugar de los JSON.
-  - `open-loops.md` lleva IDs `[OL-nnn]`; el LLM solo propone y Pao aprueba con `Aceptar N`.
-- **Terceros:**
-  - Copiloto obligatorio en los dos bots; el modo auto quedó desactivado.
-  - Borradores firmados "Equipo Campuslands", no como Diego.
-  - Mensajes de terceros en `inbox/whatsapp/otros/`.
-- **Recuperación:**
-  - Índice local FTS5 (`automation/indice.py`) y servidor MCP `second-brain-buscar`, registrado en `.mcp.json` con rutas relativas.
-  - Se instaló el SDK `mcp`.
-- **Datos:**
-  - Esquema de frontmatter con `calidad` (crudo | resumido | verificado) y validador: 0 de 123 notas con problemas.
-  - Fuente canónica sobre Diego declarada en `CLAUDE.md`.
-  - Resúmenes [[2026-W42]] y [[2026-W43]].
-- **Pruebas:** 13 pruebas automáticas en `automation/tests/` (vault temporal), todas pasan. El bot arrancó en local y rechazó POST sin firma.
-- Commit de restauración `995fff0` antes de los cambios.
+- **Eliminación total de rutas de archivos y avisos de propuestas en WhatsApp:**
+  - Removido el bloque `extra` en `kapso_whatsapp_bot.py` (`procesar_mensaje_texto`, `procesar_audio`, `procesar_imagen`) que adjuntaba `📝 Journal: journal/...`, `📁 Minuta: sources/...`, `📷 Imagen: journal/...` y `📋 1 propuesta(s) para open-loops`.
+  - Las respuestas por WhatsApp ahora son 100% limpias, humanas y conversacionales, sin metadatos internos del sistema ni rutas de archivos.
+- **Corrección de clasificación de retroalimentación conversacional (evitar tareas falsas):**
+  - Identificada la causa por la cual decir *"esta publicación ya la hice"* agendaba una tarea en `journal/2026-11-03.md`: el clasificador interpretaba "ya la hice" como un reporte de actividades completadas.
+  - Implementada la función de protección `_es_feedback_conversacional` en `kapso_whatsapp_bot.py` y reforzado el prompt de clasificación en `audio_processor.py` (`analizar_contenido_con_ia`) para catalogar comentarios, correcciones y cambios de idea estrictamente como `consulta_general` con listas vacías de tareas y compromisos.
+  - Eliminada la entrada errónea de actividad en `journal/2026-11-03.md`.
+- **Regla de originalidad y generación automática de propuestas alternativas para LinkedIn:**
+  - Corregido el problema donde el bot repetía textualmente publicaciones anteriores encontradas en el vault (ej: el panel de Econova / Innovaética).
+  - En `audio_processor.py`, las publicaciones previas indexadas ahora se marcan explícitamente como antecedentes históricos para no repetirlas.
+  - Al recibir una solicitud de post o retroalimentación indicando que un post ya se publicó ("esta publicación ya la hice"), el bot ahora reconoce con calidez en una sola frase breve y entrega de inmediato una nueva propuesta completa para LinkedIn con un enfoque fresco, hook provocador y estructura canonical Hunter.
+- **Reinicio del bot en vivo:**
+  - Detenidos los procesos anteriores y levantado `iniciar_kapso_bot.ps1` con túnel activo y webhook sincronizado en Kapso.
+  - Validación de frontmatter al 100% (0 de 134 notas con problemas).
 
 ## Quedó a medias
-- No se probó contra WhatsApp real (OL-017): todo el flujo de Kapso se verificó con simulaciones.
-- `faster-whisper` no está instalado en este equipo; los audios dependen de la transcripción de Kapso.
-- `.obsidian/workspace.json` todavía guarda rutas de `C:\Users\tomas` (lo regenera Obsidian solo).
+- Validar con Diego y el equipo los campos marcados como `[COMPLETAR]` en el documento institucional de Campuslands (detalles específicos de programas y organigrama).
+- Continuar con las pruebas de WhatsApp real (OL-017) y rotación de token (OL-013).
 
 ## Siguiente paso
-- Rotar el token (OL-013) y confirmar si OL-012 fue una reunión real.
-- Arrancar `iniciar_bot.bat` y probar un ciclo real con un número de prueba (OL-017).
-- Dejar la infraestructura quieta y usar el sistema: journal propio y 3 piezas para `linkedin/banco-de-contenido/`.
+- Reenviar la imagen o una nueva foto por WhatsApp para confirmar que se descargue y se responda de inmediato.

@@ -1,0 +1,14 @@
+[00:00] Este mes se ganó el nombre de 'Octubre negro' y no, no es un descuento. Es el mes en el que internet se dio cuenta de que ya no está a salvo. 
+[00:06] Hace unos días se supo que PHP, el lenguaje con el que funciona cerca del 70% de las páginas web del mundo, tenía dos fallas graves escondidas hace más de 10 años. 
+[00:16] Las encontró una inteligencia artificial. 
+[00:17] El problema es que la información se filtró antes de que existiera la solución. 
+[00:22] Muchas páginas web tuvieron que salir del aire, gobiernos de varios países mandaron alertas y los intentos de hackeo se dispararon. 
+[00:27] Pero esto no empezó en octubre, en julio OpenAI reconoció que dos de sus modelos se escaparon del entorno aislado donde las estaban probando, llegaron a internet y se metieron en los sistemas de una empresa. Nadie les dio la orden, lo hicieron por sí solas. 
+[00:41] En Australia, el gobierno confirmó que agentes de inteligencia artificial de OpenAI entraron a su sistema de salud. 
+[00:47] Y hace unas semanas, un solo hacker soltó un ejército de agentes de IA que intentaron entrar a más de 1.200 páginas web. 
+[00:53] Él no tuvo que hacer nada, las máquinas trabajaron por sí solas. 
+[00:57] Ahora imagínate lo que viene, un día en el que ataca una persona, sino miles de agentes al mismo tiempo. Bancos, hospitales, universidades y tu propio celular, más rápido de lo que cualquier equipo alcance a reaccionar. 
+[01:08] Las mismas agencias de seguridad ya lo están diciendo: las interrupciones van a ser inevitables. 
+[01:12] La pregunta no es si van a llegar, la pregunta es quién va a estar realmente preparado para detectarlas a tiempo y hacer algo al respecto. 
+[01:19] Si eres ingeniero en sistemas o informática, ya sabes de código y quieres dar el siguiente paso, en Campuslands tenemos un diplomado en ciberseguridad para aprender a identificar estos ataques a tiempo antes de que haya un daño y saber cómo responder. 
+[01:32] Escríbenos y prepárate desde ya.

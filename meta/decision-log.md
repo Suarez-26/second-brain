@@ -7,6 +7,14 @@ tipo: contexto-operativo
 
 Formato: fecha · decisión · por qué · alternativas descartadas.
 
+## 2026-11-04 · Eliminación de rutas de archivos en WhatsApp y corrección de feedback de publicaciones
+- **Decisión:** 
+  1. Supresión total de rutas de archivo (`journal/...`, `sources/...`, `.md`), etiquetas de minutaje y avisos de open-loops en las respuestas de WhatsApp para el administrador (`kapso_whatsapp_bot.py`).
+  2. Clasificación estricta de retroalimentación conversacional (ej: "esta publicación ya la hice", "dame otra idea", "cambia el enfoque"): clasificado como `consulta_general` con listas de tareas y hechos vacías, impidiendo la creación de tareas no deseadas en el journal.
+  3. Instrucción de originalidad para redes sociales: los posts previos del Second Brain se etiquetan como antecedentes históricos para no repetirlos, y ante pedidos de alternativas o publicaciones previas se entrega de inmediato una nueva propuesta con ángulo fresco y hook diferente.
+- **Por qué:** Pao solicitó expresamente no recibir rutas técnicas ni avisos de propuestas en su chat, corregir el error donde decir que ya había publicado se guardaba como tarea, y asegurar que el agente ofrezca nuevas ideas de post en lugar de repetir publicaciones viejas o quedarse en preguntas pasivas.
+- **Alternativas descartadas:** dejar las rutas como pie de página; requerir confirmación antes de redactar otra propuesta de post.
+
 ## 2026-10-13 · Vault de Markdown con Claude Desktop (MCP)
 - **Decisión:** memoria en archivos Markdown, sin base vectorial por ahora, accedida con el MCP de filesystem.
 - **Por qué:** es transparente, editable y suficiente para el volumen inicial. Ver [[investigacion-second-brain]].
@@ -92,3 +100,48 @@ Formato: fecha · decisión · por qué · alternativas descartadas.
 - **Decisión:** índice FTS5 (BM25, sin distinguir acentos, con filtros de capa, contexto y calidad), expuesto por MCP. No hay embeddings.
 - **Por qué:** los embeddings con una API externa sacarían el contenido del vault del equipo, y uno local pide dependencias pesadas. Con ~800 notas, BM25 con filtros resuelve la mayoría de las búsquedas. Se puede revisar si el vault crece.
 - **Descartado:** revertir el enlazado automático del 20-oct: los enlaces por mención son útiles; el corpus queda marcado `crudo`.
+
+## 2026-10-28 · Ingesta de fuentes canónicas de Campuslands, Cultura Hunter, Prexxa y Formación de Startups / CEO
+- **Decisión:** Ingestar íntegramente los documentos fuentes en `sources/` organizados por dominio: `sources/campuslands/` (`asi-somos-los-hunters-v10.md` y `contexto-campuslands-sas-bic.md`), `sources/management/` (`las-5-disfunciones-de-un-equipo-prexxa.md`), y `sources/formacion/` (`escuela-de-startups-platzi.md` y `curso-de-ceo-platzi.md`). Sincronizar la Capa 2 actualizando `areas/campuslands.md` con las 7 líneas de negocio, sedes territoriales y estándares TIC; crear la nota de área `areas/cultura-hunter.md` para sintetizar el marco de desempeño de 24 días y rituales; dar de alta en `organizaciones/` a `prexxa.md`, `platzi.md` y `unidrogas.md` actualizando `organizaciones/README.md`; y robustecer `people/paola-granados.md` como líder de Talento y Cultura Hunter.
+- **Por qué:** Cumple con la regla de tres capas (fuente íntegra en Capa 3, síntesis operativa en Capa 2), evita duplicación o dispersión de la verdad oficial de Campuslands, y provee el marco estructurado de cultura, liderazgo y escalamiento que Pao gestiona directamente en la organización.
+- **Alternativas descartadas:** Dejar los documentos como notas sueltas en la raíz o en `inbox/` sin procesar ni conectar al grafo de Obsidian.
+
+## 2026-10-28 · Integración del Brandbook Oficial de Campuslands 2023
+- **Decisión:** Ingestar el Brandbook oficial completo en `sources/campuslands/brandbook-oficial-2023.md` con su especificación técnica completa (paleta cromática HEX/CMYK, roles tipográficos Poppins/Roboto Mono/Nutmeg, concepto del casco de astronauta, slogan `GOFORIT!`, submarcas coworking/radio, mascota oficial 3D, y merchandising de Campers y Hunters). Vincular bidireccionalmente con `sources/campuslands/contexto-campuslands-sas-bic.md`, `areas/campuslands.md`, `areas/cultura-camper.md` y `areas/cultura-hunter.md`.
+- **Por qué:** Resuelve directamente el pendiente `[COMPLETAR]` sobre el brandbook oficial y garantiza que cualquier material visual, presentación, publicación o respuesta generada por el Second Brain respete los lineamientos cromáticos y de identidad corporativa.
+
+## 2026-10-28 · Estructura canónica obligatoria para generación de contenido en redes sociales
+- **Decisión:** Formalizar la Regla 10 en `CLAUDE.md` y actualizar `automation/audio_processor.py` en `responder_como_diego` para que al solicitar ideas, borradores o guiones de redes sociales (LinkedIn, TikTok, Instagram, Reels), el sistema NUNCA devuelva resúmenes planos de 1 párrafo. Debe estructurar obligatoriamente según el ADN y publicaciones previas de Diego y Campuslands documentadas en `diego_investigacion/06_analisis_maestro_diego.md` y `linkedin/03_Sistema_Editorial_y_Pilares_de_Thought_Leadership.md`.
+- **Por qué:** La captura de WhatsApp demostró que el bot recortaba las ideas a párrafos cortos de respuesta rápida perdiendo todo el impacto, ritmo visual, tensión narrativa y llamados de acción propios de la voz de Diego.
+
+## 2026-10-28 · Humanización de respuestas, postura real de Campuslands y protocolo de contención emocional
+- **Decisión:** Ajustar utomation/audio_processor.py para erradicar respuestas robóticas ('No tengo esa información en mis registros actuales') ante saludos o preguntas familiares, respondiendo con calidez y cercanía natural; anclar la respuesta ante el desinterés ('¿Qué haces cuando alguien no quiere Campus?') en la postura oficial del Manifiesto Hunter ('Esto no es para todos, y está bien; no rogamos ni convencemos a nadie, nos enfocamos en quienes tienen hambre de aprender'); e implementar un protocolo prioritario de seguridad y contención emocional con líneas oficiales de ayuda en Colombia ante palabras de autolesión o crisis ('que me mate'), impidiendo que el motor devuelva fragmentos aleatorios del corpus corporativo.
+- **Por qué:** Una captura de WhatsApp de un número externo evidenció respuestas frías ('mis registros actuales'), paternalistas y, críticamente, una respuesta corporativa sobre Tibú ante una frase de riesgo personal ('que me mate').
+
+
+## 2026-10-28 · Respuestas siempre simples, concisas y naturales en WhatsApp (eliminación de descontextualización)
+- **Decisión:** 
+  1. Simplificar de forma estricta las instrucciones de `audio_processor.py`: fijar longitud de 1 a 3 oraciones cortas (o viñetas directas si se piden listas como sedes), prohibir preámbulos vacíos, anécdotas no pedidas y cierres repetitivos.
+  2. Corregir el disparador de saludos: ante mensajes como "Hola" o cortesías simples, responder únicamente con un saludo cálido y breve de 1 oración ("¡Hola Pao! ¿Cómo vas? ¿En qué te ayudo hoy?"), prohibiendo terminantemente discursos no solicitados sobre familia, salud o retos de Campuslands.
+  3. Prevenir contaminación contextual en FTS: filtrar palabras vacías (stop words) y omitir búsquedas ruidosas (`OR`) en `index.db` cuando la consulta no tiene términos sustantivos, evitando inyectar transcripciones masivas o ajenas en saludos o instrucciones.
+  4. Agilizar mensajes de texto en `kapso_whatsapp_bot.py`: detectar saludos simples de inmediato para responder sin demoras innecesarias.
+- **Por qué:** El bot se salía de contexto al recibir un simple "Hola" o una instrucción, devolviendo párrafos enteros sobre su familia, salud o transcripciones de podcasts de YouTube debido a ejemplos sobrecargados en el prompt y recuperación indiscriminada de FTS.
+
+## 2026-11-04 · Recepción y análisis visual multimodal de imágenes en WhatsApp
+- **Decisión:** Implementar soporte nativo para imágenes (`image`) en `kapso_whatsapp_bot.py` y `audio_processor.py`:
+  1. Descarga automática de imágenes a `sources/imagenes/` respetando formatos (`.jpg`, `.png`, `.webp`, `.gif`).
+  2. Análisis visual con Gemini (`analizar_imagen_con_ia`): extracción de OCR, descripción concisa del contenido, clasificación del tipo de imagen (documento, pizarra, comprobante, captura, foto) y extracción de compromisos o tareas terminadas hacia el sistema de propuestas de `pendientes.py`.
+  3. Registro estructurado en `journal/AAAA-MM-DD.md` para administradores (`registrar_imagen_en_journal`) y en `inbox/whatsapp/otros/` para terceros.
+  4. Generación de respuesta con visión directa en `responder_como_diego` enviando la imagen inline vía REST a Gemini (`inline_data`), respondiendo de forma simple, concisa y natural en 1 a 3 oraciones.
+  5. Optimización de la cadena de modelos en `GEMINI_MODELOS` priorizando `gemini-3-flash-preview` y `gemini-3.5-flash` para menor latencia.
+- **Por qué:** Pao requería que el bot pudiera recibir y comprender tanto notas de voz como imágenes (fotos de tableros, capturas, comprobantes o fotos de eventos) para integrarlas automáticamente al Second Brain sin perder la naturalidad en la respuesta.
+
+## 2026-11-04 · Eliminación del encabezado/firma "🎙️ Diego Tarazona:" en respuestas de WhatsApp
+- **Decisión:** Remover el prefijo `🎙️ *Diego Tarazona:*\n\n` de todas las respuestas generadas por `kapso_whatsapp_bot.py` (`procesar_mensaje_texto`, `procesar_audio`, `procesar_imagen`).
+- **Por qué:** La firma o banner generaba ruido visual y hacía que los mensajes se sintieran artificiales o robóticos en lugar de una conversación fluida, directa y personal en WhatsApp.
+
+## 2026-11-04 · Corrección en la descarga de imágenes y medios de Kapso
+- **Decisión:** 
+  1. Priorizar las URLs directas pre-firmadas proporcionadas por Kapso (`kapso_info.get("media_url")`, `(kapso_info.get("media_data") or {}).get("url")`, `img_info.get("link")`) por encima del `id` numérico de Meta.
+  2. Implementar `_hacer_descarga` para gestionar las cabeceras HTTP adecuadamente: enviar `X-API-Key` solo a `api.kapso.ai`, enviar `Authorization: Bearer` si es `lookaside.fbsbx.com`, y descargar URLs de ActiveStorage/S3 sin cabeceras que provoquen rechazos.
+- **Por qué:** La imagen enviada por Pao arrojaba el mensaje de error de descarga porque el bot seleccionó el `id` de Meta, solicitó la URL de lookaside de Facebook y luego intentó descargarla enviando la cabecera `X-API-Key` de Kapso a los servidores de Facebook, lo que devolvía un error `401 Unauthorized`. Al priorizar el enlace directo de Kapso, la imagen se descarga en menos de 1 segundo de forma limpia.

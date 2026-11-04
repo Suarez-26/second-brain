@@ -43,6 +43,10 @@ Para buscar usa la herramienta MCP `second-brain-buscar` (`buscar`, luego `leer_
 7. **Acciones salientes** (enviar mensajes o correos, publicar) solo con confirmación explícita de Pao en el chat.
 8. **Notas enlazadas.** Toda nota nueva enlaza al menos a otra existente. No dejes notas huérfanas.
 9. **Frontmatter mínimo** en notas nuevas: `fecha`, `contexto` (personal | campuslands | otro), y `tipo` cuando aplique. Opcional: `calidad` (crudo | resumido | verificado) y `fuente`. `estado` queda libre para el flujo de trabajo. Valida con `python automation/validar_frontmatter.py`.
+10. **Estructura para redes sociales:** Cuando Pao pida ideas, borradores o guiones de post para LinkedIn, TikTok, Instagram o cualquier red social, NO respondas con resúmenes planos ni párrafos sueltos. Estructúralos SIEMPRE según la anatomía de los posts anteriores documentados en `diego_investigacion/06_analisis_maestro_diego.md` y `linkedin/03_Sistema_Editorial_y_Pilares_de_Thought_Leadership.md`:
+    - **LinkedIn:** Hook en la 1.ª línea (provocador/paradoja), párrafos de 1-2 líneas con amplio aire visual, tensión o contraste, viñetas de preguntas duras/datos, anclaje en Campuslands/experiencia real y cierre reflexivo de impacto sin clichés.
+    - **TikTok / Reels:** Guion segundo a segundo (0-3s gancho verbal/visual, 3-15s tensión o dolor del método tradicional, 15-40s solución práctica y modelo intensivo de Campuslands, 40-50s datos de campers/empleo, 50-60s remate o frase insignia `GOFORIT!`).
+    - **Instagram:** Carrusel estructurado por slides (estilo terminal/código) y copy para caption con gancho y hashtags oficiales.
 
 ## Cierre de sesión
 Al terminar una sesión de trabajo (o cuando Pao diga "cierra la sesión"):
